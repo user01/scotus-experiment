@@ -48,14 +48,23 @@ pdfParser.on("pdfParser_dataReady", pdfData => {
         }),
         R.groupBy(R.prop('line')),
         R.values,
-        //now any array or arr of objs with R props
+        //now an array of arr of objs with R props
         R.map(R.pipe(
           R.map(R.prop('R')),
           R.flatten,
           R.map(R.prop('T')),
           R.map(decodeURIComponent),
           R.join('')
-        ))
+        )),
+        R.addIndex(R.map)((line, idx) => {
+          // lines need to have the string of the idx+1 leading.
+          // this number gets stripped off
+          // if it's missing the line is turned into a false
+          const targetStr = '' + (idx + 1);
+          const index = line.indexOf(targetStr);
+          return (index < 0) ? false : R.splitAt(targetStr.length)(line)[1];
+        }),
+        R.filter(R.identity)
 
       )(page);
       debugger;
