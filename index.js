@@ -31,10 +31,11 @@ const rowWork = (window, row) => {
   var pathToPDF = root + link.attr('href');
   var dateArgued = tds[1].innerHTML;
   var fullPath = root + pathToPDF;
-  var fullFilename = 'data/' + dateArgued.replace(/\//g, '-') + '.' + code + title.replace(/\s+/g, '_') + '.pdf';
+  const date = moment(dateArgued, "MM/DD/YYYY").toISOString();
+  const fileDate = moment(dateArgued, "MM/DD/YYYY").format('YYYY-MM-DD');
+  var fullFilename = 'data/' + fileDate + '.' + code + title.replace(/\s+/g, '_') + '.pdf';
   // console.log(code, title, dateArgued, pathToPDF, fullFilename);
   // console.log(year, code, title, dateArgued, pathToPDF, fullFilename);
-  const date = moment(dateArgued, "MM/DD/YYYY").toISOString();
 
   const result = {
     code,
@@ -53,21 +54,6 @@ const rowWork = (window, row) => {
       console.error('Some other error: ', err.code);
       return Promise.resolve(false);
     }
-    // console.log('Missing ' + title + ' @ ' + fullFilename);
-
-    // return requestAsync(uri, { encoding : null }).then(())
-    // return Promise.resolve(result);
-
-    // return requestAsync(pathToPDF, { encoding: null })
-    //   .spread((response, body) => {
-    //     if (response.statusCode != 200) return Promise.resolve();
-    //     return fs.writeFileAsync(fullFilename, body);
-    //   })
-    //   .then(() => {
-    //     console.log('Written ', fullFilename);
-    //     return Promise.resolve(result);
-    // })
-
 
 
     return requestAsync(pathToPDF, { encoding: null })
@@ -80,16 +66,6 @@ const rowWork = (window, row) => {
         return Promise.resolve(result);
       })
 
-
-    // return result;
-
-    // return http.getAsync(pathToPDF).then((response) => {
-    //   var file = fs.createWriteStream(fullFilename);
-    //   response.pipe(file);
-    //   console.log('Wrote ' + fullFilename);
-    // }).then(() => {
-    //   return result;
-    // });
   });
 
 
