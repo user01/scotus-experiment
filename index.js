@@ -4,8 +4,9 @@
 var Promise = require('bluebird');
 var jsdom = require("jsdom");
 var R = require('ramda');
-var http = require('http');
+var http = Promise.promisifyAll(require("http"), { suffix: "Async" });
 var fs = Promise.promisifyAll(require("fs"), { suffix: "Async" });
+var requestAsync = Promise.promisify(require('request'));
 var path = require('path');
 var moment = require('moment');
 
@@ -27,41 +28,72 @@ const rowWork = (window, row) => {
   var title = window.$("span", tds[0]).text();
   // debugger;
 
-  var pathToPDF = link.attr('href');
+  var pathToPDF = root + link.attr('href');
   var dateArgued = tds[1].innerHTML;
   var fullPath = root + pathToPDF;
   var fullFilename = 'data/' + dateArgued.replace(/\//g, '-') + '.' + code + title.replace(/\s+/g, '_') + '.pdf';
-  console.log(code, title, dateArgued, pathToPDF, fullFilename);
+  // console.log(code, title, dateArgued, pathToPDF, fullFilename);
   // console.log(year, code, title, dateArgued, pathToPDF, fullFilename);
-
-
-  // return fs.statAsync(fullFilename).then((stat) => {
-  //   console.log(fullFilename + ' already exists');
-  // }).catch((err) => {
-  //   // good case
-  //   if (err.code == 'ENOENT') {
-
-  //     var file = fs.createWriteStream(fullFilename);
-  //     var request = http.get(pathToPDF, function(response) {
-  //       response.pipe(file);
-  //       console.log('Wrote ' + fullFilename);
-  //     });
-
-  //   } else {
-  //     console.log('Some other error: ', err.code);
-  //   }
-  // });
-
-
   const date = moment(dateArgued, "MM/DD/YYYY").toISOString();
 
-  return {
+  const result = {
     code,
     title,
     date,
     pathToPDF,
     fullFilename
-  }
+  };
+
+  return fs.statAsync(fullFilename).then((stat) => {
+    console.log(fullFilename + ' already exists');
+    return Promise.resolve(result);
+  }).catch((err) => {
+    // good case
+    if (err.code != 'ENOENT') {
+      console.error('Some other error: ', err.code);
+      return Promise.resolve(false);
+    }
+    // console.log('Missing ' + title + ' @ ' + fullFilename);
+
+    // return requestAsync(uri, { encoding : null }).then(())
+    // return Promise.resolve(result);
+
+    // return requestAsync(pathToPDF, { encoding: null })
+    //   .spread((response, body) => {
+    //     if (response.statusCode != 200) return Promise.resolve();
+    //     return fs.writeFileAsync(fullFilename, body);
+    //   })
+    //   .then(() => {
+    //     console.log('Written ', fullFilename);
+    //     return Promise.resolve(result);
+    // })
+
+
+
+    return requestAsync(pathToPDF, { encoding: null })
+      .then((response) => {
+        if (response.statusCode != 200) return Promise.resolve();
+        return fs.writeFileAsync(fullFilename, response.body);
+      })
+      .then(() => {
+        console.log('Written ' + fullFilename);
+        return Promise.resolve(result);
+      })
+
+
+    // return result;
+
+    // return http.getAsync(pathToPDF).then((response) => {
+    //   var file = fs.createWriteStream(fullFilename);
+    //   response.pipe(file);
+    //   console.log('Wrote ' + fullFilename);
+    // }).then(() => {
+    //   return result;
+    // });
+  });
+
+
+
 }
 
 
@@ -91,7 +123,20 @@ const getFilesFromYear = (year) => {
 
 
 Promise.map(years, getFilesFromYear, { concurreny: 2 }).then((results) => {
-  console.log(results);
+  console.log(results.length);
+
+
+  // return requestAsync("https://alpha.codex10.com/index.html", { encoding: null })
+  //   .then((response) => {
+  //     if (response.statusCode != 200) return Promise.resolve();
+  //     console.log('body', response.body.toString());
+  //     return fs.writeFileAsync("data/tmp.html", response.body);
+  //   })
+  //   .then(() => {
+  //     console.log('Written ');
+  //     return Promise.resolve(true);
+  //   })
+
 });
 
 
