@@ -33,7 +33,9 @@ const rowWork = (window, row) => {
   var fullPath = root + pathToPDF;
   const date = moment(dateArgued, "MM/DD/YYYY").toISOString();
   const fileDate = moment(dateArgued, "MM/DD/YYYY").format('YYYY-MM-DD');
-  var fullFilename = 'data/' + fileDate + '.' + code + title.replace(/\s+/g, '_') + '.pdf';
+  const fixedTitle = title.replace(/\s+/g, '_').replace(/\\|\//g, '-');
+  // console.log(fixedTitle);
+  var fullFilename = 'data/' + fileDate + '.' + code + fixedTitle + '.pdf';
   // console.log(code, title, dateArgued, pathToPDF, fullFilename);
   // console.log(year, code, title, dateArgued, pathToPDF, fullFilename);
 
@@ -46,7 +48,7 @@ const rowWork = (window, row) => {
   };
 
   return fs.statAsync(fullFilename).then((stat) => {
-    console.log(fullFilename + ' already exists');
+    // console.log(fullFilename + ' already exists');
     return Promise.resolve(result);
   }).catch((err) => {
     // good case
@@ -59,7 +61,9 @@ const rowWork = (window, row) => {
     return requestAsync(pathToPDF, { encoding: null })
       .then((response) => {
         if (response.statusCode != 200) return Promise.resolve();
-        return fs.writeFileAsync(fullFilename, response.body);
+        return fs.writeFileAsync(fullFilename, response.body).catch((err) => {
+          console.error('Unable to write to ', fullFilename, result);
+        });
       })
       .then(() => {
         console.log('Written ' + fullFilename);
