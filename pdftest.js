@@ -1,6 +1,6 @@
 // var pdfText = require('pdf-text')
 
-var pathToPdf = __dirname + "/data/01-12-04.02-1389.United_States_v._Galletti.pdf"
+var pathToPdf = __dirname + "/data/2000-10-02.99-1038.Eastern_Associated_Coal_Corp._v._Mine_Workers.pdf"
 var R = require('ramda');
 var objectAssign = require('object-assign');
 
