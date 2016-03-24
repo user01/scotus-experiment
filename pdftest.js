@@ -56,7 +56,7 @@ const getTextFromPdf = (path) => {
         const pageTextsCleaned = R.map(
           R.pipe(
             R.addIndex(R.map)((line, idx) => {
-              if (line.trim() == '') return false;
+              if (line.trim().length == 0) return false;
               // lines need to have the string of the idx+1 leading.
               // this number gets stripped off
               // if it's missing the line is turned into a false
@@ -77,8 +77,78 @@ const getTextFromPdf = (path) => {
         )(pageTexts);
         const allLines = R.flatten(pageTextsCleaned);
 
+        // Trim down to real lines
+        const pReg = /\s*P R O C E E D I N G S\s*/;
+        const proceedingsIndex = R.findIndex((line) => {
+          return pReg.test(line);
+        })(allLines);
+        const cReg = /\s*\(Whereupon, at \d\d:\d\d .\..\., the case in.*/;
+        const endingsIndex = R.findLastIndex((line) => {
+          return cReg.test(line);
+        })(allLines);
+
+        const workingLines = R.slice(proceedingsIndex + 1, endingsIndex, allLines);
+        const timeOnly = /\s*\(\d\d:\d\d\s.\..\.\)\s*/;
+        const trimmedLines = R.filter((line) => {
+          if (line.trim().length < 6) return true;
+          if (timeOnly.test(line)) return false;
+          const alreadyUpper = R.toUpper(line) == line;
+          return !alreadyUpper;
+        })(workingLines);
+
+        const cleanSpeaker = (currentContent) => {
+          const removeStrs = ['CHIEF JUSTICE', 'JUSTICE', 'GENERAL', 'MR.', 'MRS.'];
+          const cleaned = R.reduce((speaker, removeStr) => {
+            return R.replace(removeStr, '', speaker)
+          }, currentContent)(removeStrs);
+          return cleaned.trim();
+        }
+
+        const speechCheck = /\s*(.+):\s*(.+)\s*/;
+        const speakers = R.reduce((acc, line) => {
+          const speakerLine = speechCheck.test(line);
+          if (!speakerLine) {
+            return {
+              lines: acc.lines,
+              current: {
+                speaker: acc.current.speaker,
+                speech: R.append(line.trim(), acc.current.speech)
+              }
+            };
+          }
+
+          const speakerData = speechCheck.exec(line);
+          const speaker = cleanSpeaker(speakerData[1]);
+          const text = speakerData[2].trim();
+
+          const lines = R.append({
+            speaker: acc.current.speaker,
+            speech: R.join(' ')(acc.current.speech)
+          }, acc.lines);
+
+          return {
+            lines,
+            current: {
+              speaker,
+              speech: [text]
+            }
+          };
+
+        })({
+          lines: [],
+          current: {
+            speaker: '',
+            speech: []
+          }
+        })(trimmedLines);
+
+        const completeLines = R.append({
+          speaker: speakers.current.speaker,
+          speech: R.join(' ')(speakers.current.speech)
+        }, speakers.lines);
+
         console.log('read ', allLines.length, 'from', path);
-        resolve(allLines);
+        resolve(completeLines);
       });
 
       pdfParser.loadPDF(dataRoot + path);
