@@ -30,43 +30,55 @@ const getTextFromPdf = (path) => {
 
       pdfParser.on("pdfParser_dataError", errData => console.error('err', errData));
       pdfParser.on("pdfParser_dataReady", pdfData => {
-        debugger;
-        
-        var text = R.pipe(
+
+        const pages = R.pipe(
           R.prop('data'),
-          R.prop('Pages'),
-          R.map(R.pipe(
+          R.prop('Pages'))(pdfData);
+        const pageLines = R.map(
+          R.pipe(
             R.prop('Texts'),
             R.map((elm) => {
               return objectAssign({}, elm, { line: Math.floor(elm.y * 10) });
             }),
             R.groupBy(R.prop('line')),
-            R.values,
-            //now an array of arr of objs with R props
-            R.map(R.pipe(
-              R.map(R.prop('R')),
-              R.flatten,
-              R.map(R.prop('T')),
-              R.map(decodeURIComponent),
-              R.join('')
-            )),
+            R.values
+          )
+        )(pages);
+        const pageTexts = R.map(R.map(
+          R.pipe(
+            R.map(R.prop('R')),
+            R.flatten,
+            R.map(R.prop('T')),
+            R.map(decodeURIComponent),
+            R.join('')
+          )
+        ))(pageLines);
+        const pageTextsCleaned = R.map(
+          R.pipe(
             R.addIndex(R.map)((line, idx) => {
+              if (line.trim() == '') return false;
               // lines need to have the string of the idx+1 leading.
               // this number gets stripped off
               // if it's missing the line is turned into a false
-              const targetStr = '' + (idx + 1);
-              const index = line.indexOf(targetStr);
-              return (index != 0) ? false : R.splitAt(targetStr.length)(line)[1];
+              const targetCurrentStr = '' + idx;
+              const targetNextStr = '' + (idx + 1);
+              const current = line.indexOf(targetCurrentStr) == 0;
+              if (current) {
+                return R.splitAt(targetCurrentStr.length)(line)[1];
+              }
+              const next = line.indexOf(targetNextStr) == 0;
+              if (next) {
+                return R.splitAt(targetNextStr.length)(line)[1];
+              }
+              return false;
             }),
             R.filter(R.identity)
+          )
+        )(pageTexts);
+        const allLines = R.flatten(pageTextsCleaned);
 
-          )),
-          R.flatten
-        )(pdfData);
-
-        // console.log(text);
-        console.log('read ', text.length, 'from', path);
-        resolve(text);
+        console.log('read ', allLines.length, 'from', path);
+        resolve(allLines);
       });
 
       pdfParser.loadPDF(dataRoot + path);
@@ -83,6 +95,6 @@ fs.readdirAsync(dataRoot)
   .map(getTextFromPdf, { concurrency: 3 })
   .then((list) => {
     debugger;
+    console.log(list);
     console.log(list.length);
-    console.log(list[1]);
   })
