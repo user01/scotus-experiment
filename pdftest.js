@@ -121,10 +121,10 @@ const getTextFromPdf = (path) => {
           const speaker = cleanSpeaker(speakerData[1]);
           const text = speakerData[2].trim();
 
-          const lines = R.append({
+          const lines = acc.current.speaker != '' ? R.append({
             speaker: acc.current.speaker,
             speech: R.join(' ')(acc.current.speech)
-          }, acc.lines);
+          }, acc.lines) : acc.lines;
 
           return {
             lines,
@@ -148,7 +148,7 @@ const getTextFromPdf = (path) => {
         }, speakers.lines);
 
         console.log('read ', allLines.length, 'from', path);
-        resolve(completeLines);
+        resolve({ completeLines, path });
       });
 
       pdfParser.loadPDF(dataRoot + path);
@@ -160,9 +160,20 @@ const getTextFromPdf = (path) => {
   });
 }
 
+const writeResults = (result) => {
+  return fs.writeFileAsync(
+    dataRoot + result.path + '.json',
+    JSON.stringify(result.completeLines, null, 2)
+  )
+    .then(() => {
+      return Promise.resolve(result);
+    });
+}
+
 fs.readdirAsync(dataRoot)
   .then(filterFiles)
   .map(getTextFromPdf, { concurrency: 3 })
+  .map(writeResults, { concurrency: 3 })
   .then((list) => {
     debugger;
     console.log(list);
