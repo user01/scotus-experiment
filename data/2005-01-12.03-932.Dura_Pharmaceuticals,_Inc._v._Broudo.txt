@@ -1,0 +1,3230 @@
+1 IN THE SUPREME COURT OF THE UNITED STATES
+
+2 - - - - - - - - - - - - - - - -X
+
+3 DURA PHARMACEUTICALS, INC., :
+
+4 ET AL.,
+
+:
+
+5
+
+Petitioners
+
+:
+
+6 v.
+
+: No. 03-932
+
+7 MICHAEL BROUDO, ET AL.
+
+:
+
+8 - - - - - - - - - - - - - - - -X
+
+9 Washington, D.C.
+
+10 Wednesday, January 12, 2005
+
+11 The above-entitled matter came on for oral
+
+12 argument before the Supreme Court of the United States at
+
+13 10:33 a.m.
+
+14 APPEARANCES:
+
+
+15 WILLIAM F. SULLIVAN, ESQ., San Diego, California; on 
+
+
+16 behalf of the Petitioners.
+
+17 THOMAS G. HUNGAR, ESQ., Deputy Solicitor General,
+
+18 Department of Justice, Washington, D.C.; on behalf of
+
+19 the United States, as amicus curiae, supporting the
+
+20 Petitioners.
+
+21 PATRICK J. COUGHLIN, ESQ., San Francisco, California; on
+
+22 behalf of the Respondents.
+
+23
+
+24
+
+25
+
+1111 14th Street, NW, Suite 400
+
+1
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 C O N T E N T S
+
+
+2 ORAL ARGUMENT OF
+
+PAGE
+
+3 WILLIAM F. SULLIVAN, ESQ.
+
+4 On behalf of the Petitioners 
+
+
+3
+
+5 THOMAS G. HUNGAR, ESQ.
+
+6 On behalf of the United States,
+
+7
+
+as amicus curiae, supporting the Petitioners
+
+18
+
+
+8 PATRICK J. COUGHLIN, ESQ.
+
+
+9 On behalf of the Respondents
+
+27
+
+
+10 REBUTTAL ARGUMENT OF
+
+
+11 WILLIAM F. SULLIVAN, ESQ.
+
+
+12 On behalf of the Petitioners
+
+54
+
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+1111 14th Street, NW, Suite 400
+
+2
+
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 PROCEEDINGS
+
+2 (10:33 a.m.)
+
+3 JUSTICE STEVENS: The Court will now hear
+
+4 argument in Dura Pharmaceuticals against Broudo. We
+
+5 finally get to the arguments.
+
+6 (Laughter.)
+
+7 ORAL ARGUMENT OF WILLIAM F. SULLIVAN
+
+8 ON BEHALF OF THE PETITIONERS
+
+9 MR. SULLIVAN: Justice Stevens, and may it
+
+10 please the Court:
+
+11 This case presents two disparate views of what
+
+12 kind of loss is necessary to sustain a claim for
+
+13 securities fraud under the Reform Act's loss causation
+
+14 requirement.
+
+15 The minority view of artificial inflation
+
+16 articulated by the Ninth Circuit is illogical and equates
+
+17 loss with purchase, regardless of whether the investor has
+
+18 suffered any economic harm. An investor does not suffer
+
+19 any harm until some form of corrective disclosure occurs
+
+20 and the artificial inflation is removed from the stock.
+
+21 The two events must be related. There is no causal
+
+22 connection between the harm and the misrepresentation
+
+23 otherwise.
+
+24 The majority rule correctly requires a causal
+
+25 connection between the misrepresentation and a decline in
+
+1111 14th Street, NW, Suite 400
+
+3
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 value. The -- and the statute itself is expressed in
+
+2 terms of causation that a plaintiff prove that the act of
+
+3 the defendant caused the loss.
+
+4 When we look at the statute of the Reform Act
+
+5 and other provisions, we see supporting language. In
+
+6 section 21D of the Reform Act, we see under the provision
+
+7 that has been known as the look-back provision that the
+
+8 Congress discussed the loss in terms of trading price
+
+9 after a corrective disclosure.
+
+10 Similarly in section 105 of the Reform Act,
+
+11 although dealing with section 12 of the Securities Act,
+
+12 the Reform Act, in its one place where it actually spoke
+
+13 of loss causation and its definition, defined it in terms
+
+14 of depreciation in value. And the -- the depreciation in
+
+15 value of the security would be attributable to the fraud.
+
+16 JUSTICE KENNEDY: Can -- can you tell me if --
+
+17 if we had not granted certiorari in the case and the Ninth
+
+18 Circuit's opinion became final, what would have happened
+
+19 on remand? What would have happened in the trial court?
+
+20 MR. SULLIVAN: At the trial court, the --
+
+21 JUSTICE KENNEDY: And -- and wouldn't there have
+
+22 been a -- a motion to make the pleadings more specific and
+
+23 they would have then come up with a measure of damages, or
+
+24 am I wrong about that?
+
+25 MR. SULLIVAN: Well, the Ninth Circuit remanded
+
+1111 14th Street, NW, Suite 400
+
+4
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 for specific reasons on repleading, which Your Honor has
+
+2 articulated, and those would have occurred.
+
+3 The other issues relating to loss raise
+
+4 questions concerning whether some of the -- the claims
+
+5 might be time barred and whether or not those claims could
+
+6 be stated. So that would have raised a different issue.
+
+7 In addition, throughout the pleadings of this
+
+8 case -- we're now on the third complaint -- the -- the
+
+9 plaintiffs have not raised that issue and have not sought
+
+10 to plead causation consistent with the -- our view of the
+
+11 world.
+
+12 JUSTICE KENNEDY: Well, I mean, I -- I assume
+
+13 you say that the trial judge and -- and defense counsel
+
+14 and -- and the trial court would have had real problems
+
+15 with this opinion. What -- what were those problems --
+
+16 MR. SULLIVAN: Well --
+
+17 JUSTICE KENNEDY: -- insofar as the measure of
+
+18 loss is concerned?
+
+19 MR. SULLIVAN: Well, the -- the real problems
+
+20 that the trial court had and what we would continue to
+
+21 espouse with this opinion is that it doesn't link the loss
+
+22 with the misrepresentation. And in this case, the
+
+23 misrepresentation offered occurred 9 months after the
+
+24 price drop that is being sought.
+
+25 I think when you -- when you carve it all back
+
+1111 14th Street, NW, Suite 400
+
+5
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 and you look at what the real issue is, at the end of the
+
+2 day, it's -- it becomes an issue of what -- what damages
+
+3 does the plaintiffs' class seek.
+
+4 JUSTICE KENNEDY: Under this opinion, how would
+
+5 -- under the Ninth Circuit's opinion, how would the jury
+
+6 have been instructed to come -- to calculate the loss? I
+
+7 assume you have a problem with that and I want to know
+
+8 what it is.
+
+9 MR. SULLIVAN: The -- the problem is we wouldn't
+
+10 have been able to -- to frame a clear jury instruction
+
+11 that would have indicated whether or not the loss that the
+
+12 jury should look at would be related to the disclosure
+
+13 about Albuterol Spiros, which would have occurred in the
+
+14 November time frame, or whether we would have had to step
+
+15 back to the February time frame and -- and the loss that
+
+16 was incurred then. And the issue would have not only
+
+17 related to the -- the damages instructions but would have
+
+18 related to the misrepresentation instruction.
+
+19 And the -- the problem that -- that we continue
+
+20 to have with the -- the case after the Ninth Circuit's
+
+21 opinion is where do you look for the misrepresentation and
+
+22 where do you look for the damage and how do you know that
+
+23 there is a loss under the statute. You're looking at a --
+
+24 at a --
+
+25 JUSTICE O'CONNOR: What would have happened if
+
+1111 14th Street, NW, Suite 400
+
+6
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 the disclosure about Albuterol was made before the company
+
+2 announced revenue shortfalls?
+
+3 MR. SULLIVAN: Well, I think that would have
+
+4 been different. That would have been a disclosure prior
+
+5 to the -- to the drop, and there -- I would expect under
+
+6 pleading that the plaintiffs could have done, they could
+
+7 have tied the two of them together and argued that the
+
+8 cause of the loss was the combination of the two events in
+
+9 the marketplace.
+
+10 JUSTICE BREYER: Why is it difficult to figure
+
+11 out what the Ninth Circuit was thinking? I -- I found it
+
+12 -- am I right? I thought they said the -- the seller says
+
+13 we found gold. The stock sells for $60. They have loads
+
+14 of experts who say in the absence of that statement, which
+
+15 was a lie, we found gold, it would have sold for $10. The
+
+16 loss is $50. I mean, I take it that's their theory.
+
+17 MR. SULLIVAN: That -- that would be the theory
+
+18 under the Ninth Circuit.
+
+19 JUSTICE BREYER: All right. Now, what's wrong
+
+20 with that theory?
+
+21 MR. SULLIVAN: Well, the --
+
+22 JUSTICE BREYER: It's clear. I mean, it's
+
+23 certainly clear.
+
+24 MR. SULLIVAN: The problem with -- with that
+
+25 theory is that Congress has told us that the
+
+1111 14th Street, NW, Suite 400
+
+7
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 misrepresentation has to have caused the loss and --
+
+2 JUSTICE BREYER: Yes. They say it caused the
+
+3 loss, $50.
+
+4 MR. SULLIVAN: And -- and what we would be
+
+5 looking for is evidence that -- that such a actual loss
+
+6 occurred in response to a corrective disclosure in the
+
+7 marketplace.
+
+8 JUSTICE SCALIA: Well, doesn't it depend on --
+
+9 on what you -- what you consider to be the value of the
+
+10 stock. Until the disclosure of the fact that they didn't
+
+11 find gold is made, the stock is still worth $60, isn't it?
+
+12 MR. SULLIVAN: Yes, it is.
+
+13 JUSTICE SCALIA: Because everybody else thinks
+
+14 they found gold too. So you're still holding stock worth
+
+15 $60, if worth means its market value. Right?
+
+16 MR. SULLIVAN: That is correct.
+
+17 JUSTICE SCALIA: And we're dealing with a
+
+18 special rule that looks to market value. Right? You
+
+19 don't have to have the -- the representation made
+
+20 explicitly to the plaintiff. It's a representation that
+
+21 was made to the market at large which caused the market
+
+22 value of the stock. Right?
+
+23 MR. SULLIVAN: That is correct.
+
+24 JUSTICE SCALIA: So he paid $60, he got $60.
+
+25 There's no loss.
+
+1111 14th Street, NW, Suite 400
+
+8
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 MR. SULLIVAN: And would have the ability to
+
+2 continue to sell that stock for $60 in the marketplace
+
+3 until such time as there was a corrective disclosure.
+
+4 JUSTICE BREYER: Is there any other problem?
+
+5 I'm trying to get a list of what the problems are with the
+
+6 simple theory. Now, I've heard one that you've ratified.
+
+7 (Laughter.)
+
+8 JUSTICE BREYER: And -- and is there any other?
+
+9 MR. SULLIVAN: Thank you.
+
+10 The -- the other is -- is I think an issue of
+
+11 certainty as to the marketplace. Remember, we are
+
+12 operating on a fraud-on-the-market theory context here in
+
+13 this kind of action, and in that -- in that context, when
+
+14 there is a disclosure in the marketplace, you have
+
+15 certainty as to what the market actually valued the
+
+16 decline to be as opposed to speculation that there was in
+
+17 fact inflation at the -- at the time of purchase.
+
+18 The Ninth Circuit's purchase time rule in the --
+
+19 in the fraud-on-the-market context doesn't necessarily
+
+20 identify the decline in the value of the stock which you
+
+21 can get from the marketplace, and that I think is just
+
+22 better -- a better indicator.
+
+23 JUSTICE BREYER: Now, can we -- can they prove
+
+24 this? $60. $50 is wrong, is inflated because of the
+
+25 gold. It turns out that gold never existed and they knew
+
+1111 14th Street, NW, Suite 400
+
+9
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 it. The stock is not selling for $60 anymore. It's
+
+2 selling for $200. They found platinum. No one expected
+
+3 it. All right. They want to prove maybe it is selling
+
+4 for $200, but if we had found gold as well, it would have
+
+5 sold for $250. Can they do it?
+
+6 MR. SULLIVAN: The Congress has told us that we
+
+7 should look for loss, and that --
+
+8 JUSTICE BREYER: It's a loss. $250 versus $200.
+
+9 MR. SULLIVAN: -- and that leads us to the --
+
+10 the point that -- that whether the increase can actually
+
+11 be pled. But if there is a disclosure that indicates that
+
+12 the gold component was not part of the -- of the -- the
+
+13 discoveries, and the plaintiffs can indicate that there
+
+14 was an upward tick because of the platinum and a downward
+
+15 movement in the stock because of the disclosure about
+
+16 gold, then I think those two can be separated and pled
+
+17 accordingly.
+
+18 JUSTICE GINSBURG: And both would be all right
+
+19 because what's the difference between not getting as much
+
+20 appreciation as you would have gotten if the correct
+
+21 information had been out there and getting less than you
+
+22 would have gotten. I mean, in both cases the shareholder
+
+23 is affected the same way. They didn't get as much in one
+
+24 case. So you're not distinguishing between those. I
+
+25 think you're agreeing that in both cases the -- the
+
+1111 14th Street, NW, Suite 400
+
+10
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 discovery of platinum is the shares go up, but they would
+
+2 have gone up much higher if there had been gold as well.
+
+3 That shareholder has a claim under your theory, doesn't
+
+4 she?
+
+5 MR. SULLIVAN: Well, that shareholder -- it
+
+6 would depend on what has happened in the marketplace. If
+
+7 there has not been a disclosure about the absence of gold,
+
+8 that stock would still reflect the -- the value of the
+
+9 expectation of gold.
+
+10 JUSTICE GINSBURG: Yes, but I'm assuming that --
+
+11 that there is, and so the stock goes up but not as much as
+
+12 it would have.
+
+13 But on the point of disclosure, there is a
+
+14 difference between your position and the Government's, and
+
+15 I really would like you to tell me if that's genuine or
+
+16 it's my misperception. Your view is there's the
+
+17 disclosure of the bad news, the lie, and the price drops.
+
+18 In the Government's presentation -- and I'm reading from
+
+19 page 19 -- the fraud can be revealed by means other than a
+
+20 corrective disclosure and a drop in the stock price may
+
+21 not be a necessary condition for establishing loss
+
+22 causation in every fraud on the marketplace.
+
+23 MR. SULLIVAN: Our position is we believe that a
+
+24 drop in the price is necessary to demonstrate the loss.
+
+25 JUSTICE O'CONNOR: But the Government --
+
+1111 14th Street, NW, Suite 400
+
+11
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 MR. SULLIVAN: They do.
+
+2 JUSTICE SCALIA: It doesn't matter in this case,
+
+3 does it? Is -- is that issue before us?
+
+4 MR. SULLIVAN: In this case --
+
+5 JUSTICE SCALIA: Do we have to decide that issue
+
+6 here?
+
+7 MR. SULLIVAN: We don't have to decide that
+
+8 issue for this case.
+
+9 JUSTICE SCALIA: And is it -- is it easy to
+
+10 prove that -- that the price of this now valuable stock
+
+11 because they found platinum would have been $40 higher had
+
+12 they found gold? I mean, the burden would be on the
+
+13 plaintiff to prove that -- would -- I mean, if we adopted
+
+14 that theory.
+
+15 MR. SULLIVAN: The plaintiff has that burden --
+
+16 JUSTICE SCALIA: It would be very hard to prove,
+
+17 it seems to me.
+
+18 MR. SULLIVAN: And -- and at the pleading stage,
+
+19 I believe that they could be segregated and -- and an
+
+20 upward movement in the stock could be distinguished from a
+
+21 downward movement in the stock. But the downward movement
+
+22 in stock would be the focus from our standpoint.
+
+23 JUSTICE KENNEDY: In -- in your view, is the
+
+24 plaintiff entitled to an expectancy measure of damage, or
+
+25 is it more the traditional tort measure which is out-of-
+
+1111 14th Street, NW, Suite 400
+
+12
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 pocket losses?
+
+2 MR. SULLIVAN: We don't believe that they are
+
+3 entitled to any expectation damages. It would be an out-
+
+4 of-pocket loss calculation.
+
+5 JUSTICE KENNEDY: Is the -- is the respondents'
+
+6 position properly characterized as asking for expectancy
+
+7 damages or is that too simplistic a view?
+
+8 MR. SULLIVAN: I -- I think that it is perhaps
+
+9 inclusive of expectancy. It really depends on how you
+
+10 view that price inflation theory.
+
+11 JUSTICE SCALIA: I think they'd be called
+
+12 reliance damages. You know, I used to teach contract law.
+
+13 We would call it reliance damages.
+
+14 MR. SULLIVAN: And it gets back in our view to
+
+15 the transaction causation distinction in the securities
+
+16 cases that talk about the reliance transaction, price
+
+17 inflation that occurs at the front end.
+
+18 JUSTICE BREYER: If that's so then -- then on
+
+19 the platinum/gold theory, you can't really recover what
+
+20 would have happened if there had been gold because it
+
+21 might be that the stock would have been worth $400 if
+
+22 there had been gold even though 15 years earlier when he
+
+23 only paid $50 for it, he's only out of pocket, at most,
+
+24 $50. But if there had been gold, because of the gold
+
+25 market in the world, it would have been a lot more
+
+1111 14th Street, NW, Suite 400
+
+13
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 valuable. And you're saying he can't do that? I don't
+
+2 know. Maybe that question isn't in the case, but that
+
+3 strikes me as a difficult question.
+
+4 MR. SULLIVAN: Following your -- your suggestion
+
+5 about the price of gold, it would depend on where that --
+
+6 that disclosure occurred in connection with the price of
+
+7 -- the price of gold, if that disclosure occurred, and if
+
+8 there was an economic loss that could be -- could be tied
+
+9 to it. The passage of time here is important only insofar
+
+10 as it allows for the corrective disclosure and a chance
+
+11 for the market to reflect an economic loss.
+
+12 JUSTICE STEVENS: Mr. Sullivan, you refer to
+
+13 the disclosure as being the key point and when you measure
+
+14 the -- the loss and so forth. What if the information
+
+15 leaks out and there's no specific one disclosure that does
+
+16 it all and the stock gradually declines over a period of
+
+17 six months?
+
+18 MR. SULLIVAN: I think --
+
+19 JUSTICE STEVENS: How would you handle that
+
+20 case?
+
+21 MR. SULLIVAN: I think that a plaintiff would be
+
+22 able to handle that in -- in a pleading and they would
+
+23 have to identify the leaks and if there are several,
+
+24 identify each of them and identify them as --
+
+25 JUSTICE STEVENS: Well, maybe they don't know
+
+1111 14th Street, NW, Suite 400
+
+14
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 the leaks. The only thing they can prove is that there
+
+2 was a gross false statement at the time they bought the
+
+3 stock and they don't know what happened to the decline.
+
+4 Later on they find out that it gradually leaked out. Do
+
+5 they have to prove exactly how the information became
+
+6 public?
+
+7 MR. SULLIVAN: The key is that they have to
+
+8 prove that the loss was connected to the misrepresentation
+
+9 and that the drop in --
+
+10 JUSTICE SCALIA: Well, they -- they wouldn't
+
+11 have to prove how it came out. They would just have to
+
+12 prove that the market knew the truth, no matter how the
+
+13 market learned the truth. I mean, if it was published in
+
+14 a -- in a column by some market reporter who doesn't
+
+15 disclose how he found out. So long as the market knows
+
+16 the truth, isn't that all they need?
+
+17 MR. SULLIVAN: So I was distinguishing -- yes is
+
+18 the answer to your question. I was distinguishing a
+
+19 situation where the price just trickled down and no one
+
+20 knew until later. And the -- the question that Justice
+
+21 Scalia poses about the -- the leak coming out over time
+
+22 but it is the -- the fact that the market becomes aware of
+
+23 the reason for the misrepresentation, it is in fact
+
+24 appropriate.
+
+25 The -- the other point that I would like to
+
+1111 14th Street, NW, Suite 400
+
+15
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 make, in addition to the statutory scheme, is -- is this
+
+2 Court's decision in Basic v. Levinson creates a tension
+
+3 here, and I -- and I think a conflict that is very
+
+4 important to -- to discern. The -- Basic v. Levinson
+
+5 presents the fraud-on-the-market theory, and from that
+
+6 fraud-on-the-market theory we have a rebuttable
+
+7 presumption of reliance for transaction causation.
+
+8 The Ninth Circuit's view collapses the -- the
+
+9 Ninth -- the Ninth Circuit's view of transaction causation
+
+10 with loss causation and presents a conflict as it relates
+
+11 to that presumption. The presumption, which is based on a
+
+12 well- developed, efficient capital market that gets the
+
+13 information out quickly and is easily digestible -- that
+
+14 -- that presumption is at odds with the Reform Act's
+
+15 requirement that there be a burden of proof. If you
+
+16 collapse the transaction causation and the loss causation,
+
+17 you've got a head-on collision between the rebuttable
+
+18 presumption of reliance and the Congress' codification of
+
+19 the Loss Causation Act and the Reform Act. And we think,
+
+20 at the end of the day, the Ninth Circuit's decision really
+
+21 renders that conflict apparent and makes the act of
+
+22 Congress in the Reform Act one that was meaningless.
+
+23 The -- I think the legislative history is also
+
+24 supportive of our position so far as particularly the
+
+25 Senate report is very important in the -- in the phrase
+
+1111 14th Street, NW, Suite 400
+
+16
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 where it talks about the obligation of the plaintiff to
+
+2 prove that the loss in the value of the stock was caused
+
+3 by the section 10(b) violation and not by other factors.
+
+4 That is a critical component here of the analysis and I
+
+5 think very helpful from the standpoint of the legislative
+
+6 history in identifying what we have.
+
+7 Finally, I -- the last point I'd like to make is
+
+8 that the Reform Act from Congress was designed to and
+
+9 sought to establish uniform and fairly stringent pleading
+
+10 guidelines, and this was to address congressional concerns
+
+11 over frivolous suits. And Congress, in enacting the
+
+12 Reform Act, was not signaling any intention to relax the
+
+13 requirements of section 10(b), was -- rather, was enacting
+
+14 a very specific loss causation requirement. And
+
+15 historically there was a very clear and distinct body of
+
+16 law at the time, the Huddleston case, the Bastian case,
+
+17 and that was codified. And there was a very clear
+
+18 perception that Congress was acting and not collapsing the
+
+19 loss causation transaction rule into the loss -- the
+
+20 transaction causation into the loss causation, which I
+
+21 think creates this conflict.
+
+22 If there are no further questions, Justice
+
+23 Stevens, I'd like to reserve the balance of my time for
+
+24 rebuttal.
+
+25 JUSTICE STEVENS: You certainly may.
+
+1111 14th Street, NW, Suite 400
+
+17
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 MR. SULLIVAN: Thank you.
+
+2 JUSTICE STEVENS: Mr. Hungar.
+
+3 ORAL ARGUMENT OF THOMAS G. HUNGAR
+
+4 ON BEHALF OF THE UNITED STATES,
+
+5 AS AMICUS CURIAE, SUPPORTING THE PETITIONERS
+
+6 MR. HUNGAR: Thank you, Justice Stevens, and may
+
+7 it please the Court:
+
+8 In a fraud-on-the-market case, a plaintiff who
+
+9 buys a security at an inflated price suffers no loss at
+
+10 the time of purchase because the market continues to value
+
+11 the security at the inflated price, and that's --
+
+12 JUSTICE O'CONNOR: Would you tell us how you
+
+13 differ with petitioner on what ought to happen here and
+
+14 why?
+
+15 MR. HUNGAR: Well, our view -- well, what ought
+
+16 to happen in this case is that the judgment of the court
+
+17 of appeals should be reversed because the court failed to
+
+18 require loss causation. In effect, what the court said is
+
+19 that transaction causation is sufficient. But what --
+
+20 JUSTICE O'CONNOR: You agree with the bottom
+
+21 line.
+
+22 MR. HUNGAR: Yes.
+
+23 JUSTICE O'CONNOR: Now, where do you disagree?
+
+24 MR. HUNGAR: Well, I'm not sure that I can
+
+25 accurately tell you petitioners' position, but I can tell
+
+1111 14th Street, NW, Suite 400
+
+18
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 you our position, which is that in a fraud-on-the-market
+
+2 case the plaintiff cannot -- has failed to plead loss
+
+3 causation unless the plaintiff pleads that the -- the
+
+4 inflation attributable to the misrepresentation or
+
+5 omission has been removed or reduced from the price of the
+
+6 stock through dissemination of corrective information of
+
+7 some sort to the market. That does not mean that the
+
+8 company must make an announcement or that there must be an
+
+9 admission of fraud or that there must be really any
+
+10 information, any -- any sort of formal disclosure. But if
+
+11 the information is disseminated to the market such that
+
+12 the market, in whole or in part, becomes aware of the
+
+13 truth and adjusts the price accordingly, that price
+
+14 adjustment is loss and the plaintiff has alleged loss
+
+15 causation in an amount to be proven at trial.
+
+16 JUSTICE O'CONNOR: Well, doesn't the general
+
+17 rule 8 governing complaints -- isn't that adequate? You
+
+18 have to plead under that every element of an affirmative
+
+19 case.
+
+20 MR. HUNGAR: That's right. Exactly right, Your
+
+21 Honor.
+
+22 JUSTICE O'CONNOR: Why is the Government
+
+23 proposing that you have to follow rule 9 not 8 or some
+
+24 other requirement?
+
+25 MR. HUNGAR: Well, the -- I don't think the
+
+1111 14th Street, NW, Suite 400
+
+19
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 question -- we cited rule 9(b) in our brief because fraud
+
+2 must be pled with particularity and -- and that -- and
+
+3 that rule applies to all the, quote, circumstances
+
+4 constituting a fraud. But the Court doesn't need to
+
+5 address the question because even under rule 8, the
+
+6 plaintiff must allege all the elements of the cause of
+
+7 action.
+
+8 JUSTICE O'CONNOR: We don't have to get into
+
+9 that.
+
+10 MR. HUNGAR: That's correct. That's absolutely
+
+11 right.
+
+12 JUSTICE GINSBURG: But, Mr. Hungar, if you look
+
+13 at the forms of what's proper pleading under the Federal
+
+14 rules on causation, the sample pleadings say, for example,
+
+15 for money lent, the defendant owes the plaintiff for money
+
+16 lent. Period. Or for goods sold and delivered. Nothing
+
+17 more. Just alleged causation. Defendant -- plaintiff
+
+18 alleges I lost X amount and it was caused by defendant.
+
+19 I thought you pointed to the 9(b) rule because
+
+20 fraud must be pleaded with particularity, but causation
+
+21 does not, not under the rules and not under the statute.
+
+22 MR. HUNGAR: Well, as we said in our brief, we
+
+23 think 9(b) applies here. Obviously, this is a fraud case.
+
+24 JUSTICE GINSBURG: But that -- that's to the --
+
+25 to the allegation of fraud, but not causation.
+
+1111 14th Street, NW, Suite 400
+
+20
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 MR. HUNGAR: Well, Congress has made very clear
+
+2 that loss causation is an element of the cause of action.
+
+3 The elements must be pled. In a fraud case, they must be
+
+4 pled with particularity, but even -- even in a -- in a
+
+5 common law --
+
+6 JUSTICE GINSBURG: It says -- but the fraud
+
+7 must be pleaded with particularity, not all the elements
+
+8 of a fraud claim.
+
+9 MR. HUNGAR: Well, with respect, Your Honor, we
+
+10 think circumstances -- it does not constitute fraud if
+
+11 there is no loss causation. At least it certainly doesn't
+
+12 constitute securities fraud under this statute, and if the
+
+13 complaint does not plead loss causation, it hasn't pled
+
+14 fraud. So we submit that --
+
+15 JUSTICE STEVENS: That's not correct I don't
+
+16 think. I think there could be a completely fraudulent
+
+17 statement but no -- no damages as a result of it. There
+
+18 would still be fraud.
+
+19 MR. HUNGAR: Yes, but in a -- in a private
+
+20 action for securities fraud, loss causation is an element
+
+21 of the cause of action. It's not an element in every
+
+22 fraud case.
+
+23 JUSTICE STEVENS: It's not an element of the
+
+24 fraud. It's an element of the cause -- cause of action.
+
+25 MR. HUNGAR: Well, it may be a semantic
+
+1111 14th Street, NW, Suite 400
+
+21
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 question. That's --
+
+2 JUSTICE STEVENS: Well, that's what Justice
+
+3 Ginsburg's point --
+
+4 MR. HUNGAR: But there -- I mean, there are
+
+5 cases in the -- in the courts of appeals saying that --
+
+6 that rule 9(b) applies to all the elements, and we're not
+
+7 aware of cases -- the -- the -- one of the amicus briefs
+
+8 cites cases which focus on the nature of the
+
+9 representation, and that's certainly where 9(b) issues are
+
+10 generally fought out because in a -- in a typical
+
+11 securities case, loss causation is not a difficult issue
+
+12 because the -- the bad news is -- is announced, the stock
+
+13 drops, and the plaintiff pleads loss causation as a matter
+
+14 of course. It -- it's -- it's not a difficult burden to
+
+15 satisfy in your run-of-the-mill securities case.
+
+16 JUSTICE SOUTER: Well --
+
+17 JUSTICE SCALIA: In any event, the difference
+
+18 between getting the -- the complaint dismissed on the
+
+19 pleadings or having to wait for a -- a 12(b)(6) motion
+
+20 because as soon as you, you know, ask for the -- the proof
+
+21 of the elements of the cause of action, you're entitled to
+
+22 have, if -- if your analysis of the case is correct,
+
+23 you're entitled to have the drop in -- in the value of the
+
+24 stock shown.
+
+25 MR. HUNGAR: Well, as a -- as a practical
+
+1111 14th Street, NW, Suite 400
+
+22
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 matter, Your Honor, there's a huge difference in how these
+
+2 cases are litigated because it's the difference between
+
+3 spending millions of dollars on discovery, literally
+
+4 millions of dollars on discovery, or not. If -- if the
+
+5 plaintiff has failed to allege loss causation and for some
+
+6 reason feels unable to allege it, the -- the case is going
+
+7 to be dismissed. If the court doesn't require loss
+
+8 causation, as the Ninth Circuit did -- did here, that
+
+9 means the case is going to go to discovery and the
+
+10 defendant is going to have to either spend millions of
+
+11 dollars on their own lawyers or spend millions of dollars
+
+12 to settle even in a case that -- where the plaintiff might
+
+13 be unable to establish loss causation. That's why --
+
+14 JUSTICE SOUTER: Is -- is the --
+
+15 MR. HUNGAR: -- Congress did what it did in
+
+16 1995.
+
+17 JUSTICE SOUTER: Is the reason -- is there a
+
+18 further reason that they've got to -- to plead loss
+
+19 causation? And that is, by reading (e)(2), in effect, as
+
+20 -- as making -- as -- as saying that if you were going to
+
+21 recover on a fraud-on-the-market theory, you in effect
+
+22 have -- have got to prove your loss in a certain way. And
+
+23 you're saying if you're going to -- if you're going to sue
+
+24 on a fraud-on-the-market theory, you've got to allege all
+
+25 the elements of fraud on the market. And if you allege
+
+1111 14th Street, NW, Suite 400
+
+23
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 all the elements of fraud on the market, you're going to
+
+2 allege exactly what you've just been saying is required.
+
+3 So it's not so the -- I -- I guess what I'm --
+
+4 I'm getting at is maybe what -- maybe the nub of the
+
+5 answer is not necessarily that there's -- that there's
+
+6 fraud involved, but there is a fraud-on-the-market theory
+
+7 as the basis for the cause of action, and if that is the
+
+8 basis, it's got to be disclosed in the pleadings as an
+
+9 element.
+
+10 MR. HUNGAR: I think that's -- that's a helpful
+
+11 way to look at it, Justice Souter, because it's -- in --
+
+12 in a fraud-on-the-market case, by definition the plaintiff
+
+13 is alleging that there was an efficient national market
+
+14 and that is what makes the difference. If this were the
+
+15 -- you -- you buy a gold mine, like the -- the old common
+
+16 law cases that respondents cite, there's no efficient
+
+17 national market on which the -- the plaintiff can turn
+
+18 around and sell it at the same price until the information
+
+19 has been disclosed. But when it is an -- a national,
+
+20 active stock market, the market continues to reflect the
+
+21 inflation, and so -- so the plaintiff has not been
+
+22 injured, and the allegation that it was an efficient
+
+23 market and I bought it at an inflated price does not
+
+24 support an inference of -- of injury. And the -- and so
+
+25 because it is a fraud-on-the-market case, that's exactly
+
+1111 14th Street, NW, Suite 400
+
+24
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 right. The additional information must be pled in the
+
+2 complaint or else no injury has been -- been pled and the
+
+3 complaint must be dismissed.
+
+4 JUSTICE SOUTER: Do you -- do you take the
+
+5 position that the phrase in (e)(2), if the plaintiff --
+
+6 I'm sorry. Let me find it.
+
+7 MR. HUNGAR: You're referring to section 12(b)
+
+8 or?
+
+9 JUSTICE SOUTER: No. I'm trying to find a
+
+10 phrase in (e)(2).
+
+11 If the plaintiff seeks to establish damages by
+
+12 reference to the market price of a security, do you take
+
+13 that phrase as -- as referring to a fraud-on-the-market
+
+14 theory or as being broader than a fraud-on-the -- on-the-
+
+15 market theory.
+
+16 MR. HUNGAR: Well, I suppose a plaintiff in --
+
+17 JUSTICE SOUTER: It certainly includes it.
+
+18 There's no question about that. Does --
+
+19 MR. HUNGAR: I think what that encompasses is a
+
+20 -- is a case in which the plaintiff purchased the stock on
+
+21 the market -- on -- on a open market, which will typically
+
+22 be in practice a fraud-on-the-market case. I suppose a
+
+23 plaintiff, in an unusual case, might not allege -- might
+
+24 not choose to plead it as fraud-on-the-market case if they
+
+25 have some specific evidence or reliance that they view is
+
+1111 14th Street, NW, Suite 400
+
+25
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 stronger, but --
+
+2 JUSTICE SOUTER: If -- if it's not confined to
+
+3 fraud-on-the-market, then there's the argument on the
+
+4 other side that all -- all (2) is really doing is saying
+
+5 that if you are going to establish your damages by
+
+6 reference to market price, this is the way you've got to
+
+7 do it. You've got to go through this mean price analysis
+
+8 and so on. But they are saying we are not simply trying
+
+9 to establish our damages by reference to the market, and
+
+10 therefore we're not bound by -- and therefore, (e)(2), in
+
+11 effect, is -- is irrelevant. What -- what is your
+
+12 answer?
+
+13 MR. HUNGAR: Well, I think they -- they
+
+14 unquestionably are trying to establish their damages. The
+
+15 Ninth Circuit's damage theory or -- or injury theory
+
+16 establishes damages by reference to the market price.
+
+17 JUSTICE SOUTER: To the -- to the purchase
+
+18 price.
+
+19 MR. HUNGAR: The plaintiffs alleged they
+
+20 purchased at the market price in this fraud-on-the-market
+
+21 case, and -- and the damages are the difference between
+
+22 what they paid at that market price and what it should
+
+23 have been. That is in our view an attempt to establish
+
+24 damages by reference.
+
+25 JUSTICE SCALIA: But they paid -- they paid
+
+1111 14th Street, NW, Suite 400
+
+26
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 whether it was a market price or not. I mean --
+
+2 MR. HUNGAR: Well, they -- they alleged they
+
+3 purchased on the market. If -- if they weren't purchasing
+
+4 on the market --
+
+5 JUSTICE SCALIA: Well, what they paid happens to
+
+6 be the market price, but -- but you can't really say that
+
+7 the Ninth Circuit was referring to the market price as
+
+8 part of its -- its damages. Its damages are what they
+
+9 paid. Whether that -- if they paid above market, it would
+
+10 be the same.
+
+11 MR. HUNGAR: Well, in any event, we interpret it
+
+12 to refer to -- I mean, by definition they are, in a fraud-
+
+13 on-the-market case, alleging that they have purchased at
+
+14 the market price, and that's exactly what this statute
+
+15 would be encompassing. But beyond that, as -- as Mr.
+
+16 Sullivan identified, Congress' explanation of how it
+
+17 understood loss causation, when it -- when it enacted
+
+18 section 12(b) as part of the Reform Act, is entirely
+
+19 consistent with our position, and the common law is
+
+20 entirely consistent with our position.
+
+21 Thank you.
+
+22 JUSTICE STEVENS: Thank you, Mr. Hungar.
+
+23 Mr. Coughlin.
+
+24 ORAL ARGUMENT OF PATRICK J. COUGHLIN
+
+25 ON BEHALF OF THE RESPONDENTS
+
+1111 14th Street, NW, Suite 400
+
+27
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 MR. COUGHLIN: Justice Stevens, may it please
+
+2 the Court:
+
+3 In answer to your question, Justice Kennedy,
+
+4 yes, that's what -- exactly what we would do. We would go
+
+5 back and replead, if we were required to do that, with
+
+6 more specificity.
+
+7 We don't think that (9)(b) applies in this
+
+8 situation because both the Eleventh and the Third Circuits
+
+9 have held that (9)(b) only applies to the circumstances
+
+10 constituting fraud. It has never been applied to
+
+11 materiality, loss causation, or damages.
+
+12 JUSTICE BREYER: But surely they wanted to have
+
+13 a person be able to read a complaint and just understand
+
+14 what it's about in a securities fraud case. And I don't
+
+15 see how you could understand it unless you have in the
+
+16 complaint what your theory is. That's all. Nobody is
+
+17 asking for some facts. Is your theory that the loss took
+
+18 place at the time the person bought the stock because he
+
+19 overpaid $30? Is your theory that the stock went down
+
+20 and, because of that, he lost the money? Is your theory
+
+21 that the stock didn't go down but it would have gone up
+
+22 more? All they're asking is not for evidence, but a
+
+23 simple, clear explanation of the theory, and plead in the
+
+24 alternative if you want. But I mean, what's the problem?
+
+25 Why is that so hard to do?
+
+1111 14th Street, NW, Suite 400
+
+28
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 MR. COUGHLIN: I don't think that's so hard to
+
+2 do. And you're right. We have to plead the theory, and
+
+3 -- and the theory is --
+
+4 JUSTICE BREYER: And this case doesn't seem to
+
+5 do it. I looked through the entire complaint. I found
+
+6 exactly two paragraphs. I didn't. My law clerk did,
+
+7 frankly.
+
+8 (Laughter.)
+
+9 JUSTICE BREYER: But I told him to underline it.
+
+10 In paragraph 179, he found the word, and it
+
+11 caused damage. Okay? And in paragraph 177, it says the
+
+12 same. That's all he could find. And they were harmed.
+
+13 That's what it says.
+
+14 MR. COUGHLIN: And -- and you're right, Your
+
+15 Honor. There's not much in here. We plead the rises.
+
+16 There are approximately seven rises. We plead the
+
+17 purchases. We plead the big drop. Do we plead with
+
+18 specificity? The -- the losses as to AlSpiros? No. We
+
+19 could have done a better job.
+
+20 Under the Ninth Circuit, though, the law, as we
+
+21 pled it at the time, was that we have to plead an
+
+22 inflation and identify the causes. And that's what we did
+
+23 under Ninth Circuit law. If this Court were to decide
+
+24 that we had to do more, could we? Certainly.
+
+25 I mean, we have some of the information in
+
+1111 14th Street, NW, Suite 400
+
+29
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 there. We -- we tie AlSpiros to the sales force, which is
+
+2 an announcement on 2/24. You know, there's a lack of
+
+3 integrity in management.
+
+4 JUSTICE GINSBURG: But there's a -- but there --
+
+5 there is a basic difference between, as was pointed out in
+
+6 the colloquy with Mr. Hungar -- one thing is the
+
+7 particularity of pleadings. Yes, you have to tell the
+
+8 details of the fraud. No, you don't have to tell the
+
+9 details of the loss. But you do have to have a theory on
+
+10 which you can recover, and if your theory is simply I
+
+11 bought at an inflated price and the law doesn't give you a
+
+12 claim for relief on that theory, then you're out the
+
+13 window. There's no discovery. There's nothing.
+
+14 You have to have, as Justice Souter pointed out,
+
+15 a viable theory of relief, and that's the difference
+
+16 between -- you say it's enough that the stock was selling
+
+17 for much more than it should have, and the other side
+
+18 said, no, that's not enough. You have to show that when
+
+19 the misrepresentation was corrected, the price dropped.
+
+20 MR. COUGHLIN: Your Honor, I don't think it's
+
+21 enough to prove that we just paid an overinflated price.
+
+22 You cannot recover under Ninth Circuit law unless you not
+
+23 only prove that you paid an inflated price, but also that
+
+24 you prove that inflation came out.
+
+25 I think where we differ from the Government and
+
+1111 14th Street, NW, Suite 400
+
+30
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 petitioners is that it -- conceptually, at least with the
+
+2 Government, the right framework is to analyze did the
+
+3 inflation come out of the stock. And our quarrel here is
+
+4 how can the inflation come out of the stock? Does there
+
+5 have to be a corrective disclosure? And we say no. Time
+
+6 itself can take inflation out of the stock.
+
+7 Company-specific information is our biggest
+
+8 concern. If somebody walks a stock down, so to speak,
+
+9 they give out information lowering expectations because
+
+10 stock prices are based on cash flow. If they walk it down
+
+11 and say, hey, our -- we're going to have a revenue miss,
+
+12 but they don't announce their problems with AlSpiros at
+
+13 the time, or we're closing some factories, or we're taking
+
+14 a significant write-off, that stock drops. We believe
+
+15 that lowers inflation.
+
+16 I think a good case to take a look at to
+
+17 illustrate this is the Wool v. Tandem case out of the
+
+18 Ninth Circuit. In that case, Tandem was shipping to its
+
+19 own warehouses for 2 years, lying about its revenues.
+
+20 Wool went out and bought the stock. The stock was
+
+21 inflated. The Wall Street Journal, subsequent to that,
+
+22 reported we don't see how Tandem can continue to book
+
+23 these revenues, and then the company itself lowered
+
+24 expectations in one of their SEC filings saying, hey,
+
+25 lower than expected revenues coming up. The stock has
+
+1111 14th Street, NW, Suite 400
+
+31
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 dropped and now Wool sells. And now then after that, it's
+
+2 admitted that there was a fraud. Does -- and the stock
+
+3 barely drops hardly at all because the expectations in
+
+4 that stock have already been taken out.
+
+5 JUSTICE SCALIA: Why? I don't understand. I
+
+6 mean, there would be even more expectation taken out after
+
+7 the fraud is announced. I mean, it's just like saying,
+
+8 you know, besides -- besides fact that our CEO just died,
+
+9 there's no gold there. Don't you think it would go down
+
+10 still further?
+
+11 MR. COUGHLIN: Maybe and maybe not much. It
+
+12 depends on what's your cash in the bank. In this case,
+
+13 they had gone to the market and gotten $400 million of
+
+14 cash in the bank. So as the expectations were lowered
+
+15 with the Ceclor CD sales here not once but twice and the
+
+16 sales force inadequacy, before it was ever announced, they
+
+17 knew when the FDA was coming out.
+
+18 This is not the perfect situation. You're
+
+19 right. We could have just taken this out and --
+
+20 JUSTICE BREYER: But it sounds to me as if the
+
+21 things you're saying now are matters for proof, and I -- I
+
+22 think the wiggle room in the Government's position was it
+
+23 said it has to be disclosed to the market in some form or
+
+24 other. Well, if you're prepared to be broad and turn
+
+25 those over to the experts for the proof, you end up with
+
+1111 14th Street, NW, Suite 400
+
+32
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 your theory. The -- the inflation comes out and it comes
+
+2 out because they didn't get the earnings that they would
+
+3 have had or there may be many reasons.
+
+4 MR. COUGHLIN: There's no doubt, Your Honor.
+
+5 And if we have to do it at the pleading stage, it would be
+
+6 impossible.
+
+7 JUSTICE BREYER: Well, you just have to say at
+
+8 the pleading stage what your theory is.
+
+9 MR. COUGHLIN: And -- and I think we did that.
+
+10 We said the stock was inflated and there was damage, and
+
+11 we could have done a better job. Absolutely --
+
+12 JUSTICE GINSBURG: I thought your theory was, at
+
+13 least as I read your brief, that your loss occurs at the
+
+14 moment of purchase, not at some later time, that when you
+
+15 bought the stock, the price was inflated and that's when
+
+16 you suffered your loss, on the day of the purchase, not at
+
+17 a later time.
+
+18 MR. COUGHLIN: That's absolutely correct. We
+
+19 believe that you suffer your loss and damages on the date
+
+20 you make the purchase. On the day --
+
+21 JUSTICE SCALIA: How can you reconcile that with
+
+22 your concession that if the person who -- who buys it at
+
+23 an inflated price turns around 2 days later and sells it
+
+24 at that same inflated price, he cannot bring suit? You
+
+25 would not allow recovery in that situation.
+
+1111 14th Street, NW, Suite 400
+
+33
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 MR. COUGHLIN: Would not allow recovery in
+
+2 that --
+
+3 JUSTICE SCALIA: How -- how can you reconcile
+
+4 that --
+
+5 MR. COUGHLIN: Because those --
+
+6 JUSTICE SCALIA: -- with the notion that the
+
+7 loss occurred at the time your purchased?
+
+8 MR. COUGHLIN: Justice Scalia, because those are
+
+9 -- what we're talking about are recoverable damages, and
+
+10 then there's a limitation from section 28. In other
+
+11 words, all the cause of action was satisfied on the date
+
+12 you overpay. The day you pay $100 for a stock that's
+
+13 worth $50, you're out the $50, the economy is out the $50
+
+14 because it's not working -- it's working a fraudulent
+
+15 market. But you cannot recover, we would agree, until
+
+16 later.
+
+17 And the problem with analyzing that at the
+
+18 pleading stage is that is the -- that is expert analysis
+
+19 and discovery to connect up how -- how the losses came out
+
+20 and what you can recover. So I agree with you that you
+
+21 cannot recover that.
+
+22 JUSTICE SCALIA: They're saying there's no
+
+23 losses. I mean, that's -- it's inconsistent how the
+
+24 losses come out. You just told us the loss occurs, bang,
+
+25 when you buy it. You've gotten stock that really isn't
+
+1111 14th Street, NW, Suite 400
+
+34
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 worth what you paid for it, the notion of -- of worth as
+
+2 some -- you know, some objective thing rather than what --
+
+3 what people are willing to pay.
+
+4 MR. COUGHLIN: Well, that's --
+
+5 JUSTICE SCALIA: But that's your theory and it
+
+6 seems to me you're stuck with it. And if that theory is
+
+7 true, then it shouldn't matter that you later sell it to
+
+8 some other poor, unsuspecting individual for the same
+
+9 amount you bought it for.
+
+10 MR. COUGHLIN: It doesn't matter for that
+
+11 plaintiff if they sell it to a poor -- somebody
+
+12 unexpected. For example, Fannie Mae just publicly, a
+
+13 couple of weeks ago, found out they bought $300 million
+
+14 worth of bonds, and they -- they found out about a fraud.
+
+15 They sold it and got fined by the Government because they
+
+16 heard about the fraud and sold it back into the market to
+
+17 recoup their losses or back through their broker. That's
+
+18 -- that's not okay. That's just one outrageous example.
+
+19 But somebody ends up with that stock that's
+
+20 inflated. Okay? And when you make the purchase. We
+
+21 agree we have to show the inflation come out before
+
+22 recovery, and -- and 90 percent of the time --
+
+23 JUSTICE SCALIA: You have to show what before
+
+24 recovery? You have to show?
+
+25 MR. COUGHLIN: The inflation came out of the
+
+1111 14th Street, NW, Suite 400
+
+35
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 stock. In other words, if you pay $100 for a stock that's
+
+2 worth $50, it's inflated by $50. You don't recover that
+
+3 $50 until you show that $50 inflation came out of the
+
+4 stock.
+
+5 It can come out a number of ways. Let's say,
+
+6 for example, that somebody announced a competitive
+
+7 product. Well, that would take some of the inflation.
+
+8 That would be a market factor that would take some of the
+
+9 inflation out of your false statement that you had a
+
+10 product, the AlSpiros product. There are different ways
+
+11 inflation can come out besides a corrective disclosure.
+
+12 JUSTICE SOUTER: Yes, but if you've got to show
+
+13 the inflation, then you don't have a complete cause of
+
+14 action the day after you buy the stock if there's no loss.
+
+15 I mean, if you've got to show the -- the drop following
+
+16 the inflation, you don't have the complete cause of action
+
+17 if there's no drop the day after you buy the stock.
+
+18 JUSTICE SCALIA: That's what they're saying.
+
+19 MR. COUGHLIN: You can only recover --
+
+20 JUSTICE SCALIA: To me your -- your --
+
+21 MR. COUGHLIN: You can only recover if that
+
+22 inflation is taken out of the stock. Those are
+
+23 recoverable damages under Ninth Circuit law.
+
+24 JUSTICE SOUTER: No, but I -- I thought you were
+
+25 conceding that you -- you, in fact, do not have a -- a
+
+1111 14th Street, NW, Suite 400
+
+36
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 loss -- forget what you can recover -- that you don't have
+
+2 a loss until the inflation is followed by a drop. And if
+
+3 there's no drop at the -- at time of purchase plus 1
+
+4 minute, then I don't see how there is even the element of
+
+5 a cause of action.
+
+6 MR. COUGHLIN: I -- I believe that the day you
+
+7 overpay something, just like in the Sigafus, just in the
+
+8 -- in the Bolles case, both of them had to do with gold
+
+9 mines --
+
+10 JUSTICE SOUTER: Then you're talking about a
+
+11 cause of action without damages.
+
+12 MR. COUGHLIN: You may not have recoverable
+
+13 damages. That is true.
+
+14 JUSTICE SOUTER: If you have no damages, you
+
+15 have no cause -- I mean, on normal tort theory, you have
+
+16 no cause of action.
+
+17 MR. COUGHLIN: I understand, and I think you
+
+18 have $50 worth of damages right there. And our concern is
+
+19 what you have to prove --
+
+20 JUSTICE O'CONNOR: Well, that's exactly what
+
+21 we're debating, I suppose, that very point. And -- and
+
+22 it's hard to justify, under this statute, finding a cause
+
+23 of action before there's any damage or if there isn't any.
+
+24 That's -- that's just very hard to understand.
+
+25 MR. COUGHLIN: In the most complex frauds, a --
+
+1111 14th Street, NW, Suite 400
+
+37
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 a company is reporting revenue and earnings and their
+
+2 stock is, let's say, trading at $60 a share. Perhaps,
+
+3 because of fraud, it's overstated by $30. There are
+
+4 people in the market buying that stock at $60. That
+
+5 company starts to lower those expectations.
+
+6 This happens to be a real world example,
+
+7 Worldcom. They say we're going to miss revenues by $172
+
+8 million. The stock starts dropping down. The inflation
+
+9 that was in that stock because of what they lied about
+
+10 starts coming out. Nobody knows there's fraud. Nobody
+
+11 understands that. In fact, it's not until that stock goes
+
+12 down at 80 cents that there was an admission of fraud.
+
+13 JUSTICE BREYER: All right. But then you're not
+
+14 saying what I think Justice Scalia and I actually thought
+
+15 you were going to say which is that the minute he pays $60
+
+16 for a stock that should be worth $30 but is $60 because of
+
+17 the lie, at that instant he suffered a loss. After
+
+18 listening to you, I now think you're saying -- but I'm not
+
+19 sure because I've heard you say things that are -- both --
+
+20 I now think you're saying, no, he has not suffered a loss
+
+21 until later on when that $30 comes out of the price of the
+
+22 stock.
+
+23 JUSTICE SCALIA: And that's worrying me too.
+
+24 JUSTICE BREYER: It might come out in many
+
+25 different ways. It could come out because he announces
+
+1111 14th Street, NW, Suite 400
+
+38
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 I'm a liar.
+
+2 JUSTICE SCALIA: Right.
+
+3 JUSTICE BREYER: It could come out because he
+
+4 doesn't say anything but it sort of oozes out as earning
+
+5 reports come in, but it has to come out.
+
+6 Now, if you're saying that, then I find what
+
+7 you're saying consistent what I think Judge Posner said.
+
+8 And that's really what I'm interested in because I read
+
+9 what he said. It seemed to me right. Now --
+
+10 MR. COUGHLIN: I certainly don't want to be
+
+11 disagreeing with Judge Posner. So I --
+
+12 (Laughter.)
+
+13 MR. COUGHLIN: The other --
+
+14 JUSTICE SCALIA: I think -- I think you're -- I
+
+15 think you're agreeing with the petitioners. I think this
+
+16 -- this whole thing is a great misunderstanding. You --
+
+17 you didn't --
+
+18 (Laughter.)
+
+19 MR. COUGHLIN: I would agree with that, Your
+
+20 Honor. That's just -- we come to the same conclusion.
+
+21 There is no doubt about that. We come to the same
+
+22 conclusion. We have to prove that that inflation was in
+
+23 there when we prove it. And what we're talking about is
+
+24 what the burden is going to be on us at the pleading, and
+
+25 that's what we're concerned about.
+
+1111 14th Street, NW, Suite 400
+
+39
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 JUSTICE BREYER: When we have this happy
+
+2 agreement and if you'll agree, you at least have to prove
+
+3 what you -- you have to plead what you intend to do, that
+
+4 is, you have to plead and there was a loss and this is my
+
+5 theory. I would like to know -- maybe we won't get beyond
+
+6 this, but in looking at this, I wondered now suppose that
+
+7 the stock goes up in value because of extraneous things.
+
+8 Can you recover because it would have been still higher?
+
+9 MR. COUGHLIN: Justice Breyer, I think the
+
+10 Government says that we can recover. We believe that we
+
+11 could recover. In other words, it didn't go up as high.
+
+12 I think it is -- as Justice Ginsburg said, it's the same
+
+13 difference. You lost $50 whether you lost it --
+
+14 JUSTICE BREYER: What happens with the
+
+15 transaction causation? Because I think you'd probably say
+
+16 with your transaction causation in the -- in the case that
+
+17 the -- that the lie wasn't there, we wouldn't have bought
+
+18 the stock.
+
+19 MR. COUGHLIN: Right.
+
+20 JUSTICE BREYER: All right. If you say that,
+
+21 they come along and say, okay, you wouldn't have bought
+
+22 the stock. I'll tell you, here's one bad thing happened.
+
+23 You lost your $30. But there were six good things that
+
+24 happened that you never thought of, and so the stocks were
+
+25 four times what it would have been and you'd never have
+
+1111 14th Street, NW, Suite 400
+
+40
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 those gains, just as you'd never have the losses. How
+
+2 does that factor?
+
+3 MR. COUGHLIN: Well, I dream to have those
+
+4 clients that gain four times, but since we don't usually
+
+5 have those and it is the drops that we're really talking
+
+6 about. The but-for transaction, when they say, hey, and
+
+7 -- and you buy it, and then it goes up, and then you learn
+
+8 about the fraud -- and I'm assuming that there's no drop
+
+9 but you can prove that the inflation was there and never
+
+10 came out, and can you prove that it should have gone to
+
+11 $250? You know? I'd have to prove that it went to $250.
+
+12 I agree with you. You know, I would agree with you that,
+
+13 you know, that I'd get an expert. Mr. Fischel would come
+
+14 in and testify that it should have been worth $250. And
+
+15 that's what, you know, would happen.
+
+16 JUSTICE GINSBURG: But there's a problem. Take
+
+17 the concrete facts of this case. The bad news about --
+
+18 what is it? Albuterol?
+
+19 MR. COUGHLIN: AlSpiros.
+
+20 JUSTICE GINSBURG: Yes. That bad news didn't
+
+21 come out until 9 months after the end of the period that
+
+22 you identify for your class. You say the class is April
+
+23 15th, '97 until February 24th, '98 purchases. The bad
+
+24 news doesn't come out until November of '98. So how could
+
+25 you possibly hook up your loss to the news that comes out
+
+1111 14th Street, NW, Suite 400
+
+41
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 later?
+
+2 MR. COUGHLIN: If -- if we move to the proof
+
+3 stage, the people that purchased in the class period and
+
+4 sold before that announcement will not be able to recover
+
+5 that 20 cent drop at the end. People who purchased during
+
+6 the class period and held until all of the inflation was
+
+7 taken out by either final announcement from the FDA or
+
+8 when they announced they were abandoning the product would
+
+9 be able to recover from that inflation because all of the
+
+10 inflation was taken out as to AlSpiros.
+
+11 JUSTICE GINSBURG: I -- I thought that you were
+
+12 trying to pick up on the drop that seemed to be
+
+13 attributable to the other --
+
+14 MR. COUGHLIN: Product, Ceclor?
+
+15 JUSTICE GINSBURG: Yes, and that's what -- well,
+
+16 there -- there are two frauds going on. The first one is
+
+17 discovered and the price drops substantially. And I
+
+18 thought you were trying to attribute that drop to the
+
+19 other product.
+
+20 MR. COUGHLIN: There -- there are some things in
+
+21 that drop attributable to the other product. The sales
+
+22 force insufficiency, as well as management integrity, and
+
+23 there are some other things that weren't pleaded well.
+
+24 First of all, we were being conservative when we
+
+25 pled this and we pled the rises. We pled the insider
+
+1111 14th Street, NW, Suite 400
+
+42
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 sales. We pled the stock offerings. And all the
+
+2 statements were in that earlier period. They make the
+
+3 announcement. The stock starts down, 50 percent drop.
+
+4 It's walked down another 40 percent after that. Finally,
+
+5 you get the FDA announcement.
+
+6 And we certainly could have, and -- and maybe
+
+7 should have, taken that period out right then. The
+
+8 district court ended up having problems with it. The
+
+9 Ninth Circuit, in their questionings -- Judge Reinhardt
+
+10 had problems with the -- with that. And they gave us
+
+11 leave to replead, and we told them at that time if that's
+
+12 what we need to do, is tie that in also, if that's a loss
+
+13 that we intend to recover for or seek recovery for, then
+
+14 we'll do that and we'll go back to replead. If there are
+
+15 statute of limitations, that's a different issue, but we
+
+16 can plead that and could have.
+
+17 JUSTICE GINSBURG: Well, one of the problems for
+
+18 me is the Ninth Circuit seems to think that it has a
+
+19 theory -- and it is the theory of your complaint -- that's
+
+20 different from, say, the Third Circuit. The Ninth Circuit
+
+21 says we recognize that the loss is you bought it at an
+
+22 inflated price, and the Ninth Circuit thinks that's
+
+23 different from a circuit that says you don't have any loss
+
+24 until somehow the bad news comes out and there's a drop in
+
+25 price as a result.
+
+1111 14th Street, NW, Suite 400
+
+43
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 MR. COUGHLIN: I wish that the circuit said if
+
+2 the bad news came out, but the Koger case and -- and
+
+3 emergent out of the Second Circuit seem a little stronger
+
+4 and talk about almost the only way it can happen is with a
+
+5 corrective disclosure. And that's -- and that's a concern
+
+6 of ours.
+
+7 The Ninth Circuit law is pretty clear, is very
+
+8 clear actually, with the three cases, Blackie, Green,
+
+9 Judge Sneed in the Green v. Occidental case, and the Wool
+
+10 case, saying that the loss occurs at the time of purchase
+
+11 and overpayment, but recoverable damages --
+
+12 JUSTICE O'CONNOR: Well, that may be clear but
+
+13 it may be clearly wrong.
+
+14 (Laughter.)
+
+15 MR. COUGHLIN: That -- it -- it -- I understand
+
+16 that, Your Honor. I'm hoping that it's not clearly wrong.
+
+17 It's been on the books for 30 years. It was the law. It
+
+18 was the law on the books at the time that this was
+
+19 codified. There was no real or perceived conflict in the
+
+20 circuits at the time this was codified.
+
+21 JUSTICE KENNEDY: Well, I -- I thought that
+
+22 Judge Sneed recognized that if the stock was sold before
+
+23 any loss was incurred, even if there's been a
+
+24 misrepresentation, recovery should be denied.
+
+25 MR. COUGHLIN: That's correct.
+
+1111 14th Street, NW, Suite 400
+
+44
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 JUSTICE KENNEDY: All right.
+
+2 MR. COUGHLIN: That's absolutely correct.
+
+3 JUSTICE KENNEDY: That's not what the Ninth
+
+4 Circuit said in this case.
+
+5 MR. COUGHLIN: The Ninth Circuit didn't -- it
+
+6 cited -- it cited the Green v. Occidental opinion and the
+
+7 Blackie I believe.
+
+8 JUSTICE KENNEDY: But I'm submitting it cited it
+
+9 for the wrong conclusion.
+
+10 MR. COUGHLIN: I -- I think it -- I think it --
+
+11 JUSTICE SCALIA: It cited -- I thought cited
+
+12 Knapp and -- which, in turn, cited Gray or -- or --
+
+13 MR. COUGHLIN: There are all the appendants.
+
+14 There's -- there's the three that started off. Knapp is
+
+15 the ATV case that we tried, and that was Judge Wallace and
+
+16 he relied on Gray. All of them are the same in that you
+
+17 have to -- to get by the pleading stage, that you have to
+
+18 plead the inflation and identify the causes for it. It's
+
+19 for proof and expert testimony and discovery to see if you
+
+20 have recoverable damages.
+
+21 If this Court were to say, no, we want
+
+22 identifiable drops, then we could do that. You know, if
+
+23 this Court were to say, listen, you've got to identify the
+
+24 drops, whether they -- whether you can connect them up to
+
+25 the fraud at this time, we want a full theory in the
+
+1111 14th Street, NW, Suite 400
+
+45
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 complaint -- and we can do that. If that's what the -- if
+
+2 that's what this Court directs us to do, then we'll do
+
+3 that and we'll put in all the losses, as well as the
+
+4 rises, as well as identifying the causes. You know, we'll
+
+5 do that in -- in the complaints.
+
+6 Sometimes what -- what we're saying and where we
+
+7 differ a little bit from the Government is it's hard to
+
+8 necessarily tie one of those innocuous disclosures that
+
+9 may be taking the inflation out back to the
+
+10 misrepresentation, and yet the stock is dropping and
+
+11 inflation is coming out. And that's what we're worried
+
+12 about. And there are other market forces that may take it
+
+13 out. So at the pleading stage, we're worried about the
+
+14 burden that almost puts us in -- in the position of having
+
+15 an expert come in, and we think that's for a later time
+
+16 for summary judgment or trial.
+
+17 JUSTICE SCALIA: I mean, if you're worried about
+
+18 it, why aren't you worried about it later, as well as
+
+19 earlier? I mean, if that's going to be a problem, we
+
+20 should know it sooner rather than later, rather than --
+
+21 you know. If you say that's terribly difficult to prove,
+
+22 we can hardly ever prove it, well, good. Then let's get
+
+23 rid of this -- rid of the case earlier.
+
+24 MR. COUGHLIN: I don't think I said --
+
+25 JUSTICE SCALIA: I don't -- I don't know why --
+
+1111 14th Street, NW, Suite 400
+
+46
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 why it's desirable not to include that at the pleading
+
+2 stage.
+
+3 MR. COUGHLIN: I don't think I said that that
+
+4 was difficult or hard to prove. I said it was difficult
+
+5 or hard to plead. It is difficult and hard to plead, and
+
+6 -- and to tie that -- those inflationary things back up
+
+7 because you only get to recover -- you only get to recover
+
+8 for things that took the inflation out. I mean, if the
+
+9 stock drops -- let's say -- let's say the stock drops $60
+
+10 or $50, and where he paid $60, it drops down to $10. But
+
+11 half of that -- half of that drop is unrelated to the
+
+12 fraud absolutely. Well, under a 10(b) cause of action,
+
+13 you don't get to recover for that market loss. We have to
+
+14 tie -- that's why Judge Sneed in Occidental -- in Green v.
+
+15 Occidental tied it right to the overpayment because Judge
+
+16 Sneed was worried about -- about the issuers being
+
+17 insurers for the market.
+
+18 In other words, if the stock -- if -- if a down
+
+19 market takes the stock way past what you paid over
+
+20 inflation, defendants should not be liable for the whole
+
+21 market loss as they might in a section 33 case. And
+
+22 that's really what the -- what the point is, to fix the
+
+23 loss.
+
+24 That's why Judge Sneed fixed the loss at the
+
+25 date of overpayment because Judge Sneed didn't want
+
+1111 14th Street, NW, Suite 400
+
+47
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 somebody coming in and saying, hey, you paid $60 for a
+
+2 stock that was really worth $30. When you brought suit,
+
+3 the stock was down at $10. Do you get to pay -- do you
+
+4 get $50? And Judge Sneed said no. You only get the
+
+5 overpayment on the date.
+
+6 Admittedly in up or down markets, what
+
+7 petitioners and the Government would suggest might move
+
+8 the damages up or down. In an up market -- you know,
+
+9 we're talking about something that was going down here.
+
+10 In an up market, you might get a bigger drop.
+
+11 JUSTICE BREYER: But that's a --
+
+12 JUSTICE O'CONNOR: That's why the term loss
+
+13 causation is used because under the statute it's -- it's a
+
+14 loss experienced by the plaintiff caused by the
+
+15 misrepresentation.
+
+16 MR. COUGHLIN: Justice O'Connor, I -- I couldn't
+
+17 agree more, and that's why it goes to proof. It says this
+
+18 is a proof statute --
+
+19 JUSTICE O'CONNOR: Well --
+
+20 JUSTICE SOUTER: No.
+
+21 MR. COUGHLIN: I agree. It has to be alleged.
+
+22 JUSTICE O'CONNOR: The Government said you don't
+
+23 want unnecessary discovery. You have to put out pleadings
+
+24 that make clear what your theory is --
+
+25 MR. COUGHLIN: There's no doubt.
+
+1111 14th Street, NW, Suite 400
+
+48
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 JUSTICE O'CONNOR: -- which yours don't do.
+
+2 MR. COUGHLIN: They don't do well enough in this
+
+3 case.
+
+4 JUSTICE SOUTER: No, but what -- it seems to me
+
+5 that what Judge Sneed's theory boils down to is this. You
+
+6 cannot recover any loss except the loss that was caused by
+
+7 the fraud in question. In theory, that limit is
+
+8 established by the inflation at the time you purchase. So
+
+9 that is the limit of your recovery, but it does not follow
+
+10 from that that you have anything to recover for until you
+
+11 have your actual loss if you're pleading a -- a fraud-on-
+
+12 the-market theory. Isn't that fair to say?
+
+13 MR. COUGHLIN: That's fair to say.
+
+14 JUSTICE SOUTER: Okay.
+
+15 MR. COUGHLIN: I agree with that, Your Honor.
+
+16 That is -- that's exactly what -- that's exactly what
+
+17 Judge Sneed did. And when we were talking about this
+
+18 statute here, it talks about us proving those -- that loss
+
+19 causation and tying it to the actual omissions.
+
+20 And it follows two sections that deal with
+
+21 pleading, material -- deal with particularized pleading as
+
+22 to falsity and as to scienter. And this statute says that
+
+23 if you don't plead one or two with the particularity
+
+24 required, then the complaint shall be dismissed.
+
+25 This section here --
+
+1111 14th Street, NW, Suite 400
+
+49
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 JUSTICE SCALIA: So -- so -- I'm not sure I
+
+2 understand what -- I'm -- I'm really coming to believe
+
+3 that this is a misunderstanding. It seems to me you're
+
+4 now saying that the loss does not occur when you make the
+
+5 purchase. It is just that that is the limit on your loss,
+
+6 the difference between what the stock would have cost you
+
+7 had the -- the absence of gold been known and what you
+
+8 actually paid.
+
+9 MR. COUGHLIN: It's the limit on your loss.
+
+10 JUSTICE SCALIA: But that is not your loss.
+
+11 You're saying now the loss has to occur later when the
+
+12 price goes down and you're thereby harmed. Is that it?
+
+13 MR. COUGHLIN: No. I apologize if I haven't
+
+14 been clear. The loss occurs at the time you purchase, but
+
+15 you cannot recover any portion of the loss until the
+
+16 inflation is taken out.
+
+17 JUSTICE SOUTER: But the -- let's approach it a
+
+18 different way. On a fraud-on-the-market theory, there are
+
+19 two facts I think that can be assumed. Number one, there
+
+20 was no misrepresentation that was made peculiarly to you.
+
+21 The misrepresentation was to the broad market and was
+
+22 reflected in the broad market price.
+
+23 MR. COUGHLIN: Correct.
+
+24 JUSTICE SOUTER: Number two, you as a purchaser
+
+25 do not know about the fraud until the market finds out
+
+1111 14th Street, NW, Suite 400
+
+50
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 about the fraud.
+
+2 MR. COUGHLIN: Correct.
+
+3 JUSTICE SOUTER: If that is the case, then I
+
+4 don't see that it makes any sense at all to talk about
+
+5 your having a cause of action the day after you purchase
+
+6 before the market has found out and before the fraud is
+
+7 known. I mean, this -- this strikes me as an exercise in
+
+8 -- in an inconsistent theory.
+
+9 MR. COUGHLIN: And here's why it matters, if I
+
+10 might, is that what petitioners and perhaps the Government
+
+11 would say is that you're right. You don't find out about
+
+12 the fraud until the whole market finds out. But before
+
+13 you find out about the fraud, there can be terrific drops
+
+14 in the stock, which we think we could prove are related to
+
+15 the fraud. Okay? Because we've had certainly a market
+
+16 loss to what we paid. The stock has dropped down. We
+
+17 don't know about fraud yet. All of a sudden, there's a
+
+18 disclosure of fraud, and we all learn about it.
+
+19 JUSTICE SCALIA: You don't know about it, but
+
+20 the market knows about it. That's -- that's why the stock
+
+21 has gone down.
+
+22 MR. COUGHLIN: Not necessarily, Your Honor. In
+
+23 other words, you can lower expectations by lower revenue
+
+24 numbers. Other market forces like a competitor coming out
+
+25 with a product. There are other things that can lower
+
+1111 14th Street, NW, Suite 400
+
+51
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 that. I'm sorry. And when it gets down there, the rule
+
+2 that we fear is being urged is that you only get the drop
+
+3 from either the admission of the fraud or the full
+
+4 disclosure of the fraud, and in the complex cases, the
+
+5 Enrons, the Worldcoms, the Healthsouths of the world, that
+
+6 didn't happen even until long after they were in
+
+7 bankruptcy. And if we only get the drop, the $3 drop at
+
+8 the end, or the 80 cents to 50 cents that the Government
+
+9 just returned $750 million to in the Worldcom, with every
+
+10 large institution in the country already out of that
+
+11 stock, well, then those that were sought to be protected
+
+12 by the Reform Act aren't.
+
+13 We have to be able to plead certainly -- and --
+
+14 and we can -- the -- the market moving down. And then
+
+15 that's at the pleading stage, a plain 8(a) statement. And
+
+16 then we have to prove and tie that back up to get damages.
+
+17 JUSTICE GINSBURG: I thought that that's what
+
+18 the Government was getting at in the passage I read
+
+19 earlier where they don't make it -- there must be a
+
+20 statement by the issuer of the correction. They have more
+
+21 leeway.
+
+22 But you -- the Ninth Circuit -- the litany that
+
+23 it's using, the -- the set of cases -- for example,
+
+24 plaintiffs were harmed when they paid more for the stock
+
+25 than it was worth. The -- the notion that's repeated,
+
+1111 14th Street, NW, Suite 400
+
+52
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 that your loss is established on the day you purchase the
+
+2 price, that's just wrong, and I think we would have to at
+
+3 a minimum say that.
+
+4 MR. COUGHLIN: I -- I don't agree with that,
+
+5 Your Honor. I agree with the Ninth Circuit that you
+
+6 suffer the loss of overpayment. You have something in
+
+7 your hand that's worth half as much as its true value.
+
+8 JUSTICE GINSBURG: You -- you seem --
+
+9 MR. COUGHLIN: Can you recover? Is it like the
+
+10 UCC where you've got to mitigate your damages? You cannot
+
+11 recover those damages even though you've suffered them.
+
+12 You have a stock certificate that's worth half of what
+
+13 it's worth even in an efficient market. And when the
+
+14 truth comes out, that's true, you'll be damaged, and if
+
+15 you sell it before then, you get no recovery.
+
+16 JUSTICE SOUTER: But aren't -- aren't you --
+
+17 aren't you, in -- in effect, equating two different
+
+18 things: one, a loss that you suffer which you say occurs
+
+19 immediately upon purchase of the inflated stock; and on
+
+20 the other hand, a limit on the loss that is attributable
+
+21 to the fraud? Those are two different things. I
+
+22 understand the limit on the loss. I don't understand the
+
+23 -- the suffering of the loss in fact.
+
+24 MR. COUGHLIN: Well, Your Honor, I think that
+
+25 that's an interesting statement because if the limit is --
+
+1111 14th Street, NW, Suite 400
+
+53
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 let's say for a $100 stock that's worth $50 and you
+
+2 overpay by $50, let's say that's the limit of our loss,
+
+3 even if the stock --
+
+4 JUSTICE STEVENS: Mr. -- Mr. Coughlin, I'm
+
+5 afraid you've had a full opportunity to explain this very
+
+6 difficult case. You'll have to -- your time is up.
+
+7 MR. COUGHLIN: Thank you, Justice Stevens.
+
+8 JUSTICE STEVENS: Mr. Sullivan, you have 2
+
+9 minutes.
+
+10 REBUTTAL ARGUMENT OF WILLIAM F. SULLIVAN
+
+11 ON BEHALF OF THE PETITIONERS
+
+12 MR. SULLIVAN: Justice Stevens, and may it
+
+13 please the Court:
+
+14 One point I think I want to focus upon for the
+
+15 -- for the Court is -- is the comment in the Senate report
+
+16 which said that the damages had to be a result of the
+
+17 cause -- the -- the misrepresentation, not other factors.
+
+18 I think what we've just heard about, in terms of the
+
+19 decline in the market value, is -- is a look at a number
+
+20 of the other factors. And there are disclosures that are
+
+21 related to fraud and there are disclosures that are not
+
+22 related to fraud. And if there was a misrepresentation in
+
+23 the marketplace, that -- that is one thing. If a new
+
+24 competitor comes out with a new product, that's not --
+
+25 JUSTICE BREYER: What's the problem here? He --
+
+1111 14th Street, NW, Suite 400
+
+54
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 I mean, well, you heard what he said. And it sounded to
+
+2 me that he agrees with you he has to prove that in fact
+
+3 the fraud not only led to the overpayment, but that also
+
+4 later on the client who bought the stock lost money
+
+5 because the market went down, and that default, which cost
+
+6 him the money, is caused by the fraud.
+
+7 MR. SULLIVAN: And -- and --
+
+8 JUSTICE BREYER: When it comes out, it just
+
+9 comes out in subtle ways as well as direct ways.
+
+10 Now, do you agree with that? If they -- if you
+
+11 do, it seems to me there's no case here.
+
+12 MR. SULLIVAN: I would -- I would agree with you
+
+13 and -- and I would just --
+
+14 JUSTICE BREYER: Where do you disagree?
+
+15 MR. SULLIVAN: -- I would just add -- I don't
+
+16 disagree. I would add that the cause is not by other
+
+17 factors because I think when we heard the discussion about
+
+18 the -- the reduction of inflation, we were hearing about
+
+19 factors other than that.
+
+20 I just want to close by saying the loss
+
+21 causation codification in the Reform Act was meaningful
+
+22 and was part of the Reform Act. And that really indicates
+
+23 that this is a pleading standard that we -- we -- we're
+
+24 dealing with, that the cause of action for a securities
+
+25 fraud has to be stated at the time. And that's consistent
+
+1111 14th Street, NW, Suite 400
+
+55
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+1 with what the Reform Act was trying to achieve which is to
+
+2 give the defendants a chance to respond and actually have
+
+3 the motion to dismiss serve as a meaningful screen in
+
+4 dealing with those cases.
+
+5 Thank you. 
+
+
+6 JUSTICE STEVENS: Thank you, Mr. Sullivan.
+
+
+7 The case is submitted.
+
+
+8 (Whereupon, at 11:34 a.m., the case in the
+
+
+9 above-entitled matter was submitted.)
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+1111 14th Street, NW, Suite 400
+
+56
+Alderson Reporting Company 1-800-FOR-DEPO
+
+Washington, DC 20005
+
+

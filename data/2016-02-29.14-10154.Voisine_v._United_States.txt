@@ -1,0 +1,2981 @@
+Official
+1        IN THE SUPREME COURT OF THE UNITED STATES
+
+1
+
+2                  x
+
+3 STEPHEN L. VOISINE AND            :
+
+4 WILLIAM E. ARMSTRONG, III,        :
+
+5             Petitioners           :  No. 1410154
+
+6        v.                         :
+
+7 UNITED STATES.                    :
+
+8                  x
+
+9                        Washington, D.C.
+
+10                        Monday, February 29, 2016
+
+11
+
+12               The aboveentitled matter came on for oral
+
+13 argument before the Supreme Court of the United States
+
+14 at 10:03 a.m.
+
+15 APPEARANCES:
+
+16 VIRGINIA G. VILLA, ESQ., St. Croix Falls, Wis.; on
+
+17    behalf of Petitioners.  Appointed by this Court.
+
+18 ILANA H. EISENSTEIN, ESQ., Assistant to the Solicitor
+
+19    General, Department of Justice, Washington, D.C.; on
+
+20    behalf of Respondent.
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Alderson Reporting Company
+
+Official
+1                      C O N T E N T S
+
+2
+
+2 ORAL ARGUMENT OF                                  PAGE
+
+3 VIRGINIA G. VILLA, ESQ.
+
+4    On behalf of the Petitioners                     3
+
+5 ORAL ARGUMENT OF
+
+6 ILANA H. EISENSTEIN, ESQ.
+
+7    On behalf of the Respondent                      25
+
+8 REBUTTAL ARGUMENT OF
+
+9 VIRGINIA G. VILLA, ESQ.
+
+10    On behalf of the Petitioners                     43
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Alderson Reporting Company
+
+Official
+1                   P R O C E E D I N G S
+
+3
+
+2                                            (10:03 a.m.)
+
+3             CHIEF JUSTICE ROBERTS:  We'll hear argument
+
+4 first this morning in Case 1410154, Voisine and
+
+5 Armstrong v. United States.
+
+6             Ms. Villa.
+
+7            ORAL ARGUMENT OF VIRGINIA G. VILLA
+
+8               ON BEHALF OF THE PETITIONERS,
+
+9                  APPOINTED BY THIS COURT
+
+10             MS. VILLA:  Mr. Chief Justice, and may it
+
+11 please the Court:
+
+12             There are three reasons to exclude reckless
+
+13 misdemeanors from the phrase "use... of physical force"
+
+14 as occurs in 921(a)(33).
+
+15             The first is that it's consistent with the
+
+16 definition of use that this Court has implemented in
+
+17 other cases.  Second, it is consistent with the
+
+18 commonlaw definition of battery.  And, third, it is
+
+19 consistent with the intentionality inherent in domestic
+
+20 violence.
+
+21             JUSTICE GINSBURG:  But it's inconsistent
+
+22 with the treatment of bodily injury.  I mean, I think
+
+23 you agree, because the Court so held, that either bodily
+
+24 injury or offensive touching is the act  satisfies the
+
+25 act requirement.  And you say if there's bodily injury,
+
+Alderson Reporting Company
+
+Official
+1 then reckless is enough, but if it's only offensive
+
+4
+
+2 touching, then you need a higher mental state,
+
+3 intentional or knowing?  Why  if  if both acts
+
+4 qualify equally, why shouldn't the same state of mind
+
+5 attach to each?
+
+6             MS. VILLA:  The same state of mind should
+
+7 attach to each, and that is why intentionality is the
+
+8 state of mind that under the common law can attach to
+
+9 each.  Because intentional battery covered both the
+
+10 offensive physical contact as well as the physical
+
+11 injury, whereas recklessness covers only bodily injury.
+
+12             JUSTICE SOTOMAYOR:  I'm sorry.
+
+13 Intentionality, in my mind, is misperceived, because you
+
+14 think  you're talking about intentionality as the act
+
+15 of causing the injury.  But I understood commonlaw
+
+16 battery to be the intentional act that causes the
+
+17 injury; i.e., if a husband threw a bottle at a wife,
+
+18 doesn't intend to hit her, but the bottle smashes
+
+19 against the wall and the glass embeds itself in her
+
+20 face, under the common law that would have been a
+
+21 battery because the act, the intentional act, was to
+
+22 throw the bottle.  It wasn't  it wasn't to cause the
+
+23 injury, but the act caused the injury.
+
+24             MS. VILLA:  I respectfully disagree, Your
+
+25 Honor.  Under 
+
+Alderson Reporting Company
+
+Official
+1             JUSTICE SOTOMAYOR:  I know.  If we end up
+
+5
+
+2 disagreeing because the government points to many
+
+3 examples where this is the case, how do you win?
+
+4             MS. VILLA:  That's only on injury cases, and
+
+5 so you don't have that same confirmation or that same
+
+6 organization of the law with respect to offensive
+
+7 physical contact.  And so my clients were convicted of
+
+8 offensive physical contact under a  under the
+
+9 categorical approach.  And so at that point, you can't
+
+10 say that they were convicted of anything that caused
+
+11 physical injury.
+
+12             JUSTICE SOTOMAYOR:  But  but the point is
+
+13 that the contact was in  was  some contact had to
+
+14 have occurred.
+
+15             MS. VILLA:  Correct.
+
+16             JUSTICE SOTOMAYOR:  The question is whether
+
+17 there was an act that caused that contact regardless of
+
+18 whether it was intentional or reckless.
+
+19             MS. VILLA:  The problem under the common law
+
+20 is that not all touches were considered to be illegal.
+
+21 And so that is why in Johnson, this Court stated the
+
+22 common law as being the intentional application of
+
+23 unlawful force.
+
+24             JUSTICE SOTOMAYOR:  Well, we were talking
+
+25 about commonlaw battery as it applied to  definition
+
+Alderson Reporting Company
+
+Official
+1 as it applied in a domestic setting.  So I'm talking
+
+6
+
+2 only about a domestic setting 
+
+3             MS. VILLA:  This 
+
+4             JUSTICE SOTOMAYOR:   which this is.
+
+5             MS. VILLA:  This is serious but the problem
+
+6 is, is that the government's formulation of any reckless
+
+7 conduct satisfying use of physical force is that it's
+
+8 not limited to batteries.
+
+9             JUSTICE ALITO:  But the mens rea of
+
+10 recklessness could apply to the act of touching or to
+
+11 whether the act is offensive.  Now, under Maine law, to
+
+12 which of those does it apply?  It doesn't necessarily
+
+13 have to apply to both.
+
+14             MS. VILLA:  Statutorily it does apply to
+
+15 both.
+
+16             JUSTICE ALITO:  So if someone recklessly
+
+17 touches another person and that is offensive, that's a
+
+18 battery under Maine law?
+
+19             MS. VILLA:  Yes, Your Honor.  And the
+
+20 government cites a case exactly for that  proposition,
+
+21 and that's the Gantnier case.
+
+22             JUSTICE ALITO:  And what happened in that
+
+23 case?
+
+24             MS. VILLA:  It was whether the defendant got
+
+25 a  an instruction on the simple battery rather than
+
+Alderson Reporting Company
+
+Official
+1 the sexual offensive contact, and so that the Court
+
+7
+
+2 reversed it because it said that it was a proper
+
+3 instruction.
+
+4             JUSTICE ALITO:  No, I mean what were the
+
+5 facts?  What did this person do that was  involved a
+
+6 reckless touching?
+
+7             MS. VILLA:  He went to wake in  his
+
+8 stepdaughter, I believe, who was asleep on a couch,
+
+9 reached underneath a blanket and  to shake her awake,
+
+10 and touched her naked body.
+
+11             JUSTICE ALITO:  Well, that  that seems
+
+12 like the recklessness there goes to the  the offensive
+
+13 nature of the touching, not to the touching itself.
+
+14             MS. VILLA:  No.
+
+15             JUSTICE ALITO:  In other words, there's the
+
+16 act of touching, so he  he went to shake her but he
+
+17 didn't intend to touch her?
+
+18             MS. VILLA:  It was  there can be
+
+19 recklessness as to result or recklessness as to
+
+20 circumstance.  And so that is an example of recklessness
+
+21 as to circumstance by reaching underneath.  If he had
+
+22 touched her on top of clothing, it would not have been
+
+23 the same offense that could have been charged.  And so
+
+24 it was the fact that he touched her naked body and could
+
+25 not see that she was naked.
+
+Alderson Reporting Company
+
+Official
+1             JUSTICE ALITO:  I don't really understand
+
+8
+
+2 the  the answer.  He didn't intend to touch her at
+
+3 all?  That was his intent?
+
+4             MS. VILLA:  No, he did intend to touch her.
+
+5             JUSTICE ALITO:  Okay.  Well, that's what I'm
+
+6 saying.  They are two different things.  Did the  does
+
+7 the person intend to touch  does the person intend to
+
+8 touch in an offensive way?
+
+9             MS. VILLA:  Correct.
+
+10             JUSTICE ALITO:  And so then it seems like
+
+11 your answer to my question is that it is in the latter
+
+12 that has the mens rea of recklessness.
+
+13             MS. VILLA:  Under the Maine statute, it is
+
+14 the latter that has the mens rea of recklessness.  Under
+
+15 the common law, it is the intent to have unlawful
+
+16 contact.  And so that is why not all touches qualify,
+
+17 which is why you can't just have an intent to touch.
+
+18 You also have to have an intent to touch unlawfully.
+
+19             JUSTICE KAGAN:  Can I 
+
+20             JUSTICE KENNEDY:  What is it that indicates
+
+21 that the Federal statute tracks the common law?  The
+
+22 Federal statute gives its own definition.
+
+23             MS. VILLA:  Your Honor, the Federal statute
+
+24 is the use of physical force, and so it is only because
+
+25 of Castleman having adopted the common law for purposes
+
+Alderson Reporting Company
+
+Official
+9 1 of force.  But Your Honor is absolutely correct, that we 2 are not construing the common law here.  We are 3 construing the phrase "use... of physical force."  And 4 the problem with the government's case is that that use 5 of physical force can occur in reckless driving context. 6 If I am driving a car and I have a family member that 7 qualifies under 922  921(a)(33) in with me and I get 8 into an accident due to reckless conduct, that would 9 qualify as a predicate under this statute according to 10 the government's construction. 11             JUSTICE KAGAN:  Ms. Villa, can I understand 12 what you said?  You said you're relying primarily, then, 13 not on the commonlaw history but on the  the  just 14 the language, "use... of physical force" and what that 15 means, the ordinary meaning of those words, is that 16 correct? 17             MS. VILLA:  The Court has to deal with the 18 ordinary meaning of those words.  The Court can take  19 from the common law, it can take from many places, but 20 the ordinary mean of use is to carry out an action or 21 purpose by means of.  In Castleman itself  22             JUSTICE KAGAN:  But why isn't  any of 23 these examples that people give about the reckless 24 behavior?  Why  why couldn't that be a use of force? 25 I mean, Justice Sotomayor said throwing a plate against
+Alderson Reporting Company
+
+Official
+10 1 a wall.  You say, well, I have a better example.  It's 2 driving a car really fast in a way that will endanger 3 all the inhabitants.  But, of course, we've said a 4 number of times  I mean, we said it most recently in 5 the Sykes case that a car is  is an instrument of 6 force when used recklessly in that way.  So why aren't 7 all of these kinds of examples consistent with the 8 ordinary meaning of use of force? 9             MS. VILLA:  There's a substantive 10 difference, though, between driving recklessly and not 11 intending to harm the person that is with you in the car 12 and throwing an object at a person.  And so, really, the 13 example of throwing an object at a person is that 14 intentional use of force against that other person. 15 That defendant can testify all day and all night that I 16 didn't intend to  17             JUSTICE KAGAN:  Of course, you're  you're 18 adding language to the statute now because you said 19 against another person, and that is indeed the language 20 in Leocal.  But in Leocal, we said we're not going to 21 decide the question here, which is just the phrase "use 22 of physical force," not against another person, just the 23 phrase, "use... of physical force." 24             And tell me  I mean, I guess your car 25 example doesn't move me very much, so see if you can
+Alderson Reporting Company
+
+Official
+1 give me an example which would be reckless behavior
+
+11
+
+2 under a battery statute but which you think would not
+
+3 involve the use of force.
+
+4             MS. VILLA:  I had a client once who pled
+
+5 guilty to a misdemeanor where he was actually running
+
+6 away from a guy who was trying to beat him up.  And he
+
+7 closed the door very forcefully behind him and caught
+
+8 the guy's fingers in the  in the door.
+
+9             JUSTICE KAGAN:  You just said it.  He closed
+
+10 the door very forcefully behind him.
+
+11             MS. VILLA:  He did.
+
+12             JUSTICE KAGAN:  That's the  that's the use
+
+13 of physical force.
+
+14             MS. VILLA:  It was the use of physical
+
+15 force.  But what he explained is that, I closed the
+
+16 door.  The door hit the guy.  I didn't mean to hit the
+
+17 guy.  I knew he was behind me.
+
+18             JUSTICE KAGAN:  I know.  And that's why it's
+
+19 reckless and not knowing or whatever the other term is.
+
+20 But  but you're still using physical force.  And
+
+21 that's the  that's the term that has to be interpreted
+
+22 here, is the "use... of physical force."
+
+23             MS. VILLA:  But the Court has said, with all
+
+24 due respect, that it is to  carrying out an action or
+
+25 purpose by means of force.  The  my client closing the
+
+Alderson Reporting Company
+
+Official
+12 1 door, he didn't mean to hurt the other guy.  He meant to 2 close the door.  And so he was using force to close the 3 door, but he wasn't using force to hurt the other guy. 4             JUSTICE KAGAN:  Well, quite right.  But the 5 language  I feel like I'm repeating myself a little, 6 so I'll just try it one more time.  The language is just 7 the use of force.  And what we are trying to decide is 8 whether that includes use of force that indeed is 9 carried out without an intent to harm, but is carried 10 out with an understanding that there is a risk of harm. 11 That's what recklessness is.  And  and, you know, 12 doing something like driving a car 200 miles an hour, or 13 throwing a plate, or slamming a door when somebody's 14 hand is in the vicinity, all of those things involve the 15 requisite risk and all of those things involve the use 16 of physical force. 17             MS. VILLA:  But not in the sense that the 18 Court has construed "use" in the past.  And so they have 19 in  for instance, in Smith, which was decided in 1993, 20 that case was where it was "to carry out an action or 21 purpose by means of."  And so it's not to carry out an 22 action, to close a door, by means of hurting somebody. 23 And so there is this disconnect, and that is inherent 24 because in the  in recklessness, because what you're 25 doing is that you aren't looking to hurt it.  There may
+Alderson Reporting Company
+
+Official
+1 be a risk, but that's not your purpose.
+
+13
+
+2             And so the  the whole difference between
+
+3 purposeful, knowing behavior as opposed to reckless
+
+4 behavior is  is that you have a purpose that is
+
+5 pointed someplace else with a risk that there might be a
+
+6 collateral consequence, rather than actually seeking to
+
+7 accomplish that collateral consequence.
+
+8             JUSTICE SOTOMAYOR:  Don't you have to look
+
+9 at this in the domestic violence context?  Because the
+
+10 definition, "use of force" as put in terms of a
+
+11 misdemeanor under Federal or State triable law, means 
+
+12 so it means a domestic violence.  And isn't it
+
+13 prototypical in many of these domestic violence cases
+
+14 where much of the violence employed is not direct
+
+15 violence, not hitting some  there's a lot of that, but
+
+16 there's an awful lot of the examples I raised of
+
+17 reckless conduct that leads to violence, either from
+
+18 drunkenness or from other conditions.
+
+19             You're using "use of force" as it's being
+
+20 defined in other areas.  Why does it fit into this
+
+21 domestic violence case?
+
+22             MS. VILLA:  Because domestic violence,
+
+23 according to the Castleman opinion was violence or
+
+24 nonviolent conduct that's offensive, and is offensive 
+
+25             JUSTICE SOTOMAYOR:  That's the offensive
+
+Alderson Reporting Company
+
+Official
+1 touching prong.  That has nothing 
+
+14
+
+2             MS. VILLA:  Excuse me?
+
+3             JUSTICE SOTOMAYOR:  That was the offensive
+
+4 touching prong.  I'm talking about, here, the use of
+
+5 physical force prong 
+
+6             MS. VILLA:  Except for 
+
+7             JUSTICE SOTOMAYOR:   that causes injury in
+
+8 some way.
+
+9             MS. VILLA:  But it's a singular definition.
+
+10 It's "use... of physical force."  Whether it is touching
+
+11 or not, it is something that is intended to control
+
+12 one's partner.  And so if you have to use force to
+
+13 control one's partner, or you do something that is
+
+14 offensive to control one's partner, it is still the idea
+
+15 that you are implementing any level of force in order to
+
+16 achieve an end, and that end is the control inherent in
+
+17 domestic violence.
+
+18             JUSTICE GINSBURG:  The government tells us
+
+19 that this is  heavy consequences ride on this, that
+
+20 is, that many domestic violence situations would not be
+
+21 subject to prosecution under this statute on your read,
+
+22 if you require knowing or intentional, rather than
+
+23 reckless, state of mind.
+
+24             MS. VILLA:  Yes, Your Honor.
+
+25             JUSTICE GINSBURG:  Do you agree with that?
+
+Alderson Reporting Company
+
+Official
+15 1             MS. VILLA:  I don't necessarily agree with 2 that.  The reason I don't is because, as was noted in 3 footnote 8, courts have generally construed "use... of 4 physical force" to exclude reckless conduct. 5             And so there are  for instance, in 6 Castleman itself, it falls in the Sixth Circuit.  The 7 Sixth Circuit in Portela held "use of physical force 8 excludes reckless conduct."  It was not construing 9 922(g), but I would note that the State prosecutor in 10 Castleman had a statute much like that in Maine that 11 disallowed knowing, purposeful, or reckless conduct. 12 And rather than charging all of them, that prosecutor 13 restricted it to "knowing purposeful conduct." 14             JUSTICE ALITO:  Do you think that 15 prosecutors, when they are State prosecutors, when they 16 are charging these domestic violence offenses, are going 17 to be looking ahead to the consequences of the 18 particular charge for Federal firearms laws? 19             MS. VILLA:  Yes, Your Honor. 20             JUSTICE ALITO:  Do you think that's 21 realistic? 22             MS. VILLA:  Yes, Your Honor.  And that is 23 because there is a large part of the budget of  for 24 domestic violence within the Federal government that 25 goes towards training and joint task force so that there
+Alderson Reporting Company
+
+Official
+16 1 is an awareness on the part of State prosecutors exactly 2 for this purpose. 3             JUSTICE ALITO:  Well, let me ask you this, 4 which is somewhat unrelated.  So Congress passes this 5 statute, and they do not want a person who has been 6 convicted of a misdemeanor crime of domestic violence to 7 have a firearm.  Okay?  What was the year when that was 8 passed? 9             MS. VILLA:  1996, Your Honor. 10             JUSTICE ALITO:  Okay.  1996. 11             That's what they want to do.  And you agree 12 that a  that the offense of battery falls within that 13 definition; am I right? 14             MS. VILLA:  The offensive contact battery, 15 yes, Your Honor. 16             JUSTICE ALITO:  All right.  What reason is 17 there to think that when Congress did this, they wanted 18 common law battery only?  They didn't want battery as it 19 is defined in general by a great many States. 20             MS. VILLA:  Because of the  21             JUSTICE ALITO:  At  at that time, am I 22 not  is it not correct that by that time a majority of 23 the States had battery offenses that reached reckless 24 conduct? 25             MS. VILLA:  You are correct that many States
+Alderson Reporting Company
+
+Official
+1 did.  But the problem with that scenario as to what
+
+17
+
+2 Congress intended is that it did not adopt battery as
+
+3 the definition of a misdemeanor crime of domestic
+
+4 violence for purposes of 
+
+5             JUSTICE ALITO:  Well, I under  I
+
+6 understand that, but I thought you agree that "battery"
+
+7 in some sense falls within the definite  falls within
+
+8 the category of a misdemeanor crime of domestic
+
+9 violence.
+
+10             MS. VILLA:  I have to, because of the
+
+11 Castleman so ruled.
+
+12             JUSTICE ALITO:  Yeah.  Okay.  Well, if you
+
+13 agree with that  and then your argument is that they
+
+14 just  all they think about across the street is the
+
+15 common law.  So battery  common law battery, they
+
+16 don't care what the actual statutes are around the
+
+17 country.  They are just interested in the offense of
+
+18 common law battery.
+
+19             MS. VILLA:  Your Honor 
+
+20             JUSTICE ALITO:  I mean, is that realistic?
+
+21             MS. VILLA:  Your Honor, that is not my
+
+22 position.  My position is, is that common law battery,
+
+23 offensive physical contact could only be accomplished
+
+24 through intentional conduct.
+
+25             The term "use" had been construed already by
+
+Alderson Reporting Company
+
+Official
+1 this Court prior to 1996 as being an affirmative,
+
+18
+
+2 purposeful conduct that you're taking an item and making
+
+3 it your instrument, that you're accomplishing something
+
+4 with that.  And in this case, it would have been force.
+
+5             And so then if you accompany that with the
+
+6 idea of domestic violence as the intentional controlling
+
+7 of a domestic partner, all of those ideas, each one of
+
+8 them has intentionality at its core.
+
+9             And so that when Congress used this phrase
+
+10 as an element, not as a  a generic crime of battery,
+
+11 but as an element of any misdemeanor crime, it is the
+
+12 intentional use of physical force, because
+
+13 intentionality use, as well as physical force and
+
+14 domestic violence, all share that.
+
+15             JUSTICE ALITO:  I think you're losing me.  I
+
+16 thought you were argue  I thought you were
+
+17 acknowledging that reckless conduct would be sufficient
+
+18 when it is  when physical injury as opposed to
+
+19 offensive touching is involved; is that right or not?
+
+20             MS. VILLA:  Under the common law in about
+
+21 the mid 1800s, there was a subset of batteries that did
+
+22 adopt a negligent  not a negligence, but a
+
+23 recklessness factor.  But that is not the definition
+
+24 given in Johnson, and it is not the definition 
+
+25             JUSTICE GINSBURG:  What was that  what was
+
+Alderson Reporting Company
+
+Official
+1 that category?  That was the category where bodily
+
+19
+
+2 injury resulted; is that right?
+
+3             MS. VILLA:  Yes, Your Honor.
+
+4             JUSTICE GINSBURG:  So the answer to Justice
+
+5 Alito's question is, yes, that bodily injury does
+
+6 trigger this statute.
+
+7             It's the question I opened with.  If the 
+
+8 if the conduct is covered, whether it is touching or
+
+9 bodily injury, why shouldn't the state of mind match?
+
+10 Why shouldn't the same state of mind do for both bodily
+
+11 injury and offensive touching?
+
+12             MS. VILLA:  Because it would be inconsistent
+
+13 with the idea that when you adopt a common law term,
+
+14 that you adopt all of the soil that went with that
+
+15 common 
+
+16             JUSTICE KENNEDY:  Well, what's the common
+
+17 law term?
+
+18             MS. VILLA:  The common law term is the
+
+19 "battery" term as informing force.  And so in
+
+20 Castleman 
+
+21             JUSTICE KENNEDY:  Excuse me.  Let me get the
+
+22 statute.  The statute talks about "use."
+
+23             MS. VILLA:  It is "use."
+
+24             And so force was at issue in Castleman, and
+
+25 that's where this Court identified the common law
+
+Alderson Reporting Company
+
+Official
+20 1 battery  the level of force involved in a common law 2 battery as being the level of force for purposes of the 3 statute. 4             JUSTICE KAGAN:  But we wouldn't think that 5 the common law has some great definition of the word 6 "use," would we? 7             MS. VILLA:  No, Your Honor.  Which is why 8 that normal usage for use of physical force is the 9 intent  also intentional, and  10             JUSTICE KAGAN:  Yeah. 11             MS. VILLA:   so I'm just saying that  12             JUSTICE KAGAN:  I mean, I hear you today as 13 basically making an ordinary meaning argument, which I 14 think is a good thing because all the briefing on both 15 sides of this has been talking about the common law 16 until it's coming out of your ears, and it's not clear 17 to me why the common law makes any difference at all 18 here. 19             I mean, you know, Congress was operating 20 against a backdrop.  It was not the backdrop of the 21 common law; it was the backdrop of 50 States having 22 battery statutes.  There's no word in this statute which 23 is a defined  you know, which is a  a settled 24 commonlaw term. 25             So the question is, what was Congress doing?
+Alderson Reporting Company
+
+Official
+1 Congress, we said in Castleman, wanted to basically
+
+21
+
+2 capture the set of battery statutes in which  which
+
+3 were used for people engaged in domestic violence.
+
+4 Almost all of those statutes use "recklessness" within
+
+5 them.  Why isn't that the proper place to look rather
+
+6 than the common law?
+
+7             MS. VILLA:  Because Congress used a narrower
+
+8 definition than many battery statutes.  And so it
+
+9 couldn't have wholesale been adopting those battery
+
+10 statutes as  as meaning use of physical force.
+
+11             JUSTICE KENNEDY:  But Congress doesn't 
+
+12 the  the statute doesn't talk  say  say the word
+
+13 "battery."  It doesn't use it.
+
+14             MS. VILLA:  Does not use the word "battery."
+
+15             JUSTICE KENNEDY:  It defines it in  in
+
+16 this special way.
+
+17             MS. VILLA:  It defines it in a very special
+
+18 way.  And all of the parts, you have use of physical
+
+19 force which this Court had defined as  as having been
+
+20 made the user's instrument which is that intentionality
+
+21 part prior to Congress adopting this.
+
+22             It had consisted of use of physical force in
+
+23 other statutes where recklessness was excluded, and
+
+24 it's  it did not adopt  again, it doesn't say
+
+25 battery anywhere in the statute.  And so saying that
+
+Alderson Reporting Company
+
+Official
+22 1 they adopted "battery" may be a way of trying to think 2 about it, but it's not what they wrote. 3             And they also narrowed the idea of what does 4 constitute a  an appropriate misdemeanor, because 5 again, as in Castleman, the court recognized that not 6 everything under the Tennessee statute would qualify 7 because there were threats but not threats of a deadly 8 weapon. 9             All of the  the use of physical force, the 10 attempt, attempts are specific intent crimes, and so 11 that's also an intentional crime.  And then threats are 12 usually very intentional.  And so  13             JUSTICE SOTOMAYOR:  Can you please go back 14 to the question Justice Kagan asked you and not using 15 the shaking somebody, because I don't understand how 16 shaking someone doesn't constitute the use of physical 17 force.  It may not be great force, but it's  it's 18 touching. 19             What other example do you have of a reckless 20 act that wouldn't involve the use of physical force? 21 You're  you're sort of saying  22             MS. VILLA:  It's  23             JUSTICE SOTOMAYOR:   it has to be 24 intentionally offensive. 25             MS. VILLA:  Correct.
+Alderson Reporting Company
+
+Official
+1             JUSTICE SOTOMAYOR:   as opposed to 
+
+23
+
+2             MS. VILLA:  And so if the government's
+
+3 formulation were adopted, and I came up to somebody who
+
+4 I thought was my husband and I patted him on the back
+
+5 and say, hi, honey, and he turns around and it's like,
+
+6 oh, my gosh, that isn't him.
+
+7             I had  I touched him.  I intended to touch
+
+8 him.  I was mistaken as to who it was.  And so that
+
+9 person could take offense; that could be a reckless
+
+10 touching that does not involve  it involves touching
+
+11 minimally.  That could be an offense.
+
+12             JUSTICE SOTOMAYOR:  It always involves,
+
+13 however, the touching.
+
+14             MS. VILLA:  It is 
+
+15             JUSTICE SOTOMAYOR:  And the use of force to
+
+16 constitute the touching.
+
+17             MS. VILLA:  It could be by poisoning; it
+
+18 could be by taking a pen out of somebody's hands.
+
+19             JUSTICE SOTOMAYOR:  So what difference does
+
+20 it make whether it's intentional or reckless 
+
+21             MS. VILLA:  It 
+
+22             JUSTICE SOTOMAYOR:   in terms of the
+
+23 culpability involved?
+
+24             MS. VILLA:  In terms of the culpability,
+
+25 it's because it's not your intent to actually harm
+
+Alderson Reporting Company
+
+Official
+1 somebody in closing a door.
+
+24
+
+2             JUSTICE SOTOMAYOR:  But the 
+
+3             MS. VILLA:  And so 
+
+4             JUSTICE SOTOMAYOR:   use of force  and
+
+5  and we're giving examples that are not domestic
+
+6 violence examples, but that has caused a sufficiently
+
+7 offensive touching to constitute a crime.  So that's
+
+8 going to be prosecuted.
+
+9             MS. VILLA:  And it could be prosecuted for
+
+10 many reasons, including must arrest.  Some neighbor
+
+11 hears a disturbance and so calls the police.  The police
+
+12 comes and say, well, did he touch you?  She says, yeah,
+
+13 he touched me, but it wasn't a big deal.  Okay.  You
+
+14 have to be arrested.  You go in.  You go through the
+
+15 process.  You plead guilty because you get out and you
+
+16 need to go to work the next day.  Those are not the
+
+17 types of scenarios that Congress had in mind 
+
+18             JUSTICE GINSBURG:  The example that you
+
+19 gave, though, would never come under this statute,
+
+20 because there isn't a relationship.  You come up to a
+
+21 stranger, walking behind the stranger, and you think the
+
+22 stranger is your spouse.  Doesn't  that stranger is
+
+23 not related to you in the way that the statute requires.
+
+24             MS. VILLA:  That is true.  There are other
+
+25 reasons, though, where interactions between people who
+
+Alderson Reporting Company
+
+Official
+25 1 are related may not be  that the touching may occur, 2 but it may either not be wanting to be offensive such as 3 just wanting to touch somebody to wake them up instead 4 of wanting to offend them.  And so that's the 5 difference. 6             I would like to reserve the rest of my time 7 for rebuttal, please. 8             CHIEF JUSTICE ROBERTS:  Thank you, counsel. 9             Ms. Eisenstein. 10           ORAL ARGUMENT OF ILANA H. EISENSTEIN 11                ON BEHALF OF THE RESPONDENT 12             MS. EISENSTEIN:  Mr. Chief Justice, and may 13 it please the Court: 14             This Court has twice interpreted 15 Section 922(g)(9) in Hazen and Castleman, and each time 16 concluded that Congress intended to keep guns away from 17 those convicted of assault and battery under generally 18 applicable State and Federal and Tribal law. 19             Petitioner attempts to distinguish between 20 offenses that cause bodily injury and those that involve 21 offensive touching.  But as this Court already decided 22 in Castleman, that is a fallacy; that distinction is 23 elusive.  And that's because States, including those 24 that prohibit the causation of bodily injury, even those 25 offenses may include offenses that are similar in terms
+Alderson Reporting Company
+
+Official
+26 1 of degree to offensive touching.  In fact, that was what 2 was at issue at Castleman itself.  It was the bodily 3 injury prong of the Tennessee statute, not the offensive 4 touching prong. 5             And  and in that case, the bodily injury 6 could be committed in a way that involved only slight 7 injury.  And yet, this Court refused to distinguish, by 8 degree of force, batteries that qualify Section 9 922(g)(9) predicates. 10             Keep in mind that States overwhelmingly 11 define battery as  only as to the resulting injury. 12 Petitioners' role, which would limit misdemeanor crimes 13 of domestic violence to intentional conduct, would 14 require a prosecutor in those jurisdictions to prove in 15 the underlying offense not only that the contact and the 16 push, the hit, the grab was intentional, but that 17 prosecutor would also have to show that the abuser 18 intended the resulting injury in order to prove the 19 battery offense under the vast majority of State and 20 under Federal law. 21             CHIEF JUSTICE ROBERTS:  What's so bad about 22 that?  I mean, given her door example, for example, why 23 should the accidental or perhaps you would say she  24 you know, he or she knew that the person was close, why 25 should that constitute misdemeanor crime of domestic
+Alderson Reporting Company
+
+1 violence?
+
+Official
+
+27
+
+2             MS. EISENSTEIN:  Well, in part because
+
+3 Congress intended to cover batteries.  And the way 
+
+4 not only at common law, but also in modern  under the
+
+5 common and generic understanding of battery, define a
+
+6 battery offense as  only as to the causation of the
+
+7 resulting harm.
+
+8             And keep in mind, reckless conduct  and
+
+9 petitioner avoids the fact of what reckless conduct is.
+
+10 A reckless conduct is not an involuntary or a negligent,
+
+11 or even an accidental act.  Reckless conduct is
+
+12 voluntary conduct.  It's conduct where an individual
+
+13 chooses to act in conscious disregard of a substantial
+
+14 and known risk of harm.
+
+15             So if the  if the person in your example,
+
+16 Mr. Chief Justice, slammed the door not realizing the
+
+17 fingers were there, that's not going to be reckless
+
+18 conduct at all.  That would be negligence at best.
+
+19             CHIEF JUSTICE ROBERTS:  Well, I mean, you
+
+20 don't know; you're running away.  What if it's a close
+
+21 call?  You don't pause to think, well, gosh, maybe he's
+
+22 close enough or she's close enough that this will, you
+
+23 know, hurt his fingers or something.  I mean, is  is
+
+24 that recklessness?
+
+25             MS. EISENSTEIN:  I think to the degree to
+
+Alderson Reporting Company
+
+Official
+28 1 which the  the individual consciously disregards the 2 substantial  3             CHIEF JUSTICE ROBERTS:  Yeah.  You don't 4 want to turn around and see how close the person chasing 5 you is, if you slam the door, oh, gosh, that's going to 6 pinch the fingers or something. 7             MS. EISENSTEIN:  But  but I think that 8 the  what feels wrong about the hypothetical is not 9 the  the degree of intent of the act or  it's the 10 extent to which that person may be justified in the door 11 slamming, which was that this was an act, perhaps, of 12 selfdefense. 13             I think the more prototypical examples are 14 situations where  that this Court highlighted in 15 Castleman, where an individual takes intentional action 16 to make contact with their loved one and does so in a 17 way that is reckless as to whether, for example, if 18 there's a push, reckless as to whether his wife simply 19 stumbles backwards or falls down and injures herself. 20 And that's the way States overwhelmingly frame their 21 assault and battery statutes. 22             And that's what  23             JUSTICE KENNEDY:  Justice Ginsburg's example 24 of operating an automobile:  A husband is arguing with 25 his wife and speeds through a stop sign and the wife is
+Alderson Reporting Company
+
+Official
+1 injured.  What results under the statute?
+
+29
+
+2             MS. EISENSTEIN:  Well, Your Honor, I think
+
+3 that under an assault, a general assault and battery
+
+4 statute, it's theoretically possible that a person could
+
+5 be convicted of battering his or her spouse under those
+
+6 circumstances.  I don't think that's problematic for two
+
+7 reasons.  One is I think it's an extremely narrow
+
+8 category of offenses, and Petitioner has pointed to no
+
+9 actual examples.
+
+10             JUSTICE KENNEDY:  Well, the  the main
+
+11 statute says "recklessly causes bodily injury."
+
+12             MS. EISENSTEIN:  So there  and I agree
+
+13 with Your Honor that in theory, that type of offense
+
+14 could constitute a battery.  But to the degree to which
+
+15 that's prosecuted where  in the real world that's
+
+16 prosecuted where the  a domestic family member is the
+
+17 sole victim and that that is only a misdemeanor, that
+
+18 there's not sufficiently severe injury or other factors
+
+19 that rise to the level of a felony offense, which would
+
+20 be disqualifying under its own right, I don't think that
+
+21 that level of overbreadth is problematic under the
+
+22 statute.
+
+23             JUSTICE KENNEDY:  I'm not talking about
+
+24 overbreadth.  I'm talking about interpretation of the
+
+25 statute.  The statute includes a misdemeanor, so that
+
+Alderson Reporting Company
+
+Official
+1 disposes of that part of your answer.  The statute
+
+30
+
+2 covers a misdemeanor.
+
+3             MS. EISENSTEIN:  Correct, Your Honor.  But
+
+4 what I'm  but my point is that the type of scenario
+
+5 that  that is posited where both there would be a
+
+6 reckless, sort of a generally reckless conduct, that the
+
+7 victim happens to be, by  by chance the family member,
+
+8 as opposed to another member of the public, and thus
+
+9 qualifying as a Section 922(g)(9) predicate is narrow
+
+10 indeed.
+
+11             And the converse of that is striking.  While
+
+12 the  while the overbreadth of the hypothetical 
+
+13             JUSTICE KENNEDY:  It's narrow, but it seems
+
+14 to qualify under the statute.  I don't quite understand
+
+15 your answer.  You said, oh, well, it's narrow.  But it's
+
+16 still a violation under the meaning of the statute.
+
+17             MS. EISENSTEIN:  I think it's a violation
+
+18 under the meaning of general assault and battery, but I
+
+19 also think that there's nothing wrong with  as Justice
+
+20 Kagan suggested, with treating that type of offense as
+
+21 disqualifying.
+
+22             JUSTICE KENNEDY:  So you're saying that the
+
+23 example is covered by the statute.
+
+24             MS. EISENSTEIN:  Yes, Your Honor.
+
+25             And I think, though, that to the extent to
+
+Alderson Reporting Company
+
+Official
+31 1 which that raises a concern in terms of overbreadth, I 2 don't think this Court should be concerned about that, 3 because what Congress was worried about wasn't an 4 overbreadth of these prosecutions against family 5 members.  Instead, they went to a real underreporting, 6 under prosecution and the low conviction rates of these 7 offenses.  This was the problem that Congress addressed. 8 And the whole reason why they extended the firearms ban 9 from felony offenses  10             CHIEF JUSTICE ROBERTS:  Which of our  11 which of our cases say that you don't have to worry if 12 the categorical approach covers conduct of the sort 13 Justice Kennedy was talking about because Congress meant 14 to cover other things? 15             MS. EISENSTEIN:  Well, Your Honor, I think 16 that you're right that the categorical approach and its 17 strictures can cause real problems if there's any degree 18 of overbreadth in the statute.  But that's exactly why, 19 in interpreting Section 922(g)(9) and what Congress's 20 purpose was is extremely important here.  Because to the 21 extent to which Petitioner's view is adopted, which 22 would require only intentional conduct to qualify, any 23 degree of overbreadth such as Justice Kennedy's one 24 example in a State, of California of a driving offense 25 would exclude the entire statute, because 
+Alderson Reporting Company
+
+Official
+1             CHIEF JUSTICE ROBERTS:  I'm not sure
+
+32
+
+2 "overbreadth"  I'm not sure overbreadth is the right
+
+3 legal term.
+
+4             So you think it's an appropriate defense
+
+5 under a prosecution here that the type of conduct I was
+
+6 charged with is really not what Congress had in mind?
+
+7 Yes, it fits under the terms of the statute, but it's
+
+8 not what Congress had in mind.  And there's going to be
+
+9 argument about that.
+
+10             MS. EISENSTEIN:  No, Your Honor.  The  my
+
+11 argument is the opposite, which is that this Court
+
+12 should effectuate Congress's purpose by giving
+
+13 Section 922(g)(9) the meaning that Congress intended,
+
+14 which is to cover generally applicable assault and
+
+15 battery statutes regardless of whether, on a rare
+
+16 instance, they may end up covering an individual who was
+
+17 recklessly driving and injured a family member.
+
+18             JUSTICE GINSBURG:  I feel like your answer
+
+19 was that the statute does cover it, but it's most
+
+20 unlikely that a prosecutor would bring such a case.  I
+
+21 think that's what you started to say about it.
+
+22             MS. EISENSTEIN:  That's correct, Your Honor.
+
+23 I think it's unlikely that those prosecutions would be
+
+24 brought in the State offense on those  under those
+
+25 circumstances and that there's no reason to drastically
+
+Alderson Reporting Company
+
+Official
+1 constrain the interpretation of Section 922(g)(9).
+
+33
+
+2             JUSTICE KENNEDY:  Do we have precedent from
+
+3 this Court saying it's okay, we can trust the
+
+4 prosecutors to do the right thing?  Can you cite me a
+
+5 case that says that?
+
+6             MS. EISENSTEIN:  Your Honor, I  I  I do
+
+7 not  I do not represent that.  But what I do suggest
+
+8 is what we're looking at here is not what prosecutors
+
+9 might do under the  in the State  the underlying
+
+10 State prosecution, but what Congress intended to cover
+
+11 under Section 922(g)(9).  So in order to avoid a
+
+12 hypothetical scenario where a family member may be
+
+13 injured in a nondomestic context, the result of
+
+14 requiring intentionality as to both the harm and the 
+
+15 the touching would be to eliminate all of the statutes
+
+16 that Congress, in fact, intended to cover.
+
+17             CHIEF JUSTICE ROBERTS:  I don't know how 
+
+18             JUSTICE GINSBURG:  What about the  what
+
+19 about the  the rule of lenity?  We are reviewing a
+
+20 decision of a court that divided, and both judges wrote
+
+21 very strong opinions.  And we also have 18 U.S.C.
+
+22 Section 16, where a crime of violence doesn't include
+
+23 reckless  a reckless state of mind.  So putting those
+
+24 together, the other statute, plus that this was a split
+
+25 decision, why doesn't the rule of lenity apply?
+
+Alderson Reporting Company
+
+Official
+1             MS. EISENSTEIN:  Your Honor, the rule of
+
+34
+
+2 lenity only applies where there is grievous ambiguity in
+
+3 the statute.  And I respectfully submit that there is no
+
+4 such grievous ambiguity.  Congress's intent was clear,
+
+5 and this Court already found as much, in Castleman and
+
+6 in Hayes, which is that there was a class of offenses
+
+7 that Congress intended to cover by the statute which
+
+8 were generally applicable assault and battery statutes.
+
+9             And the rule that Petitioner suggests would
+
+10 exclude all of those offenses and would frustrate that
+
+11 clear purpose of Congress, so lenity doesn't apply for
+
+12 that reason.  And there's no ambiguity, not only as to
+
+13 the purpose, but as to  as to what battery itself
+
+14 encompasses.  Petitioners have tried to argue that
+
+15 battery, either at common law or in contemporary
+
+16 practice, that there was some requirement of an intent
+
+17 to do harm.  And the overwhelming weight and universal
+
+18 weight of authority points the opposite direction.  Even
+
+19 the sources cited by Petitioner establish that at common
+
+20 law, there was no requirement for the intent to do harm.
+
+21 And certainly States, in adopting their assault and
+
+22 battery provisions, have modeled that  that
+
+23 formulation.
+
+24             Another way to look at this is  outside of
+
+25 the common law, is the way that Taylor examined the
+
+Alderson Reporting Company
+
+Official
+1 statute of burglary under the ACCA offense, which is
+
+35
+
+2 to  rather than turning just to the common law, as to
+
+3 view this as covering generic battery.  And  and when
+
+4 looked at that way under the contemporary practice, the
+
+5 Model Penal Code and the uniform opinion of the courts
+
+6 of appeals and commentators all have concluded that
+
+7 battery was not limited to a purpose to cause a
+
+8 resulting harm, but included contact that could be
+
+9 reckless.
+
+10             In the face of Petitioner's hypotheticals,
+
+11 Petitioner struggles to even conceive of a hypothetical
+
+12 example of where there is a reckless battery that
+
+13 would  against a family member that would not
+
+14 constitute a misdemeanor crime of domestic violence.
+
+15             The converse is that Congress enacted
+
+16 Section 19  922(g)(9) to address a vital  vital
+
+17 public safety problem.  It identified those who had been
+
+18 convicted of battering their family members as posing a
+
+19 dramatically increased risk of perpetrating future gun
+
+20 violence against their family.
+
+21             This Court should continue to interpret
+
+22 Section 922(g)(9) in light of that compelling purpose.
+
+23             If there are no further questions.
+
+24             JUSTICE THOMAS:  Ms. Eisenstein, one
+
+25 question.
+
+Alderson Reporting Company
+
+Official
+1             Can you give me  this is a misdemeanor
+
+36
+
+2 violation.  It suspends a constitutional right.  Can you
+
+3 give me another area where a misdemeanor violation
+
+4 suspends a constitutional right?
+
+5             MS. EISENSTEIN:  Your Honor, I  I'm
+
+6 thinking about that, but I think that the  the
+
+7 question is not  as I understand Your Honor's
+
+8 question, the culpability necessarily of the act or in
+
+9 terms of the offense 
+
+10             JUSTICE THOMAS:  Well, I'm  I'm looking at
+
+11 the  you're saying that recklessness is sufficient to
+
+12 trigger a violation  misdemeanor violation of domestic
+
+13 conduct that results in a lifetime ban on possession of
+
+14 a gun, which, at least as of now, is still a
+
+15 constitutional right.
+
+16             MS. EISENSTEIN:  Your Honor, to address 
+
+17             JUSTICE THOMAS:  Can you think of another
+
+18 constitutional right that can be suspended based upon a
+
+19 misdemeanor violation of a State law?
+
+20             MS. EISENSTEIN:  Your Honor, while I can't
+
+21 think of specifically triggered by a misdemeanor
+
+22 violation, other examples, for example, in the First
+
+23 Amendment context, have allowed for suspension or
+
+24 limitation of a right to free speech or even free
+
+25 association in contexts where there is a compelling
+
+Alderson Reporting Company
+
+Official
+37 1 interest and risks associated in some cases less than a 2 compelling interest under intermediate scrutiny. 3             JUSTICE THOMAS:  I'm  this is a  how 4 long is this suspension of the right to own a firearm? 5             MS. EISENSTEIN:  Your Honor, the right is 6 suspended indefinitely. 7             JUSTICE THOMAS:  Okay.  So can you think of 8 a First Amendment suspension or a suspension of a First 9 Amendment right that is permanent? 10             MS. EISENSTEIN:  Your Honor, it's not 11 necessarily permanent as to the individual, but it may 12 be permanent as to a particular harm.  And here Congress 13 decided to intervene at the first instance that an 14 individual is convicted of battering their family 15 members because it  it relied on substantial and 16 welldocumented evidence that those individuals pose 17 a  a longterm and substantial  18             JUSTICE THOMAS:  So in each of these cases 19 had  did any of the defendants, or in this case 20 Petitioners, use a weapon against a family member? 21             MS. EISENSTEIN:  In neither case did they, 22 but these Petitioners  23             JUSTICE THOMAS:  So that the  again, the 24 suspension is not directly related to the use of the 25 weapon.  It is a suspension that is actually indirectly
+Alderson Reporting Company
+
+Official
+1 related or actually unrelated.  It's just a family
+
+38
+
+2 member's involved in a misdemeanor violation; therefore,
+
+3 a constitutional right is suspended.
+
+4             MS. EISENSTEIN:  Yes, Your Honor, but I
+
+5 believe that in terms of the  the relationship between
+
+6 Congress's decision to try to prevent domestic gun
+
+7 violence and its means of doing so 
+
+8             JUSTICE THOMAS:  Even if that  if even if
+
+9 that violence is unrelated to the use  the possession
+
+10 of a gun?
+
+11             MS. EISENSTEIN:  Well, Your Honor, I think
+
+12 the studies that Congress relied upon in formulating
+
+13 the  the misdemeanor crime of domestic violence ban
+
+14 didn't  were directly about the use of a gun because
+
+15 what they showed is that individuals who have previously
+
+16 been  battered their spouses, pose up to a sixfold
+
+17 greater risk of killing, by a gun, their family member.
+
+18             JUSTICE THOMAS:  Well, let's  let's say
+
+19 that a publisher is reckless about the use of children,
+
+20 and what could be considered indecent displays and that
+
+21 that triggers a violation of, say, a hypothetical law
+
+22 against the use of children in these ads, and let's say
+
+23 it's a misdemeanor violation.  Could you suspend that
+
+24 publisher's right to ever publish again?
+
+25             MS. EISENSTEIN:  Your Honor, I don't think
+
+Alderson Reporting Company
+
+Official
+39 1 you could suspend the right to ever publish again, but I 2 think that you could limit, for example, the manner and 3 means by which publisher  4             JUSTICE THOMAS:  So how is that different 5 from suspending your Second Amendment right? 6             MS. EISENSTEIN:  Your Honor, I think that in 7 terms of a  the compelling purpose that was identified 8 here, which was the prevention of gun violence and the 9 individual nature of the  of the underlying offense, 10 so here this isn't a misdemeanor crime directed at any 11 person at large.  These are misdemeanor batteries 12 directed at members  specified members of the  of 13 that individual's family.  Congress  14             JUSTICE THOMAS:  Would you have a better 15 case if this were a gun crime? 16             MS. EISENSTEIN:  Your Honor, I think it 17 would be perhaps a better case, except that the evidence 18 that Congress relied on and  and that the courts below 19 that have addressed the Second Amendment concerns that 20 Your Honor is highlighting have even gone into a more 21 robust analysis of the  the evidence that ties initial 22 crimes of battery to future gun violence.  That evidence 23 is extremely strong.  And Congress recognized that this 24 was a recurring escalating offense. 25             Petitioners are good examples of this.
+Alderson Reporting Company
+
+Official
+1 While they didn't reach, thankfully, the point where
+
+40
+
+2 they were able to reach for a firearm and were
+
+3 prohibited from having a firearm under Federal law, they
+
+4 have each been convicted multiple times of domestic
+
+5 violence offenses and possess the firearms in close
+
+6 proximity.  So these aren't individuals who had longago
+
+7 convictions and are suffering from that ban.
+
+8             Congress also contemplated exactly the
+
+9 lifetime nature of the ban that Your Honor suggested and
+
+10 left it in States' hands to resolve that by allowing
+
+11 States to expunge or pardon convictions in cases where
+
+12 an individual either petitions to do so or in some
+
+13 States as a matter of course.
+
+14             So  so I understand Your Honor's concern
+
+15 that  that this is a potential infringement of
+
+16 individual's Second Amendment rights, but I believe that
+
+17 Congress has identified a compelling purpose and has
+
+18 found a reasonable means of achieving that purpose.
+
+19             JUSTICE KENNEDY:  I  I suppose one answer
+
+20 is  just a partial answer to Justice Thomas's question
+
+21 is SORNA, a violation of sexual offenders have to
+
+22 register before they can travel in interstate commerce.
+
+23 But that's not a prevention from traveling at all.  It's
+
+24 just a  it's a restriction.
+
+25             MS. EISENSTEIN:  Well, Your Honor, it's a
+
+Alderson Reporting Company
+
+Official
+41 1 prevention in requiring prophylactic measures in order 2 to prevent a substantial  because Congress has 3 identified a substantial risk of harm from people 4 identified as committing those types of offenses. 5             JUSTICE BREYER:  Do it  what is it we 6 have  they raised this in their brief.  They say, 7 let's focus on the cases in which there is a misdemeanor 8 battery conducted without an intentional or knowing 9 state of mind. 10             Now, they say if this, in fact, triggers  11 this is the question Justice Thomas asked  if this, in 12 fact, triggers a lifetime ban on the use of a gun, then 13 do we not have to decide something we haven't decided? 14 And I think it would be a major question. 15             What constitutes a reasonable regulation of 16 guns under the Second Amendment given Heller and the 17 other cases with which I disagreed?  But  18             (Laughter.) 19             JUSTICE BREYER:   the point is, she's 20 raised a question, and she wants us to answer that 21 question.  Is this a reasonable regulation given  you 22 just heard the argument, in part  given the distance 23 and so forth?  So what am I supposed to say, in your 24 opinion, in respect to that rather important question? 25             MS. EISENSTEIN:  Your Honor, two answers to
+Alderson Reporting Company
+
+Official
+1 that.  First is this comes up only in the nature of
+
+42
+
+2 constitutional avoidance, not as a direct Second
+
+3 Amendment challenge.
+
+4             As we've already argued, this statute, in
+
+5 the government's view, is clear that misdemeanor crimes
+
+6 of domestic violence include batteries, whether they be
+
+7 committed 
+
+8             JUSTICE BREYER:  Stop you at the first
+
+9 point.  Your argument on the first point is that she did
+
+10 not raise the constitutional question.  She said in
+
+11 order to avoid a constitutional question, we should
+
+12 decide it in thus such and such a way.
+
+13             So one answer would be, well, maybe so.  We
+
+14 aren't facing the constitutional question.  We are
+
+15 simply facing the question of what Congress intended.
+
+16 And if this does raise a constitutional question, so be
+
+17 it.  And then there will, in a future case, come up with
+
+18 that question.  So we  or our point is, we don't have
+
+19 to decide that here.
+
+20             MS. EISENSTEIN:  That's correct, Your Honor.
+
+21             JUSTICE BREYER:  Thank you.
+
+22             MS. EISENSTEIN:  If there are no further
+
+23 questions.
+
+24             CHIEF JUSTICE ROBERTS:  Thank you, counsel.
+
+25             Two minutes, Ms. Villa.
+
+Alderson Reporting Company
+
+Official
+1          REBUTTAL ARGUMENT OF VIRGINIA G. VILLA
+
+43
+
+2               ON BEHALF OF THE PETITIONERS,
+
+3                 APPOINTED BY THIS COURT
+
+4             MS. VILLA:  Your Honor, Congress did not use
+
+5 the word "battery" in 921(a)(33).  And so the question
+
+6 is, is whether, under the rule of lenity, the Court can
+
+7 then say battery is the standard that we are going to
+
+8 use in order to construe this.  And it's a push me, pull
+
+9 you because it is the use of force, but that doesn't
+
+10 have to be a prior battery conviction.  It could be any
+
+11 misdemeanor conviction that has a state of recklessness
+
+12 for the state of mind and results in any  any
+
+13 involvement of a domestic partner.
+
+14             And I think that there is enough play within
+
+15 the statute  statute itself, as well as the extent of
+
+16 the common law, so  to say that that is a reason for
+
+17 applying the rule of lenity.
+
+18             There is also the underlying constitutional
+
+19 questions.  And this Court, as in being able to abrogate
+
+20 a constitutional right indefinitely based on reckless
+
+21 conduct, I believe also presents extreme due process
+
+22 concerns.  And for those reasons, I believe that the
+
+23 Court should conclude that under these circumstances, it
+
+24 is best to avoid that question and to construe the
+
+25 statute the way that is consistent with the words.
+
+Alderson Reporting Company
+
+Official
+1             Thank you.
+
+
+44
+
+2
+             CHIEF JUSTICE ROBERTS:  Thank you, counsel.
+
+3 The case is submitted.
+
+4             (Whereupon, at 10:55 a.m., the case in the
+
+5 aboveentitled matter was submitted.)
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Alderson Reporting Company
+
+Official
+
+Page 45
+
+A
+a.m 1:14 3:2 44:4 able 40:2 43:19 aboveentitled 1:12
+44:5 abrogate 43:19 absolutely 9:1 abuser 26:17 ACCA 35:1 accident 9:8 accidental 26:23
+27:11 accompany 18:5 accomplish 13:7 accomplished
+17:23 accomplishing 18:3 achieve 14:16 achieving 40:18 acknowledging
+18:17 act 3:24,25 4:14,16
+4:21,21,23 5:17 6:10,11 7:16 22:20 27:11,13 28:9,11 36:8 action 9:20 11:24 12:20,22 28:15 acts 4:3 actual 17:16 29:9 adding 10:18 address 35:16 36:16 addressed 31:7 39:19 adopt 17:2 18:22 19:13,14 21:24 adopted 8:25 22:1 23:3 31:21 adopting 21:9,21 34:21 ads 38:22 affirmative 18:1 agree 3:23 14:25 15:1 16:11 17:6 17:13 29:12
+
+ahead 15:17 ALITO 6:9,16,22
+7:4,11,15 8:1,5,10 15:14,20 16:3,10 16:16,21 17:5,12 17:20 18:15 Alito's 19:5 allowed 36:23 allowing 40:10 ambiguity 34:2,4 34:12 Amendment 36:23 37:8,9 39:5,19 40:16 41:16 42:3 analysis 39:21 answer 8:2,11 19:4 30:1,15 32:18 40:19,20 41:20 42:13 answers 41:25 appeals 35:6 APPEARANCES 1:15 applicable 25:18 32:14 34:8 application 5:22 applied 5:25 6:1 applies 34:2 apply 6:10,12,13,14 33:25 34:11 applying 43:17 Appointed 1:17 3:9 43:3 approach 5:9 31:12 31:16 appropriate 22:4 32:4 area 36:3 areas 13:20 argue 18:16 34:14 argued 42:4 arguing 28:24 argument 1:13 2:2 2:5,8 3:3,7 17:13 20:13 25:10 32:9 32:11 41:22 42:9
+
+43:1 Armstrong 1:4 3:5 arrest 24:10 arrested 24:14 asked 22:14 41:11 asleep 7:8 assault 25:17 28:21
+29:3,3 30:18 32:14 34:8,21 Assistant 1:18 associated 37:1 association 36:25 attach 4:5,7,8 attempt 22:10 attempts 22:10 25:19 authority 34:18 automobile 28:24 avoid 33:11 42:11 43:24 avoidance 42:2 avoids 27:9 awake 7:9 awareness 16:1 awful 13:16
+B
+back 22:13 23:4 backdrop 20:20,20
+20:21 backwards 28:19 bad 26:21 ban 31:8 36:13
+38:13 40:7,9 41:12 based 36:18 43:20 basically 20:13 21:1 battered 38:16 batteries 6:8 18:21 26:8 27:3 39:11 42:6 battering 29:5 35:18 37:14 battery 3:18 4:9,16 4:21 5:25 6:18,25
+
+11:2 16:12,14,18 16:18,23 17:2,6 17:15,15,18,22 18:10 19:19 20:1 20:2,22 21:2,8,9 21:13,14,25 22:1 25:17 26:11,19 27:5,6 28:21 29:3 29:14 30:18 32:15 34:8,13,15,22 35:3,7,12 39:22 41:8 43:5,7,10 beat 11:6 behalf 1:17,20 2:4 2:7,10 3:8 25:11 43:2 behavior 9:24 11:1 13:3,4 believe 7:8 38:5 40:16 43:21,22 best 27:18 43:24 better 10:1 39:14 39:17 big 24:13 blanket 7:9 bodily 3:22,23,25 4:11 19:1,5,9,10 25:20,24 26:2,5 29:11 body 7:10,24 bottle 4:17,18,22 BREYER 41:5,19 42:8,21 brief 41:6 briefing 20:14 bring 32:20 brought 32:24 budget 15:23 burglary 35:1
+C
+C 2:1 3:1 California 31:24 call 27:21 calls 24:11 capture 21:2
+
+car 9:6 10:2,5,11 10:24 12:12
+care 17:16 carried 12:9,9 carry 9:20 12:20,21 carrying 11:24 case 3:4 5:3 6:20,21
+6:23 9:4 10:5 12:20 13:21 18:4 26:5 32:20 33:5 37:19,21 39:15,17 42:17 44:3,4 cases 3:17 5:4 13:13 31:11 37:1 37:18 40:11 41:7 41:17 Castleman 8:25 9:21 13:23 15:6 15:10 17:11 19:20 19:24 21:1 22:5 25:15,22 26:2 28:15 34:5 categorical 5:9 31:12,16 category 17:8 19:1 19:1 29:8 caught 11:7 causation 25:24 27:6 cause 4:22 25:20 31:17 35:7 caused 4:23 5:10 5:17 24:6 causes 4:16 14:7 29:11 causing 4:15 certainly 34:21 challenge 42:3 chance 30:7 charge 15:18 charged 7:23 32:6 charging 15:12,16 chasing 28:4 Chief 3:3,10 25:8 25:12 26:21 27:16 27:19 28:3 31:10
+
+Alderson Reporting Company
+
+
+Official
+
+Page 46
+
+32:1 33:17 42:24 compelling 35:22
+
+23:16 24:7 26:25 40:13
+
+10:15
+
+44:2
+
+36:25 37:2 39:7
+
+29:14 35:14
+
+court 1:1,13,17 3:9 defendants 37:19
+
+children 38:19,22 40:17
+
+constitutes 41:15
+
+3:11,16,23 5:21 defense 32:4
+
+chooses 27:13
+
+conceive 35:11
+
+constitutional 36:2 7:1 9:17,18 11:23 define 26:11 27:5
+
+Circuit 15:6,7
+
+concern 31:1 40:14 36:4,15,18 38:3
+
+12:18 18:1 19:25 defined 13:20
+
+circumstance 7:20 concerned 31:2
+
+42:2,10,11,14,16 21:19 22:5 25:13 16:19 20:23 21:19
+
+7:21
+
+concerns 39:19
+
+43:18,20
+
+25:14,21 26:7
+
+defines 21:15,17
+
+circumstances 29:6 43:22
+
+constrain 33:1
+
+28:14 31:2 32:11 definite 17:7
+
+32:25 43:23
+
+conclude 43:23
+
+construction 9:10 33:3,20 34:5
+
+definition 3:16,18
+
+cite 33:4
+
+concluded 25:16 construe 43:8,24
+
+35:21 43:3,6,19
+
+5:25 8:22 13:10
+
+cited 34:19
+
+35:6
+
+construed 12:18
+
+43:23
+
+14:9 16:13 17:3
+
+cites 6:20
+
+conditions 13:18
+
+15:3 17:25
+
+courts 15:3 35:5
+
+18:23,24 20:5
+
+class 34:6
+
+conduct 6:7 9:8 construing 9:2,3
+
+39:18
+
+21:8
+
+clear 20:16 34:4,11 13:17,24 15:4,8
+
+15:8
+
+cover 27:3 31:14 degree 26:1,8 27:25
+
+42:5 15:11,13 16:24 contact 4:10 5:7,8 32:14,19 33:10,16 28:9 29:14 31:17
+
+client 11:4,25
+
+17:24 18:2,17
+
+5:13,13,17 7:1
+
+34:7
+
+31:23
+
+clients 5:7
+
+19:8 26:13 27:8,9 8:16 16:14 17:23 covered 4:9 19:8 Department 1:19
+
+close 12:2,2,22
+
+27:10,11,12,12,18 26:15 28:16 35:8 30:23
+
+difference 10:10
+
+26:24 27:20,22,22 30:6 31:12,22
+
+contemplated 40:8 covering 32:16
+
+13:2 20:17 23:19
+
+28:4 40:5
+
+32:5 36:13 43:21 contemporary
+
+35:3
+
+25:5
+
+closed 11:7,9,15 conducted 41:8
+
+34:15 35:4
+
+covers 4:11 30:2 different 8:6 39:4
+
+closing 11:25 24:1 confirmation 5:5 context 9:5 13:9
+
+31:12
+
+direct 13:14 42:2
+
+clothing 7:22
+
+Congress 16:4,17 33:13 36:23
+
+crime 16:6 17:3,8 directed 39:10,12
+
+Code 35:5
+
+17:2 18:9 20:19 contexts 36:25
+
+18:10,11 22:11 direction 34:18
+
+collateral 13:6,7
+
+20:25 21:1,7,11 continue 35:21
+
+24:7 26:25 33:22 directly 37:24
+
+come 24:19,20
+
+21:21 24:17 25:16 control 14:11,13,14 35:14 38:13 39:10 38:14
+
+42:17
+
+27:3 31:3,7,13
+
+14:16
+
+39:15
+
+disagree 4:24
+
+comes 24:12 42:1
+
+32:6,8,13 33:10 controlling 18:6 crimes 22:10 26:12 disagreed 41:17
+
+coming 20:16
+
+33:16 34:7,11
+
+converse 30:11
+
+39:22 42:5
+
+disagreeing 5:2
+
+commentators 35:6 35:15 37:12 38:12 35:15
+
+Croix 1:16
+
+disallowed 15:11
+
+commerce 40:22
+
+39:13,18,23 40:8 convicted 5:7,10 culpability 23:23 disconnect 12:23
+
+committed 26:6
+
+40:17 41:2 42:15 16:6 25:17 29:5
+
+23:24 36:8
+
+displays 38:20
+
+42:7 committing 41:4 common 4:8,20
+5:19,22 8:15,21 8:25 9:2,19 16:18 17:15,15,18,22 18:20 19:13,15,16 19:18,25 20:1,5 20:15,17,21 21:6 27:4,5 34:15,19 34:25 35:2 43:16 commonlaw 3:18 4:15 5:25 9:13 20:24
+
+43:4 Congress's 31:19
+32:12 34:4 38:6 conscious 27:13 consciously 28:1 consequence 13:6,7 consequences
+14:19 15:17 considered 5:20
+38:20 consisted 21:22 consistent 3:15,17
+3:19 10:7 43:25 constitute 22:4,16
+
+35:18 37:14 40:4 conviction 31:6
+43:10,11 convictions 40:7,11 core 18:8 correct 5:15 8:9 9:1
+9:16 16:22,25 22:25 30:3 32:22 42:20 couch 7:8 counsel 25:8 42:24 44:2 country 17:17 course 10:3,17
+
+D
+D 3:1 D.C 1:9,19 day 10:15 24:16 deadly 22:7 deal 9:17 24:13 decide 10:21 12:7
+41:13 42:12,19 decided 12:19
+25:21 37:13 41:13 decision 33:20,25
+38:6 defendant 6:24
+
+disposes 30:1 disqualifying 29:20
+30:21 disregard 27:13 disregards 28:1 distance 41:22 distinction 25:22 distinguish 25:19
+26:7 disturbance 24:11 divided 33:20 doing 12:12,25
+20:25 38:7 domestic 3:19 6:1,2
+
+Alderson Reporting Company
+
+
+Official
+
+Page 47
+
+13:9,12,13,21,22 entire 31:25
+
+28:19
+
+free 36:24,24
+
+grievous 34:2,4
+
+14:17,20 15:16,24 equally 4:4
+
+family 9:6 29:16 frustrate 34:10
+
+guess 10:24
+
+16:6 17:3,8 18:6,7 escalating 39:24
+
+30:7 31:4 32:17 further 35:23 42:22 guilty 11:5 24:15
+
+18:14 21:3 24:5 ESQ 1:16,18 2:3,6 33:12 35:13,18,20 future 35:19 39:22 gun 35:19 36:14
+
+26:13,25 29:16
+
+2:9
+
+37:14,20 38:1,17 42:17
+
+38:6,10,14,17
+
+35:14 36:12 38:6 establish 34:19
+
+39:13
+
+38:13 40:4 42:6 evidence 37:16
+
+fast 10:2
+
+G
+
+43:13
+
+39:17,21,22
+
+February 1:10
+
+G 1:16 2:3,9 3:1,7
+
+door 11:7,8,10,16 exactly 6:20 16:1 Federal 8:21,22,23 43:1
+
+11:16 12:1,2,3,13 31:18 40:8
+
+13:11 15:18,24 Gantnier 6:21
+
+12:22 24:1 26:22 examined 34:25
+
+25:18 26:20 40:3 general 1:19 16:19
+
+27:16 28:5,10
+
+example 7:20 10:1 feel 12:5 32:18
+
+29:3 30:18
+
+dramatically 35:19 10:13,25 11:1
+
+feels 28:8
+
+generally 15:3
+
+drastically 32:25
+
+22:19 24:18 26:22 felony 29:19 31:9
+
+25:17 30:6 32:14
+
+driving 9:5,6 10:2 26:22 27:15 28:17 fingers 11:8 27:17 34:8
+
+10:10 12:12 31:24 28:23 30:23 31:24 27:23 28:6
+
+generic 18:10 27:5
+
+32:17
+
+35:12 36:22 39:2 firearm 16:7 37:4 35:3
+
+drunkenness 13:18 examples 5:3 9:23 40:2,3
+
+GINSBURG 3:21
+
+due 9:8 11:24 43:21 10:7 13:16 24:5,6 firearms 15:18
+
+14:18,25 18:25
+
+28:13 29:9 36:22 31:8 40:5
+
+19:4 24:18 32:18
+
+E 39:25
+
+first 3:4,15 36:22
+
+33:18
+
+E 1:4 2:1 3:1,1
+
+exclude 3:12 15:4
+
+37:8,8,13 42:1,8,9 Ginsburg's 28:23
+
+ears 20:16
+
+31:25 34:10
+
+fit 13:20
+
+give 9:23 11:1 36:1
+
+effectuate 32:12 excluded 21:23
+
+fits 32:7
+
+36:3
+
+Eisenstein 1:18 2:6 excludes 15:8
+
+focus 41:7
+
+given 18:24 26:22
+
+25:9,10,12 27:2 Excuse 14:2 19:21 footnote 15:3
+
+41:16,21,22
+
+27:25 28:7 29:2 explained 11:15 force 3:13 5:23 6:7 gives 8:22
+
+29:12 30:3,17,24 expunge 40:11
+
+8:24 9:1,3,5,14,24 giving 24:5 32:12
+
+31:15 32:10,22 extended 31:8
+
+10:6,8,14,22,23 glass 4:19
+
+33:6 34:1 35:24 extent 28:10 30:25 11:3,13,15,20,22 go 22:13 24:14,14
+
+36:5,16,20 37:5
+
+31:21 43:15
+
+11:25 12:2,3,7,8 24:16
+
+37:10,21 38:4,11 extreme 43:21
+
+12:16 13:10,19 goes 7:12 15:25
+
+38:25 39:6,16
+
+extremely 29:7
+
+14:5,10,12,15
+
+going 10:20 15:16
+
+40:25 41:25 42:20 31:20 39:23
+
+15:4,7,25 18:4,12 24:8 27:17 28:5
+
+42:22
+
+18:13 19:19,24
+
+32:8 43:7
+
+either 3:23 13:17
+
+F 20:1,2,8 21:10,19 good 20:14 39:25
+
+25:2 34:15 40:12 face 4:20 35:10
+
+21:22 22:9,17,17 gosh 23:6 27:21
+
+element 18:10,11 facing 42:14,15
+
+22:20 23:15 24:4 28:5
+
+eliminate 33:15
+
+fact 7:24 26:1 27:9 26:8 43:9
+
+government 5:2
+
+elusive 25:23
+
+33:16 41:10,12 forcefully 11:7,10 6:20 14:18 15:24
+
+embeds 4:19
+
+factor 18:23
+
+formulating 38:12 government's 6:6
+
+employed 13:14 factors 29:18
+
+formulation 6:6
+
+9:4,10 23:2 42:5
+
+enacted 35:15
+
+facts 7:5
+
+23:3 34:23
+
+grab 26:16
+
+encompasses 34:14 fallacy 25:22
+
+forth 41:23
+
+great 16:19 20:5
+
+endanger 10:2
+
+falls 1:16 15:6
+
+found 34:5 40:18
+
+22:17
+
+engaged 21:3
+
+16:12 17:7,7
+
+frame 28:20
+
+greater 38:17
+
+39:8,15,22 41:12 guns 25:16 41:16 guy 11:6,16,17 12:1
+12:3 guy's 11:8
+H
+H 1:18 2:6 25:10 hand 12:14 hands 23:18 40:10 happened 6:22 happens 30:7 harm 10:11 12:9,10
+23:25 27:7,14 33:14 34:17,20 35:8 37:12 41:3 Hayes 34:6 Hazen 25:15 hear 3:3 20:12 heard 41:22 hears 24:11 heavy 14:19 held 3:23 15:7 Heller 41:16 hi 23:5 higher 4:2 highlighted 28:14 highlighting 39:20 history 9:13 hit 4:18 11:16,16 26:16 hitting 13:15 honey 23:5 Honor 4:25 6:19 8:23 9:1 14:24 15:19,22 16:9,15 17:19,21 19:3 20:7 29:2,13 30:3 30:24 31:15 32:10 32:22 33:6 34:1 36:5,16,20 37:5
+
+Alderson Reporting Company
+
+
+Official
+
+Page 48
+
+37:10 38:4,11,25 indicates 8:20
+
+18:6,12 20:9
+
+16:3,10,16,21
+
+L
+
+39:6,16,20 40:9 indirectly 37:25
+
+22:11,12 23:20
+
+17:5,12,20 18:15 L 1:3
+
+40:25 41:25 42:20 individual 27:12
+
+26:13,16 28:15
+
+18:25 19:4,4,16 language 9:14
+
+43:4
+
+28:1,15 32:16
+
+31:22 41:8
+
+19:21 20:4,10,12 10:18,19 12:5,6
+
+Honor's 36:7 40:14 37:11,14 39:9
+
+intentionality 3:19 21:11,15 22:13,14 large 15:23 39:11
+
+hour 12:12
+
+40:12
+
+4:7,13,14 18:8,13 22:23 23:1,12,15 Laughter 41:18
+
+hurt 12:1,3,25
+
+individual's 39:13 21:20 33:14
+
+23:19,22 24:2,4 law 4:8,20 5:6,19
+
+27:23
+
+40:16
+
+intentionally 22:24 24:18 25:8,12
+
+5:22 6:11,18 8:15
+
+hurting 12:22
+
+individuals 37:16 interactions 24:25 26:21 27:16,19
+
+8:21,25 9:2,19
+
+husband 4:17 23:4 38:15 40:6
+
+interest 37:1,2
+
+28:3,23,23 29:10 13:11 16:18 17:15
+
+28:24
+
+informing 19:19 interested 17:17
+
+29:23 30:13,19,22 17:15,18,22 18:20
+
+hypothetical 28:8 infringement 40:15 intermediate 37:2 31:10,13,23 32:1 19:13,17,18,25
+
+30:12 33:12 35:11 inhabitants 10:3 interpret 35:21
+
+32:18 33:2,17,18 20:1,5,15,17,21
+
+38:21
+
+inherent 3:19 12:23 interpretation
+
+35:24 36:10,17
+
+21:6 25:18 26:20
+
+hypotheticals
+
+14:16
+
+29:24 33:1
+
+37:3,7,18,23 38:8 27:4 34:15,20,25
+
+35:10
+
+initial 39:21
+
+interpreted 11:21 38:18 39:4,14
+
+35:2 36:19 38:21
+
+I
+i.e 4:17 idea 14:14 18:6
+19:13 22:3 ideas 18:7 identified 19:25
+35:17 39:7 40:17 41:3,4 III 1:4
+
+injured 29:1 32:17 33:13
+injures 28:19 injury 3:22,24,25
+4:11,11,15,17,23 4:23 5:4,11 14:7 18:18 19:2,5,9,11 25:20,24 26:3,5,7 26:11,18 29:11,18 instance 12:19 15:5
+
+25:14 interpreting 31:19 interstate 40:22 intervene 37:13 involuntary 27:10 involve 11:3 12:14
+12:15 22:20 23:10 25:20 involved 7:5 18:19 20:1 23:23 26:6
+
+40:19,20 41:5,11 41:19 42:8,21,24 44:2 justified 28:10
+K Kagan 8:19 9:11,22
+10:17 11:9,12,18 12:4 20:4,10,12 22:14 30:20
+
+40:3 43:16 laws 15:18 leads 13:17 left 40:10 legal 32:3 lenity 33:19,25
+34:2,11 43:6,17 Leocal 10:20,20 let's 38:18,18,22
+41:7
+
+ILANA 1:18 2:6 25:10
+illegal 5:20 implemented 3:16
+
+32:16 37:13 instruction 6:25
+7:3 instrument 10:5
+
+38:2 involvement 43:13 involves 23:10,12 issue 19:24 26:2
+
+keep 25:16 26:10 27:8
+Kennedy 8:20 19:16,21 21:11,15
+
+level 14:15 20:1,2 29:19,21
+lifetime 36:13 40:9 41:12
+
+implementing
+
+18:3 21:20
+
+item 18:2
+
+28:23 29:10,23 light 35:22
+
+14:15
+
+intend 4:18 7:17
+
+important 31:20
+
+8:2,4,7,7 10:16
+
+41:24
+
+intended 14:11
+
+include 25:25 33:22 17:2 23:7 25:16
+
+42:6 26:18 27:3 32:13
+
+30:13,22 31:13
+
+J 33:2 40:19
+
+Johnson 5:21 18:24 Kennedy's 31:23
+
+joint 15:25
+
+killing 38:17
+
+judges 33:20
+
+kinds 10:7
+
+limit 26:12 39:2 limitation 36:24 limited 6:8 35:7 little 12:5 long 37:4
+
+included 35:8 includes 12:8 29:25 including 24:10
+25:23
+
+33:10,16 34:7 42:15 intending 10:11 intent 8:3,15,17,18
+
+jurisdictions 26:14 Justice 1:19 3:3,10
+3:21 4:12 5:1,12 5:16,24 6:4,9,16
+
+knew 11:17 26:24 know 5:1 11:18
+12:11 20:19,23 26:24 27:20,23
+
+longago 40:6 longterm 37:17 look 13:8 21:5
+34:24
+
+inconsistent 3:21
+
+12:9 20:9 22:10
+
+6:22 7:4,11,15 8:1 33:17
+
+looked 35:4
+
+19:12 increased 35:19 indecent 38:20 indefinitely 37:6
+43:20
+
+23:25 28:9 34:4 34:16,20 intentional 4:3,9,16 4:21 5:18,22 10:14 14:22 17:24
+
+8:5,10,19,20 9:11 9:22,25 10:17 11:9,12,18 12:4 13:8,25 14:3,7,18 14:25 15:14,20
+
+knowing 4:3 11:19 13:3 14:22 15:11 15:13 41:8
+known 27:14
+
+looking 12:25 15:17 33:8 36:10
+losing 18:15 lot 13:15,16 loved 28:16
+
+Alderson Reporting Company
+
+
+Official
+
+Page 49
+
+low 31:6
+
+minutes 42:25
+
+O ordinary 9:15,18
+
+M
+main 29:10 Maine 6:11,18 8:13
+15:10
+
+misdemeanor 11:5 13:11 16:6 17:3,8 18:11 22:4 26:12 26:25 29:17,25 30:2 35:14 36:1,3
+
+O 2:1 3:1 object 10:12,13 occur 9:5 25:1 occurred 5:14 occurs 3:14
+
+9:20 10:8 20:13 organization 5:6 outside 34:24 overbreadth 29:21
+29:24 30:12 31:1
+
+major 41:14 majority 16:22
+26:19 making 18:2 20:13
+
+36:12,19,21 38:2 offend 25:4 38:13,23 39:10,11 offenders 40:21 41:7 42:5 43:11 offense 7:23 16:12 misdemeanors 3:13 17:17 23:9,11
+
+31:4,18,23 32:2,2 overwhelming
+34:17 overwhelmingly
+
+manner 39:2
+
+misperceived 4:13 26:15,19 27:6
+
+26:10 28:20
+
+match 19:9 matter 1:12 40:13
+44:5 mean 3:22 7:4 9:20
+9:25 10:4,24
+
+mistaken 23:8 Model 35:5 modeled 34:22 modern 27:4 Monday 1:10
+
+29:13,19 30:20 31:24 32:24 35:1 36:9 39:9,24 offenses 15:16 16:23 25:20,25,25
+
+P
+P 3:1 PAGE 2:2 pardon 40:11
+
+11:16 12:1 17:20 20:12,19 26:22 27:19,23 meaning 9:15,18 10:8 20:13 21:10
+
+morning 3:4 move 10:25 multiple 40:4
+N
+
+29:8 31:7,9 34:6 34:10 40:5 41:4 offensive 3:24 4:1 4:10 5:6,8 6:11,17
+
+part 15:23 16:1 21:21 27:2 30:1 41:22
+partial 40:20
+
+7:1,12 8:8 13:24 particular 15:18
+
+30:16,18 32:13 means 9:15,21
+11:25 12:21,22 13:11,12 38:7
+
+N 2:1,1 3:1 naked 7:10,24,25 narrow 29:7 30:9
+30:13,15
+
+13:24,25 14:3,14 16:14 17:23 18:19 19:11 22:24 24:7 25:2,21 26:1,3
+
+37:12 partner 14:12,13
+14:14 18:7 43:13 parts 21:18
+
+39:3 40:18
+
+narrowed 22:3
+
+oh 23:6 28:5 30:15 passed 16:8
+
+meant 12:1 31:13 narrower 21:7
+
+measures 41:1
+
+nature 7:13 39:9
+
+member 9:6 29:16 40:9 42:1
+
+30:7,8 32:17
+
+necessarily 6:12
+
+33:12 35:13 37:20 15:1 36:8 37:11
+
+okay 8:5 16:7,10 17:12 24:13 33:3 37:7
+once 11:4 one's 14:12,13,14
+
+passes 16:4 patted 23:4 pause 27:21 pen 23:18 Penal 35:5
+
+38:17
+
+need 4:2 24:16
+
+member's 38:2
+
+negligence 18:22
+
+members 31:5
+
+27:18
+
+35:18 37:15 39:12 negligent 18:22
+
+39:12
+
+27:10
+
+opened 19:7 operating 20:19
+28:24 opinion 13:23 35:5
+41:24
+
+people 9:23 21:3 24:25 41:3
+permanent 37:9,11 37:12
+perpetrating 35:19
+
+mens 6:9 8:12,14 mental 4:2 mid 18:21 miles 12:12 mind 4:4,6,8,13
+
+neighbor 24:10 neither 37:21 never 24:19 night 10:15 nondomestic 33:13
+
+opinions 33:21 opposed 13:3 18:18
+23:1 30:8 opposite 32:11
+34:18
+
+person 6:17 7:5 8:7 8:7 10:11,12,13 10:14,19,22 16:5 23:9 26:24 27:15 28:4,10 29:4
+
+14:23 19:9,10 24:17 26:10 27:8 32:6,8 33:23 41:9 43:12
+
+nonviolent 13:24 normal 20:8 note 15:9 noted 15:2
+
+oral 1:12 2:2,5 3:7 25:10
+order 14:15 26:18 33:11 41:1 42:11
+
+39:11 petitioner 25:19
+27:9 29:8 34:9,19 35:11
+
+minimally 23:11 number 10:4
+
+43:8
+
+Petitioner's 31:21
+
+35:10 Petitioners 1:5,17
+2:4,10 3:8 34:14 37:20,22 39:25 43:2 Petitioners' 26:12 petitions 40:12 phrase 3:13 9:3 10:21,23 18:9 physical 3:13 4:10 4:10 5:7,8,11 6:7 8:24 9:3,5,14 10:22,23 11:13,14 11:20,22 12:16 14:5,10 15:4,7 17:23 18:12,13,18 20:8 21:10,18,22 22:9,16,20 pinch 28:6 place 21:5 places 9:19 plate 9:25 12:13 play 43:14 plead 24:15 please 3:11 22:13 25:7,13 pled 11:4 plus 33:24 point 5:9,12 30:4 40:1 41:19 42:9,9 42:18 pointed 13:5 29:8 points 5:2 34:18 poisoning 23:17 police 24:11,11 Portela 15:7 pose 37:16 38:16 posing 35:18 posited 30:5 position 17:22,22 possess 40:5 possession 36:13 38:9 possible 29:4 potential 40:15 practice 34:16 35:4
+
+Alderson Reporting Company
+
+
+Official
+
+Page 50
+
+precedent 33:2 predicate 9:9 30:9 predicates 26:9 presents 43:21 prevent 38:6 41:2 prevention 39:8
+40:23 41:1 previously 38:15 primarily 9:12 prior 18:1 21:21
+43:10 problem 5:19 6:5
+9:4 17:1 31:7 35:17 problematic 29:6 29:21 problems 31:17 process 24:15 43:21 prohibit 25:24 prohibited 40:3 prong 14:1,4,5 26:3 26:4 proper 7:2 21:5 prophylactic 41:1 proposition 6:20 prosecuted 24:8,9 29:15,16 prosecution 14:21 31:6 32:5 33:10 prosecutions 31:4 32:23 prosecutor 15:9,12 26:14,17 32:20 prosecutors 15:15 15:15 16:1 33:4,8 prototypical 13:13 28:13 prove 26:14,18 provisions 34:22 proximity 40:6 public 30:8 35:17 publish 38:24 39:1 publisher 38:19 39:3 publisher's 38:24
+
+pull 43:8 purpose 9:21 11:25
+12:21 13:1,4 16:2 31:20 32:12 34:11 34:13 35:7,22 39:7 40:17,18 purposeful 13:3 15:11,13 18:2 purposes 8:25 17:4 20:2 push 26:16 28:18 43:8 put 13:10 putting 33:23
+Q
+qualifies 9:7 qualify 4:4 8:16 9:9
+22:6 26:8 30:14 31:22 qualifying 30:9 question 5:16 8:11 10:21 19:5,7 20:25 22:14 35:25 36:7,8 40:20 41:11,14,20,21,24 42:10,11,14,15,16 42:18 43:5,24 questions 35:23 42:23 43:19 quite 12:4 30:14
+R
+R 3:1 raise 42:10,16 raised 13:16 41:6
+41:20 raises 31:1 rare 32:15 rates 31:6 rea 6:9 8:12,14 reach 40:1,2 reached 7:9 16:23 reaching 7:21 read 14:21 real 29:15 31:5,17
+
+realistic 15:21 17:20
+realizing 27:16 really 8:1 10:2,12
+32:6 reason 15:2 16:16
+31:8 32:25 34:12 43:16 reasonable 40:18 41:15,21 reasons 3:12 24:10 24:25 29:7 43:22 rebuttal 2:8 25:7 43:1 reckless 3:12 4:1 5:18 6:6 7:6 9:5,8 9:23 11:1,19 13:3 13:17 14:23 15:4 15:8,11 16:23 18:17 22:19 23:9 23:20 27:8,9,10 27:11,17 28:17,18 30:6,6 33:23,23 35:9,12 38:19 43:20 recklessly 6:16 10:6,10 29:11 32:17 recklessness 4:11 6:10 7:12,19,19 7:20 8:12,14 12:11,24 18:23 21:4,23 27:24 36:11 43:11 recognized 22:5 39:23 recurring 39:24 refused 26:7 regardless 5:17 32:15 register 40:22 regulation 41:15,21 related 24:23 25:1 37:24 38:1 relationship 24:20 38:5
+
+relied 37:15 38:12 39:18
+relying 9:12 repeating 12:5 represent 33:7 require 14:22
+26:14 31:22 requirement 3:25
+34:16,20 requires 24:23 requiring 33:14
+41:1 requisite 12:15 reserve 25:6 resolve 40:10 respect 5:6 11:24
+41:24 respectfully 4:24
+34:3 Respondent 1:20
+2:7 25:11 rest 25:6 restricted 15:13 restriction 40:24 result 7:19 33:13 resulted 19:2 resulting 26:11,18
+27:7 35:8 results 29:1 36:13
+43:12 reversed 7:2 reviewing 33:19 ride 14:19 right 12:4 16:13,16
+18:19 19:2 29:20 31:16 32:2 33:4 36:2,4,15,18,24 37:4,5,9 38:3,24 39:1,5 43:20 rights 40:16 rise 29:19 risk 12:10,15 13:1 13:5 27:14 35:19 38:17 41:3 risks 37:1 ROBERTS 3:3
+
+25:8 26:21 27:19 28:3 31:10 32:1 33:17 42:24 44:2 robust 39:21 role 26:12 rule 33:19,25 34:1 34:9 43:6,17 ruled 17:11 running 11:5 27:20
+S
+S 2:1 3:1 safety 35:17 satisfies 3:24 satisfying 6:7 saying 8:6 20:11
+21:25 22:21 30:22 33:3 36:11 says 24:12 29:11 33:5 scenario 17:1 30:4 33:12 scenarios 24:17 scrutiny 37:2 Second 3:17 39:5 39:19 40:16 41:16 42:2 Section 25:15 26:8 30:9 31:19 32:13 33:1,11,22 35:16 35:22 see 7:25 10:25 28:4 seeking 13:6 selfdefense 28:12 sense 12:17 17:7 serious 6:5 set 21:2 setting 6:1,2 settled 20:23 severe 29:18 sexual 7:1 40:21 shake 7:9,16 shaking 22:15,16 share 18:14 show 26:17 showed 38:15
+
+Alderson Reporting Company
+
+
+Official
+
+Page 51
+
+sides 20:15 sign 28:25 similar 25:25 simple 6:25 simply 28:18 42:15 singular 14:9 situations 14:20
+28:14 sixfold 38:16 Sixth 15:6,7 slam 28:5 slammed 27:16 slamming 12:13
+28:11 slight 26:6 smashes 4:18 Smith 12:19 soil 19:14 sole 29:17 Solicitor 1:18 somebody 12:22
+22:15 23:3 24:1 25:3 somebody's 12:13 23:18 someplace 13:5 somewhat 16:4 SORNA 40:21 sorry 4:12 sort 22:21 30:6 31:12 Sotomayor 4:12 5:1,12,16,24 6:4 9:25 13:8,25 14:3 14:7 22:13,23 23:1,12,15,19,22 24:2,4 sources 34:19 special 21:16,17 specific 22:10 specifically 36:21 specified 39:12 speech 36:24 speeds 28:25 split 33:24 spouse 24:22 29:5
+
+spouses 38:16
+
+subject 14:21
+
+St 1:16
+
+submit 34:3
+
+standard 43:7
+
+submitted 44:3,5
+
+started 32:21
+
+subset 18:21
+
+state 4:2,4,6,8
+
+substantial 27:13
+
+13:11 14:23 15:9 28:2 37:15,17
+
+15:15 16:1 19:9
+
+41:2,3
+
+19:10 25:18 26:19 substantive 10:9
+
+31:24 32:24 33:9 suffering 40:7
+
+33:10,23 36:19 sufficient 18:17
+
+41:9 43:11,12
+
+36:11
+
+stated 5:21
+
+sufficiently 24:6
+
+States 1:1,7,13 3:5 29:18
+
+16:19,23,25 20:21 suggest 33:7
+
+25:23 26:10 28:20 suggested 30:20
+
+34:21 40:11,13
+
+40:9
+
+States' 40:10
+
+suggests 34:9
+
+statute 8:13,21,22 suppose 40:19
+
+8:23 9:9 10:18 supposed 41:23
+
+11:2 14:21 15:10 Supreme 1:1,13
+
+16:5 19:6,22,22 sure 32:1,2
+
+20:3,22 21:12,25 suspend 38:23 39:1
+
+22:6 24:19,23
+
+suspended 36:18
+
+26:3 29:1,4,11,22 37:6 38:3
+
+29:25,25 30:1,14 suspending 39:5
+
+30:16,23 31:18,25 suspends 36:2,4
+
+32:7,19 33:24
+
+suspension 36:23
+
+34:3,7 35:1 42:4 37:4,8,8,24,25
+
+43:15,15,25
+
+Sykes 10:5
+
+statutes 17:16
+
+20:22 21:2,4,8,10
+
+T
+
+21:23 28:21 32:15 T 2:1,1
+
+33:15 34:8
+
+take 9:18,19 23:9
+
+Statutorily 6:14 takes 28:15
+
+stepdaughter 7:8 talk 21:12
+
+STEPHEN 1:3
+
+talking 4:14 5:24
+
+stop 28:25 42:8
+
+6:1 14:4 20:15
+
+stranger 24:21,21 29:23,24 31:13
+
+24:22,22
+
+talks 19:22
+
+street 17:14
+
+task 15:25
+
+strictures 31:17 Taylor 34:25
+
+striking 30:11
+
+tell 10:24
+
+strong 33:21 39:23 tells 14:18
+
+struggles 35:11
+
+Tennessee 22:6
+
+studies 38:12
+
+26:3
+
+stumbles 28:19
+
+term 11:19,21
+
+17:25 19:13,17,18 today 20:12
+
+19:19 20:24 32:3 top 7:22
+
+terms 13:10 23:22 touch 7:17 8:2,4,7
+
+23:24 25:25 31:1 8:8,17,18 23:7
+
+32:7 36:9 38:5
+
+24:12 25:3
+
+39:7 touched 7:10,22,24
+
+testify 10:15
+
+23:7 24:13
+
+Thank 25:8 42:21 touches 5:20 6:17
+
+42:24 44:1,2
+
+8:16
+
+thankfully 40:1 touching 3:24 4:2
+
+theoretically 29:4 6:10 7:6,13,13,16
+
+theory 29:13
+
+14:1,4,10 18:19
+
+thing 20:14 33:4
+
+19:8,11 22:18
+
+things 8:6 12:14,15 23:10,10,13,16
+
+31:14
+
+24:7 25:1,21 26:1
+
+think 3:22 4:14
+
+26:4 33:15
+
+11:2 15:14,20
+
+tracks 8:21
+
+16:17 17:14 18:15 training 15:25
+
+20:4,14 22:1
+
+travel 40:22
+
+24:21 27:21,25 traveling 40:23
+
+28:7,13 29:2,6,7 treating 30:20
+
+29:20 30:17,19,25 treatment 3:22
+
+31:2,15 32:4,21 triable 13:11
+
+32:23 36:6,17,21 Tribal 25:18
+
+37:7 38:11,25
+
+tried 34:14
+
+39:2,6,16 41:14 trigger 19:6 36:12
+
+43:14
+
+triggered 36:21
+
+thinking 36:6
+
+triggers 38:21
+
+third 3:18
+
+41:10,12
+
+Thomas 35:24
+
+true 24:24
+
+36:10,17 37:3,7 trust 33:3
+
+37:18,23 38:8,18 try 12:6 38:6
+
+39:4,14 41:11
+
+trying 11:6 12:7
+
+Thomas's 40:20
+
+22:1
+
+thought 17:6 18:16 turn 28:4
+
+18:16 23:4
+
+turning 35:2
+
+threats 22:7,7,11 turns 23:5
+
+three 3:12
+
+twice 25:14
+
+threw 4:17
+
+two 8:6 29:6 41:25
+
+throw 4:22
+
+42:25
+
+throwing 9:25
+
+type 29:13 30:4,20
+
+10:12,13 12:13
+
+32:5
+
+ties 39:21
+
+types 24:17 41:4
+
+time 12:6 16:21,22
+
+25:6,15
+
+U
+
+times 10:4 40:4
+
+U.S.C 33:21
+
+Alderson Reporting Company
+
+
+Official
+
+underlying 26:15 33:9 39:9 43:18
+underneath 7:9,21 underreporting
+31:5 understand 8:1
+9:11 17:6 22:15 30:14 36:7 40:14 understanding 12:10 27:5 understood 4:15 uniform 35:5 United 1:1,7,13 3:5 universal 34:17 unlawful 5:23 8:15 unlawfully 8:18 unrelated 16:4 38:1 38:9 usage 20:8 use 3:13,16 6:7 8:24 9:3,4,14,20 9:24 10:8,14,21 10:23 11:3,12,14 11:22 12:7,8,15 12:18 13:10,19 14:4,10,12 15:3,7 17:25 18:12,13 19:22,23 20:6,8 21:4,10,13,14,18 21:22 22:9,16,20 23:15 24:4 37:20 37:24 38:9,14,19 38:22 41:12 43:4 43:8,9 user's 21:20 usually 22:12
+V
+v 1:6 3:5 vast 26:19 vicinity 12:14 victim 29:17 30:7 view 31:21 35:3
+42:5 Villa 1:16 2:3,9 3:6
+3:7,10 4:6,24 5:4
+
+5:15,19 6:3,5,14 6:19,24 7:7,14,18 8:4,9,13,23 9:11 9:17 10:9 11:4,11 11:14,23 12:17 13:22 14:2,6,9,24 15:1,19,22 16:9 16:14,20,25 17:10 17:19,21 18:20 19:3,12,18,23 20:7,11 21:7,14 21:17 22:22,25 23:2,14,17,21,24 24:3,9,24 42:25 43:1,4 violation 30:16,17 36:2,3,12,12,19 36:22 38:2,21,23 40:21 violence 3:20 13:9 13:12,13,14,15,17 13:21,22,23 14:17 14:20 15:16,24 16:6 17:4,9 18:6 18:14 21:3 24:6 26:13 27:1 33:22 35:14,20 38:7,9 38:13 39:8,22 40:5 42:6 VIRGINIA 1:16 2:3,9 3:7 43:1 vital 35:16,16 Voisine 1:3 3:4 voluntary 27:12
+W
+wake 7:7 25:3 walking 24:21 wall 4:19 10:1 want 16:5,11,18
+28:4 wanted 16:17 21:1 wanting 25:2,3,4 wants 41:20 Washington 1:9,19 wasn't 4:22,22 12:3
+
+24:13 31:3 way 8:8 10:2,6 14:8
+21:16,18 22:1 24:23 26:6 27:3 28:17,20 34:24,25 35:4 42:12 43:25 We'll 3:3 we're 10:20 24:5 33:8 we've 10:3 42:4 weapon 22:8 37:20 37:25 weight 34:17,18 welldocumented 37:16 went 7:7,16 19:14 31:5 wholesale 21:9 wife 4:17 28:18,25 28:25 WILLIAM 1:4 win 5:3 Wis 1:16 word 20:5,22 21:12 21:14 43:5 words 7:15 9:15,18 43:25 work 24:16 world 29:15 worried 31:3 worry 31:11 wouldn't 20:4 22:20 wrong 28:8 30:19 wrote 22:2 33:20
+X x 1:2,8
+Y yeah 17:12 20:10
+24:12 28:3 year 16:7
+Z
+0
+
+1 10:03 1:14 3:2 10:55 44:4 1410154 1:5 3:4 16 33:22 18 33:21 1800s 18:21 19 35:16 1993 12:19 1996 16:9,10 18:1
+2 200 12:12 2016 1:10 25 2:7 29 1:10
+3 3 2:4
+4 43 2:10
+5 50 20:21
+6
+7
+8 8 15:3
+9 921(a)(33) 3:14 9:7
+43:5 922 9:7 922(g) 15:9 922(g)(9) 25:15
+26:9 30:9 31:19 32:13 33:1,11 35:16,22
+
+Alderson Reporting Company
+
+
+Page 52
+
+

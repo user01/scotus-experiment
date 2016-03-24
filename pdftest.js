@@ -9,7 +9,9 @@ const PDFParser = require("./node_modules/pdf3json/PDFParser");
 var fs = Promise.promisifyAll(require("fs"), { suffix: "Async" });
 
 const filterFiles = (list) => {
-  const match = /2012-11-01.*\.pdf$/;
+  // const match = /.*\.pdf$/;
+  // const match = /2012-11-01.*\.pdf$/;
+  const match = /2016-03-23.14-14.*\.pdf$/;
   return new Promise((resolve, reject) => {
     resolve(R.filter((item) => {
       return match.test(item);
@@ -30,7 +32,8 @@ const getTextFromPdf = (path) => {
 
       pdfParser.on("pdfParser_dataError", errData => console.error('err', errData));
       pdfParser.on("pdfParser_dataReady", pdfData => {
-
+        debugger;
+        
         const pages = R.pipe(
           R.prop('data'),
           R.prop('Pages'))(pdfData);
@@ -53,6 +56,19 @@ const getTextFromPdf = (path) => {
             R.join('')
           )
         ))(pageLines);
+        console.log(R.flatten(pageTexts));
+        
+        
+        const pageBits = R.map(R.map(
+          R.pipe(
+            R.map(R.prop('R')),
+            R.flatten,
+            R.map(R.prop('T')),
+            R.join('')
+          )
+        ))(pageLines);
+        console.log(pageBits);
+        
         const pageTextsCleaned = R.map(
           R.pipe(
             R.addIndex(R.map)((line, idx) => {
@@ -76,13 +92,14 @@ const getTextFromPdf = (path) => {
           )
         )(pageTexts);
         const allLines = R.flatten(pageTextsCleaned);
+        // console.log(allLines);
 
         // Trim down to real lines
         const pReg = /\s*P R O C E E D I N G S\s*/;
         const proceedingsIndex = R.findIndex((line) => {
           return pReg.test(line);
         })(allLines);
-        const cReg = /\s*\(Whereupon, at \d\d:\d\d .\..\., the case in.*/;
+        const cReg = /\s*\(Whereupon, at \d\d:\d\d .\..\.. the case in.*/;
         const endingsIndex = R.findLastIndex((line) => {
           return cReg.test(line);
         })(allLines);
@@ -148,7 +165,8 @@ const getTextFromPdf = (path) => {
         }, speakers.lines);
 
         console.log('read ', allLines.length, 'from', path);
-        resolve({ completeLines, path });
+        resolve(writeResults({ completeLines, path }))
+        // resolve({ completeLines, path });
       });
 
       pdfParser.loadPDF(dataRoot + path);
@@ -176,6 +194,6 @@ fs.readdirAsync(dataRoot)
   .map(writeResults, { concurrency: 3 })
   .then((list) => {
     debugger;
-    console.log(list);
+    // console.log(list);
     console.log(list.length);
   })

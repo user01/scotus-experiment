@@ -1,0 +1,1718 @@
+1 IN THE SUPREME COURT OF THE UNITED STATES
+
+
+2 - - - - - - - - - - - - - - - -X
+
+
+3 GRUPO DATAFLUX,
+
+:
+
+
+4
+
+Petitioner
+
+:
+
+
+5 v.
+
+: No. 02-1689
+
+
+6 ATLAS GLOBAL GROUP, ET AL.
+
+:
+
+
+7 - - - - - - - - - - - - - - - -X
+
+
+8 Washington, D.C.
+
+
+9 Wednesday, March 3, 2004
+
+
+10 The above-entitled matter came on for oral
+
+
+11 argument before the Supreme Court of the United States at
+
+
+12 10:48 a.m.
+
+13 APPEARANCES:
+
+
+14 WILLIAM J. BOYCE, ESQ., Houston, Texas; on behalf of the
+
+
+15 Petitioner.
+
+
+16 ROGER B. GREENBERG, ESQ., Houston, Texas; on behalf of the
+
+
+17 Respondents.
+
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+1 Alderson Reporting Company, Inc.
+
+1 C O N T E N T S
+ 2 ORAL ARGUMENT OF 3 WILLIAM J. BOYCE, ESQ. 4 On behalf of the Petitioner 5 ROGER B. GREENBERG, ESQ. 6 On behalf of the Respondents 7 REBUTTAL ARGUMENT OF 8 WILLIAM J. BOYCE, ESQ. 9 On behalf of the Petitioner 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+2 Alderson Reporting Company, Inc.
+
+PAGE 3
+24
+46
+
+1 P R O C E E D I N G S
+ 2 (10:48 a.m.) 3 CHIEF JUSTICE REHNQUIST: We'll hear argument
+ 4 next No. 02-1689, Grupo Dataflux v. Atlas Global Group.
+ 5 Mr. Boyce.
+ 6 ORAL ARGUMENT OF WILLIAM J. BOYCE
+ 7 ON BEHALF OF THE PETITIONER
+ 8 MR. BOYCE: Mr. Chief Justice, and may it please
+ 9 the Court:
+ 10 The central question here is whether Atlas'
+ 11 post-filing change in citizenship should be allowed to
+ 12 create retroactive diversity jurisdiction in this case.
+ 13 To justify rewriting the longstanding time of
+ 14 filing rule, Atlas relies on the fact that this case was 15 tried to verdict before the jurisdictional issue was 16 identified and raised in the district court. 17 QUESTION: May I ask you with respect to that?
+ 18 When you found out that you had this fundamental
+ 19 jurisdictional objection, when did you know that the
+ 20 partnership included partners not only Texas entities but
+ 21 two Mexican citizens? When did you find that out?
+ 22 MR. BOYCE: There are two answers to your
+ 23 question, Justice Ginsburg. In terms of when we became
+ 24 aware of the issue, that was after verdict, and that's
+ 25 reflected in the affidavit which appears in the record at
+
+3 Alderson Reporting Company, Inc.
+
+1 volume I, page 1887. 
+ 2 In terms of the question of was there evidence
+ 3 in the record that could have been pieced together to
+ 4 identify this issue earlier, the answer to that question
+ 5 is yes. If -- if -- it probably could have been
+ 6 identified earlier, should have been identified earlier,
+ 7 but it was not.
+ 8 QUESTION: There's a curious thing about what 9 Dataflux did. Dataflux at one point moved to add the 10 Mexicans as individuals as counterdefendants. 11 MR. BOYCE: Correct. 
+ 12 QUESTION: And why would it do that if they were
+ 13 members of the partnership. If -- if it was sure that
+ 14 they were members of the partnership, then you wouldn't
+ 15 need to make them defendants as individuals because
+ 16 partners have individual liability.
+ 17 MR. BOYCE: Two answers to that -- that
+ 18 question, Your Honor. First, under the Texas Revised
+ 19 Limited Partnership Act, the -- the partnership can sue -
+ 20 the limited partnership can sue on its own without the
+ 21 participation of the limited partners. In terms of all of
+ 22 the counterclaims against Llamosa and Robles, again under
+ 23 the Texas statute, we can choose to sue the partnership
+ 24 itself or we can sue individual limited partners. In this
+ 25 circumstance, our counterclaim against them was predicated
+
+4 Alderson Reporting Company, Inc.
+
+1 not on their status as limited partners, but rather on the
+ 2 fact that Mr. Llamosa and Mr. Robles made affirmative
+ 3 misrepresentations, was our position, directly to us to
+ 4 induce us to enter the contract that led to the -- the
+ 5 lawsuit. So -
+ 6 QUESTION: But at that stage, you called them
+ 7 employees or former employees. So it seems that the -
+ 8 that you had some inkling.
+ 9 MR. BOYCE: There -- there was some confusion
+ 10 early on in terms of what exactly their status was and we,
+ 11 Dataflux, did not thoroughly explore that issue early on.
+ 12 And -- and that should have been done earlier.
+ 13 But I would also note that the bottom line here
+ 14 is that -- is that Atlas, the party with unique knowledge
+ 15 of the exact circumstances of its partnership at the time
+ 16 of filing, is the party here who filed the case in Federal
+ 17 court at a time when there was not diversity jurisdiction.
+ 18 There certainly could have been more that we should have
+ 19 done to explore the issue earlier.
+ 20 QUESTION: Well, you've admitted it. You -- you
+ 21 just admitted it flat out in your answer.
+ 22 MR. BOYCE: Yes, Your Honor. There were
+ 23 admissions that jurisdiction existed, but I would hasten
+ 24 to add that pursuant to the longstanding rule that
+ 25 jurisdiction cannot be stipulated to, agreed to, created
+
+5 Alderson Reporting Company, Inc.
+
+1 by estoppel or waiver, that those statements are not
+ 2 effective to create jurisdiction if it does not exist at
+ 3 the outset. And -- and I would emphasize the language
+ 4 that was relied on most recently in this Court's decision
+ 5 in Kontrick from January in which the Court noted that a
+ 6 court's subject matter jurisdiction cannot be expanded to
+ 7 account for the parties' conduct during litigation. And I
+ 8 think that principle addresses that. 
+ 9 Is there more that could have been done to
+ 10 explore this earlier -- this issue earlier and bring it
+ 11 up? The answer to that question is yes, but I don't think
+ 12 that that circumstance undermines the fundamental rule
+ 13 here, which is that as of the time of filing, there was
+ 14 not a diversity present, and because of that -
+ 15 QUESTION: Well, there was in the constitutional
+ 16 sense. There wasn't under the statute. There was
+ 17 diversity, but not complete diversity.
+ 18 MR. BOYCE: I think the -- there is some room to
+ 19 discuss that, Justice Ginsburg, in light of the dissent's
+ 20 contention that there was, in fact, no diversity where you
+ 21 have one litigant here, one plaintiff, one defendant, and
+ 22 both are citizens of Mexico at that time. It may be a
+ 23 situation where -
+ 24 QUESTION: But that's not what -- well, correct
+ 25 me if I'm wrong. I thought that Atlas is a partnership.
+
+6 Alderson Reporting Company, Inc.
+
+1 MR. BOYCE: That is correct. 
+ 2 QUESTION: And that it -- and that there are
+ 3 three players involved -- five. Two are Mexican and three
+ 4 are Texan.
+ 5 MR. BOYCE: There -- there -
+ 6 QUESTION: So then you would have on one side
+ 7 Texan and Mexican and the other side Texan. If you drop
+ 8 out the Mexicans, then you're left, from the plaintiff's
+ 9 side -- you're left with a complete diversity case.
+ 10 MR. BOYCE: Atlas is one entity with multiple
+ 11 citizenships, and -- and if -- if the question suggests
+ 12 that there was some kind of a -- a dismissal mechanism
+ 13 available to make the -- the Mexican citizenship go away,
+ 14 I don't believe that that is available under the facts of
+ 15 this case because it's -- it -- there were -
+ 16 QUESTION: But it's what happened. They did go
+ 17 away for a reason unrelated to this lawsuit.
+ 18 MR. BOYCE: Pursuant to Atlas' decision to
+ 19 change the constitution of its partnership after the time
+ 20 of filing and before the case was submitted to the -- to
+ 21 the jury. That is correct, Your Honor. 
+ 22 QUESTION: Yes, long before the case was tried.
+ 23 MR. BOYCE: Before the -- approximate -
+ 24 QUESTION: Well, so when the case -- when this
+ 25 case was tried, there was complete diversity.
+
+7 Alderson Reporting Company, Inc.
+
+1 MR. BOYCE: That is correct. Approximately 6
+ 2 weeks prior to trial, the change in Atlas' composition
+ 3 became effective so that at that point there would -
+ 4 there is complete diversity if that post-filing change is
+ 5 given effect.
+ 6 And I would submit to the Court that under the
+ 7 longstanding rule, going back as far as 1824 in Mollan v.
+ 8 Torrance, reflected in the 1891 decision in Anderson v.
+ 9 Watt, that the longstanding rule has been, and should
+ 10 continue to be in this case, that post changes -
+ 11 QUESTION: I thought in Mollan v. Torrance
+ 12 exactly what I described happened. Chief Justice Marshall
+ 13 said you've got one spoiler on the plaintiffs' side. Take
+ 14 it out and you'll have complete diversity. 
+ 15 MR. BOYCE: I think that the statement in
+ 16 Mollan, as reflected in Conolly and then applied in
+ 17 Anderson v. Watt, Your Honor, is that if the change in
+ 18 circumstances is the result of the addition or subtraction
+ 19 of a party, that's one circumstance, but here we have
+ 20 something entirely different, which is a change in
+ 21 citizenship. It would be the same as if a plaintiff had
+ 22 lived in one State and then moved to another State.
+ 23 QUESTION: No, it's not the same. It isn't the
+ 24 same because a partnership is a citizen of every State in
+ 25 which a partner resides. Isn't that correct?
+
+8 Alderson Reporting Company, Inc.
+
+1 MR. BOYCE: Correct, under Carden.
+
+
+2 QUESTION: So you have, just as if you'd have
+
+
+3 five individuals -- that's what they are in fact -- in
+
+
+4 effect, because they're jointly and severally liable. So
+
+
+5 you have, as I said before, three Texan and two Mexicans.
+
+
+6 You don't have one person that can say, ah, I'm going to
+
+
+7 defeat diversity by moving where I live, or I'm going to
+
+
+8 create diversity.
+
+You -- none of these people's
+
+
+9 citizenships has ever changed. That's quite different
+
+
+10 from somebody saying, I want to change my citizenship.
+
+
+11 MR. BOYCE: I would respectfully disagree, Your
+
+
+12 Honor, because I think Atlas' citizenship changed by
+
+
+13 virtue of changing the composition of its partnership, and
+
+
+14 that is on all fours the same circumstance as if a -- a
+
+
+15 litigant had lived in one State and then tried to move to
+
+
+16 another State in an effort to create retroactive diversity
+
+
+17 jurisdiction. 
+
+
+18 QUESTION: But it didn't leave Texas behind.
+
+
+19 Texas was always there. The Mexican partners left. So I
+
+
+20 just don't see that it's anything like -- I mean, this -
+
+
+21 as I said before, there's the same five people. Two drop
+
+
+22 out and so you've got three Texans, and there were always
+
+
+23 three Texans. They didn't move to Texas. They were there
+
+
+24 from the start. 
+
+
+25 MR. BOYCE: The -- the function of Atlas
+
+
+9 Alderson Reporting Company, Inc.
+
+1 changing its citizenship after the time of filing and
+ 2 thereafter claiming -- this is Atlas' argument -- that
+ 3 that cures our jurisdictional defect, I would submit to
+ 4 the Court, is the same thing as a citizen moving from one
+ 5 State to the other because, in effect, what Atlas is
+ 6 saying, by relying on that argument, is we moved out of -
+ 7 move out of Mexico and -- and resided exclusively in Texas
+ 8 as of the time of suit. That is the whole basis for
+ 9 Atlas' argument as to why the jurisdictional defect,
+ 10 according to Atlas, was cured as of the time of trial.
+ 11 And I think that's where the -- the conflict comes in with
+ 12 the change of -
+ 13 QUESTION: If Atlas had been a corporation
+ 14 incorporated in Texas, then there would have been complete
+ 15 diversity. Right?
+ 16 MR. BOYCE: I'm -- I didn't -
+ 17 QUESTION: If Atlas -- instead of being a
+ 18 partnership composed of five members, it had organized as
+ 19 a corporation, as a Texas corporation. 
+ 20 MR. BOYCE: Then it would be under the -- the
+ 21 different provision of 1332. It would be a citizen of its
+ 22 place of incorporation and its principal place of
+ 23 business, and that would not be the issue that -- that we
+ 24 have here today. 
+ 25 QUESTION: But would -- would -- my question is
+
+10 Alderson Reporting Company, Inc.
+
+1 wouldn't the -- if these -- if this entity had been
+ 2 organized as a corporation, there would have been complete
+ 3 diversity.
+ 4 MR. BOYCE: There -- there -- yes, there would
+ 5 not be an issue here because of a different operation of
+ 6 1332 as applied to corporations, but the point of Carden
+ 7 was, as -- as I read the case, is that limited
+ 8 partnerships are going to be treated differently. 
+ 9 QUESTION: Yes.
+ 10 MR. BOYCE: There is no analog from corporate -
+ 11 QUESTION: But I don't want to belabor this any
+ 12 further, but you do see the difference between an
+ 13 individual moving from New York to New Jersey, say, and a
+ 14 -- a partnership with five partners, all of whom remain
+ 15 where they are. They don't move anyplace else. Those
+ 16 partners, those live human beings, stay exactly what they
+ 17 were. Their citizenship doesn't change.
+ 18 MR. BOYCE: I understand the -- the point, and
+ 19 our position is that when Atlas contends that it has cured
+ 20 the jurisdictional defect by changing the composition of
+ 21 its partnership, that is effectively the same as the
+ 22 litigant moving from New Jersey to New York and claiming I
+ 23 have -- I have fixed the jurisdictional problem because my
+ 24 citizenship has changed. It comes down to a change in
+ 25 citizenship, and I think that's what implicates the
+
+11 Alderson Reporting Company, Inc.
+
+1 longstanding rule that the Court has enforced repeatedly.
+ 2 QUESTION: Mr. Boyce, can I ask you a question 3 about how far your position extends? You say that it 4 wasn't too late to -- to raise the jurisdictional issue 5 when you did. Supposing there had been a trial and
+ 6 instead of your losing, you had won, and then you knew
+ 7 about the jurisdictional defect, and then you waited to
+ 8 see what would happen on appeal. Then you lost on appeal.
+ 9 And then you decided to raise the jurisdictional defect.
+ 10 Would you say that was -- they would then be required to
+ 11 dismiss?
+ 12 MR. BOYCE: Yes, Your Honor. I think the -
+ 13 QUESTION: All right. Suppose then it was
+ 14 affirmed and then you decided you didn't realize it until
+ 15 after the judgment had been entered and become final and
+ 16 so forth, and then a year later you find out about it.
+ 17 Could you raise it then?
+ 18 MR. BOYCE: I don't think it would be the proper
+ 19 subject of a collateral attack after the initial case in
+ 20 which it has been adjudicated is over with. But in terms
+ 21 of where along the line within that case can it be raised,
+ 22 our position is it can be raised, indeed, must be
+ 23 raised -
+ 24 QUESTION: So you say it can always be raised on
+ 25 direct -- while -- until final judgment is entered, but it
+
+12 Alderson Reporting Company, Inc.
+
+1 can never be raised on collateral attack.
+ 2 MR. BOYCE: That is my understanding. And -
+ 3 and I think the most closely analogous case to the
+ 4 hypothetical that -- that you're putting forth would be
+ 5 the Capron v. Noorden case from 1804. It was discussed in
+ 6 -- in this Court's recent decision in Kontrick where in
+ 7 that case the plaintiff who had filed the case in Federal
+ 8 court lost at trial and then went up on appeal to this
+ 9 Court. The plaintiff who filed the case at that late
+ 10 stage identified the lack of jurisdiction, and then the
+ 11 Court said there is no jurisdiction here. If there's no
+ 12 jurisdiction, there's no jurisdiction and the -- the
+ 13 timing of the conduct of it is not germane to that inquiry
+ 14 because it's not something that can be created by the
+ 15 parties' litigation conduct -
+ 16 QUESTION: We have to punish you some other way,
+ 17 maybe fine you or make you pay costs for the other side,
+ 18 but we cannot punish you for that by expanding our own
+ 19 jurisdiction. That's your point.
+ 20 MR. BOYCE: That -- that's our point.
+ 21 QUESTION: Capron against Noorden was one party
+ 22 on one side, one party on the other. It wasn't a case
+ 23 where at the time of the trial there was complete
+ 24 diversity. 
+ 25 I frankly have a hard time distinguishing this
+
+13 Alderson Reporting Company, Inc.
+
+1 case from Caterpillar which started out non-diverse but
+
+
+2 before trial, became diverse. 
+
+
+3 MR. BOYCE: I -- I would like to address the
+
+
+4 circumstances under which this case is distinguishable
+
+
+5 from Caterpillar because that obviously is -- is what
+
+
+6 Atlas relies very heavily on in its briefing.
+
+
+7 And I think there are a number of important
+
+
+8 distinctions here, the first and foremost being that the
+
+
+9 citizenship of the parties to the final judgment in
+
+
+10 Caterpillar did not change. That was a circumstance where
+
+
+11 the -- the diversity-spoiling litigant was dismissed
+
+
+12 pursuant to rule 21. That is not our circumstance here.
+
+
+13 QUESTION: So if the -- this would be the same
+
+
+14 if the -- Atlas had come to the court and said, now,
+
+
+15 court, I want you to dismiss the two Mexicans because
+
+
+16 they're no longer part of the corporation, and gotten an
+
+
+17 order to -- to do that.
+
+
+18
+
+MR. BOYCE:
+
+That would be a different
+
+
+19 circumstance. I -- I hasten to add that in terms of Atlas
+
+
+20 suing Dataflux, Mr. Llamosa and Mr. Robles were not
+
+
+21 plaintiffs. Atlas itself was the plaintiff, and the
+
+
+22 problem arises because of the -- the Mexican citizenship
+
+
+23 of Mr. Llamosa and Robles is attributed to Atlas.
+
+
+24 But if -- if a different circumstance is -- is
+
+
+25 hypothesized where there's a dismissal, then I think that
+
+
+14 Alderson Reporting Company, Inc.
+
+1 brings rule 21 into play. As -- as the Court discussed in
+ 2 -- in the Newman-Green decision, there is a source of
+ 3 authority for addressing that circumstance under rule 21.
+ 4 Here we have a situation where this is not a
+ 5 removal case, this is not a dismissal case, and the
+ 6 question arises -
+ 7 QUESTION: My question was could they have
+ 8 dismissed and -- and as far as removal, I perhaps don't
+ 9 remember Caterpillar that well, but of course, it arose
+ 10 out of a removal. That's how it happened. But the Court
+ 11 didn't make the removal dispositive.
+ 12 MR. BOYCE: Your Honor, I -- I would not presume
+ 13 to -- to say what the -- the Court meant to do, but I
+ 14 would highlight the discussion in the subsequent Lexecon
+ 15 case where the point, I think, was made that indeed
+ 16 Caterpillar was grounded on the removal statute and
+ 17 specifically section 1441, the issue being in Caterpillar
+ 18 that the case was not fit for Federal adjudication at the
+ 19 time of removal and that that was the error. There was an
+ 20 untimely compliance with -
+ 21 QUESTION: Yes. It certainly was a 1441, and
+ 22 the opinion certainly alerts district judges that when a
+ 23 case comes over from the State court, maybe you ought to
+ 24 look at it to make sure that there is Federal
+ 25 jurisdiction. But I didn't think that there was anything
+
+15 Alderson Reporting Company, Inc.
+
+1 peculiar about 1441 and the obligation of a judge to look
+ 2 into jurisdiction. I don't know why the same thing
+ 3 wouldn't apply to 1332.
+ 4 MR. BOYCE: I would submit, Your Honor, that
+ 5 there are different -- there's a different statutory
+ 6 overlay that -- that was being addressed in Caterpillar,
+ 7 the overlay of the removal statutes. Here we're under a
+ 8 circumstance where this -- this is not a removal case.
+ 9 Therefore, we are under section 1332 alone, and the -- the
+ 10 longstanding rule that the citizenship is going to be
+ 11 measured as of the time of filing. At -- at this stage
+ 12 where the rule has been followed for some 180 years, I
+ 13 believe that similar to a complete diversity requirement,
+ 14 it is now part and parcel of section 1332. So there --
+ 15 there's no removal overlay to be addressed. 
+ 16 And -- and there's an additional circumstance
+ 17 here that I think in significant part, Caterpillar
+ 18 operates to protect a defendant's right to removal. The 19 -- the removal in that case -- the removal right was 20 subject to being lost because of the timing of the 21 dismissal of the non-diverse party. There was a -- a
+ 22 problem for Caterpillar in bumping up against the 1-year
+ 23 time limit. In other words, Caterpillar operates to
+ 24 protect a -- a right to invoke the Federal forum.
+ 25 Here, by definition -
+
+16 Alderson Reporting Company, Inc.
+
+1 QUESTION: Well, I don't -- I don't follow that
+
+
+2 because it was wrongfully removed by the defendant, had no
+
+
+3 right to be in the Federal forum when he got there, and -
+
+
+4 and the poor plaintiff who wanted to be in the State court
+
+
+5 got stuck with losing a Federal court case. So it wasn't
+
+
+6 protecting the defendant right to remove. The defendant
+
+
+7 had no right to remove. It wasn't a proper Federal case
+
+
+8 until -- who was it -- one of the parties got dropped out.
+
+
+9 MR. BOYCE: I -- I would go back to Lexecon's
+
+
+10 description of Caterpillar which is that there was an -
+
+
+11
+
+QUESTION:
+
+Why don't you go back to
+
+
+12 Caterpillar's description of Caterpillar?
+
+
+13 MR. BOYCE: Yes, Your Honor. I -- I think at -
+
+
+14 at bottom Caterpillar cannot be divorced from the removal
+
+
+15 context in which it arose. And it -- it was -- it was -
+
+
+16 QUESTION: Do you rely on a distinction between
+
+
+17 a defendant's right to a Federal forum and the plaintiff's
+
+
+18 to a Federal forum? It seems to me they're exactly the
+
+19 same. At the time it's invoked, it's -- there's no
+
+20 Federal jurisdiction.
+
+21
+
+MR. BOYCE:
+
+I think that under certain
+
+22 circumstances Congress has made a distinction between a
+
+
+23 defendant's right to invoke a Federal forum and a
+
+
+24 plaintiff's right to invoke a Federal forum.
+
+
+25 QUESTION: Then are you -- are you saying this
+
+
+17 Alderson Reporting Company, Inc.
+
+1 is -- is the rule you rely on a constitutional rule or a
+ 2 statutory rule?
+ 3 MR. BOYCE: It is a -- primarily a statutory
+ 4 rule operating -
+ 5 QUESTION: In other words, you don't say the
+ 6 Constitution would prohibit us from affirming.
+ 7 MR. BOYCE: I -- I need to qualify my answer,
+ 8 Justice Stevens, because under some circumstances there
+ 9 may be Article III implications here because if -- if it's
+ 10 a circumstance where you have just an issue of whether or
+ 11 not there's complete diversity, then that's a statutory
+ 12 issue. But if -- if retroactive diversity is being
+ 13 recognized so as to allow a case to remain in Federal
+ 14 court for some 2 or 3 years, as happened in this
+ 15 situation, where there isn't even Article III diversity
+ 16 requirement -- let's say you have an alien versus an alien
+ 17 with no citizen present. That does have Article III
+ 18 implications. 
+ 19 QUESTION: So there's a -- there's no subject
+ 20 jurisdiction as a matter of constitutional law, just no
+ 21 subject matter jurisdiction. But nevertheless, you say
+ 22 there could be no -- no collateral attack on the judgment.
+ 23 I'm not sure that I understand the -- why there couldn't
+ 24 be a collateral attack if you're dead right on this.
+ 25 MR. BOYCE: I think that -- and I -- I cannot
+
+18 Alderson Reporting Company, Inc.
+
+1 cite the case that -- that I'm relying on for that, but in
+ 2 the -- in the course of reviewing, I -- I believe that I
+ 3 saw the -- the statement regarding collateral attack. But
+ 4 I -- 
+ 5 QUESTION: You are correct in that respect.
+ 6 QUESTION: I think you're right, but I'm just
+ 7 wondering why.
+ 8 QUESTION: If there -- if there was -- if there
+ 9 was an adjudication of the jurisdiction in the direct
+ 10 case, that's binding on the parties when the thing has
+ 11 become final, just as well as the merits.
+ 12 MR. BOYCE: But I -- I think maybe the -- the
+ 13 primary focus here in terms of the applicability of the
+ 14 time of filing rule is one that -- that turns on the -
+ 15 the purposes of the time of filing rule. These are
+ 16 summarized in -- in the -
+ 17 QUESTION: May I take you back a little way?
+ 18 It is unconstitutional because incomplete diversity is
+ 19 fine. Minimal diversity is fine under the Constitution.
+ 20 The statute, 1332, has always been interpreted to require
+ 21 complete diversity.
+ 22 MR. BOYCE: Correct.
+ 23 QUESTION: When Marshall first mentions that you
+ 24 can't oust jurisdiction by something that happens after,
+ 25 he doesn't talk about the statute. The cases that you are
+
+19 Alderson Reporting Company, Inc.
+
+1 -- are discussing, out of which the timely filing rule
+ 2 arises -- it's a kind of a common law that he's spreading
+ 3 out. He doesn't cite the -- the jurisdictional statute
+ 4 for that.
+ 5 MR. BOYCE: I -- I have to agree that -- that
+ 6 both Conolly v. Taylor and Mollan v. Torrance do not
+ 7 specifically anchor it in the statute, and to -- to some
+ 8 extent, I would -- I would have to acknowledge that
+ 9 they're somewhat cryptic. But I think the -- the clearest
+ 10 statutory anchor as the basis of this rule comes from
+ 11 Anderson v. Watt which, applying Mollan and applying
+ 12 Conolly, does specifically anchor it in the 1875 iteration
+ 13 of the diversity statute in the course of its discussion.
+ 14 And -- and I think that's the clearest indication that
+ 15 this is indeed -
+ 16 QUESTION: What was the date of Anderson? 1891?
+ 17 MR. BOYCE: 1891. Correct. 
+ 18 And the point that we would emphasize here, Your
+ 19 Honor, is that the longstanding interpretation, similar to
+ 20 complete diversity as discussed in the Owen Equipment v.
+ 21 Kroger case, is now a part and parcel of section 1332 and
+ 22 its predecessors.
+ 23 And -- and so it's not a situation merely that
+ 24 the Fifth Circuit is -- is stepping into some area where
+ 25 the Court did not expressly address it in Caterpillar. I
+
+20 Alderson Reporting Company, Inc.
+
+1 think the Fifth Circuit has, in fact, gone beyond that by
+ 2 creating this new rule because it's a circumstance where
+ 3 it is going contrary to the longstanding interpretation
+ 4 and understanding of 1332.
+ 5 QUESTION: As I understand the bottom line of
+ 6 what the situation would be, there was a trial between
+ 7 totally diverse parties. You -- you say that has to be
+ 8 undone. There's no question now that there's complete
+ 9 diversity between these same two parties. So this isn't a
+ 10 case where there's any federalism interest. This wouldn't
+ 11 go back to the State court. This is a proper suit for 12 Atlas to bring in Federal court, and so you'd have the 13 same court, the same parties going over exactly the same 14 case, which does seem a terrible waste. 15 MR. BOYCE: I -- I would focus on one portion of
+ 16 Your Honor's question, which is in terms of an assumption
+ 17 that this case automatically would go back to Federal
+ 18 court. That may well happen, but we don't know -
+ 19 QUESTION: No, no. It would be up to Atlas, but
+ 20 Atlas at this point, being totally diverse from Dataflux,
+ 21 could walk in -- the day that Atlas is thrown out, it can
+ 22 come in the revolving door and say, here's a fresh
+ 23 complaint. Let's start all over again.
+ 24 MR. BOYCE: I think an underlying assumption of
+ 25 that question is that Atlas has not yet again changed its
+
+21 Alderson Reporting Company, Inc.
+
+1 -- its partnership, and I do not know the answer to that
+ 2 question. 3 QUESTION: May -- may I ask you is there another 4 impediment that you do know about like the statute of 5 limitations? 6 MR. BOYCE: There will be an issue -- the answer
+ 7 to your question is that -- that whether or not
+ 8 limitations would prevent -- present an obstacle to Atlas
+ 9 is going to be determined under the Texas savings statute
+ 10 and/or the New York savings statute. There was a choice
+ 11 of law dispute in the case.
+ 12 QUESTION: Well, I assumed -- I assumed you
+ 13 looked into this.
+ 14 MR. BOYCE: And there is a -- a savings statute,
+ 15 assuming Texas law applies, that would allow Atlas to
+ 16 refile suit. 
+ 17 One point that I would note -- and -- and this
+ 18 is outside the scope of the record, but I -- I would put
+ 19 it before the Court to completely answer the question -
+ 20 is that Atlas already has refiled once within 10 days of
+ 21 the initial dismissal. It refiled in Federal court and
+ 22 then subsequently dismissed the second Federal court
+ 23 lawsuit. There may be an issue under the savings statute
+ 24 in terms of how many times do you get to refile, and -
+ 25 and I don't know the answer to that. We haven't looked at
+
+22 Alderson Reporting Company, Inc.
+
+1 that specifically. But there is a savings statute
+ 2 available, and -- and I presume Atlas would invoke it.
+ 3 QUESTION: At what point did they file and
+ 4 refile? Because the court of appeals held in their favor.
+ 5 MR. BOYCE: They filed after the trial court
+ 6 dismissal and before the Fifth Circuit held in their
+ 7 favor, and I believe that the -- the second suit was filed
+ 8 in December of 2000 and dismissed in approximately October
+ 9 of 2001. I think that's the chronology of it. 
+ 10 QUESTION: Dismissed after they won on appeal or
+ 11 before?
+ 12 MR. BOYCE: I think it was before the -- the
+ 13 Fifth Circuit ruled in the case.
+ 14 But the -- the point that I would emphasize is
+ 15 that the -- the purposes of the time of filing rule
+ 16 transcend any individual case -
+ 17 QUESTION: What is it? What is it? I mean,
+ 18 imagine the worst case. A Lithuanian sues a citizen of
+ 19 Taiwan in New York on July 1st. On July 2nd, they both
+ 20 become citizens. Well, what I'm going to ask is what's
+ 21 the worst -- I don't see a constitutional problem. They
+ 22 didn't notice till after judgment. 
+ 23 What's the worst thing that could happen if we
+ 24 were to say, as a matter of policy, if you like, Federal
+ 25 policy, there's an exception to the time of filing rule -
+
+23 Alderson Reporting Company, Inc.
+
+1 when nobody notices until after the judgment is entered -
+ 2 to prevent manipulation? What's the worst thing that
+ 3 would happen?
+ 4 MR. BOYCE: Justice Breyer, the worst thing that
+ 5 can happen is uncertainty in what was formerly a bright
+ 6 line rule in terms of litigants being able to determine
+ 7 with some certainty whether or not they belong in Federal
+ 8 court. 
+ 9 And I would also focus on this point, which is I
+ 10 -- I think the one question that the Fifth Circuit and
+ 11 Atlas do not answer is what is the source of authority for
+ 12 a Federal court to recognize this retroactive jurisdiction
+ 13 here? By process of elimination, we know what it is not.
+ 14 It is not section 1653, because that addresses only
+ 15 defective allegations, not defective facts. It is not
+ 16 section 1441 or 1446 because this is not a removal case,
+ 17 and it's not rule 21. So the -- the bottom line inquiry
+ 18 then is what is the source of this authority and -- and I
+ 19 don't think the authority is there, and in fact this is
+ 20 contrary to section 1332.
+ 21 And with that, I would reserve the balance of my
+ 22 time. 
+ 23 QUESTION: Very well, Mr. Boyce. 
+ 24 Mr. Greenberg, we'll hear from you.
+ 25 ORAL ARGUMENT OF ROGER B. GREENBERG
+
+24 Alderson Reporting Company, Inc.
+
+1 ON BEHALF OF THE RESPONDENTS
+ 2 MR. GREENBERG: Mr. Chief Justice, and may it
+ 3 please the Court:
+ 4 Respondent asks that this Court affirm the Fifth
+ 5 Circuit's judgment and hold that, based on this Court's
+ 6 precedent, the trial court had subject matter jurisdiction
+ 7 at the time of trial because the lack of complete
+ 8 diversity between the parties was cured before trial.
+ 9 This Court unanimously held in Caterpillar that
+ 10 if the jurisdictional defect is cured before trial and
+ 11 then a case is tried on the merits and the court has
+ 12 Article III -- it's an Article III court, it has subject
+ 13 matter jurisdiction, that it has the judicial power to -
+ 14 to preside over -
+ 15 QUESTION: Yes, but Caterpillar involved a -- a
+ 16 situation in which the jurisdictional defect was cured by
+ 17 a change in which parties were in the case. That has not
+ 18 occurred here. 
+ 19 MR. GREENBERG: That's correct. 
+ 20 QUESTION: The party is the same, and that makes
+ 21 it a different case. You can't possibly say we've decided
+ 22 this.
+ 23 MR. GREENBERG: With all due respect, Justice
+ 24 Scalia, our position is that Caterpillar and the thread
+ 25 through Caterpillar of Newman-Green and Grubbs points out
+
+25 Alderson Reporting Company, Inc.
+
+1 that that is not an issue that was determinative of the
+ 2 decision. The Court specified unanimously in Caterpillar
+ 3 that once diversity is cured -- it didn't say has to be
+ 4 cured a certain way. It didn't say has to be cured by a
+ 5 dispensable party leaving, et cetera. It said simply once
+ 6 a case has been tried and diversity obtained at the time
+ 7 of trial, that the -- that -
+ 8 QUESTION: Well, Caterpillar certainly is not a
+ 9 white horse case for you. Otherwise, there wouldn't be a
+ 10 conflict in the circuits the way there is. Certainly
+ 11 there are significant similarities but there are
+ 12 differences too. 
+ 13 MR. GREENBERG: Respectfully, Chief Justice
+ 14 Rehnquist, our position is that the facts in this case are
+ 15 much narrower than Caterpillar. We fall under the
+ 16 umbrella of Caterpillar. Here we did not have, for
+ 17 example, as in Caterpillar a mistaken challenge at the
+ 18 inception of the case that the Court decided in
+ 19 Caterpillar to overlook when it did not remand the case.
+ 20 There is no issue of that ilk.
+ 21 QUESTION: But there was something that you
+ 22 overlooked or whoever was representing Atlas.
+ 23 When did Atlas first become aware that the
+ 24 citizenship of each partner counts for diversity? I mean,
+ 25 this was set up as a Texas business, but in a partnership,
+
+26 Alderson Reporting Company, Inc.
+
+1 unlike a corporation, each partner's citizenship counts
+ 2 equally. And when did you first become aware of that
+ 3 rule?
+ 4 MR. GREENBERG: Justice Ginsburg, I don't know
+ 5 if the record reflects that issue, but answering your
+ 6 question, I don't think either party in the record
+ 7 adverted to that issue until the motion to dismiss was
+ 8 filed by Grupo Dataflux. Therefore, the case continued on
+ 9 from filing through trial to verdict without either party
+ 10 adverting to the fact that there may have been a
+ 11 jurisdictional problem until after -
+ 12 QUESTION: Is it your understanding that the -
+ 13 that the attorney for Atlas in this case would have the
+ 14 obligation to advise the court of the problem the moment
+ 15 it was discovered? Does the attorney have an ethical duty
+ 16 to advise that the original pleading was -- was misleading
+ 17 as -- as soon as the attorney finds out that this problem
+ 18 existed?
+ 19 MR. GREENBERG: Justice Kennedy, I believe so,
+ 20 yes. And I -- and I believe that the parties on either
+ 21 side, as well as the court I might add, if the court
+ 22 learned of or had an issue would have brought it up, but I
+ 23 think certainly counsel had an ethical duty to do so.
+ 24 The -- the issue before you is whether this case
+ 25 creates a new or different exception to the rule of time
+
+27 Alderson Reporting Company, Inc.
+
+1 of filing, and we posit it does not because Caterpillar,
+
+
+2 contrary to -- to the position of the petitioner -
+
+
+3 Caterpillar stands for the propositions, as I have stated,
+
+
+4 which are overwhelming according to the court. Finality
+
+
+5 in that opinion, costs of litigation, litigants waiting in
+
+
+6 line. That is an exception to the rule of the time of
+
+
+7 filing. This case falls within much narrower -- because
+
+
+8 the Fifth Circuit said, if it's cured before trial and not
+
+
+9 raised till after trial, then that's the test. That's a
+
+
+10 much narrower test. 
+
+
+11 QUESTION: What -- what's the latest time it can
+
+
+12 be raised in the view of the Fifth Circuit? 
+
+
+13 MR. GREENBERG: In the -- in the view of the
+
+
+14 Fifth Circuit, raised before trial -- cured before trial,
+
+
+15 but not raised -- but raised after is what the court's
+
+
+16 test was.
+
+
+17 QUESTION: Yes, but in your time of filing rule,
+
+
+18 you -- you have a very definite period. Now, this is an
+
+
+19 exception. And when is the -- under the rule of the
+
+20 exception, when is the last time this can be raised?
+
+21
+
+MR. GREENBERG:
+
+I would -- would --
+
+22 respectfully, Chief Justice Rehnquist, I would think
+
+
+23 before trial is -- is the last time it can be raised
+
+
+24 because Caterpillar says once a case has been tried. It's
+
+
+25 very clear.
+
+
+28 Alderson Reporting Company, Inc.
+
+1 And -- and our -- in this case Atlas was tried
+ 2 to a jury. And as Justice Ginsburg correctly pointed out,
+ 3 this case goes right back to the same court. And if the
+ 4 considerations of finality, of costs of litigation, of
+ 5 people, litigants waiting in line to have their cases
+ 6 tried is to have any meaning, then this Court should
+ 7 overlay that on the facts of this case and say, well, it
+ 8 would be as Yogi Berra said, deja vu all over again, just
+ 9 to go try this case. 10 QUESTION: Does -- does the record tell us why 11 the partnership was changed in its composition? 12 MR. GREENBERG: The -- the record does not. The 13 -- the record only reflects that 6 -- 6 months before the
+ 14 trial, the two Mexican partners were bought out, if you
+ 15 will, were no longer partners. That was not finalized
+ 16 because of some -- it was -- it was final from the
+ 17 parties' standpoint, but there was a technical need for
+ 18 some document from the NASD, and I'm not sure that's in
+ 19 the record, that that's why petitioner says, well, it was
+ 20 really only finally cured a month before trial. But
+ 21 nevertheless -
+ 22 QUESTION: Did the same attorneys represent the
+ 23 partnership in -- in this change of partner transaction as
+ 24 were representing the -- Atlas in the litigation? 
+ 25 MR. GREENBERG: No. No, Your -- no, Justice
+
+29 Alderson Reporting Company, Inc.
+
+1 Kennedy, that is not the case.
+ 2 QUESTION: Do you see any impediment? Or, first
+ 3 of all, explain to me what that second filing was. Mr.
+ 4 Boyce told us -
+ 5 MR. GREENBERG: Yes.
+ 6 QUESTION: -- that you filed a second complaint.
+ 7 MR. GREENBERG: That is not in the record, but
+ 8 what occurred is when the judge dismissed this case after
+ 9 the jury trial, the thought process was, well, let's start
+ 10 anew so that whatever happens on appeal, that case will be
+ 11 advanced so much it would be tried right away, we thought.
+ 12 But after discussing it and after thinking about it, we
+ 13 didn't want two cases to go along at the same time. So we
+ 14 -- it -- we dismissed it without prejudice, relying on
+ 15 whatever happens in this case.
+ 16 QUESTION: So you did that before you knew what
+ 17 the outcome was -
+ 18 MR. GREENBERG: Oh, yes. We did that long
+ 19 before we knew what the -- long before we knew what the
+ 20 outcome or the briefing was in -- in the -- in the Fifth
+ 21 Circuit. 
+ 22 QUESTION: Do you know of any impediment? Now
+ 23 -- now it's for sure that you can go back to the same
+ 24 court with the same parties, do the same thing all over
+ 25 again. Mr. Boyce said that as far as the Texas statute of
+
+30 Alderson Reporting Company, Inc.
+
+1 limitations is concerned, it's not a problem. Is -- is
+ 2 there anything that -- apart from repeating the same
+ 3 thing, that would put you at a disadvantage?
+ 4 MR. GREENBERG: Mr. Boyce is a bright lawyer and
+ 5 I don't know what's in his mind, but as for me, I believe
+ 6 there's a savings clause in the Texas statutory scheme
+ 7 that upon ruling by this Court, if it were not to uphold
+ 8 the Fifth Circuit and this case had to be refiled in
+ 9 district court, I -- I believe that that savings clause
+ 10 would pertain except -- except -- that in the record it
+ 11 shows that New York law is to apply to this litigation.
+ 12 And I don't know whether New York substantive law would
+ 13 apply or Texas procedural law would apply. 
+ 14 My coming here today, of course, was the hope of
+ 15 an affirmance and not have to face that issue. And -
+ 16 QUESTION: Under the Fifth Circuit rule, suppose
+ 17 there's no diversity when the suit is filed because the
+ 18 plaintiff resides in the same State as one of the
+ 19 defendants, and then the plaintiff moves in order to
+ 20 create diversity. Doesn't the Fifth Circuit rule permit
+ 21 that to occur without destroying the jurisdiction of the
+ 22 court?
+ 23 MR. GREENBERG: I'll answer -
+ 24 QUESTION: Then let's say this is done just
+ 25 before trial.
+
+31 Alderson Reporting Company, Inc.
+
+1 MR. GREENBERG: And the issue then is raised
+ 2 after the trial?
+ 3 QUESTION: Yes. 
+ 4 MR. GREENBERG: I would respectfully say this,
+ 5 not only do I think the Fifth Circuit rule allows that, I
+ 6 think Caterpillar allows that.
+ 7 QUESTION: You think which?
+ 8 MR. GREENBERG: I think Caterpillar -
+ 9 QUESTION: Caterpillar.
+ 10 MR. GREENBERG: -- the unanimous decision of
+ 11 this Court, would allow that same fact situation, but -
+ 12 QUESTION: It's -- it's really -- it's really
+ 13 quite different to say, look it, it's the same party here
+ 14 who was here at the outset of the trial, this very same
+ 15 person, and he's been here all through. All that's
+ 16 happened is one other person who -- who destroyed
+ 17 jurisdiction has gotten out. It seems to me it's quite
+ 18 something different to say we had -- we had one person,
+ 19 you know, originally with -- with a certain citizenship.
+ 20 That's -- that same person is here. It was bad as to -
+ 21 as to him originally, but now it's changed because he's
+ 22 changed his citizenship. I'm not sure that that's the
+ 23 same situation. It seems to me quite different. 
+ 24 QUESTION: It seems to me that that situation is
+ 25 just what Justice Marshall dealt with when he said you
+
+32 Alderson Reporting Company, Inc.
+
+1 cannot oust a court of jurisdiction once lodged. So if
+ 2 there is authority, then it doesn't matter whether that
+ 3 plaintiff moves. I mean, the plaintiff who certainly
+ 4 couldn't move and become non-diverse and hope to escape an
+ 5 adverse judgment -- I thought -- I thought that rule was
+ 6 firm, that a single plaintiff, if it's just a two-party
+ 7 lawsuit, jurisdiction is not ousted. And I don't think
+ 8 that Caterpillar in any way suggests that that one party
+ 9 plaintiff situation would be different. 
+ 10 The -- the partnership is sort of in between.
+ 11 It's not like a single individual, but it's not quite like
+ 12 Caterpillar either where there were wholly discrete
+ 13 parties.
+ 14 MR. GREENBERG: I -- I noted in Caterpillar at
+ 15 page 11 that the Court cited the McMahan case from the
+ 16 Third Circuit in which there was a change in the
+ 17 partnership after the filing, but before the trial so as
+ 18 to empower the court with complete diversity and the court
+ 19 had the judicial power to decide the case.
+ 20 I take it that if this Court in its unanimous
+ 21 opinion referred to the McMahan case, Knop v. McMahan,
+ 22 that it -- it understood that change in that case and did
+ 23 not dispute the fact, therefore, that the change in a
+ 24 limited partnership is acceptable so that when that change
+ 25 occurs and then there is complete diversity and then there
+
+33 Alderson Reporting Company, Inc.
+
+1 is a trial, that the court has the Article III judicial
+ 2 power to decide the case. 
+ 3 Or as -- or as Justice Souter said in Lexecon,
+ 4 while not on all fours with this case by any means, there
+ 5 was no continuing defiance but merely untimely compliance.
+ 6 In this case there was no continuing defiance of the
+ 7 court's jurisdiction. Once the limited partners were
+ 8 bought out of the limited partnership, this court acquired
+ 9 the power, and once it acquired the power, the lineage of
+ 10 cases, the thread of cases from -- from Grubbs, Newman-
+ 11 Green, and Caterpillar say this court has the power to
+ 12 consider that case. 
+ 13 QUESTION: Well, Grubbs -- what -- what --
+ 14 Grubbs was a removal case.
+ 15 MR. GREENBERG: Yes, that is true. The only 16 direct filing case -- you are correct, Justice -- Chief 17 Justice Rehnquist. 18 QUESTION: I'm glad to know that. 19 (Laughter.) 20 MR. GREENBERG: Well -- and -- and following on
+ 21 that, but of course, Newman-Green, a rule 21 case,
+ 22 admittedly is very instructive here because Newman-Green
+ 23 -- the court gave the plaintiff the option of dismissing
+ 24 the dispensable party. The plaintiff took the option.
+ 25 While the case was on appeal, the appellate court gave the
+
+34 Alderson Reporting Company, Inc.
+
+1 option. The plaintiff dismissed the dispensable party and
+
+
+2 the court said okay, we had jurisdiction then to render -
+
+
+3 the district court had jurisdiction then to render summary
+
+
+4 judgment in that case. 
+
+
+5 The plaintiff could have turned down that power
+
+
+6 and said, no, I don't want to lose that dispensable party.
+
+
+7 He may be the money man. He may be the one that I can
+
+
+8 come after later on.
+
+
+9 So you do have this Court in Newman-Green
+
+
+10 approving, if you will, the act of the plaintiff
+
+
+11 unilaterally to make the decision whether it's going to
+
+
+12 stay in Federal court or in that case -- well, stay in
+
+
+13 Federal court.
+
+
+14 Here, there are -- there are -- the -- the
+
+
+15 petitioner raises two salient issues:
+
+removal is
+
+
+16 different than remand and this was unilateral. I've
+
+
+17 covered the unilateral in my opinion, and I will say one
+
+
+18 final thing about -- subject to questions, about the
+
+
+19 removal. 
+
+
+20 And that is once a case comes to this court by
+
+
+21 removal or by direct filing, the jurisdictional questions
+
+
+22 are the same at that point, and that is, is there
+
+
+23 diversity? And in Caterpillar, it said, well, there
+
+
+24 wasn't and the court erroneously ruled, but later on
+
+
+25 diversity obtained and we had Article III jurisdictional
+
+
+35 Alderson Reporting Company, Inc.
+
+1 power to try the case. 
+ 2 I -- it's like coming to Washington, D.C. by
+ 3 train, boat, plane. Once you get to Washington, D.C.,
+ 4 you're subject to the same rules. Once we be -- came
+ 5 before the Federal court by direct filing, or once
+ 6 Caterpillar in the removal filing, the test was the same.
+ 7 We -- we believe this is a very, very narrow case.
+ 8 QUESTION: May I just ask you one general
+ 9 question? In -- in your view is the rule that you
+ 10 advocate a one-way street in the sense that if there was
+ 11 jurisdiction when the case was filed, then the next week
+ 12 the plaintiff moved to the same State of the defendant,
+ 13 there would nevertheless continue to be jurisdiction all 14 the way down the line? 15 MR. GREENBERG: That -- Justice Stevens, that is 16 correct. 
+ 17 QUESTION: So it's -- this -- this rule, if we
+ 18 adopt it, is 100 -- it's -- it's to -- it's always to
+ 19 preserve or to allow a -- a belated creation of
+ 20 jurisdiction. 
+ 21 MR. GREENBERG: Once the court acquires the
+ 22 power, it doesn't lose it or it is not divested by the
+ 23 actions of the parties.
+ 24 QUESTION: Okay. Then the second question is -
+ 25 I just want to be 100 percent sure on your view -- is if
+
+36 Alderson Reporting Company, Inc.
+
+1 the original defect is discovered before trial, even
+ 2 though it had been corrected a day or 2 later, there would
+ 3 still be a duty to dismiss the complaint, dismiss for want
+ 4 of jurisdiction because there was no jurisdiction at the
+ 5 time of filing, under your view.
+ 6 MR. GREENBERG: Respectfully, Justice Stevens,
+ 7 it's not my view. It's what I believe Caterpillar says
+ 8 because Caterpillar speaks of a case having been tried.
+ 9 The words are cases tried on -- on -- and I hope it's page
+ 10 11 -- it -- it -
+ 11 QUESTION: Well, that would be the end of
+ 12 filing, not -- not before trial. He said -- the -- the
+ 13 question is before -- you're -- you're taking the position
+ 14 before trial. Once trial has started -
+ 15 MR. GREENBERG: I think the court would have to
+ 16 dismiss the case. 
+ 17 QUESTION: Well, that's not what Caterpillar
+ 18 says. Having been tried is what -
+ 19 MR. GREENBERG: It says, having been tried.
+ 20 QUESTION: I -- I take that to mean the trial
+ 21 having been completed.
+ 22 QUESTION: Yes. 
+ 23 MR. GREENBERG: So do I. So I'm agreeing with
+ 24 you. I think the court -
+ 25 QUESTION: As Caterpillar said, that if at the
+
+37 Alderson Reporting Company, Inc.
+
+1 time of trial -
+ 2 MR. GREENBERG: Yes.
+ 3 QUESTION: -- you have no spoiler in the
+ 4 picture, which was what Caterpillar was.
+ 5 MR. GREENBERG: That's correct. 
+ 6 QUESTION: And if there's a sentence that says
+ 7 something different, but the facts in Caterpillar was
+ 8 before the trial began, it was complete diversity.
+ 9 MR. GREENBERG: That's correct. 
+ 10 QUESTION: Your answer to Justice Stevens, when
+ 11 he put his question, was yes.
+ 12 MR. GREENBERG: Yes.
+ 13 QUESTION: If in fact it's noticed before the
+ 14 trial is complete, it is necessary to dismiss. And that
+ 15 you believe the answer is, one, yes, and you believe
+ 16 that's implicit in Caterpillar because you agree with what
+ 17 Justice Scalia said.
+ 18 MR. GREENBERG: That is correct. That's very
+ 19 well put and I thank you very much. 
+ 20 (Laughter.) 
+ 21 QUESTION: Suppose -- suppose -
+ 22 MR. GREENBERG: I honestly thought that was my
+ 23 answer.
+ 24 QUESTION: Who -- who is that man? 
+ 25 (Laughter.) 
+
+38 Alderson Reporting Company, Inc.
+
+1 MR. GREENBERG: I honestly thought that was my
+ 2 answer. 
+ 3 QUESTION: I did too. 
+ 4 MR. GREENBERG: But -- but I also -- I also have
+ 5 to hasten to point out that Justice Ginsburg's opinion
+ 6 says cured -- you know, if it's cured before trial. In -
+ 7 in this case, it was cured before trial, but it wasn't
+ 8 raised before trial. It was raised after the trial. We
+ 9 fall well within the umbrella of Caterpillar.
+ 10 QUESTION: Suppose you had gone to that trial
+ 11 with the two Mexicans still in the partnership and you had
+ 12 won, and then could you then have said to the court, we
+ 13 don't need those Mexican partners? They're out of here.
+ 14 So now, we'd like to make a motion under rule 21 to drop
+ 15 those two people from the party lineup. Could you have
+ 16 done that?
+ 17 MR. GREENBERG: Under rule 21, if they were
+ 18 dispensable, yes.
+ 19 QUESTION: So you're suggesting that a plaintiff
+ 20 could play the same game as a defendant could play, say,
+ 21 oh, I'm going to go in -- I'm going to go in and get my
+ 22 trial, and I'm going to have those two spoilers in the
+ 23 case, and if I win, fine, I won't open my mouth. If I
+ 24 lose, out they go and I start over again.
+ 25 MR. GREENBERG: I understand the question, and
+
+39 Alderson Reporting Company, Inc.
+
+1 respectfully, Justice Ginsburg, I would say that rule 21,
+
+
+2 Newman-Green, and Caterpillar does allow that. 
+
+
+3 I would say, though, on the other hand, that
+
+
+4 there are other checks on -- on the ethics of -- of
+
+
+5 lawyers. If they do go in with that type of mental frame
+
+
+6 of mind, that there are ethical obligations, and you're
+
+
+7 going to face the wrath of the court. The court may have
+
+
+8 a -- a hearing, for example, to you -- for you to show
+
+
+9 cause why you should be sanctioned for misrepresenting
+
+
+10 things to the court. I'm very concerned about that.
+
+
+11 QUESTION: If -- if the rule you're proposing
+
+
+12 kind of invites the sort of conduct that you say is
+
+
+13 prohibited, maybe there's something wrong with the rule.
+
+
+14 MR. GREENBERG: I'm not proposing a rule, Chief
+
+
+15 Justice -
+
+
+16 QUESTION: Well, you're -- you're proposing a
+
+
+17 rule that is derived, you say, from Caterpillar.
+
+
+18 MR. GREENBERG: I'm proposing that -- that this
+
+
+19 case on its facts falls within the exception in
+
+
+20 Caterpillar. I'm not advocating any new rule.
+
+
+21 QUESTION: Well, except that there was not a
+
+
+22 limited partnership in Caterpillar.
+
+
+23
+
+MR. GREENBERG:
+
+There was not a limited
+
+
+24 partnership in Caterpillar, but diversity was cured before
+
+
+25 trial and the issue was not raised until after trial.
+
+
+40 Alderson Reporting Company, Inc.
+
+1 QUESTION: And I suppose you would argue that if
+ 2 we're looking for bright line rules, we shouldn't make it
+ 3 turn on what the nature of a particular jurisdictional
+ 4 defect was or they moved to another State or you let one
+ 5 partner resign or something like that. The bright line
+ 6 rule, it seems to me, has to turn on whether it's equally
+ 7 bright line to say you can make this objection up till the
+ 8 time of a verdict in the trial court or it's equally
+ 9 bright line to say you can do it up to the time that the
+ 10 appellate court judgment is final. You can't do it after
+ 11 -- we all agree you can't do it on collateral attack.
+ 12 And I don't know why one is any more bright line
+ 13 than the other, unless you get into these ramifications
+ 14 that there's a difference between removal and filing or a
+ 15 difference between the -- the plaintiff moving to another
+ 16 State or -- or adding a partner. Those are all -- it
+ 17 seems to me any one of those would depart from the need
+ 18 for a bright line rule.
+ 19 MR. GREENBERG: Respectfully, Justice Stevens, I
+ 20 do agree with that. I think the rule -- the time of
+ 21 filing rule is -- is a general rule and it has been
+ 22 subject to exception. We fall -- we -- this case falls 23 within the Caterpillar, Newman-Green, Grubbs exception. 24 Yes, there are distinctions in the factual issues, but 25 those distinctions are without a difference as far as what
+
+41 Alderson Reporting Company, Inc.
+
+1 we would ask this Court to do.
+ 2 QUESTION: Well, they're pretty big distinctions
+ 3 because in the other cases, they were just extra parties
+ 4 that could be dropped out. Here the whole partnership -
+ 5 the nature of the partnership had to change. There was -
+ 6 the -- the initial premise for the jurisdiction was wrong
+ 7 based on the identity and the composition of the
+ 8 partnership, not the identity and the composition of all
+ 9 of the parties that are in the complaint. Now, that may
+ 10 be metaphysical, but it -- it does seem to me to open more
+ 11 room for manipulation than existed just with Caterpillar
+ 12 on the books.
+ 13 MR. GREENBERG: Respectfully, Justice Kennedy, I
+ 14 will answer your question. I -- I do not think it opens
+ 15 the door to more manipulation. Two reasons. 
+ 16 Number one, in Texas the general partner has the
+ 17 right to bring lawsuits. The limited partners do not have
+ 18 the right to sue or be sued in their name on behalf of the
+ 19 limited partnership. That's a very important distinction
+ 20 here. 
+ 21 The -- the second point -- and I think this is
+ 22 more important -- the precedent of this Court does not
+ 23 discuss intent. Caterpillar, Newman-Green, Grubbs did not
+ 24 talk about what were the parties' intent at the time that
+ 25 the jurisdictional Article III power came to this court.
+
+42 Alderson Reporting Company, Inc.
+
+1 Since there is no discussion in those cases of intent, it
+ 2 is my reading that intent is not an issue. It's an
+ 3 absolute. Did the court have jurisdiction or does it not?
+ 4 And I think there are checks and balances on
+ 5 lawyers who would manipulate, as you say, Justice Kennedy.
+ 6 QUESTION: Can I get back to -- to bright line
+ 7 rules? It seems to me it is a bright line rule, that you
+ 8 can preserve jurisdiction by dismissing a party. That's
+ 9 very bright line. 
+ 10 I don't think it's very bright line to say, you
+ 11 know, whenever there was a jurisdictional defect which
+ 12 later is cured -- in any way whatever? I mean, this case
+ 13 involves an alteration in the citizenship of the 14 partnership. What about an alteration of the citizenship 15 of the corporation? They reincorporate somewhere else 16 before the thing happens? What about a -- a private 17 individual who decides to move to another State? Is that
+ 18 covered? Is this bright line when -- when we still have
+ 19 all of these -- all of these future cases in front of us?
+ 20 It seems to me it is not.
+ 21 MR. GREENBERG: Respectfully, Justice Scalia, in
+ 22 Caterpillar at page 11, there are overriding
+ 23 considerations to those analogies, which of course are not
+ 24 the facts here. There's no showing of intent here.
+ 25 There's -- there's -- the only showing is neither party
+
+43 Alderson Reporting Company, Inc.
+
+1 adverted to the issue. This case was tried. But -
+
+
+2 QUESTION: There's a difference between the
+
+
+3 absence of jurisdiction at the outset, which is what is
+
+
+4 involved when you have a plaintiff from the same State as
+
+
+5 the defendant which can't be cured by the plaintiff moving
+
+
+6 to a diverse State, and imperfect jurisdiction, in other
+
+
+7 words, that you do have diversity, but you have a spoiler
+
+
+8 in the picture. That is -- that is very clear in
+
+
+9 Caterpillar, less clear in the partnership. Although the
+
+
+10 partners are five individuals, they are not an entity the
+
+
+11 way a corporation is.
+
+
+12 MR. GREENBERG: That's correct. In this -- in
+
+
+13 this partnership, there were, I think, two corporations.
+
+
+14 QUESTION: Wasn't the partnership sued as an
+
+
+15 entity? I thought that it was sued as a partnership.
+
+
+16 MR. GREENBERG: It was a sued as a partnership.
+
+
+17 That is correct. 
+
+
+18 QUESTION: As a partnership. And so -
+
+
+19 MR. GREENBERG: Yes, and two individuals.
+
+
+20
+
+QUESTION:
+
+So there was no jurisdiction
+
+
+21 initially over the partnership. 
+
+
+22 MR. GREENBERG: That's correct. 
+
+
+23 QUESTION: It wasn't -- it was sued. It -- it
+
+
+24 sued. It was the plaintiff, wasn't it? The -
+
+
+25 MR. GREENBERG: Atlas sued -
+
+
+44 Alderson Reporting Company, Inc.
+
+1 QUESTION: Yes. 
+ 2 MR. GREENBERG: -- and was counterclaimed
+ 3 against by Dataflux as an entity, and then Dataflux third-
+ 4 partied in the two Mexican individuals. 
+ 5 QUESTION: But at -- at the outset, contrary to
+ 6 the earlier statement, it was not a matter of imperfect
+ 7 jurisdiction. There was no jurisdiction over Atlas.
+ 8 Period. The -- of the partnership. 9 MR. GREENBERG: According to Carden v. Arkoma, 10 Justice Scalia, the way I read it, the jurisdiction did 11 not obtain at the time of filing. That was only cured
+ 12 later, but the overriding consideration in Caterpillar
+ 13 unanimously by this Court is once a diversity case has
+ 14 been tried in Federal court, with the rules of decisions
+ 15 under State law, under Erie v. Tompkins, considerations of
+ 16 finality, efficiency, and economy become overwhelming. If
+ 17 I have to take those words as they are, they are
+ 18 overwhelming, then it is overwhelming in this case because
+ 19 this case is narrower than Caterpillar. Why send this
+ 20 case back?
+ 21 I would ask this Court -- these principles apply
+ 22 regardless of whether the case arrives to Federal court
+ 23 through removal or original filing. I would ask this
+ 24 Court, on behalf of the respondent, that this Court apply
+ 25 these principles to conclude that the trial court in this
+
+45 Alderson Reporting Company, Inc.
+
+1 case had subject matter jurisdiction at the time of trial,
+ 2 and allow this case to return the district court for entry
+ 3 of judgment consistent with the jury verdict.
+ 4 QUESTION: Thank -
+ 5 MR. GREENBERG: If there are no more questions,
+ 6 I give back the Court my -- the balance of my time. 
+ 7 QUESTION: Thank you, Mr. Greenberg. 
+ 8 Mr. Boyce, you have 4 minutes remaining.
+ 9 REBUTTAL ARGUMENT OF WILLIAM J. BOYCE
+ 10 ON BEHALF OF THE PETITIONER
+ 11 MR. BOYCE: Thank you, Mr. Chief Justice. 
+ 12 I would like to elaborate on an answer to
+ 13 Justice Breyer's question, which has been touched on by a
+ 14 number of the questions here, which is what's the worst
+ 15 that can happen. And I -- I think the point would be
+ 16 this. Once the efficacy of a post-filing change in
+ 17 citizenship is -- is taken as a given, then I think you're
+ 18 -- you're setting up a situation where the door swings
+ 19 both ways. Jurisdiction can be created and jurisdiction
+ 20 can be destroyed by virtue of post-filing changes.
+ 21 QUESTION: Well, he says it's the opposite. 
+ I 22 mean, you -- you could do that, but I mean, it's very
+ 23 clear to say it could destroy it; no. It could create it;
+ 24 yes. I mean, that's not hard to understand, and there's a
+ 25 lot of authority. 
+
+46 Alderson Reporting Company, Inc.
+
+1 MR. BOYCE: The -- the rule -- if -- if the line
+ 2 is drawn there, then I -- I think that raises implications
+ 3 of manipulation. You can move and create it and then move
+ 4 back and not destroy it. If -- if the concern is creating
+ 5 incentives -
+ 6 QUESTION: Only if the court says -- only if the
+ 7 court says so because the rule, even the timely filing
+ 8 rule was -- was something that John Marshall said and it's
+ 9 been that way ever since, with exceptions and recognizing
+ 10 that a human individual is different from a corporation is
+ 11 different from a partnership. If -- if a court is going
+ 12 to make such a regime, surely it would make a sensible one
+ 13 and not one that's subject to abuse.
+ 14 MR. BOYCE: If -- there -- there may be -- the
+ 15 -- the court will do what it will do. The -- the question
+ 16 is, is there an -- a creation of additional opportunities
+ 17 for manipulation or confusion, and we -
+ 18 QUESTION: What are they? You were going to
+ 19 say. What are they?
+ 20 MR. BOYCE: And -- and I submit that if the
+ 21 bright line rule is no longer bright, if it -- if it turns
+ 22 on the fact of how far into the trial court proceedings
+ 23 before this came up, then it's -- the -- the time when you
+ 24 need certainty most, in terms of being able to decide
+ 25 whether or not you have jurisdiction, that's when there's
+
+47 Alderson Reporting Company, Inc.
+
+1 going to be the least amount of clarity. And that's the
+ 2 real -- the real problem that's -- that's created here. 
+ 3 And -- and Justice Stevens had -- had asked the
+ 4 -- the question saying, well, why don't we just draw the
+ 5 -- the line? You want a bright line rule? We'll -- we'll
+ 6 draw it at the time of trial. I think the problem here is
+ 7 that what you're setting up is a circumstance where for
+ 8 some period of time, a trial court, a Federal district
+ 9 court is acting ultra vires, to borrow the phrase from
+ 10 Steel Company, for some period of time prior to whenever
+ 11 you say the -- the post-filing change could become
+ 12 effective. You've got a Federal trial court that is
+ 13 operating without authority. It's issuing orders.
+ 14 QUESTION: No. You assume the jurisdictional
+ 15 defect has been cured. 
+ 16 MR. BOYCE: But prior to the time of that curing
+ 17 of that defect, you have a circumstance as you had here
+ 18 for 3 years, for example, where you've got a Federal
+ 19 district court issuing summary -
+ 20 QUESTION: And as you had in Caterpillar. 21 MR. BOYCE: And -- and I guess the point I would 22 make is -- is this. If Caterpillar opened the door to a 23 component of retroactive jurisdiction, it did not open
+ 24 that door very wide. And -- and the -- the choice is
+ 25 should that -- should that door be opened wider and what
+
+48 Alderson Reporting Company, Inc.
+
+1 are the problems that result from that. And our position
+ 2 would be that the confusion and uncertainty and
+ 3 opportunities for manipulation that are going to result
+ 4 from opening that door wider make it appropriate to leave
+ 5 the line drawn where -
+ 6 QUESTION: Can you imagine a plaintiff's lawyer
+ 7 deliberately filing a Federal lawsuit where he knows
+ 8 there's no Federal jurisdiction? Why would he ever do
+ 9 that?
+ 10 MR. BOYCE: That may not be a -- a circumstance
+ 11 that -- that is likely to happen, but -
+ 12 QUESTION: But you're talking about deliberate
+ 13 manipulation, and I just don't understand why a competent 14 lawyer would ever do that. 15 MR. BOYCE: I -- I think the -- the greater 16 issue is -- is one of uncertainty and of having a
+ 17 circumstance like this case or going back as early as -
+ 18 as the Capron case where the case gets filed and gets
+ 19 tried and then the issue comes up. 
+ 20 I do want to make one note about the reference
+ 21 to the Knop case. 
+ 22 CHIEF JUSTICE REHNQUIST: Thank you, Mr. Boyce.
+ 23 The case is submitted. 
+ 24 (Whereupon, at 11:47 a.m., the case in the
+ 25 above-entitled matter was submitted.)
+
+49 Alderson Reporting Company, Inc.
+
+
