@@ -118,20 +118,21 @@ const getTextFromPdf = (path) => {
           // const removeStrs = ['CHIEF', 'JUSTICE', 'GENERAL', 'MR.', 'MRS.', 'MS.'];
           // const removeStrs = ['CHIEF', 'GENERAL', 'MR', 'MRS', 'MS', 'GEN', '.', 'I'];
           currentContent = ' ' + currentContent + ' ';
-          const removeStrs = [/\s*\.(?=\s+)/, /\s*CHIEF(?=\s+)/, /\s*GENERAL(?=\s+)/, /\s*MR(?=\s+)/, /\s*MRS(?=\s+)/, /\s*MS(?=\s+)/, /\s*GEN\/(?=\s+)/, /\s+I(?=\s+)/];
-
-          const cleaned = R.reduce((speaker, removeStr) => {
-            return R.replace(removeStr, ' ', speaker)
-          }, currentContent)(removeStrs);
-
-          const replaceStrs = [['JUDGE', 'JUSTICE'], ['JUSTCIE', 'JUSTICE'], ['JUTICE', 'JUSTICE'], ['GINSBURGH', 'GINSBURG'], ['JUSTINE', 'JUSTICE']];
+          const replaceStrs = [['JUDGE', 'JUSTICE'], ['JUSTCIE', 'JUSTICE'], ['JUTICE', 'JUSTICE'], ['GINSBURGH', 'GINSBURG'], ['JUSTINE', 'JUSTICE'], [/\s+/, ' ']];
           const fixed = R.reduce((speaker, replacePair) => {
             return R.replace(replacePair[0], replacePair[1], speaker)
-          }, cleaned)(replaceStrs);
+          }, currentContent)(replaceStrs);
+
+
+          const removeStrs = [/\s*\.(?=\s+)/, /\s*CHIEF(?=\s+)/, /\s*GENERAL(?=\s+)/, /\s*MR(?=\s+)/, /\s*MRS(?=\s+)/, /\s*MS(?=\s+)/, /\s*GEN\/(?=\s+)/, /\s+I(?=\s+)/];
+          const cleaned = R.reduce((speaker, removeStr) => {
+            return R.replace(removeStr, ' ', speaker)
+          }, fixed)(removeStrs);
+
 
           // console.log('started with ', currentContent, ' and ended with ', fixed.trim());
 
-          return fixed.trim();
+          return cleaned.trim();
         }
 
         const speechCheck = /\s*([\.\sA-Z]+):\s*(.+)\s*/;
