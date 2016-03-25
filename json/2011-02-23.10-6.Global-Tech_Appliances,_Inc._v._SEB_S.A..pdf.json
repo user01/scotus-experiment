@@ -1,0 +1,878 @@
+[
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "We'll hear argument next this morning in Case 10-6, Global-Tech Appliances v. SEB S.A. Mr. Dunnegan."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "Mr. Chief Justice, and may it please the Court: The standard for the state of mind element for a claim for inducing patent infringement should be: Did the accused inducer have a purpose to induce a third party to engage in acts that the accused inducer knew infringed the patent? That's what I'll call the purposeful, culpable test. The Federal Circuit applied a standard of whether Pentalpha was deliberately indifferent to a known risk that a patent may exist. The Federal Circuit's deliberate indifference test was not a willful you're concerned? You would consider that comes within your first test?"
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "Your Honor, deliberate indifference would not fall -­"
+  },
+  {
+    "speaker": "JUSTICE SCALIA",
+    "speech": "Would not, but willful blindness would?"
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "No, Your Honor. Willful blindness would not fall within our purposeful, culpable test."
+  },
+  {
+    "speaker": "JUSTICE SCALIA",
+    "speech": "So even willful blindness wouldn't be enough?"
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "Willful blindness in not a purpose, Your Honor."
+  },
+  {
+    "speaker": "JUSTICE GINSBURG",
+    "speech": "You said that the particular patent -- the defendant would have to know that the device infringed the particular patent. I think that would be a standard that would be impossible to meet. We have to know if it was patent number, whatever it was, '312."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "Well, you wouldn't have to literally -­"
+  },
+  {
+    "speaker": "JUSTICE GINSBURG",
+    "speech": "But you can keep yourself ignorant of it. I mean, for example, you pointed out that the -- that the device that was copied was purchased in Hong Kong, so it didn't have any marking, but the same Pentalpha could have bought the device in Montgomery Ward, looked to see if it had a patent marking; didn't do that."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "It didn't do that, Your Honor. What it did was better. It hired a United States patent attorney to conduct a search to see if there was any patent which was infringed."
+  },
+  {
+    "speaker": "JUSTICE GINSBURG",
+    "speech": "But didn't tell that patent attorney that they had reverse-engineered a particular product. If the attorney had been told this device copied the SEB fryer, isn't it 99 and 44/100ths percent sure that the attorney then would have found this patent?"
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "We don't know, Your Honor. We don't know why the patent search failed. It could do you think an attorney would not have found the SEB patent?"
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "It's possible that he wouldn't have. Maybe it's more probable that he would have. There's just no evidence on that in the record, Your Honor."
+  },
+  {
+    "speaker": "JUSTICE SCALIA",
+    "speech": "Well, why -- why wouldn't you tell him? If you're -- if you're honestly interested in finding out whether there is a patent that you're infringing, why wouldn't you tell me the reason we're concerned is that we have reverse-engineered this from somebody else's product? Just check to see if SEB has a patent on any of this stuff that we've reverse-engineered. That's what I would have done."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "Your Honor, maybe that's what you would have done. Maybe that's what I would have done, but there's no -- but the standard of that business -- what they had done in the past was to give their design drawings to the patent attorney and say objectively check these design drawings. Their practice when you have a new product of your own; of course, you just give it to an attorney. But when you have reverse-engineered, not to tell them that it was reversed-engineered seems to me really trying to keep yourself in the dark. What you want to get from the attorney is a piece of paper that he can show to Montgomery Ward that, yes, this product is not -- as it turns out, Montgomery Ward did accept it and got hit with liability for infringing a patent. I -- I find that really incredible that, in an honest attempt to find whether there was any patent infringement going on, you wouldn't even tell the patent attorney that you've reverse-engineered somebody else's product."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "Your Honor, looking back at this in hindsight, there's -- there's no question that if they had to do it again, they would have taken the additional step. But -­"
+  },
+  {
+    "speaker": "JUSTICE SCALIA",
+    "speech": "No, they wouldn't."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "No -- well, from an objective gold standard was not met, but the gold standard would rarely be met in any of these cases."
+  },
+  {
+    "speaker": "JUSTICE ALITO",
+    "speech": "But your position is that even willful blindness is not enough. You have to have actual knowledge that -- that the item is patented, right?"
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "That is correct, Your Honor."
+  },
+  {
+    "speaker": "JUSTICE ALITO",
+    "speech": "So if the attorney had called up your client and said, I have an answer for you, and the client said, well, you know what, on second thought, I really don't want to know, because if I -- if I have actual knowledge, that may put me in a box; so forget about it. Then there's no liability."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "Well, I would disagree in that situation, because most probably the knowledge of the attorney in that situation, because he has been hired by the client, would be imputed to the client. So I could see a different result in the hypothetical that you posited."
+  },
+  {
+    "speaker": "JUSTICE SOTOMAYOR",
+    "speech": "Why would we -- wouldn't under -- under the Seagate case in the Federal Circuit, there is no inducement to go get a patent search. Under the Seagate decision, if a party -­"
+  },
+  {
+    "speaker": "JUSTICE SOTOMAYOR",
+    "speech": "No, but you're not presumed to copy other people's items, which is the difference. Is there -- let me just ask you something. Assuming we were to find the willful blindness test to actual knowledge, the facts of your case, the fact that they did not give the name of the product that they copied to their patent attorney, is that just, as a matter of law, willful blindness?"
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "No, Your Honor, I don't think that is willful blindness as a matter of law. Willful blindness under the -- under the Santos standard has two distinct elements. One would be that there's a high probability that there would have been a patent on that particular product."
+  },
+  {
+    "speaker": "JUSTICE SOTOMAYOR",
+    "speech": "Do patents -- are patents -- can you do a patent search on the basis of"
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "Yes, it did, Your Honor."
+  },
+  {
+    "speaker": "JUSTICE SOTOMAYOR",
+    "speech": "So what is the likelihood that if they had actually given the attorney the name of the product, that he would not have found the patent?"
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "We don't know for sure, but the probability would be greater than 50 percent, Your Honor."
+  },
+  {
+    "speaker": "JUSTICE SOTOMAYOR",
+    "speech": "I think it would be probably 90 percent, assuming -- because there's always errors in searches. So -­"
+  },
+  {
+    "speaker": "JUSTICE KENNEDY",
+    "speech": "But didn't we take this case to determine whether or not deliberate indifference is the standard? I mean, willful blindness -- I don't think an opinion for this Court has ever sustained. Santos was a judgment -- was not a majority opinion. That's just a subset of knowledge. If we leave that out from it, isn't the dichotomy that you present to us the difference between deliberate indifference and knowledge or -­ really need to determine what the standard is. Now, I think we can also decide that it should not be -- or we can agree that it should not be a deliberate indifference to a known risk that a patent exists, because that would be met in virtually every situation where there was not actual knowledge of a patent."
+  },
+  {
+    "speaker": "JUSTICE ALITO",
+    "speech": "When I look at the language of the statute, I see no scienter requirement whatsoever. Whoever actively induces infringement of the patent -- infringement is strict liability. So if you actively induce somebody to engage in conduct constituting infringement, you're -- you're liable as an inducer."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "Let me explain to you why your -- why the language of the statute should not support the interpretation which Your Honor just gave. Let's begin with the word \"induces.\" \"Induces\" connotes some degree of intent, arguably. Mr. Cruz agrees with that at page 20 of his brief. If you put the word \"actively\" in front of the word Now, I think it's critical that (b) uses the word \"infringement.\" It does not go back to (a) and say anyone who actively induces the making, using, selling of a patent device is an infringer."
+  },
+  {
+    "speaker": "JUSTICE ALITO",
+    "speech": "What difference does that make? Because making, using, and selling equals infringement."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "Because those are the acts, Your Honor. If Congress's intent had been to say we only want to induce acts, it would seem to me the clearest way they could say that is to say \"making, using, or selling.\" If they wanted to create a standard which was inducing the actual infringement of a patent, as opposed to the acts which constitute the infringement, then they use the word \"infringement.\""
+  },
+  {
+    "speaker": "JUSTICE ALITO",
+    "speech": "Well, I don't see that. And not only that, I don't understand why the scienter requirement for inducing should be higher than the scienter requirement for a direct infringement. Isn't the standard rule for aiding and abetting that the aider should be strict liability as well."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "That's not necessarily clear, Your Honor. When you look at 18 U.S.C. section 2, there's very little case law dealing with strict liability offense and inducements of those. We have been able to identify one Sixth Circuit case from 1989 which deals with the issue, and in that case, it holds that there's actually a purpose to -- a purpose to cause the underlying crime or violation, not necessarily strict liability, not strict liability."
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "Is your -­"
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "I'm sorry."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "No, please, Your Honor."
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "Is your position when you're -- when you're talking about willful blindness or purpose, whatever, is that with respect to a particular patent, or is it with respect to infringement of a patent? I don't think it's true with deep fryers, that there's -- there's 420,000 patents dealing with semiconductors. And you know that, and you know that if you do virtually anything, and especially if you copy, you're going to hit a semiconductor patent owned by somebody, I think that, in that rare situation, knowledge that you're infringing someone's intellectual property rights should probably be enough of a -- of a directed intent. If you -- that would be the basis for inferring a purpose. But here, we have to -­"
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "But that's -- I mean, I understand you're in the deep fryer industry, but that standard would bring the semiconductor industry to a halt."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "No. No, Your Honor. If you copied a semiconductor and you knew that there were 420,000 patents that were unexpired out there, that would make it -- if you didn't do your -- your diligence, perhaps -­"
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "I think the -- the Honor. And even in the -- in the deep-fryer industry, it is going to be different, because there's very few -- I mean, compared to semiconductors -­"
+  },
+  {
+    "speaker": "JUSTICE SCALIA",
+    "speech": "Well, we're not going to adopt a special rule for the deep-fryer industry. (Laughter.)"
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "Agreed."
+  },
+  {
+    "speaker": "JUSTICE SCALIA",
+    "speech": "Especially -­"
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "Completely agreed."
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "But we might decide that it's more important to consider what's going to happen to the semiconductor industry in articulating our standard than what's going to happen to the deep-fryer industry."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "That's exactly correct, Your Honor. (Laughter.)"
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "That's exactly correct. And on balance -- I think there's one point that I should make sooner rather than later, and it's is the standard eliminating a willful blindness standard. I'd like to -­"
+  },
+  {
+    "speaker": "JUSTICE KAGAN",
+    "speech": "Mr. Dunnegan, suppose I disagree with you on that, and suppose I think that actual knowledge of a patent or willful blindness as to whether a patent exists is the right standard. Could a reasonable jury have found that in this case?"
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "We don't think that a reasonable jury could have found willful blindness because, first of all, there wasn't a high probability that a patent would be found. Second, we do not think that there was active -­"
+  },
+  {
+    "speaker": "JUSTICE KAGAN",
+    "speech": "A reasonable jury couldn't have looked at the facts that Justice Ginsburg suggested -- you know, you do not tell the lawyer that you, in fact, have copied the product and say that's -­ a reasonable jury -- that's willful blindness."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "I don't think so, Your Honor, because what we have done in that situation was, first, we have done more than the law required. We went out to it had a patent number on it?"
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "Your Honor, we have so many products that you couldn't practically expect the company to do that, I don't think."
+  },
+  {
+    "speaker": "JUSTICE SCALIA",
+    "speech": "Listen, the -- the reason you got the opinion from the lawyer was -- was not to make sure that there were no patents. It was to show that opinion to Montgomery Ward."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "But your -- your -­"
+  },
+  {
+    "speaker": "JUSTICE SCALIA",
+    "speech": "As a practical matter, you needed an opinion from a lawyer, because otherwise, Montgomery Ward was not going to sell this stuff."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "Your Honor, I take issue with you for the following reason: I don't think there was any intention on the part of our client to -- to infringe a patent at all, because if it knew about the patent, it could have designed around it if it knew what it was doing. There's no benefit to our client of getting Montgomery Ward or Sunbeam or Fingerhut in trouble for patenting infringement. We really want to record, Your Honor. I believe the record shows that Sunbeam was given a copy of the patent search, but Mr. Sham testified -- and I believe this is about at page 50 of the joint appendix -- that the purpose of the search was to find out whether or not there was an infringement of any patent through this deep fryer."
+  },
+  {
+    "speaker": "JUSTICE GINSBURG",
+    "speech": "And there's nothing in the record that says who -- who asked Pentalpha -­"
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "Not that I'm aware of, Your Honor."
+  },
+  {
+    "speaker": "JUSTICE GINSBURG",
+    "speech": "-- to get -- to get a letter?"
+  },
+  {
+    "speaker": "JUSTICE ALITO",
+    "speech": "If this is not willful blindness, I don't know what willful blindness is. Now, maybe you can explain what more would have been required to permit a reasonable jury to find willful blindness."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "Okay. I think you'd need two things, Your Honor. The first that you would need is evidence that they were going to bump into a patent if they -- if they proceeded. Is there the high know whether you're using your time most effectively by arguing this point, but your client thought that making a deep fryer that wouldn't burn people's hands if they touched it would be profitable, because there wasn't a lot of competition in that market. This was a useful product and apparently one that was different from other deep fryers. Isn't that in itself -- doesn't that in itself suggest, gee, there might be a patent on -- on this?"
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "No, I -- well, is there -­"
+  },
+  {
+    "speaker": "JUSTICE ALITO",
+    "speech": "One company is making this and it seems to be better than what the other companies are making; maybe it might be patented."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "Your Honor, the record is that there were six or so deep fryers which were the cool-touch deep fryers which they -- which they used as references. SEB was not the only cool-touch deep fryer that was available. Now, to turn back to the issue of whether or not Grokster actually found that willful -­ of them. If you look at -­"
+  },
+  {
+    "speaker": "JUSTICE GINSBURG",
+    "speech": "And then they copied the design of the SEB."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "Actually, Your Honor, they improved it. There's functional features that went beyond and were better than what were in the SEB product. For example, they used better metal to make the cast iron pan. They put the -­"
+  },
+  {
+    "speaker": "JUSTICE GINSBURG",
+    "speech": "But there was a finding that it was an infringement, that the Pentalpha fryer infringed the SEB."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "The jury did find that, Your Honor."
+  },
+  {
+    "speaker": "JUSTICE KAGAN",
+    "speech": "Mr. Dunnegan, could I take you to the standard? Because in Aro II we said that the appropriate standard in subsection (c) was actual knowledge. Why shouldn't we just say it's the same? Whether it is (b) or (c), these are just two means of -­ of doing a contributory infringement, and the knowledge/willful blindness standard, once we've said it article of commerce, when they can't be libel under (c), even if they meet -- even if they meet the higher -­ even they meet the state of mind element under (c), which is knowing the patent and knowing that the combination would be an infringement. Therefore, to make sure that (b) does not swallow (c), it's very important that (b) have a higher state of mind."
+  },
+  {
+    "speaker": "JUSTICE KAGAN",
+    "speech": "No, (b) and (c) have different standards as to -- not the knowledge of the patent but -- but what the person is -- the acts that constitute infringement. But that's a different thing from whether they should have different standards as to the knowledge of the patent."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "Well, when you say there's different standards, the sale of an -- of a staple article under (b) in itself with a proper state of mind can be an inducement. The sale of a nonstaple article with certain additional conditions can be a violation of (c). The action element for (b) and (c) is -- is essentially the same for the sale of components, and it The purpose of (b) is let's get the morally culpable actors. Now -­"
+  },
+  {
+    "speaker": "JUSTICE KENNEDY",
+    "speech": "I had thought that you wanted us to take the knowing standard in (c) and apply it to (b)."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "No, Your Honor, I -­"
+  },
+  {
+    "speaker": "JUSTICE KENNEDY",
+    "speech": "Correct me if I'm wrong."
+  },
+  {
+    "speaker": "JUSTICE SCALIA",
+    "speech": "No, more than that."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "I would think you have to go with the Grokster standard, Your Honor. And the reason for that is, one, in Grokster you found what the state of mind standard was for inducing infringement under (b), and you moved that into the copyright law. Then, under the -­"
+  },
+  {
+    "speaker": "JUSTICE KAGAN",
+    "speech": "But, Mr. Dunnegan, in Grokster, there was no question as to whether they knew that the -- that the things were copyrighted."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "That was conceded in that case, Your Honor. Yes."
+  },
+  {
+    "speaker": "JUSTICE KAGAN",
+    "speech": "So why is Grokster relevant infringement."
+  },
+  {
+    "speaker": "JUSTICE KENNEDY",
+    "speech": "And you say it's purposeful, culpable."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "Purposeful, culpable conduct -- yes."
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "And why is that -­ how is that different from knowing? I -- I -- my impression was the same as Justice Kennedy's. I thought you wanted the knowing standard."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "Knowing, well -- the way I understand knowing, Your Honor, is that in Sony, for example, there was no liability even though Sony knew that some people were going to use the VCR to infringe copyrighted works. That was collateral damage even though they knew it; it wasn't the basis for liability. In Grokster, the basis for liability was even though the defendant knew that there were going to be some infringements, it couldn't be liable for contributory copyright infringement, the equivalent of 271(c), because there was substantial noninfringing uses"
+  },
+  {
+    "speaker": "JUSTICE SOTOMAYOR",
+    "speech": "I'm -- I'm a little confused. If you knew that there was a patent under (b), and you still gave the fryer -- patented the fryer that you know it is a patented fryer to Montgomery Ward or Sunbeam to sell, you're not liable under (b), because why? What act of yours was not purposeful?"
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "Your Honor, I believe the first sentence of your question was if you knew that there was a patent. Is that a hypothetical?"
+  },
+  {
+    "speaker": "JUSTICE SOTOMAYOR",
+    "speech": "Yes."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "Okay. If we knew that there was a patent and we knew the claims of the patent and we read them and we -­"
+  },
+  {
+    "speaker": "JUSTICE SOTOMAYOR",
+    "speech": "Well, we'll go as to -­ let's -- let's just stop there. Justice Kennedy and I believe the Chief have asked you, isn't your entire argument that we should move the knowing knowledge of (c) into (b)? And you said no."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "No."
+  },
+  {
+    "speaker": "JUSTICE SOTOMAYOR",
+    "speech": "Explain to me -­ me -­"
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "Okay."
+  },
+  {
+    "speaker": "JUSTICE SOTOMAYOR",
+    "speech": "-- what's not purposeful or knowing -- what's not purposeful, culpable conduct, if you know there's a patent or -- you can decide whether knowledge includes willful blindness or not, but it's not my issue. If you know there's a patent and you give the product to someone else to sell, how can you not be culpable for it?"
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "Because, Your Honor, if -­ you could or you could not be, depending on what your purpose is with respect to infringement. If you had a legal opinion which told you that the sale of that product would not infringe the patent, then you wouldn't have a purposeful -­"
+  },
+  {
+    "speaker": "JUSTICE SOTOMAYOR",
+    "speech": "So you're introducing a mistake of law defense to knowledge. You're saying, I really didn't know that it was unlawful. I knew that there was a patent, but I really thought that it wasn't a legal patent, so I was going to violate what I know reason it's not law is that -- it couldn't be repealed. It's -- you can't pass a law abrogating a patent."
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "Well, you're talking -­"
+  },
+  {
+    "speaker": "JUSTICE SOTOMAYOR",
+    "speech": "Why do you get off the hook for making a mistake of law?"
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "A mistake of law -- generally you don't get off the hook. What we have here is a mistake of fact concerning the scope of the claim of the patent. Now, granted, under -­"
+  },
+  {
+    "speaker": "JUSTICE SOTOMAYOR",
+    "speech": "You would never have any patents enforced under your theory."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "Yes, we would, Your Honor. Let's take the situation that there was a prior adjudication that the direct infringer was directly infringing. Let's take the situation where there's going to be advertising which references the patents, as there was in Grokster and says go infringe it. Let's take the situation where there's internal documents at the company suggesting that there is a purpose to"
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "If the Court has no further questions, I would like to reserve my time."
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "Thank you, counsel. Mr. Cruz."
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "Mr. Chief Justice, and may it please the Court: Whatever test that this Court adopts for inducing infringement, the central objective of that test will be to separate culpable bad actors from innocent corporate behavior actors. And by any measure, Pentalpha in this case was a culpable bad actor. In fact, we've got really extraordinary testimony in this case -­"
+  },
+  {
+    "speaker": "JUSTICE KAGAN",
+    "speech": "So would you have any objection to an actual knowledge willful blindness standard? Would that be all right with you?"
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "I think that is one of multiple standards this Court could adopt if this Court were to"
+  },
+  {
+    "speaker": "JUSTICE KAGAN",
+    "speech": "I take it that we would do that on the basis of Aro II? We would just say that's the standard for (c) and that should be the statement for (b)?"
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "Respectfully, Justice Kagan, I don't think that would be an interpretation that is faithful to the text of 271. There is an enormous difference between 271(c) and 271(b). 271(c) includes the word knowing. 271(b) does not include the word knowing and your question assumes essentially -­"
+  },
+  {
+    "speaker": "JUSTICE KAGAN",
+    "speech": "Well, 271(c) includes the word knowing, you have to know that an item has no noninfringing uses. That is a different kind of knowledge than the knowledge that we are talking about here."
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "Respectfully, in Aro II what the Court did and it was, as you know, a splintered majority in Aro II where the dissenters flipped back and forth, but with the particular paragraph that addressed the holding on what had to be demonstrated, the Court"
+  },
+  {
+    "speaker": "JUSTICE KAGAN",
+    "speech": "And because of the infringement, but not necessarily that there was a patent, not necessarily the legal effect as opposed to the act."
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "Well, that is necessarily part of what the Court held in 271(c). And I would agree, this would be a very, very different case if 271(b) had the word knowing. I mean Aro in many ways was a much easier case, but the question is do you have to demonstrate that something is knowing and the statute says it must be knowing, then that is -­"
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "How do you say, I am not certain that willful blindness would support the conclusion below. The standard, the district court or the trial court said really, negligence, as I read it. The circuit said deliberate disregard of a known risk. Well, how much of a risk? I mean, the business world there is always a risk and we are talking about a complicated world, probably quite a lot of risk. And so I think that standard would create a great deal of uncertainty. Willful blindness has a tradition. So are you okay with willful blindness and we say we are afraid they did not do it, i.e., we are afraid, we do not know what they really meant here and so send it back and do it again. I am sure you wouldn't be overjoyed. But do you think that would be a reasonable result?"
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "I think if the conclusion were to send it back and do it again, I don't think that would be a reasonable result."
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "What are you supposed to say known risk, sure he says he looked at five. And he says anybody can figure this thing out, all you do is put the little gizmos between the two sides, you know, and you have an inside and outside and you just suspend the inside with little bars of some kind. I do not know what, chewing gum or something, and he says anybody could figure that out, it couldn't possibly be bad. And so that is their view, but how much of a risk, they will say little risk, big risk. So you see why I think we should send it back. Now you tell me why that is not -­"
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "That is what they argued to the jury and that's -­"
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "I am not saying they are right in that, I bet they would lose. But my problem is do I accept the words deliberate disregard of the known was presented to the jury, although the precise words willful blindness weren't used, the argument that was presented to the jury was willful blindness argument."
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "How was the jury instructed?"
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "What the jury was instructed was several things and the jury instructions are at RA 26 and 27. The jury instruction that was used, by the way, was the model jury instruction that has been used since 1998, has been unchanged and has included largely this language since 1998 over and over again. That is the jury instruction we are dealing with."
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "I am still waiting to hear what it was?"
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "It is a complicated instruction, so part of what -­"
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "Well, I thought there was some question about that it was so low that it in effect amounted to a negligence standard."
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "That is part of the argument they actively and knowingly."
+  },
+  {
+    "speaker": "JUSTICE GINSBURG",
+    "speech": "Where are you reading from, Mr. Cruz?"
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "RA 26 and 27. It is the end of the red brief."
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "I don't think that is the part they are complaining about."
+  },
+  {
+    "speaker": "JUSTICE KENNEDY",
+    "speech": "It is in the red brief, the Respondent's brief, page 26, toward the bottom it says if you find, I have a problem that I do not know that they preserved this objection, but let's talk about what the standard ought to be. At the bottom it says, if you find that the someone has directly infringed a patent and that the defendants knew or should have known that its actions would induce direct infringement. So this means to me that in order to be liable for an inducement you can be liable if you knew or should have known. Now, if we can just discuss this for a moment. It seems to me that this is the important point in the case because if you say should have known, then you have a standard that is less than intentional for inducers. And that means that every supplier, every business person that takes a product from a manufacturer has the duty to inquire and to find out if there is a patent. And it is a standard that is less than intentional and that is a very substantial change or a very substantial burden to impose on those who are selling and distributing products."
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "Justice Kennedy, I don't believe that is correct. Number one, we are certainly not advocating a general burden on all producers to do a patent search. That is not remotely the position we are presenting."
+  },
+  {
+    "speaker": "JUSTICE KENNEDY",
+    "speech": "Well, if you say should have known, that is the necessary consequence of the holding."
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "What I would suggest the import of that language is, is to allow constructive knowledge. Is to allow essentially willful blindness, which was the entire way it was argued to the jury."
+  },
+  {
+    "speaker": "JUSTICE KENNEDY",
+    "speech": "Well, as you say, willful blindness was never used really until this Court and this Court has never in a full opinion for the Court adopted it even in the criminal context. So can we talk about knowing as opposed to should have known. that Mr. Sham, the CEO, never told his patent lawyer, look, what we are doing is copying this SEB product. What he did, I suggest to you, is he set Mr. Levy up to fail. He set him up to fail by not telling him he had copied the product. That was the theory that was argued as to why they should have known, because this was in effect a sham, that not telling the lawyer about the product, it wasn't an accident."
+  },
+  {
+    "speaker": "JUSTICE KENNEDY",
+    "speech": "But you're presenting to us the proposition, I take it, correct me if I am wrong, that we should write an opinion that is saying that know or should have known is the standard for an inducer. And I question whether that is a wise interpretation and a necessary interpretation of (b), especially as we are informed through (c) as to what (b) might mean."
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "Justice Kennedy, we are not proposing that, and I would say two things. Number one, there is an entire instruction on inducement and there is also the language I read before that is part of the jury charge on inducement. And I don't think the jury point. But I am interested in what the standard ought to be. I'd like you to know what a properly instructed jury should be told with reference to knowledge or something less than knowledge."
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "I would suggest with respect to the language knew or should have known, that if there is not an actual knowledge requirement, which in my judgment is nowhere in the statute, then you have to have something like should have known because I do not know what you alternative instruct. If it is not actual knowledge then there is a situation where someone is allowed to have constructive knowledge."
+  },
+  {
+    "speaker": "JUSTICE KENNEDY",
+    "speech": "So you're saying that (b) should have a lesser standard of culpability than (c)?"
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "Absolutely. I don't think the statute makes any sense unless (b) is understood to have a lesser standard. Otherwise, the inclusion of the word \"knowing\" is given no effect."
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "The difference, they say, between (b) and (c) is that (c) applies to a person who But (b) could apply to somebody who makes plastic shields. (B) can apply that -- (b) could apply to anybody who makes anything; is that right?"
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "Justice Breyer, under that argument, the statute would be interpreted identically if the word \"knowing\" were added to (b). And given that they added it to (c) and not to (b) -­"
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "Well, the argument is that the words \"actively induced\" are meant to be something greater than knowing, not something less than knowing. Because otherwise, you're going to hold Aluminum Company of America, if that still exists, liable when it makes these aluminum sheets, because somebody uses an aluminum sheet apparently, et cetera. You see the problem. It is quite different when you make this weird kabuki-looking thing that only has one use, and they -- and that's why it should be -- it should be harder to hold that person to contributory infringement, not easier. Now, that's their argument. What do you liability for direct infringement today."
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "I'd like to get, really, an answer from you on Justice Kennedy's question, because at the moment I am not worried about your case. You, of course, are. I understand that. But the -- I am worried about Alcoa or the little backyard maker of clay pots, or -- I mean, millions and millions of people make things that are used in millions and millions of ways. And I am worried about what kind of burden we are supposed to impose on them. I see three candidates. One is, you're liable if you should have known. Two is, you're liable if you consciously disregarded a -- a risk, a known risk; that is sort of like a -- you know, the Model Penal Code, sort of. And third is willful blindness. Is there a fourth? And if there is not, what do you choose among those three? No, not what you choose. What should we choose?"
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "We have suggested three possible would be liable and it would uphold the judgment below. That is the broadest standard the Court could adopt. A more narrow standard the Court could adopt is that at a minimum, willful blindness of the patented issue suffices to allow inducement liability. That is a more narrow standard. It would cover a much narrower universe of conduct. It would exclude much of the conduct both Justice Breyer and Justice Kennedy are suggesting. That is the second way this judgment could be affirmed and a more narrow rule. The most narrow rule we have suggested this Court could adopt is in the limited circumstances when a defendant deliberately copies another commercial product, at a minimum, that defendant has an obligation to ascertain if that specific product has protected U.S. intellectual property, that it is a very minor obligation that is triggered only when you take a commercial product on the marketplace, reverse-engineer it, and copy it, because it is a situation that is highly likely to be indicative of bad conduct, to be risking a very substantial infringement of someone else's IP, and in terms of a low-cost avoider, one of the things at footnote 20 of our brief -­"
+  },
+  {
+    "speaker": "JUSTICE SCALIA",
+    "speech": "Wait. Before you go -­ before you go further, what if you do that, okay? And you get an opinion from a lawyer, as they did here, saying you're not violating any copyright or any -- any patent?"
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "If they had said three words differently, this would be a very, very different case. If they had simply, in talking to their lawyer, said: We copied SEB."
+  },
+  {
+    "speaker": "JUSTICE SCALIA",
+    "speech": "Okay. You have to tell the searcher that you copied."
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "Yes."
+  },
+  {
+    "speaker": "JUSTICE SCALIA",
+    "speech": "That is part of your test, right?"
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "If you specifically copy a product, you have to look to see if that particular product is protected by IP."
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "So is that -- is that another standard? Maybe that is an example of what it is to be willfully blind. If, in fact, you go out and you copy something, it could well be patented, and you do not tell your lawyer, go look up this one, that is craft the rule at least narrowly tailored to the facts here, which is copying. And look, copying is not a unique problem. It is a serious problem internationally, with U.S. intellectual property being stolen, copied, and marketed. And if Pentalpha were to prevail, if this Court were to conclude unless you had actual knowledge, you know to a hundred percent certainty, this violates patent '312, you're immune from liability, that decision of this Court would serve as a roadmap."
+  },
+  {
+    "speaker": "JUSTICE KENNEDY",
+    "speech": "You're not immune from liability for direct infringement. You're immune from liability, under the hypothetical, for actively inducing. And that is where there is a very substantial policy difference."
+  },
+  {
+    "speaker": "BLATT",
+    "speech": "But, Justice Kennedy, the reason in this case why we brought a cause of action for both direct infringement and active inducing is because the argument of Pentalpha was their conduct was all overseas, and so they weren't covered by 271(a). The one of the phrases Giles Rich used in defense of 271."
+  },
+  {
+    "speaker": "JUSTICE KENNEDY",
+    "speech": "So are you saying that the standard of knowledge would be the same for direct infringement as for active inducement?"
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "I think there is a reasonable statutory argument to be made that it is the same, namely, that it is strict liability. We are not pressing that as the only way to prevail, but I think there is certainly a reasonable statutory argument."
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "I am a little confused about the relationship between knowledge and the Grokster standard. You think knowledge is a more favorable standard for Petitioner than Grokster. You're willing to accept Grokster, but not willing to accept actual knowledge."
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "I do, and I will tell you why. Because -­"
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "Well, before you tell me why, do you understand -- it's unfair to ask you, I guess, but I understood Petitioner to take the Justice Kennedy, that they are effectively requiring actual knowledge, that that's what their urging is."
+  },
+  {
+    "speaker": "JUSTICE KAGAN",
+    "speech": "Why aren't you both wrong, that Grokster didn't deal with the question that we are dealing with, which was knowledge of a patent or knowledge of a copyright, that Grokster dealt with whether there was specific intent or whether there needed to be specific intent to encourage infringing acts. That is what Grokster was about, an entirely separate question."
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "Let me answer both your question, Justice Kagan, and the Chief Justice's question together. Grokster used language about purposeful culpable conduct, but it went further. It specified how you ascertain whether that standard is met, and it said as shown by other affirmative acts to encourage inducement. Now, in Grokster, part of the argument Grokster made was, we do not know what copyrights are going to be violated. We do not know what is going to"
+  },
+  {
+    "speaker": "JUSTICE SCALIA",
+    "speech": "Well, one of the -- one of the briefs -- one of the amicus briefs in this case points out that that argument is a lot less plausible in copyright than it is in -- in patents. It is very easy to find out whether you're infringing a copyright. It is very difficult to find out whether you're infringing a patent, especially in the modern age of warehouse patents. I am not sure that we -- that we want to use the same test for copyrights that we use for -- for patents."
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "That policy differential -- there may well be differences between patent law and copyright law that are implicated in other cases. Here, what occurred is an entire commercial product was copied. It is much more akin to copyright infringement, where the entire product was copied and they just changed the cosmetic features."
+  },
+  {
+    "speaker": "JUSTICE SCALIA",
+    "speech": "Well, that's fine. I am just -- I am just expressing reservations about your suggestion that we simply take Grokster wholesale and fact any comparison of Grokster to Pentalpha, Pentalpha is clearly the more culpable actor. In Grokster, the individuals violating the copyrights were the ones who made the choice to directly and deliberately violate the copyrights and Grokster simply provided the tool to do so. Here the only bad actor was Pentalpha. Sunbeam, Montgomery Ward, they had no idea of the infringement. Pentalpha was the mastermind behind the entire patent violation, and in fact because of its actions procuring a right to use opinion, by keeping the relevant information from its patent lawyer, it lured, it induced Sunbeam and Montgomery Ward and Fingerhut into committing the bad act."
+  },
+  {
+    "speaker": "JUSTICE KENNEDY",
+    "speech": "Would you say, even though you -- I think you disagree with this in this case, would you say that there is a reasonable argument in our precedent for saying that the standard of knowledge under (b) should be greater than reckless disregard?"
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "I do not believe there is in the precedent. For one thing, reckless disregard is the enhanced damages or attorney's fees. I don't think that's consistent with the statutory standard. That's not the language Congress adopted."
+  },
+  {
+    "speaker": "JUSTICE KENNEDY",
+    "speech": "All right. Would you say that there is substantial authority for the proposition that it should -- the state of mind should be greater than \"should have known\"?"
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "You know, I do not believe there is. Particularly how \"should have known\" was used in this case, A, the jury was -- the way the jury was instructed, I would suggest it was effectively a constructive knowledge instruction."
+  },
+  {
+    "speaker": "JUSTICE GINSBURG",
+    "speech": "They're dealing -­"
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "If you look at -­"
+  },
+  {
+    "speaker": "JUSTICE GINSBURG",
+    "speech": "They're dealing with a Federal Circuit decision, they're reviewing that decision, the Federal Circuit had a formula. It said standard is deliberate disregard of a known risk. One thing you must surely do is to say whether that standard is right or wrong."
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "I agree the Federal Circuit had that language. I would not suggest that standard was the wrong standard, but what I would say, what the Federal Circuit in fact did is it applied willful blindness. If you look at the cases it cited, if you look at how it in fact interpreted it, although it used the deliberate indifference language, which I will concede was somewhat confusing in its reasoning. If you look at it, it framed it as whether Pentalpha had constructive knowledge of the patent, and it then cited willful blindness cases from other circuits that focused it on actively disregarding a known risk and deliberate avoidance and consciously avoided knowledge. All of that is willful blindness knowledge."
+  },
+  {
+    "speaker": "JUSTICE ALITO",
+    "speech": "Mr. Cruz, while we are certainly interested in what the standard should be. But in terms of the deposition of this case, maybe you could help me with this. The -- the instruction to which there was an objection on, 124A to -- well, wherever it is in the joint appendix -- was the newer have been stricken. So am I right that the only issue that was preserved is the question whether actual knowledge was required? Because that was the only -­ that was what -- that was the error, the alleged error that was identified by Mr. Dunnegan."
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "I agree with that entirely."
+  },
+  {
+    "speaker": "JUSTICE ALITO",
+    "speech": "So if he is wrong on that, then the judgment should be affirmed."
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "I agree with that entirely, and indeed we have suggested the central issue, the question before this Court is, is there a requirement of actual knowledge of the specific patent? And in my judgment there is no reasonable argument from the statutory language that in order to be liable under 271(b) you must specifically know to 100 percent certainty this is violating patent number 312. That is the issue they objected. That is the issue that has been brought before this Court. Is -­"
+  },
+  {
+    "speaker": "JUSTICE SOTOMAYOR",
+    "speech": "-- do so, because we still have to define knowledge. If we accept that about?"
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "If it is a case that you must specifically know the specific patent, it will ensure that unscrupulous -­"
+  },
+  {
+    "speaker": "JUSTICE SOTOMAYOR",
+    "speech": "I agree. We can say that. But how does it help -­"
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "Well -­"
+  },
+  {
+    "speaker": "JUSTICE SOTOMAYOR",
+    "speech": "-- the development of law for us to simply say you -- it is not so much knowledge that you have to know the specific patent by number."
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "I am going to suggest it is a binary choice. It is either actual specific knowledge of the patent, or it is some form of \"should have known\" that allows constructive knowledge."
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "That is where I am. At the moment, the should have known or willful blindness, the disregard -- the problem, and it seems like a real problem, is know what, exactly? Well, know there is a risk. Well, at that point half the country in the mean a real risk -- I mean a huge risk -- I mean a risk that in fact, you almost knew that this was it -- now I can do it with my tone of voice, but I need the words to put in there that are going to calm people's fears that they are not suddenly going to be held liable because there is some fairly small risk of this. So what words would I use?"
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "In this case, you had unusual -­"
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "I know this case; I am not worried about. I am worried about what I said."
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "Well, let me suggest what words you could use to resolve this case. Because -­"
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "I do not want to just resolve the case. (Laughter.)"
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "The reason we took the case is because there seemed a bunch of standards floating around. Now I know our interests differ in this matter, but I would appreciate any help you can give me about what I am thinking now is words that will quantify the used in Santos was that willful blindness is that when a party aware of a high probability of a fact deliberately avoids learning the truth."
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "Well, I've heard about that."
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "That language would encompass this case -­"
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "Yes, it would."
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "And it would not bring in innocent actors."
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "-- my problem, is a high probability that. You have to be -- you have to consciously, that is the model penal code, that is the -- you know, torts -- you have to consciously disregard a high probability that this item was patented and also meet the other requirements that are part of active inducement. That is what your thought is?"
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "I think that would be an acceptable test this Court could -­"
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "A high probability a patent, and when you engage in what the district court characterized -­"
+  },
+  {
+    "speaker": "JUSTICE SCALIA",
+    "speech": "He is not interested in what happened here. I mean, we are still talking about a general test."
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "I -- what I would suggest and that is one of the reasons we proffered the narrow test that is keyed on copying, because copying of completed commercial products is the most egregious. If the Court is concerned about unintended consequences, that narrow rule is the most narrow rule. Let -- if I could briefly suggest -­"
+  },
+  {
+    "speaker": "JUSTICE SOTOMAYOR",
+    "speech": "Forget the narrow rule. What do you think the rule should be to articulate what Justice Breyer would like?"
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "With respect, my client doesn't care -­ (Laughter.)"
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "-- as long as the result is at the end, the opinion is affirmed. helpful, and -- and it is a knowledge or a known -- or consciously disregarding a known risk where the risk consists of a high probability that that item that you are inducing to be produced will infringe a patent."
+  },
+  {
+    "speaker": "CRUZ",
+    "speech": "I agree that would suffice. With respect to why this Court should not remand, if I may very briefly make three points. Number one, this case has been going on for 12 years. To remand for a new trial would drag it on to more endless litigation for no purpose. The district court observed below this case was not a close case. It took the jury 109 minutes to resolve against Pentalpha on every single ground that was presented to it. Number two, the jury charge that was sent to the jury was more than sufficient under any of these standards. But number three, the alternative argument we made, there was a finding of direct infringement. That finding of direct infringement is also supported by the damage award and that is an alternative ground to remand it. Now, in the reply brief Pentalpha says, there could have been some sold in Canada. That was lawyer argument. The only evidence, which everyone agreed, was the stipulation and if that is true that supports the damage award."
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "Thank you, Mr. Cruz. Mr. Dunnegan, you have four minutes remaining."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "Five points in rebuttal, I believe, Your Honor. The first is what should the standard be with respect to willful blindness. And I do want to call the court's attention to one sentence in Grokster appearing at page 941 of the opinion. And it provides, this is worth reading, I believe. If liability for inducing infringement is ultimately found, it will not be on the basis of presuming or imputing liability, excuse me, fault, but from inferring a patently illegal objective from statements and actions showing what that objective was. of the patent? That is your test?"
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "The test that we are looking for is the Grokster test. Is there purposeful, culpable conduct."
+  },
+  {
+    "speaker": "JUSTICE ALITO",
+    "speech": "Do you want actual knowledge of the patent?"
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "Yes, Your Honor."
+  },
+  {
+    "speaker": "JUSTICE ALITO",
+    "speech": "And that is the issue you preserved with your objection?"
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "Not precisely. We preserved other issues beyond that. We preserved both the jury charge by objecting at 135A of the joint appendix and we objected to the judgment as a matter of law motion by making it and saying specifically there is no evidence here that there was actual knowledge of the patent before April 9th of 1998. Now -­"
+  },
+  {
+    "speaker": "JUSTICE GINSBURG",
+    "speech": "And after that date you admit you -- because you continued to sell the product to the retailers?"
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "Yes, Your Honor. bulk of that period of time, we had a legal opinion from a very competent New York City lawyer stating that we did not infringe. And the jury, I guess the second point I was trying to make is the jury never evaluated any standard higher than new or -­"
+  },
+  {
+    "speaker": "JUSTICE GINSBURG",
+    "speech": "I thought that opinion was after the first finding of infringement, that you redesigned the product and that, the evidence you got dealt with the redesigned products."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "I believe your timing is correct, Your Honor. The -­"
+  },
+  {
+    "speaker": "JUSTICE GINSBURG",
+    "speech": "But after just originally, Sunbeam is suing for infringement. Sunbeam notifies Pentalpha. At that point, Pentalpha is continuing to make sales. Is it infringing? Is it actively inducing infringement."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "That is a question of fact, Your Honor. The jury resolved it against us, but the point I was trying to make is that for some period of time after that we had a legal opinion saying we did not"
+  },
+  {
+    "speaker": "JUSTICE GINSBURG",
+    "speech": "You admitted there was purposeful, culpable conduct when you did not, when you had the original design and that was, and you were sued for actively inducing infringement of that design, by that design."
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "No, Your Honor. We would never concede that we were purposefully -­"
+  },
+  {
+    "speaker": "JUSTICE GINSBURG",
+    "speech": "But you think a jury could have found that from the facts?"
+  },
+  {
+    "speaker": "DUNNEGAN",
+    "speech": "Yes. We are not seeking judgment as a matter of law for any claims that arose after April of 1998 when we had actual knowledge of the patent, only before we had actual knowledge of the patent are we seeking judgement as a matter of law. Now, going to the issue of whether willful blindness could be found by the failure of someone to tell the patent attorney that there was a copying -­"
+  },
+  {
+    "speaker": "JUSTICE SOTOMAYOR",
+    "speech": "I am sorry. Why are you doing that? I thought that you came in arguing that you have to have actual knowledge of the patent. primary argument, but if the court were to adopt willful blindness as being enough, then I would question whether or not simply not telling the patent attorney what references were used or even which ones were copied would be enough. Because in that situation, the company has taken an effort to find out what the truth is and it simply failed to meet the gold standard in meeting that obligation."
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "Thank you, counsel. The case is submitted."
+  }
+]

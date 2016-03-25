@@ -1,0 +1,882 @@
+[
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "We will hear argument next this morning in Case 09-11556, Tolentino v. New York. Ms. Schwarz."
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Mr. Chief Justice, and may it please the Court: The Court held in Delaware v. Prouse that, in the absence of reasonable suspicion, it is an unreasonable seizure under the Fourth Amendment for police to stop a car for the purpose of checking the motorist's driving credentials. In Brown v. Texas, the Court similarly ruled that police may not stop a person without reasonable suspicion for the purpose of requiring the individual to identify him or herself. These cases are grounded in the principle that in this country we enjoy the right to elicited his name, and gained access to his DMV records, which otherwise would not have been discovered. Instead of suppressing the poisonous fruit of the illegal car stop, the DMV records, the New York Court of Appeals chose to create a new categorical rule that prevents application of the exclusionary rule whenever the police act in violation of Prouse."
+  },
+  {
+    "speaker": "JUSTICE SCALIA",
+    "speech": "Was -- was -- was the poisonous fruit the DMV records, or was the poisonous fruit the fact that this person who is contained in the records was the one driving the car? Why wasn't that the -- why wasn't that the fruit? I mean, the records were there anyway. What -- what -- what new information came from the stop was the fact that that is the person who was driving the car. Why -- why didn't -- why wasn't that what should have been suppressed?"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Well, Justice Scalia, that is also a fruit of the poisonous tree. As -­"
+  },
+  {
+    "speaker": "JUSTICE SCALIA",
+    "speech": "I would agree with you on that fruit. Did -- did you ask for that to be"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "That's right, and that's because the court below decided that -- in deciding the case only addressed the DMV record, and -- and indicated that the DMV records were not properly suppressible fruit."
+  },
+  {
+    "speaker": "JUSTICE ALITO",
+    "speech": "Suppose that the -­"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "And that's the issue."
+  },
+  {
+    "speaker": "JUSTICE ALITO",
+    "speech": "Suppose that -- that you had won at the trial level; the judge suppresses everything and dismisses the indictment; and Mr. Tolentino walks out of the courtroom and is observed by the officer that conducted the stop in this case. The officer sees him getting into a car and driving away, even though his license is still suspended. Now, could -- could he be arrested for that?"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Yes, Justice Alito, he could."
+  },
+  {
+    "speaker": "JUSTICE ALITO",
+    "speech": "Even though the officer would have no reason to know that this particular person has a suspended license were it not for the chain of events that followed from the initial allegedly illegal and make the second offense properly -­"
+  },
+  {
+    "speaker": "JUSTICE ALITO",
+    "speech": "All right. Let me ask a related question. Suppose that after you filed your suppression motion the -- the State of New York became nervous about this issue and they checked all the surveillance cameras in the vicinity of the stop, and, lo and behold, they found a tape showing Mr. Tolentino driving the car shortly before the stop here. Could he be prosecuted for illegal -- for driving without a license, with a suspended license, using that evidence?"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Well, that -- I believe that under those circumstances it would be entirely proper to prosecute the case. With that, that would be evidence that came from an independent source."
+  },
+  {
+    "speaker": "JUSTICE ALITO",
+    "speech": "Well, I mean, in light of those two answers, it does seem to me that your real problem here is not with the -- the DMV records. It's with the police officer's observation after the stop that Mr. Tolentino was driving the car."
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Well, Justice Alito, again, records. They're all properly considered fruit, and in this case the DMV records are of important evidentiary significance."
+  },
+  {
+    "speaker": "JUSTICE GINSBURG",
+    "speech": "Is there -- is there any case in this Court where what was suppressed was information that was lawfully in the government's possession, as opposed to evidence that was acquired originally through the search? Here we have the DMV records, they're public records. I don't know of any decision of this Court that deals with suppression of evidence that is already in the government's possession, and if I'm wrong about that, you tell me."
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Yes. Yes, Justice Ginsburg, I don't believe there has been precedent on that issue. However, in the independent source doctrine cases, there -- they've always required that the possession -- or that they have knowledge of the information in order for it to defeat the exclusionary rule application. So in this case, although the government had the DMV records -- well, first of all, law enforcement didn't have the integrated whole, the prior possession of the -- the records was meaningless, of no value to them, until the illegality when it acquired its meaning."
+  },
+  {
+    "speaker": "JUSTICE GINSBURG",
+    "speech": "Suppose the police following Mr. Tolentino had noted down his license plate, and then got this information, not as a result of his driver's license, but from the plate on the car?"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Well, Justice Ginsburg, the -­ the -- the plates of the car would not indicate the -­ the driver's license of the driver, and in this case Mr. Tolentino -­"
+  },
+  {
+    "speaker": "JUSTICE GINSBURG",
+    "speech": "They might show him as the owner of the car."
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "The owner of the car. And I believe in Respondent's brief they indicated that -­ that some of the police computers will even show descriptive features or maybe even a picture of the driver. But in this case Mr. Tolentino was not the registered owner of the vehicle, so that wouldn't have provided them with cause to pull the car over. suspended license, and are they supposed to say, Oh, you know, we shouldn't have stopped you; I'm sorry, have a nice day, go ahead, and then he leaves? Is that what goes on?"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "No, Justice Kennedy, that's not what would happen. The State would impound the car. They would not allow a -- a person without a proper license to get back in the car and -- and drive on. That -- in order for the Petitioner to get the vehicle back, he would -- if it was his vehicle -­"
+  },
+  {
+    "speaker": "JUSTICE KENNEDY",
+    "speech": "Well, why isn't impounding the car the fruit of the illegal search?"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Because the -- the impoundment statutes are based on a public safety interest, and so it doesn't -­"
+  },
+  {
+    "speaker": "JUSTICE KENNEDY",
+    "speech": "But why doesn't the public safety interest then permit us to use this evidence in order to protect the public safety further by punishing him for -- not driving? I don't see the difference."
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Because in order to do that, the same thing about impounding the car?"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Because the -- the -- the interests are different and because it's not a forever removal of the Petitioner's right to get the car, whoever the -- the rightful owner is. It's just making sure that the Petitioner can't get back in the car and continue driving. In order to get the vehicle back, at least in New York State, the -- if it was the Petitioner's, they would have to show proof that they had a valid license; and if it wasn't his vehicle, then the other -- the true owner would have to get -- provide proper credentials to establish that they could take the -- the vehicle into their possession; and also they would have to have proof that the Petitioner himself had cleared up his record or get some sort of a -- a release from the court or from the district attorney's office. So the whole purpose of that impoundment statute is for public safety."
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "I don't understand the answer you gave to Justice Alito. Maybe I mixed it up."
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Yes."
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "So that shouldn't be introduced into his trial for driving without a license."
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Yes."
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "All right. Now the question I had heard put was, suppose after they got this information, they don't arrest him then, but he gets into the car again and starts driving. You said then they could arrest him?"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Well -­"
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "Is that right? Why? Why isn't -- why isn't that just as much the fruit of the poisonous tree? They found out he doesn't have a license by the record which came to them from an illegal stop. I just don't understand it. Did I get you right as to what you said?"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Justice Breyer, what I -- what I meant to say is the attenuation doctrine would apply. Now, if the person was -- got back in his car immediately at that scene and started off driving, then"
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "They see -- they see he -­ they stopped him, they get the records, wrongly. They see he has no license. He says: How did you know? Because we just looked at your license. That was illegal; good-bye, gets into the car and drives off, and they can do nothing?"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Except I just have to remind you that they -- they could -­"
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "Is that right or not? Is that right?"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "-- impound the car."
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "I -- how could they --­ they can impound the car."
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Impound the car."
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "Because?"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "So -­"
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "Because?"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Because of the statutory rights, the Court -- because they now know that he has no license to drive, so either the car will -- if"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "And -­"
+  },
+  {
+    "speaker": "JUSTICE KAGAN",
+    "speech": "I'm sorry."
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Well, I'm done."
+  },
+  {
+    "speaker": "JUSTICE KAGAN",
+    "speech": "Ms. Schwarz, suppose the police arrest the guy, find out who he is, don't -- stop the guy, find out who he is, don't arrest him, but then now they know that this is the kind of guy who drives without a license. And so they go to his house the next day and they see him getting back in the car. Could they arrest him then?"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Justice Kagan, I think the answer would be yes, and the reason why is because if they see him on a subsequent occasion and they're seeing him re-offend, that would attenuate the taint of the first -­"
+  },
+  {
+    "speaker": "JUSTICE KAGAN",
+    "speech": "So the re-offense -- the re-offense just cuts off the original taint?"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "I believe so, yes. I mean, it would be attenuation analysis, but to me it would be pretty clear-cut that that's how it would resolve."
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "Unless they want -­ for any offense, you know, expired driver's license. Expired last week. They can't just give the guy -- they can't give the guy a ticket, right? All they can do is take away his car? Your answer to a number of the questions has been that -- that have tried to address the issue of what are they supposed to do, since they know they have somebody who is violating the law, is that, well, they can take away the car. And I just want to know if that's the only permissible response by the police when they know that the person driving has violated the law."
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "If the -- if the stop was -­"
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "Totally illegal."
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "-- Totally illegal -­"
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "Totally, yes."
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Then I don't think that -- if there were -- I don't think that they could prosecute that case. They could -- they couldn't charge him with -- attenuation analysis. But I think that the taint of the initial illegality would make that a much more difficult case. But in that situation, the police also could -­ again, if there was another person who had authority to take possession of the vehicle, that person could take the vehicle, the registered owner or someone with authority to do that. But the police would not be powerless to see the defendant get back in the -- in the car. I mean, it would -- that would be -­"
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "Why not? Why wouldn't they -­"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Because of the impoundment statutes."
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "Is that your answer, then: They've got to impound the car every time or let the guy just go?"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Well, they -- they could drive the person home to his house or take him to the corner or tell him not to drive until he cleared up his But the scenario that you are talking about would be highly unlikely, and it would be almost in bad faith if the police stopped him illegally, found out that he had the suspended license, and then let him get back in right away. That wouldn't be the way that the police would normally do that, unless there was a way to properly maintain the safety of the road -­"
+  },
+  {
+    "speaker": "JUSTICE GINSBURG",
+    "speech": "How much time do they have to wait? Justice Kagan brought up if the police go to his home the next day. You've brought up attenuation theory a number of times."
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Yes."
+  },
+  {
+    "speaker": "JUSTICE GINSBURG",
+    "speech": "You -- I think now you have answered, he gets back into the car, drives it away, they can do nothing because it's too close to when they discovered his record of -- his suspended license. How much of an interval must there be? What do you mean by attenuation doctrine?"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Well, that would be -­ attenuation would be evaluated on a case-by-case basis,"
+  },
+  {
+    "speaker": "JUSTICE KAGAN",
+    "speech": "Because you could say that if he got back in the car right after the stop, if the police for some reason did not impound the car and he got back in the car, that's another offense, and so by your theory, then they could properly arrest him and use all of this knowledge in a prosecution?"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "And a court very well -- very well may agree with you on that. My only qualm with that is that when the officers illegally find out that he has a suspended license and then to let him get back in and immediately arrest him, it's sort of in bad faith."
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "Well, what -- what is that word, the \"bad faith\"? I take it your rule is identical if when they wrongly stop the car, they look up the records, the records say he has no license, and in addition, he's wanted on 17 drug warrants and for 3 triple axe murders. Again, you can't do anything about it?"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "No. No, Justice Breyer. entirely different -­"
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "Why?"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "-- because of the Ker-Frisbie doctrine. The warrants for -- for other cases are a method by which the court brings the body of the defendant to court. And so there is -­"
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "So if, in fact, a policeman stops a person without cause and learns as a result of that that there are many warrants outstanding against him, he then can arrest the person, and -- but can he introduce those warrants into court as evidence or whatever if it's relevant?"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Absolutely, he can bring them in. But the warrants are not evidentiary."
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "Suppose the way that the policeman stops the person and gets the information illegally is he takes an axe and breaks into the house, the policeman, and thereby -- what I'm showing -- I just think this case has lots of implications, and I'm looking for a rule here that's going to work in a lot of a triple axe murderer -­"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Right."
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "-- he can do nothing about it, I said? And you said no, he can do something about it. I just wanted to know the distinction."
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Okay. So there's different -­ again, just to be clear, the warrant, the arrest warrant, is not of evidentiary value, according to the -- Davis. That's not something that would be introduced in court. It's just a method for bringing the defendant into court. And so in that case, they would properly be allowed to arrest him. And if there was -­"
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "It happens to be a description of the individual, not a warrant, he gets from the public record which is read off to him when he calls in, a description: A red tie. Can he use that and introduce it into evidence? I mean, is this case about -- what's it about, driving? Or does it have broader implications?"
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "Yes, and I was testing that. I want to know: Is that, in your opinion, a correct rule in all cases?"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "No. And in fact, one of the -­"
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "I mean, not an incorrect rule, the opposite rule. No rule."
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Well, it's -- the problem with that rule, the categorical rule, is that it will create a fresh incentive for police officers to make these kind of suspicionless stops, and so it will encourage police to violate the Fourth Amendment, and not only -­"
+  },
+  {
+    "speaker": "JUSTICE SCALIA",
+    "speech": "Not -- not if you allow the suppression of the policeman's identification of the individual driving the car. I mean, that -- nobody's contending that that can't be suppressed. So if you can't bring in the policeman to say, yes, this fellow Smith, whose record we have here, was the fellow driving the car. Once that's out, what incentive is there to make these suspicionless stops?"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Ah. Yes. And if -- and if this case -- if this case -- we prevail, and this case was returned to trial court, both of those issues would be at play and would be litigated. The observations of the defendant and the DMV records are both suppressible fruit and both of them would be subject to suppression."
+  },
+  {
+    "speaker": "JUSTICE ALITO",
+    "speech": "But that's not the argument you seem to be making. You want to suppress the knowledge that the police derived from the stop that Mr. Tolentino's license is suspended, and you would allow an exception to that only if there was attenuation. But why isn't the simpler solution to a case like this that you can't suppress the knowledge of matters that are in a government record, however you can suppress observations by the police on the scene that flow directly from the illegal stop?"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Well, again, our position is that both of those items are properly suppressible. And it's true in this circumstance that the observations would probably subsume the need for the DMV records."
+  },
+  {
+    "speaker": "JUSTICE GINSBURG",
+    "speech": "I thought there was some rule about not being able to suppress a person's identity? You've been asked a couple of times why are you going after the DMV record; you should go after the police identification of Joe Smith or whoever. I thought there was some rule that says the identity of the person is not suppressible. Am I wrong about that?"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "That -- that is a restatement of the Ker-Frisbie doctrine, that essentially says that a person cannot suppress himself, his body, in order to defeat the jurisdiction of the court."
+  },
+  {
+    "speaker": "JUSTICE KENNEDY",
+    "speech": "And so how does that fit with your earlier answers that his identity here could be suppressed? And then I'll ask a second question. If you say that you can suppress his identity from information they gained after the stop when they saw him, why couldn't they say, well, we saw this man before we stopped him?"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "There's -- there's a distinction between the identity and the elicitation of you want suppressed. That's not the identity. I mean, John Smith, fine, you can say John Smith, John Smith, John Smith all you like at court. It's -- it's not going to get a conviction. But when you say John Smith was driving the car, then you are eliciting testimony from the officer concerning information he would not have had but for the stop, that John Smith was driving the car, right?"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Well, this Court has always defined evidentiary fruit as something that -- of evidentiary value which the public authorities have caused an arrested person to yield to them during an illegal detention, and that's from the Davis case. And the DMV records would fit that definition of evidentiary fruit. And in this case, because it is the classic situation where there's sufficient causal connection between the Fourth Amendment violation and the subsequent discovery of the evidence to justify suppression, there's no reason not to apply the to reserve the rest of my time."
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "Thank you, Ms. Schwarz. Ms. Halligan."
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "Mr. Chief Justice, and may it please the Court: I would like to start with your question, Justice Breyer, about what the ruling below was and what's at stake in this case. What the court of appeals held was quite narrow. It said -- and I'm reading from page 105a of the appendix: \"We merely hold that a defendant may not invoke the fruit of the poisonous tree doctrine when the only link between improper police activity and the disputed evidence is that the police learned the defendant's name.\" So the court of appeals is focusing on the fact that all that was elicited here is the name of the defendant, and that's appropriate. Asking a name is your name?"
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "Absolutely not, Your Honor."
+  },
+  {
+    "speaker": "JUSTICE SOTOMAYOR",
+    "speech": "Well, there's -- there's been no doubt here that it was a stop without suspicion. That's been presumed. So how is that different from what I just asked you -­"
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "Because -­"
+  },
+  {
+    "speaker": "JUSTICE SOTOMAYOR",
+    "speech": "That they took a person randomly, detained them without any suspicion, and said give me your name. Are you suggesting that that's okay?"
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "No, I'm not. The legality of the stop here has not been adjudicated. We are presuming that the police acted illegally."
+  },
+  {
+    "speaker": "JUSTICE SOTOMAYOR",
+    "speech": "I am presuming. I know that there's counter-arguments to that."
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "We are not at all challenging this Court's decisions, certainly not Delaware v. Prouse or any others, which hold that the police may not stop someone without basis and may not certainly enforce the sort of statute that was at issue in Hiibel without some suppression, and that's a distinct question from whether or not there was a constitutional violation that occurred in the stop and the asking of the name."
+  },
+  {
+    "speaker": "JUSTICE SOTOMAYOR",
+    "speech": "The name is different than the person, the body of the person, which has to do with the Court's jurisdiction. But why isn't the name any different than a wallet that's in somebody's pocket or a shirt or a hat, whatever is on the person? Why is a name not subject to suppression? Let's go past what happens here, because I understand the disconnect between the name, the DMV record, and seeing the person driving. How we tie those together are a different issue. But you made a bold statement when you started. You said that the police securing a name is never suppressible."
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "Because it has ae unique status, as this Court recognized in Hiibel, in the criminal justice system. Asking for a name is a routine and accepted part of any stop because the officer needs to know who he's dealing with. He faces an inordinate somebody on the street for no reason. The person looks to you suspicious, so you stop the person and say: Tell me your name. For a Terry stop, you have to have reasonable suspicion. So why isn't it the same for somebody who is driving a car?"
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "I think it is the same in terms of what the Fourth Amendment requires, and Delaware v. Prouse holds that. We're not taking issue with that or asking this Court to retreat from that. What we are saying is that where all that is elicited is the name, it's not appropriate to apply the exclusionary rule, which is a very distinct question."
+  },
+  {
+    "speaker": "JUSTICE KAGAN",
+    "speech": "So, Ms. Halligan, suppose -­ you're suggesting there should be an exception for knowledge of identity. Suppose there were a clearly illegal search and the government is looking for a head of some kind of criminal syndicate and knows this only by an alias, all right; and -- and finds out as a result of this illegal search -- pick your -- pick your alias, you know, John Smith -- finds out, you know -- finds out "
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "In your hypothetical I'm not sure whether there would be any Fifth Amendment issues that would be at play, but -­"
+  },
+  {
+    "speaker": "JUSTICE KAGAN",
+    "speech": "No, they find out this person's alias as the result of the illegal search, and that allows them to build a substantial criminal case."
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "If all that is obtained is the name, then the exclusionary rule should not be applied."
+  },
+  {
+    "speaker": "JUSTICE KAGAN",
+    "speech": "So there's a diary, and it says: I am John Smith. That's Keyser Soze. (Laughter.)"
+  },
+  {
+    "speaker": "JUSTICE KAGAN",
+    "speech": "I am Keyser Soze. That would not be suppressible?"
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "The diary itself, the document would be suppressible. The knowledge that that person is the -- is Keyser Soze would not be subject to suppression, and knowledge should never be something that is subject to suppression, in any event."
+  },
+  {
+    "speaker": "JUSTICE ALITO",
+    "speech": "Suppose that when -- when all those observations would clearly be the fruit of the allegedly illegal stop, right?"
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "That's correct, and -­"
+  },
+  {
+    "speaker": "JUSTICE ALITO",
+    "speech": "Even though they were in plain view, they would all be suppressed, right?"
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "That's correct, Your Honor."
+  },
+  {
+    "speaker": "JUSTICE ALITO",
+    "speech": "But you're saying that the observation that Mr. Tolentino is at the wheel of the car, that is not suppressed?"
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "I would like to distinguish between the observation of the person driving the car, to the extent that you might have a case in which that observation is made after the stop as opposed to before the stop; that's a different and distinct question. It's not presented in the case that's before the Court right now -- from the question of whether the exclusionary rule should be applied when only the name is elicited. The observations, it may be as -- as Justice Ginsburg suggested that under Crews, because the But that's not presented. All that is at issue here is whether or not the elicitation of the name and the records directly linked to that are subject to suppression."
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "He made a mistake and said: I'm driving the car."
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "Pardon?"
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "He made a mistake. He said in court: I was driving the core -- car. He never should have said it. All right, now once he said it, now we know he's driving the car."
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "Well -­"
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "So now you're saying why does this case even come up? Because once you have his name, the second he said it in court you could go up looking his -- you could go look at his -- his records anyway; you could find all these -- the facts about him which I guess could you bring in."
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "Well, that's right, and that's why part of why a name should not be -­ the theory that by definition government records that are previously held -­"
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "But they're only inevitably discovered if he makes a mistake of saying what his name is. No, no, not that -- the mistake of saying: I was driving the car. And then, as Justice Scalia pointed out, maybe you could suppress that, so it would -- it would -­"
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "In this case the question of any observations of the defendant is waived. It was abandoned by operation of State law. You could have another case in which that at issue."
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "Wait. One -­"
+  },
+  {
+    "speaker": "JUSTICE SCALIA",
+    "speech": "I was going to ask that. She said that -­"
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "Why is -­"
+  },
+  {
+    "speaker": "JUSTICE SCALIA",
+    "speech": "-- your -- your friend said that it was raised below. What -- what happened to it?"
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "What happened is this: In the suppression motion initially, the defendant sought defendant made, but there would not be a suppression hearing with regard to the DMV records because DMV records were not subject to suppression. At that point the defendant pled guilty, and so by operation of State law -- because first of all there was not a ruling specifically on the question of observations and the defendant failed to bring that to the trial court judge's attention, and because the guilty plea was taken, and you can only appeal when you plead guilty on a suppression motion where there's a final order, there's no final order on the observation. That's out of the case, that would be our position. You could have a subsequent case where that question would be presented if, in fact, an officer does not see a defendant until after he approaches the car, and in that case he would have to determine whether or not Crews and the five justices, which says the physiognomy of the defendant is not subject to suppression, controls and therefore allows the observations to come in; but it's not presented here."
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "I think that would be correct, Your Honor, but here you have records that not only are in the government's possession -- and this Court never has suggested -­"
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "I know -- I know it raises a different question, but you know, you keep saying they're just -- or you know, you're just talking about the name, but names are meaningless in the abstract. It's not just that the officer wants to know what to call him. It's what he wants to find out from the name."
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "The -­"
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "And these days there's so many electronic databases, you can find out an awful lot just, you know, with the punch of a few -­ a few buttons."
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "You could, and I think that that's why if the Court was concerned about the potential breadth of that holding, it could narrow it to the use of the name to link to government records. In can -- that may be what the officer on the scene is most interested in, of course, but once you get the guy's name you're interested in a lot of things."
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "That's right, and that's because you are in the process of conducting some sort of investigation, and to suppress the knowledge of someone's identity would -- would blink reality."
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "Well, they're not suppressing the knowledge of somebody's identity. All that -- what's being suppressed is the evidence of criminal activity that you derive from that."
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "I think it's very different than when you have drugs in a car which could clearly be subject to suppression. All that you have here, first of all, that's elicited, is the name. The name itself is not subject to suppression, nor did the defendant seek to have it suppressed, as the court of appeals observed. And so that should be the end of the inquiry. If the antecedent piece of evidence is not subject to suppression then there's no poison that can flow from that to contaminate anything like the DMV record."
+  },
+  {
+    "speaker": "JUSTICE ALITO",
+    "speech": "Could I go back and -­"
+  },
+  {
+    "speaker": "JUSTICE KAGAN",
+    "speech": "I think that that's not right, Ms. Halligan, because the search is the poisonous tree. Now, it might be that the name can't be suppressed, but it still might be that everything that's discovered as a result of knowing the name, which would never be discovered unless the search had taken place, could be suppressible."
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "Two points, Justice Kagan. believe, first of all, that if the name is not suppressed and then something flows from the name, I don't think that you can skip that step and then suppress something that comes further down the road. But, secondly, the fact that these records were already in the government's possession is precisely what takes this outside the scope of the fruits doctrine. The fruits -- fruits doctrine has been held to apply repeatedly in cases where the evidence is in some sense the product of the illegal government activity. These records are simply not the product of any government activity."
+  },
+  {
+    "speaker": "JUSTICE KAGAN",
+    "speech": "Why does it -­"
+  },
+  {
+    "speaker": "JUSTICE ALITO",
+    "speech": "Could I go back and ask you to -- to explain what -- how you -- you think the -- the Supreme Court apparently didn't understand that that issue was in the case and ruled only on suppression of the records and tangible evidence, is that right, 78A?"
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "Yes."
+  },
+  {
+    "speaker": "JUSTICE ALITO",
+    "speech": "What is the -- what is Mr. Tolentino supposed to do at that point to preserve the issue of the suppression of a police officer's observation?"
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "To preserve the issue, Mr. Tolentino should have raised that fact to the judge, should have pointed it out pursuant to CPLR 71070, subsection (2). There's also case law explaining that when that happens, that is the obligation of the defendant and the defendant cannot raise the issue on appeal if it's not brought to the attention of the trial court judge at that point."
+  },
+  {
+    "speaker": "JUSTICE ALITO",
+    "speech": "The defendant raises an issue before the trial judge, the trial judge ignores that issue, misses the issue -­"
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "And then the defendant pleads"
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "At the point at which the defendant pleads guilty, that is correct, Your Honor. The defendant pled guilty prior to seeking any ruling on that, specifically, or any clarification. None of this is -- is briefed before the Court, but the defendant also did not raise the issue of the observations in the brief to the intermediate State appellate court, the State court of appeals or this Court. So it has been deemed abandoned a long time ago. And in the oral argument before the New York Court of Appeals, the defendant seemed to concur in the fact that it had been abandoned."
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "You -- you make the point that these records are already in the government's possession."
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "Yes."
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "I mean, isn't that true of everything that's available on any type of database? Everything in Google or whatever the other search engines are is in the government's possession in previously, although it's not in the record, the DMV records, along with other records, such as arrest warrants, are in fact in the NYPD's possession. They use a database that the State police generate which they download onto their server. So they have it in their actual possession, which is different from -­"
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "Well, it can't make a difference on whose server it is, does it?"
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "No, I'm simply saying that it is in their possession."
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "It is information that they can get if they have the correct way of searching it, which is here by name."
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "And -- and the fact that they are drawn to the records because they have stopped this individual and they have this name does not disqualify them from using those records. This Court has cited several times with approval to a case called Bynum in the D.C. circuit in which there were prints that were taken following an illegal detention, and those prints The same thing happened in both Davis and Hayes. In fact, in both of those cases, there were convictions on remand, and the prosecution's attention was drawn to the defendant only following some illegal activity. I would like to -­"
+  },
+  {
+    "speaker": "JUSTICE GINSBURG",
+    "speech": "May I ask you something about the practice in New York? I mean, there is an artificiality to this case because we are assuming that the stop was unlawful."
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "Yes, Your Honor."
+  },
+  {
+    "speaker": "JUSTICE GINSBURG",
+    "speech": "But the police said it was lawful, because the radio was blasting so loud. Why did this issue even -- the issue of \"suppose it was unlawful\" even come up, instead of the city or the county saying what the police stopped him for was a traffic violation, was perfectly legal? Why get to the constitutional question when the prosecutor brought into play the argument that this was a lawful stop?"
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "The prosecutor made two hearing to adjudicate the facts of the stop, and so that's why it comes to you in this posture."
+  },
+  {
+    "speaker": "JUSTICE ALITO",
+    "speech": "It does seem rather strange. That would have been, like, a 10-minute hearing. Why did you stop him? Well, he was playing the music too loud. Defendant testifies, I wasn't playing my music too loud. The trial judge says, Well, I believe you, or I believe you, and that's the end of the matter. It does seem really -- that's how things are done in trial court in New York City? You jump to these big constitutional issues and -­"
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "I'm not sure that anyone realized that this case would -- would eventually come before this Court, but that is the way this particular case."
+  },
+  {
+    "speaker": "JUSTICE KENNEDY",
+    "speech": "Of course we know it's too loud. It's always too loud."
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "There's actually a provision of the New York City Administrative Code, Your Honor, which is on point -­ difficult question, Your Honor. There are certain entities to which driving records can be disclosed pursuant to the Federal Driver's Privacy Protection Act, and there are also certain restrictions. So I think the answer to your question would depend on who was asking. But they are certainly the administrative adjudications that are made by a judge in traffic court, and in that sense, they are every bit as valid a record as the decision of any other court. There are simply certain protections with respect to DMV records specifically."
+  },
+  {
+    "speaker": "JUSTICE KAGAN",
+    "speech": "Your government records argument, is it limited to New York City records or does it also apply to FBI records, to records of other cities and states which, presumably, would be available on a reciprocal basis?"
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "I think it would apply to records available on a reciprocal basis, Your Honor. I would like to touch on the -­"
+  },
+  {
+    "speaker": "JUSTICE SOTOMAYOR",
+    "speech": "Counsel, do you see no difference between Crews and Bynum, in the typical case"
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "I guess I would say that what creates the grounds for arrest here is the fact that the individual was driving with a suspended license, and no -­"
+  },
+  {
+    "speaker": "JUSTICE SOTOMAYOR",
+    "speech": "But there was no suspicion of that when that person was stopped. The suspicion to arrest arose not independent of the illegality, but as part of it."
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "But so, too, with Bynum. It was the match of the prints that caused the prosecutor to realize that this individual was guilty -­"
+  },
+  {
+    "speaker": "JUSTICE SOTOMAYOR",
+    "speech": "But all of the evidence at trial really had nothing to do with the fingerprint. It had to do with the victims and everyone else walking in and saying, That's the guy who did lie to me."
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "I believe in Bynum, Your Honor, the prints were critical, and here the only element -­"
+  },
+  {
+    "speaker": "JUSTICE SOTOMAYOR",
+    "speech": "In the arrest."
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "No, in the adjudication Ms. Halligan."
+  },
+  {
+    "speaker": "HALLIGAN",
+    "speech": "Thank you."
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "Mr. Shah."
+  },
+  {
+    "speaker": "SHAH",
+    "speech": "Mr. Chief Justice, and may it please the Court: Petitioner seeks to suppress official records that were lawfully in the State's possession before any Fourth Amendment violation occurred. That unprecedented request should be rejected for three reasons. One, the DMV records were accessed merely through use of Petitioner's name; two, those records were produced and possessed by the State long before the allegedly illegal stop at issue; and, three, deterrence does not outweigh the costs, the substantial costs of suppression under the circumstances present here."
+  },
+  {
+    "speaker": "JUSTICE SOTOMAYOR",
+    "speech": "Are you -­"
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "Is everything that"
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "Well, you said -- as you phrased it, I thought it was in the government's possession."
+  },
+  {
+    "speaker": "SHAH",
+    "speech": "Right, effectively in the government's possession I think would be the standard. So here I think we're talking, not about Google, but I think we're talking about governmental records."
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "Well, what's the difference? In either case, they need some search term, and then they will get the answers. I don't see why it makes a difference."
+  },
+  {
+    "speaker": "SHAH",
+    "speech": "I think for the governmental records part of our argument, that rationale is an independent rationale. The key part of it is that the information was actually in the government's possession before the Fourth Amendment violation occurred. I think it's fairer to say that governmental records that are produced and owned and possessed by the government qualify. I think it's a harder argument to make that something -­ violation occurred."
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "Well, what if it's in the -- the government of Colorado's possession, and they have an arrangement with New York that they will let them check their files to find out, you know, whatever it is, nationwide or something? Does that -­ your argument apply to that?"
+  },
+  {
+    "speaker": "SHAH",
+    "speech": "I think it could. I think it would depend on the arrangement. If it's a fully reciprocal arrangement that effectively allows the State full access to those records, then I think it may be tantamount to the State having effective possession."
+  },
+  {
+    "speaker": "JUSTICE KAGAN",
+    "speech": "How about private databases that are going to be available to the government upon request?"
+  },
+  {
+    "speaker": "SHAH",
+    "speech": "I think -- I think that's stretching it a little bit further. That's a little bit harder. Again, if it were the case that the State could be said to have effectively have possession of those records because, for example, a copy of them are sitting what's effectual -­"
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "Why? The facts of this case, I find confusing. Let's imagine the policeman goes with a hatchet and breaks into somebody's house illegally."
+  },
+  {
+    "speaker": "SHAH",
+    "speech": "Okay."
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "And there, he sees on the desk the name is Dagwood. With other information, he goes to a certain alley and starts shouting \"Dagwood\" and people shower him with drugs. You have no doubt, if that is the fruit of the poisonous tree, an out, correct?"
+  },
+  {
+    "speaker": "SHAH",
+    "speech": "I think if I understand your -­"
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "I mean, that's how they -­ they knew the name, they got the evidence, they get to the place. Without the name, they wouldn't have gotten the drugs."
+  },
+  {
+    "speaker": "SHAH",
+    "speech": "Right."
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "Okay. Out, right?"
+  },
+  {
+    "speaker": "SHAH",
+    "speech": "If I understand the hypothetical,"
+  },
+  {
+    "speaker": "SHAH",
+    "speech": "They find the defendant's name?"
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "Yes, correct."
+  },
+  {
+    "speaker": "SHAH",
+    "speech": "Right. The defendant's name itself is not suppressible under these -­"
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "I just wondered if you were going to also say in my example, which I could make more realistic with more time, which you don't want to give me, the -- but -- that he uses the name, and as a result gets all kinds of evidence in the form of drugs, murder victims, whatever you want. Have you any doubt that that would be suppressible?"
+  },
+  {
+    "speaker": "SHAH",
+    "speech": "I think the government could have an argument that the fruits would not be suppressible."
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "They're not suppressible simply because you get them through a name? You break into a house, get a name; as a result of the name, you know what criminal enterprise to go to; as a result of that criminal enterprise going to, you get every evidence under the sun, absolute direct connection. And you say that's not suppressible?"
+  },
+  {
+    "speaker": "SHAH",
+    "speech": "Right."
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "Now assume it's the opposite response. If it's the opposite response, for state of argument, how is it any different whether he's showered with drugs or showered with government records?"
+  },
+  {
+    "speaker": "SHAH",
+    "speech": "Okay. So I think my -- my response is that the fruits are not necessarily suppressible in your -- in your hypothetical."
+  },
+  {
+    "speaker": "JUSTICE BREYER",
+    "speech": "I know. I wanted you to assume the opposite. I got -- you win if my hypothetical -- if it's not even drugs, it's not even government records. But if it is drugs, why isn't it government records? This won't hurt you very much, because often there will be an alternative source, but suppose there isn't. Why are government records different from drugs?"
+  },
+  {
+    "speaker": "SHAH",
+    "speech": "Right. Because the government already possesses those records. Those records were within the government's possession before any Fourth Amendment violation occurred. It would be depriving the name, they see this guy is Dagwood, and so they run that through their -- their database, and they find this is the guy we've been looking for, for the last 20 years. He is responsible for all the drugs that come into this country, he's committed numerous acts of terrorism, he's a -- he's a serial killer, he's killed 50 people, we've been chasing him forever, and so the -- the result would be all that knowledge, that this is Dagwood is the fruit of the poisonous tree and nothing can be done about Dagwood?"
+  },
+  {
+    "speaker": "SHAH",
+    "speech": "No, no, Your Honor. I want to be very clear. My response is that that is not subject to suppression. And -- and -- and even my friend on the other side conceded that if it were an -- an outstanding arrest warrant such as in your hypothetical that would lead to of the name, even if the name were a fruit of an illegal stop or search, that that arrest warrant would still provide a basis to arrest the defendant and prosecute the defendant. Now, it may be that other fruits that are government had would certainly still be admissible in the prosecution for whatever."
+  },
+  {
+    "speaker": "JUSTICE GINSBURG",
+    "speech": "You mentioned some -­ before you finish, you -- you said a name is not suppressible, and that's because this Court held -- we started out by saying the observation of the person that dropped out of this case, so we're talking only about records, but the extraction of a name, you say that's not suppressible, even though it was unlawfully extracted because there were no reasonable suspicions that this person did anything wrong?"
+  },
+  {
+    "speaker": "SHAH",
+    "speech": "Yes -- yes, Your Honor, we would say that a name is different, that it's not suppressible, and we would rely on the language this Court used in Lopez-Mendoza, which says the respondent's body or identity is never suppressible, even if it's obtained as a result of an illegal search, seizure or interrogation. We think name is -- is part and parcel of a defendant's identity, and that it has a special status then they take that blood and they look in their very extensive DNA databases, and they discover, oh, this is a guy who, you know, did these various terrible things, and start building cases. Would that be all right?"
+  },
+  {
+    "speaker": "SHAH",
+    "speech": "Your Honor, I think other types of biometric evidence that you suggest, for example, of blood evidence, might well implicate competing considerations that would dictate a different result. And let me suggest a couple of the competing considerations, why I think the Court doesn't need to reach so far and say all sorts of biometric information should be treated the same. For -- for one -- for one thing, things like a name or even a fingerprint, this Court has said is not a separate Fourth Amendment event to acquire that. For example, once someone is detained, it's not also a search to ask for their name or to take a fingerprint. However, in your example, pricking someone with a needle to obtain their blood would be a separate Fourth Amendment event, because that would be a separate might be implicated in -- in that type of hypothetical is that evidence unlike a name or fingerprint, DNA evidence, for example, that you suggest, might provide competing considerations in the sense that it could lead to other types of information that not -- that may not be relevant to the criminal justice system, medical records, genetic information. It may pose a specter of other competing considerations that might require a different balance in the end. I think it would be premature for this Court to weigh in one way or another as to whether that would be appropriate. I think we would need a record and we would want time to -- to -- to -- we would want that to play out and see -- and see what the consequences were. So I don't think the Court has to go that far. I think the Court can limit it, as in this case, to name, fingerprints and other traditionally -- other information traditionally used to identify a defendant. Thank you."
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "Thank you, Mr. Shah. should be, and -- excuse me. So long as there's sufficient causal relationship between the Fourth Amendment violation and the later discovery of evidence, this Court has expressed continued allegiance to this rule. So in this case the reason why the DMV records are suppressible fruit is it fits that classic definition. Why are the observations suppressible when the identity isn't? That's another issue that was raised. The observations are -- again, they fit the definition whereas the identity does -- does not fit that. The Ker-Frisbie rule prevents a person himself from being suppressible, but the elicitation of his name is something entirely separate. So in other word, in the Crews case a majority of the Court said that a -- a person could not suppress their person or their face from being in court; five of the justices said that; but five justices said that the in-court identification could under certain circumstances be suppressible. So they drew a distinction between the person's body being brought into court, which is not suppressible because of the Ker-Frisbie rule, and then the evidentiary use of the identity, the fact that the five of the justices said that in certain circumstances not applicable in that case, the in-court identification could be suppressible shows the distinction. And that's the distinction that has been -- is confusing about this case, because the elicitation of his name is what led to the DMV records. But even if this Court found that the elicitation of the name was not sufficient or was somehow related to Ker-Frisbie and could not be suppressible, the DMV records directly flow from the Fourth Amendment violation here, from the Prouse violation. And so it really doesn't really matter. Especially in light of the decision in Whren to remove subjective motivations from the determinations of constitutional reasonableness in car stops, it's essential to enforce what remains of motorists' core Fourth Amendment rights; and the Whren standards just must be enforced; otherwise these core Fourth Amendment values will be undermined and police will be left free to stop people on the roads with no objective basis and check their ID and status and do fishing expeditions into this sea of data that will be linked to the police computers; and this would violate Prouse and Brown and Hiibel."
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "And I suppose would subject the police officers to liability, though, right? In civil actions?"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Well, again, this is a classic case where there's a clear relationship, a causal relationship, so this is the sort of case where this Court has continued allegiance to application of the exclusionary rule where the exclusionary rule is very strong; and so why would the Court say that the second sister of the exclusionary rule, in this circumstance where there's sufficiently deliberate, that exclusion would be meaningful and sufficiently culpable, that the evidence would be -- that application of the rule would be worth the cost? In this situation there's no reason to abandon the exclusionary rule."
+  },
+  {
+    "speaker": "JUSTICE SOTOMAYOR",
+    "speech": "Counsel, are you agreeing with your adversary that you abandoned and are not entitled to raise the suppressibility of the observation?"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "No. Well -­"
+  },
+  {
+    "speaker": "JUSTICE SOTOMAYOR",
+    "speech": "And if you're not, in what ways is it tied to the question presented about identity, which is the issue you sought cert on?"
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Right. I -- I have no qualms play."
+  },
+  {
+    "speaker": "JUSTICE GINSBURG",
+    "speech": "Why? Because when he entered a guilty plea, you reserved only the question concerning the motor vehicle records; you didn't reserve any other questions."
+  },
+  {
+    "speaker": "SCHWARZ",
+    "speech": "Well, but at the suppression hearing, the -- the court would be free to consider all of the suppressible fruit, including the -- the statement that was made and the observations and also the DMV records. Thank you."
+  },
+  {
+    "speaker": "JUSTICE ROBERTS",
+    "speech": "Thank you, counsel. The case is submitted."
+  }
+]
