@@ -20,14 +20,14 @@ const filterFiles = (list) => {
 }
 
 
-
+var hackCount = 0;
 
 const getTextFromPdf = (path) => {
   return new Promise((resolve, reject) => {
 
     try {
 
-      console.log('reading ', path);
+      // console.log('reading ', path);
       const pdfParser = new PDFParser();
 
       pdfParser.on("pdfParser_dataError", errData => console.error('err', errData));
@@ -126,8 +126,8 @@ const getTextFromPdf = (path) => {
         const isSpeaker = (line) => {
           const speakerLine = speechCheck.test(line);
           if (!speakerLine) return false;
-          if (numberOnly.test(line)) return false;
           const speakerData = speechCheck.exec(line);
+          if (numberOnly.test(speakerData[1])) return false;
           return R.toUpper(speakerData[1]) == speakerData[1];
         }
 
@@ -173,11 +173,11 @@ const getTextFromPdf = (path) => {
           speech: R.join(' ')(speakers.current.speech)
         }, speakers.lines);
 
-        if (allLines.length > 5) {
-          console.log('read ', allLines.length, 'from', path);
+        if (completeLines.length > 5) {
+          console.log(hackCount++, ' read ', allLines.length, 'from', path);
           resolve(writeResults({ completeLines, path }))
         } else {
-          console.log('failed read of ', path);
+          console.log(hackCount++, 'failed read of ', path);
           resolve({ status: 'broken' });
         }
       });
