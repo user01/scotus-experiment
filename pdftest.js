@@ -117,14 +117,20 @@ const getTextFromPdf = (path) => {
         const cleanSpeaker = (currentContent) => {
           // const removeStrs = ['CHIEF', 'JUSTICE', 'GENERAL', 'MR.', 'MRS.', 'MS.'];
           // const removeStrs = ['CHIEF', 'GENERAL', 'MR', 'MRS', 'MS', 'GEN', '.', 'I'];
-          const removeStrs = [/\s+CHIEF\s+/, /\s+GENERAL\s+/, /\s+MR\s+/, /\s+MRS\s+/, /\s+MS\s+/, /\s+GEN\/\s++/, /\s+\.\s+/, /\s+I\s+/];
-          const replaceStrs = [['JUDGE', 'JUSTICE'], ['JUSTCIE', 'JUSTICE'], ['JUTICE', 'JUSTICE'], ['GINSBURGH', 'GINSBURG'], ['JUSTINE', 'JUSTICE']];
+          currentContent = ' ' + currentContent + ' ';
+          const removeStrs = [/\s*\.(?=\s+)/, /\s*CHIEF(?=\s+)/, /\s*GENERAL(?=\s+)/, /\s*MR(?=\s+)/, /\s*MRS(?=\s+)/, /\s*MS(?=\s+)/, /\s*GEN\/(?=\s+)/, /\s+I(?=\s+)/];
+
           const cleaned = R.reduce((speaker, removeStr) => {
             return R.replace(removeStr, ' ', speaker)
           }, currentContent)(removeStrs);
+
+          const replaceStrs = [['JUDGE', 'JUSTICE'], ['JUSTCIE', 'JUSTICE'], ['JUTICE', 'JUSTICE'], ['GINSBURGH', 'GINSBURG'], ['JUSTINE', 'JUSTICE']];
           const fixed = R.reduce((speaker, replacePair) => {
             return R.replace(replacePair[0], replacePair[1], speaker)
           }, cleaned)(replaceStrs);
+
+          // console.log('started with ', currentContent, ' and ended with ', fixed.trim());
+
           return fixed.trim();
         }
 
