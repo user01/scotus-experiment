@@ -9,9 +9,9 @@ const PDFParser = require("./node_modules/pdf3json/PDFParser");
 var fs = Promise.promisifyAll(require("fs"), { suffix: "Async" });
 
 const filterFiles = (list) => {
-  // const match = /.*\.pdf$/;
+  const match = /.*\.pdf$/;
   // const match = /2012-11-01.*\.pdf$/;
-  const match = /2016-03-23.14-14.*\.pdf$/;
+  // const match = /2016-03-23.14-14.*\.pdf$/;
   return new Promise((resolve, reject) => {
     resolve(R.filter((item) => {
       return match.test(item);
@@ -33,7 +33,7 @@ const getTextFromPdf = (path) => {
       pdfParser.on("pdfParser_dataError", errData => console.error('err', errData));
       pdfParser.on("pdfParser_dataReady", pdfData => {
         debugger;
-        
+
         const pages = R.pipe(
           R.prop('data'),
           R.prop('Pages'))(pdfData);
@@ -56,9 +56,9 @@ const getTextFromPdf = (path) => {
             R.join('')
           )
         ))(pageLines);
-        console.log(R.flatten(pageTexts));
-        
-        
+        // console.log(R.flatten(pageTexts));
+
+
         const pageBits = R.map(R.map(
           R.pipe(
             R.map(R.prop('R')),
@@ -67,8 +67,8 @@ const getTextFromPdf = (path) => {
             R.join('')
           )
         ))(pageLines);
-        console.log(pageBits);
-        
+        // console.log(pageBits);
+
         const pageTextsCleaned = R.map(
           R.pipe(
             R.addIndex(R.map)((line, idx) => {
@@ -114,7 +114,7 @@ const getTextFromPdf = (path) => {
         })(workingLines);
 
         const cleanSpeaker = (currentContent) => {
-          const removeStrs = ['CHIEF JUSTICE', 'JUSTICE', 'GENERAL', 'MR.', 'MRS.'];
+          const removeStrs = ['CHIEF', 'JUSTICE', 'GENERAL', 'MR.', 'MRS.', 'MS.'];
           const cleaned = R.reduce((speaker, removeStr) => {
             return R.replace(removeStr, '', speaker)
           }, currentContent)(removeStrs);
@@ -122,9 +122,18 @@ const getTextFromPdf = (path) => {
         }
 
         const speechCheck = /\s*(.+):\s*(.+)\s*/;
-        const speakers = R.reduce((acc, line) => {
+        const numberOnly = /^\d+$/;
+        const isSpeaker = (line) => {
           const speakerLine = speechCheck.test(line);
-          if (!speakerLine) {
+          if (!speakerLine) return false;
+          if (numberOnly.test(line)) return false;
+          const speakerData = speechCheck.exec(line);
+          return R.toUpper(speakerData[1]) == speakerData[1];
+        }
+
+        const speakers = R.reduce((acc, line) => {
+
+          if (!isSpeaker(line)) {
             return {
               lines: acc.lines,
               current: {
@@ -164,9 +173,13 @@ const getTextFromPdf = (path) => {
           speech: R.join(' ')(speakers.current.speech)
         }, speakers.lines);
 
-        console.log('read ', allLines.length, 'from', path);
-        resolve(writeResults({ completeLines, path }))
-        // resolve({ completeLines, path });
+        if (allLines.length > 5) {
+          console.log('read ', allLines.length, 'from', path);
+          resolve(writeResults({ completeLines, path }))
+        } else {
+          console.log('failed read of ', path);
+          resolve({ status: 'broken' });
+        }
       });
 
       pdfParser.loadPDF(dataRoot + path);
@@ -190,8 +203,8 @@ const writeResults = (result) => {
 
 fs.readdirAsync(dataRoot)
   .then(filterFiles)
-  .map(getTextFromPdf, { concurrency: 3 })
-  .map(writeResults, { concurrency: 3 })
+  .map(getTextFromPdf, { concurrency: 6 })
+  // .map(writeResults, { concurrency: 3 })
   .then((list) => {
     debugger;
     // console.log(list);
