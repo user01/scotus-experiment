@@ -1,12 +1,13 @@
 // var pdfText = require('pdf-text')
 
 var Promise = require('bluebird');
-
+const pathNode = require('path');
 const dataRoot = __dirname + '/data/';
-var R = require('ramda');
-var objectAssign = require('object-assign');
+const outRoot = pathNode.join(__dirname, 'json')
+const R = require('ramda');
+const objectAssign = require('object-assign');
 const PDFParser = require("./node_modules/pdf3json/PDFParser");
-var fs = Promise.promisifyAll(require("fs"), { suffix: "Async" });
+const fs = Promise.promisifyAll(require("fs"), { suffix: "Async" });
 
 const filterFiles = (list) => {
   const match = /.*\.pdf$/;
@@ -114,14 +115,20 @@ const getTextFromPdf = (path) => {
         })(workingLines);
 
         const cleanSpeaker = (currentContent) => {
-          const removeStrs = ['CHIEF', 'JUSTICE', 'GENERAL', 'MR.', 'MRS.', 'MS.'];
+          // const removeStrs = ['CHIEF', 'JUSTICE', 'GENERAL', 'MR.', 'MRS.', 'MS.'];
+          // const removeStrs = ['CHIEF', 'GENERAL', 'MR', 'MRS', 'MS', 'GEN', '.', 'I'];
+          const removeStrs = [/\s+CHIEF\s+/, /\s+GENERAL\s+/, /\s+MR\s+/, /\s+MRS\s+/, /\s+MS\s+/, /\s+GEN\/\s++/, /\s+\.\s+/, /\s+I\s+/];
+          const replaceStrs = [['JUDGE', 'JUSTICE'], ['JUSTCIE', 'JUSTICE'], ['JUTICE', 'JUSTICE'], ['GINSBURGH', 'GINSBURG'], ['JUSTINE', 'JUSTICE']];
           const cleaned = R.reduce((speaker, removeStr) => {
-            return R.replace(removeStr, '', speaker)
+            return R.replace(removeStr, ' ', speaker)
           }, currentContent)(removeStrs);
-          return cleaned.trim();
+          const fixed = R.reduce((speaker, replacePair) => {
+            return R.replace(replacePair[0], replacePair[1], speaker)
+          }, cleaned)(replaceStrs);
+          return fixed.trim();
         }
 
-        const speechCheck = /\s*(.+):\s*(.+)\s*/;
+        const speechCheck = /\s*([\.\sA-Z]+):\s*(.+)\s*/;
         const numberOnly = /^\d+$/;
         const isSpeaker = (line) => {
           const speakerLine = speechCheck.test(line);
@@ -193,7 +200,7 @@ const getTextFromPdf = (path) => {
 
 const writeResults = (result) => {
   return fs.writeFileAsync(
-    dataRoot + result.path + '.json',
+    pathNode.join(outRoot, result.path + '.json'),
     JSON.stringify(result.completeLines, null, 2)
   )
     .then(() => {
