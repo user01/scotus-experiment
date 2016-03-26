@@ -223,5 +223,18 @@ fs.readdirAsync(dataRoot)
   .then((list) => {
     debugger;
     // console.log(list);
-    console.log(list.length);
+    console.log('Processed: ', list.length);
+    console.log('Successes: ', R.pipe(
+      R.map(R.prop('status')),
+      R.length
+    )(list))
+    console.log('Failures: ', R.pipe(
+      R.map(
+        R.pipe(
+          R.prop('status'),
+          R.not
+        )
+      ),
+      R.length
+    )(list))
   })
