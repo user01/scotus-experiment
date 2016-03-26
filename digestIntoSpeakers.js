@@ -1,7 +1,7 @@
 
 const Promise = require('bluebird');
 const path = require('path');
-const dataRoot = path.join(__dirname, 'data');
+const dataRoot = path.join(__dirname, 'json');
 const R = require('ramda');
 const fs = Promise.promisifyAll(require("fs"), { suffix: "Async" });
 
@@ -38,9 +38,9 @@ const transformArgumentFilesIntoSpeechFiles = (argFiles) => {
     R.map(R.map(R.prop('speech'))), //erase the redundant speaker fields
     R.toPairs,
     R.map((pair) => {
-      return { speaker: pair[0], speeches: pair[1] };
-    }),
-    R.filter(validSpeakerSet)
+      return { speaker: encodeURI(pair[0]), speeches: pair[1] };
+    })
+    // R.filter(validSpeakerSet)
   )(argFiles)
   return Promise.resolve(speeches);
 };
