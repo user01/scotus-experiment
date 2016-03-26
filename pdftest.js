@@ -22,6 +22,19 @@ const filterFiles = (list) => {
 
 
 var hackCount = 0;
+const pReg = /\s*P R O C E E D I N G S\s*/;
+const cReg = /\s*\(Whereupon, at \d\d:\d\d .\..\.. the case in.*/;
+const timeOnly = /\s*\(\d\d:\d\d\s.\..\.\)\s*/;
+const speechCheck = /\s*([\.\sA-Z]+):\s*(.+)\s*/;
+const numberOnly = /^\d+$/;
+const replaceStrs = [
+  ['JUDGE', 'JUSTICE'], ['JUSTCIE', 'JUSTICE'], ['JUTICE', 'JUSTICE'],
+  ['GINSBURGH', 'GINSBURG'],
+  ['GINSBERG', 'GINSBURG'],
+  ['JUSTINE', 'JUSTICE'],
+  /\s*\.(?=\s+)/, /\s*CHIEF(?=\s+)/, /\s*GENERAL(?=\s+)/, /\s*MR(?=\s+)/, /\s*MRS(?=\s+)/, /\s*MS(?=\s+)/, /\s*GEN(?=\s+)/, /\s+I(?=\s+)/,
+  [/[\s|\u00A0]+/, ' '],
+];
 
 const getTextFromPdf = (path) => {
   return new Promise((resolve, reject) => {
@@ -74,6 +87,7 @@ const getTextFromPdf = (path) => {
           R.pipe(
             R.addIndex(R.map)((line, idx) => {
               if (line.trim().length == 0) return false;
+              if (numberOnly.test(line.trim())) return false;
               // lines need to have the string of the idx+n leading.
               // this number gets stripped off
               // if it's missing the line is turned into a false
@@ -93,17 +107,14 @@ const getTextFromPdf = (path) => {
         // console.log(allLines);
 
         // Trim down to real lines
-        const pReg = /\s*P R O C E E D I N G S\s*/;
         const proceedingsIndex = R.findIndex((line) => {
           return pReg.test(line);
         })(allLines);
-        const cReg = /\s*\(Whereupon, at \d\d:\d\d .\..\.. the case in.*/;
         const endingsIndex = R.findLastIndex((line) => {
           return cReg.test(line);
         })(allLines);
 
         const workingLines = R.slice(proceedingsIndex + 1, endingsIndex, allLines);
-        const timeOnly = /\s*\(\d\d:\d\d\s.\..\.\)\s*/;
         const trimmedLines = R.filter((line) => {
           if (line.trim().length < 6) return true;
           if (timeOnly.test(line)) return false;
@@ -111,16 +122,9 @@ const getTextFromPdf = (path) => {
           return !alreadyUpper;
         })(workingLines);
 
+
         const cleanSpeaker = (currentContent) => {
 
-          const replaceStrs = [
-            ['JUDGE', 'JUSTICE'], ['JUSTCIE', 'JUSTICE'], ['JUTICE', 'JUSTICE'],
-            ['GINSBURGH', 'GINSBURG'],
-            ['GINSBERG', 'GINSBURG'],
-            ['JUSTINE', 'JUSTICE'],
-            /\s*\.(?=\s+)/, /\s*CHIEF(?=\s+)/, /\s*GENERAL(?=\s+)/, /\s*MR(?=\s+)/, /\s*MRS(?=\s+)/, /\s*MS(?=\s+)/, /\s*GEN(?=\s+)/, /\s+I(?=\s+)/,
-            [/[\s|\u00A0]+/, ' '],
-          ];
           const fixed = R.reduce((speaker, replacePair) => {
             const src = R.isArrayLike(replacePair) ? replacePair[0] : replacePair;
             const tar = R.isArrayLike(replacePair) ? replacePair[1] : '';
@@ -131,9 +135,6 @@ const getTextFromPdf = (path) => {
 
           return fixed.trim();
         }
-
-        const speechCheck = /\s*([\.\sA-Z]+):\s*(.+)\s*/;
-        const numberOnly = /^\d+$/;
         const isSpeaker = (line) => {
           const speakerLine = speechCheck.test(line);
           if (!speakerLine) return false;
