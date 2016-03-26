@@ -33,7 +33,6 @@ const getTextFromPdf = (path) => {
 
       pdfParser.on("pdfParser_dataError", errData => console.error('err', errData));
       pdfParser.on("pdfParser_dataReady", pdfData => {
-        debugger;
 
         const pages = R.pipe(
           R.prop('data'),
@@ -60,15 +59,15 @@ const getTextFromPdf = (path) => {
         // console.log(R.flatten(pageTexts));
 
 
-        const pageBits = R.map(R.map(
-          R.pipe(
-            R.map(R.prop('R')),
-            R.flatten,
-            R.map(R.prop('T')),
-            R.join('')
-          )
-        ))(pageLines);
-        // console.log(pageBits);
+        // const pageBits = R.map(R.map(
+        //   R.pipe(
+        //     R.map(R.prop('R')),
+        //     R.flatten,
+        //     R.map(R.prop('T')),
+        //     R.join('')
+        //   )
+        // ))(pageLines);
+        // // console.log(pageBits);
 
         const pageTextsCleaned = R.map(
           R.pipe(
@@ -77,15 +76,22 @@ const getTextFromPdf = (path) => {
               // lines need to have the string of the idx+1 leading.
               // this number gets stripped off
               // if it's missing the line is turned into a false
+
               const targetCurrentStr = '' + idx;
-              const targetNextStr = '' + (idx + 1);
-              const current = line.indexOf(targetCurrentStr) == 0;
-              if (current) {
-                return R.splitAt(targetCurrentStr.length)(line)[1];
+              const current = line.indexOf(targetCurrentStr);
+              if (current > -1) {
+                const currentRegExp = new RegExp('^\\s*' + targetCurrentStr);
+                if (currentRegExp.test(line)) {
+                  return R.splitAt(current + targetCurrentStr.length)(line)[1];
+                }
               }
-              const next = line.indexOf(targetNextStr) == 0;
-              if (next) {
-                return R.splitAt(targetNextStr.length)(line)[1];
+              const targetNextStr = '' + (idx + 1);
+              const next = line.indexOf(targetNextStr);
+              if (next > -1) {
+                const nextRegExp = new RegExp('^\\s*' + targetNextStr);
+                if (nextRegExp.test(line)) {
+                  return R.splitAt(next + targetNextStr.length)(line)[1];
+                }
               }
               return false;
             }),
@@ -130,7 +136,7 @@ const getTextFromPdf = (path) => {
             return R.replace(src, tar, speaker);
           }, ' ' + currentContent + ' ')(replaceStrs);
 
-          console.log('started with ', currentContent, ' and ended with ', fixed.trim());
+          // console.log('started with ', currentContent, ' and ended with ', fixed.trim());
 
           return fixed.trim();
         }
@@ -189,10 +195,13 @@ const getTextFromPdf = (path) => {
 
         if (completeLines.length > 5) {
           console.log(hackCount++, ' read ', allLines.length, 'from', path);
-          resolve(writeResults({ completeLines, path }))
+          resolve(writeResults({ success: true, completeLines, path }))
         } else {
           console.log(hackCount++, 'failed read of ', path);
-          resolve({ status: 'broken' });
+          debugger;
+
+          resolve(writeResults({ success: false, completeLines: workingLines, path: "/bad/" + path }));
+          // resolve({ success: false });
         }
       });
 
