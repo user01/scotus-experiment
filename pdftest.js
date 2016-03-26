@@ -27,6 +27,7 @@ const cReg = /\s*\(Whereupon, at \d\d:\d\d .\..\.. the case in.*/;
 const timeOnly = /\s*\(\d\d:\d\d\s.\..\.\)\s*/;
 const speechCheck = /\s*([\.\sA-Z]+):\s*(.+)\s*/;
 const numberOnly = /^\d+$/;
+const isLaughter = /\s*(Laughter)\s*/;
 const replaceStrs = [
   ['JUDGE', 'JUSTICE'], ['JUSTCIE', 'JUSTICE'], ['JUTICE', 'JUSTICE'],
   ['GINSBURGH', 'GINSBURG'],
@@ -79,7 +80,7 @@ const getTextFromPdf = (path) => {
           R.pipe(
             R.prop('Texts'),
             R.map((elm) => {
-              return objectAssign({}, elm, { line: Math.floor(elm.y * 10) });
+              return objectAssign({}, elm, { line: Math.floor(elm.y) });
             }),
             R.groupBy(R.prop('line')),
             R.values
@@ -113,6 +114,7 @@ const getTextFromPdf = (path) => {
             R.addIndex(R.map)((line, idx) => {
               if (line.trim().length == 0) return false;
               if (numberOnly.test(line.trim())) return false;
+              if (isLaughter.test(line.trim())) return false;
               // lines need to have the string of the idx+n leading.
               // this number gets stripped off
               // if it's missing the line is turned into a false
