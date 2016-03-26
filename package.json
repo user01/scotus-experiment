@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "debug":"node --debug-brk pdftest.js"
+    "pdf": "node pdftest.js",
+    "pdf-debug":"node --debug-brk pdftest.js"
   },
   "author": "",
   "license": "ISC",
