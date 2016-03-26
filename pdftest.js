@@ -200,7 +200,7 @@ const getTextFromPdf = (path) => {
           console.log(hackCount++, 'failed read of ', path);
           debugger;
 
-          resolve(writeResults({ success: false, completeLines: workingLines, path: "/bad/" + path }));
+          resolve(writeResults({ success: false, completeLines: workingLines, path: "bad." + path }));
           // resolve({ success: false });
         }
       });
@@ -217,7 +217,7 @@ const getTextFromPdf = (path) => {
 const writeResults = (result) => {
   return fs.writeFileAsync(
     pathNode.join(outRoot, result.path + '.json'),
-    JSON.stringify(result.completeLines, null, 2)
+    JSON.stringify(result, null, 2)
   )
     .then(() => {
       return Promise.resolve(result);
