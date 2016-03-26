@@ -115,24 +115,24 @@ const getTextFromPdf = (path) => {
         })(workingLines);
 
         const cleanSpeaker = (currentContent) => {
-          // const removeStrs = ['CHIEF', 'JUSTICE', 'GENERAL', 'MR.', 'MRS.', 'MS.'];
-          // const removeStrs = ['CHIEF', 'GENERAL', 'MR', 'MRS', 'MS', 'GEN', '.', 'I'];
-          currentContent = ' ' + currentContent + ' ';
-          const replaceStrs = [['JUDGE', 'JUSTICE'], ['JUSTCIE', 'JUSTICE'], ['JUTICE', 'JUSTICE'], ['GINSBURGH', 'GINSBURG'], ['JUSTINE', 'JUSTICE'], [/\s+/, ' ']];
+
+          const replaceStrs = [
+            ['JUDGE', 'JUSTICE'], ['JUSTCIE', 'JUSTICE'], ['JUTICE', 'JUSTICE'],
+            ['GINSBURGH', 'GINSBURG'],
+            ['GINSBERG', 'GINSBURG'],
+            ['JUSTINE', 'JUSTICE'],
+            /\s*\.(?=\s+)/, /\s*CHIEF(?=\s+)/, /\s*GENERAL(?=\s+)/, /\s*MR(?=\s+)/, /\s*MRS(?=\s+)/, /\s*MS(?=\s+)/, /\s*GEN(?=\s+)/, /\s+I(?=\s+)/,
+            [/[\s|\u00A0]+/, ' '],
+          ];
           const fixed = R.reduce((speaker, replacePair) => {
-            return R.replace(replacePair[0], replacePair[1], speaker)
-          }, currentContent)(replaceStrs);
+            const src = R.isArrayLike(replacePair) ? replacePair[0] : replacePair;
+            const tar = R.isArrayLike(replacePair) ? replacePair[1] : '';
+            return R.replace(src, tar, speaker);
+          }, ' ' + currentContent + ' ')(replaceStrs);
 
+          console.log('started with ', currentContent, ' and ended with ', fixed.trim());
 
-          const removeStrs = [/\s*\.(?=\s+)/, /\s*CHIEF(?=\s+)/, /\s*GENERAL(?=\s+)/, /\s*MR(?=\s+)/, /\s*MRS(?=\s+)/, /\s*MS(?=\s+)/, /\s*GEN\/(?=\s+)/, /\s+I(?=\s+)/];
-          const cleaned = R.reduce((speaker, removeStr) => {
-            return R.replace(removeStr, ' ', speaker)
-          }, fixed)(removeStrs);
-
-
-          // console.log('started with ', currentContent, ' and ended with ', fixed.trim());
-
-          return cleaned.trim();
+          return fixed.trim();
         }
 
         const speechCheck = /\s*([\.\sA-Z]+):\s*(.+)\s*/;
