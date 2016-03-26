@@ -38,8 +38,31 @@ const replaceStrs = [
 const joinSpeeches = R.pipe(R.join(' '), R.replace(/[\s|\u00A0]+/, ' '));
 
 
+const startWorkOnPdf = (path) => {
+  //check if json file exists
+  // and only work on the pdf if json doesn't exist
+
+  const fullFilename = pathNode.join(outRoot, path + '.json');
+
+  return fs.statAsync(fullFilename).then((stat) => {
+    // console.log(fullFilename + ' already exists');
+    return Promise.resolve({ success: true, path });
+  }).catch((err) => {
+    // file doesn't exist
+    if (err.code != 'ENOENT') {
+      console.error('Some other error: ', err.code);
+      return Promise.resolve({ success: false, path });
+    }
+    return getTextFromPdf(path);
+  });
+}
+
 const getTextFromPdf = (path) => {
   return new Promise((resolve, reject) => {
+    if (!path) {
+      resolve({ success: false, path });
+      return;
+    }
 
     try {
 
@@ -218,23 +241,25 @@ const writeResults = (result) => {
 
 fs.readdirAsync(dataRoot)
   .then(filterFiles)
-  .map(getTextFromPdf, { concurrency: 6 })
+  .map(startWorkOnPdf, { concurrency: 6 })
   // .map(writeResults, { concurrency: 3 })
   .then((list) => {
-    debugger;
+    // debugger;
     // console.log(list);
     console.log('Processed: ', list.length);
     console.log('Successes: ', R.pipe(
-      R.map(R.prop('status')),
+      R.map(R.prop('success')),
+      R.filter(R.identity),
       R.length
     )(list))
     console.log('Failures: ', R.pipe(
       R.map(
         R.pipe(
-          R.prop('status'),
+          R.prop('success'),
           R.not
         )
       ),
+      R.filter(R.identity),
       R.length
     )(list))
   })
