@@ -1,818 +1,822 @@
-[
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "We'll hear argument next this morning in Case 10-879, Kurns v. Railroad Friction Products Corporation. Mr. Frederick."
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "Thank you, Mr. Chief Justice, and may it please the Court: Congress enacted the Locomotive Inspection Act to ensure the safety of locomotives in use on railroad lines, not to regulate hazards to mechanics conducting repairs of locomotives. The doctrine of implied --"
-  },
-  {
-    "speaker": "JUSTICE SOTOMAYOR",
-    "speech": "So, what do you -- what do you make of the ICC in 1916, in the Tiller case, regulating the lights that railroads had to have, locomotives had to have in the yard, and that those lights had to differ when the railroad was in use?"
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "That was actually I think pursuant to the Safety Appliance Act, Justice Sotomayor, if I'm not -- if I'm not mistaken. And the principle behind the safety in use regulation that this Court construed in Napier was to ensure that locomotives were safe for fit use on the line. And that was the consistent construction both in the ICC's statement that it made in 1922 and in this Court's post-Napier --"
-  },
-  {
-    "speaker": "JUSTICE SOTOMAYOR",
-    "speech": "I'm not sure I understand. It prescribed different lights when the -- when the locomotive was in the yard."
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "Yes."
-  },
-  {
-    "speaker": "JUSTICE SOTOMAYOR",
-    "speech": "That had nothing to do with safety in use. It had to do with safety in repair."
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "Our position is that it was not pursuant to the Locomotive Inspection Act that the ICC promulgated that rule. As the Court has said in numerous cases, the ICC had rules in place with respect to different aspects of the train at different points in time, but the Locomotive Inspection Act was designed to address a very specific problem, which was boilers exploding on the line when the train was in operation. And that is the consistent way that the ICC, and subsequently the Federal Railroad Administration, has construed the Act."
-  },
-  {
-    "speaker": "JUSTICE SOTOMAYOR",
-    "speech": "Distinguish for me our reasoning in the Ray case."
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "I'm sorry."
-  },
-  {
-    "speaker": "JUSTICE SOTOMAYOR",
-    "speech": "Distinguish for me the difference in the Ray case, that had to do with navigation and where we held that the agency, in ensuring safety in navigation, controlled design completely, whether in repair or not. So, how do we -- why don't we apply the logic of Ray to this case?"
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "Well, of course in Ray you addressed the Port and Tanker Safety Act, as well as the Port and Waterway Safety Act. And in the United States v. Locke case, the Court subsequently looked at Ray in terms of design in a statute that also specifically included the word \"repair and maintenance,\" which is absent here. But what the Court was getting at in Ray was to ensure that States were not using their law to interfere with the design of equipment. Of course, that was for --"
-  },
-  {
-    "speaker": "JUSTICE SOTOMAYOR",
-    "speech": "That's the argument here, which is --"
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "No."
-  },
-  {
-    "speaker": "JUSTICE SOTOMAYOR",
-    "speech": "-- once you regulate what -- what the design or use of asbestos is, you're interfering with what available components there are for locomotives."
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "If I could make two points about that, Justice Sotomayor. That's not actually correct. The first is anything that the Court might think about design does not impair our failure-to- warrant claims, which entail no challenge to the design of a locomotive at all, only to the instructions for its safe use. But to the --"
-  },
-  {
-    "speaker": "JUSTICE SOTOMAYOR",
-    "speech": "So, you're giving up all of your other claims?"
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "No. My second argument is that the design claim here involves repair work or problems uniquely; it does not include or intrude on the fitness for service standard that this Court announced in Napier or that has consistently been applied. The asbestos harms that the repair workers here faced are unique to the repair process, where they are scraping off the --"
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "Well, but, counsel, looking at Napier, the power that Justice Brandeis said was conferred in that case was to specify the sort of equipment to be used on locomotives, right?"
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "Yes, but on --"
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "So, this is equipment that was used in locomotives."
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "Yes, but, Mr. Chief Justice, it also says on page 612 that the power delegated by Congress is to determine fitness for service. So, the words about the --"
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "Yes, but that's the same -- that's the same thing, I'll give you that, fitness for service."
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "No, it's not --"
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "It doesn't say something that's going to cause harm while it's actually being used."
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "But, Mr. Chief Justice, the principle here is to ensure that the locomotives, when they are outside the repair yard and are on the locomotive -- on the railroad line, are -- are safe to operate. That standard in Napier had --"
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "Why does it depend -- you want to know if this equipment is safe to operate, right? To be used, whether -- whether it's going to be used. If you have a --"
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "Not to be broken down."
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "If you have a boiler that's going to be used, that's within the power that was confirmed. It's not merely to inspect as, again, Justice Brandeis said."
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "But the point here is that it is not to be broken down. And the locomotive repair workers here face unique hazards in repairing locomotives whose safety standards are to ensure that they work properly on the railroad line, not when they're being taken apart and repaired. That they --"
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "Well, I guess your argument isn't limited to being taken apart. Your argument does depend on the fact that the asbestos doesn't come out during use; right?"
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "That's absolutely correct. That's why this is --"
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "Well, how do we know that --"
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "-- a unique hazard faced by the repair workers."
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "Yes, but if there's an accident or something, does the asbestos come out during the use of the locomotive?"
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "If it did, it would be covered under the Locomotive Inspection Act safety standard, and that would be covered by Federal law."
-  },
-  {
-    "speaker": "JUSTICE SCALIA",
-    "speech": "You -- you would say once there's an accident and the locomotive is disabled, it's no longer in use. I suppose that's what you'd say."
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "That's correct, and --"
-  },
-  {
-    "speaker": "JUSTICE SCALIA",
-    "speech": "It's unrealistic, but that's what you'd say."
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "No. Well, it's governed by a different statute, which is found at 49 U.S.C. 303."
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "Well, that's the old insurance cases we've had, that, you know, when the car, you know, slams into a pole or something, it's not being used as a car anymore; and, therefore, the insurance doesn't cover it."
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "Well, if I could finish my answer to your previous question, Mr. Chief Justice, there's a specific statute on that point, and it predated the Locomotive Inspection Act, and it provided that when there was a crippled locomotive, the railroad did not face liability, civil penalties, to bring the crippled locomotive back to the yard, but it specifically said if a worker was injured during that process, the railroad would face liability. Our point here is that the Locomotive Inspection Act's field should be construed narrowly because in 1970 Congress expressly and comprehensively legislated in the Federal Rail Safety Act and provided a conflict pre-emption regime in which if a State had a rule in place, that rule would be permitted to survive unless and until the Federal Rail Administration issued a regulation. And there has never been a regulation on asbestos."
-  },
-  {
-    "speaker": "JUSTICE BREYER",
-    "speech": "What I'm concerned about I think is the same thing that the Chief Justice mentioned, the particular language in Napier. And whatever -- however this might come out today if Napier were decided again, it did come out the way it did. And Justice Brandeis did write it, and it's been the law a long time. And the argument is made in Napier that this particular State regulation is aimed at preventing sickness and disease, not at making locomotives safe, and, therefore, it's not pre-empted. And the answer to that was not sickness and disease are an object of the statute, too. The answer was the Federal and the State statutes are directed to the same subject, the equipment of locomotives; and, therefore, it is pre-empted. Now, how could we come out in your favor without overturning what seems to be that key sentence in Napier? That is the problem that's bothering me."
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "Well, first, I would urge you not to read Napier like a statute, although Justice Brandeis is obviously --"
-  },
-  {
-    "speaker": "JUSTICE BREYER",
-    "speech": "I see. Okay. That's a -- the problem with (a) is that it's been followed and followed and followed and followed, and really read for all its worth, and so forth. So -- so one question is, to what extent can I go back and revise that sentence? That's (a). Okay? What's (b)?"
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "(B) is that he was addressing himself to fitness for service standards on the line, the Wisconsin and Georgia statutes at issue there purporting to regulate what the locomotive could do while it was in operation on the line. That's not what the claims in this case entail."
-  },
-  {
-    "speaker": "JUSTICE BREYER",
-    "speech": "Not -- now, is there any way that you could win your case -- reasonably, in a reasonable way, not some far-out way -- but you win your case on this, and it does not affect the manufacturers' way of dealing with their equipment?"
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "Yes."
-  },
-  {
-    "speaker": "JUSTICE BREYER",
-    "speech": "What is that?"
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "First is if you accept our proposition that warning claims are valid negligence claims. The warning claims are not -- do not affect the equipment, how it is made at all. It's simply how do you use the equipment safely. Secondly, the design claims here go to the unique hazards faced by repair workers. You could use asbestos, under our theory of the case, on the locomotive in exactly the same way that the locomotive equipment manufacturers have done, so long as there's a safer way to take the asbestos off the locomotive in the repair yard. That is a distinct kind of design claim that doesn't go to the safe operation of the locomotive; it goes to what hazards are created when a repair worker is doing maintenance work on it."
-  },
-  {
-    "speaker": "JUSTICE SOTOMAYOR",
-    "speech": "I'm not sure I understand this. Are you talking about wearing a particular hazard suit?"
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "That would be --"
-  },
-  {
-    "speaker": "JUSTICE SOTOMAYOR",
-    "speech": "Are you talking about blowing out air? Are you talking about changing the design so the asbestos comes off without the dust cloud that's generally created?"
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "Both. The dust cloud is something that can be warned against and protected against with protective gear that has nothing to do with the design of a locomotive. There are, and there is evidence that there are, safer and were safer ways -- I remind you that asbestos isn't used on locomotives anymore, so this is part of an historical debate here -- but in ways that could be removed that would not create the cloud dust. That's the essence of the design defect claim. And the LIA and the FRA do not regulate in the repair shop. So, there's a complete gap here in terms --"
-  },
-  {
-    "speaker": "JUSTICE KAGAN",
-    "speech": "Let me make sure I understand you. Is -- if the Secretary tomorrow decided to issue a regulation saying railroads should no longer use these asbestos-containing brakes because of the hazards in the repair shop, do you think the Secretary could not do that under the statute?"
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "No. Absolutely -- absolutely can do that under the Federal Rail Safety Act, which, again, empowers the Secretary."
-  },
-  {
-    "speaker": "JUSTICE KAGAN",
-    "speech": "But the Secretary cannot do that under LIA? Is that the idea?"
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "It -- it very well could because it's a fitness for service standard. But it always -- and if you look at its regulations, in parts 229 and part 230 of 49 C.F.R., it always issues these regulations under both authorities because the FRSA expanded it."
-  },
-  {
-    "speaker": "JUSTICE KAGAN",
-    "speech": "Okay, then I'm a little bit lost. If the Secretary can issue such a regulation under LIA, L-I-A, then isn't it in the scope of regulation, and then isn't it also in the scope of what's pre-empted?"
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "It would have to do so under the B&O Railroad case in the early 1930s -- there was another Justice Brandeis opinion -- in which it would have to make a finding that to make that regulation that you posit, Justice Kagan, was necessary to avoid unnecessary peril to life or limb. In that case, the Court struck down the ICC's attempt to issue a regulation on a particular type of equipment because the ICC could not make that demonstration. So, in the current world, the FRA would regulate under the FRSA; it would not regulate under the LIA because under this Court's jurisprudence it is a harder standard to meet to implement a regulatory standard. That's our point. The regulatory field here does not need to be read as expansively as the other side posits, because the FRA has all the authority it needs under the FRSA if it chooses to promulgate those rules, and it has not chosen to promulgate those rules. The FRA can use conflict pre-emption to displace any State rule, but what they are seeking to do is to take the doctrine of implied field pre-emption, gain immunity from State law liability, and not be subject to any Federal rules. And it's that proposition that is an extraordinary proposition of implied field pre-emption. We found no case from this Court that goes that far."
-  },
-  {
-    "speaker": "JUSTICE GINSBURG",
-    "speech": "Mr. Frederick, could you -- could you clarify what is at stake for the worker here? The railroad worker ordinarily has the FELA claim, but the FELA claim in this case was dismissed. So, can you tell us what recourse -- if you lose, what recovery can this plaintiff get? And also explain to me why the FELA claim was dismissed."
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "If we lose this case, Justice Ginsburg, the decedent's family gets nothing, takes nothing, because the FELA claim was rendered summary judgment on the finding that there was no negligence by the railroad. The only claim that the decedent's family has here is a third-party claim against the manufacturer for failing to warn or design defect on the basis of State law."
-  },
-  {
-    "speaker": "JUSTICE BREYER",
-    "speech": "You just -- you just said that, which I think you certainly have the right to bring a claim, don't you, to say the repair shop doesn't have adequate warnings. And if -- if that's -- if the railroad's at fault in that, or the manufacturers or the owner of the repair shop, everybody who ever puts the asbestos in there is negligent in not putting up adequate warnings. What's wrong with that?"
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "Well, here -- ordinarily, you'd bring a failure-to-warn claim directly against the manufacturer for not putting in the manual or stamping on the equipment --"
-  },
-  {
-    "speaker": "JUSTICE BREYER",
-    "speech": "What about -- what about not --"
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "-- or providing instructions for safe use."
-  },
-  {
-    "speaker": "JUSTICE BREYER",
-    "speech": "What about getting away from the equipment and saying the failure here is not to fail to put it on the equipment; it's to fail to put it in the repair shop?"
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "It's both."
-  },
-  {
-    "speaker": "JUSTICE BREYER",
-    "speech": "There's something I'm not seeing."
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "No. It's -- it's both. Manufacturers routinely are held liable for failing to warn if in their manuals or in their other instruction materials they do not provide for instructions for the safe use of their equipment. If I could save the balance of my time."
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "Thank you, Mr. Frederick. Ms. Harrington."
-  },
-  {
-    "speaker": "HARRINGTON",
-    "speech": "Mr. Chief Justice, and may it please the Court: I think it's helpful in this case to try to separate out the field pre-emption issues from the conflict pre-emption issues. In the Government's view, the only issue properly presented in this case is whether Petitioners' tort claims fall within the field pre-empted by the LIA, and our view is that they do not because they arise from injuries that occurred when the locomotive was not in use. Now, Respondent would have the Court expand the field that's pre-empted by the LIA to include any claim that has anything to do with locomotive equipment, regardless of whether the equipment or the locomotive was in use at the time injury occurred. But it doesn't make sense to --"
-  },
-  {
-    "speaker": "JUSTICE SCALIA",
-    "speech": "Don't you think that one of the purposes of the legislation, which everybody understood, was to enable engine manufacturers to be able to construct their engines without having to worry about a variety of different State requirements? Railroading is a national transportation industry, and whoever makes the engine has to know, if I do it this way, it's going to be okay."
-  },
-  {
-    "speaker": "HARRINGTON",
-    "speech": "Absolutely."
-  },
-  {
-    "speaker": "JUSTICE SCALIA",
-    "speech": "And you're saying it won't be okay because, although every State may have -- every State's requirements may be pre-empted when the -- when the locomotive is in use, all 50 States can have different requirements with respect to what the design has to be in order to make the engine safe when it's being repaired. I think that truly frustrates the purpose of the Act."
-  },
-  {
-    "speaker": "HARRINGTON",
-    "speech": "I completely agree with what you're saying. And -- and I'm sorry if you missed -- if we didn't state our position clearly in our brief. Our view is that those kinds of requirements -- requirements that go to the design, construction, or materials on a locomotive that will be used, if those requirements are directed at the repair shop, then they would be conflict pre-empted. But they wouldn't fall within the field that's governed by LIA because the LIA's substantive standard of care only applies to locomotives that are in use."
-  },
-  {
-    "speaker": "JUSTICE SCALIA",
-    "speech": "I'm not -- I'm not concerned about conflict pre-emption. I'm not concerned about State requirements that conflict with the Federal. I'm talking about 50 State requirements that conflict with each other, so that the manufacturer has to look to all 50 States instead of looking to the Secretary here, which says your engine is safe if you do this. And you're telling me the manufacturer can no longer assume that."
-  },
-  {
-    "speaker": "HARRINGTON",
-    "speech": "No, I'm sorry. And let me clarify. I appreciate the opportunity to clarify. In our view, what the conflict is, is not a conflict with a Federal rule saying you have to use this piece of equipment and you can't use that piece of equipment. The conflict is with one of the purposes of the LIA, which is that the Federal Government be the only regulator of equipment that will be used on a locomotive. And so, what that means is if -- if the Federal Government hasn't spoken as to whether piece of equipment A can be used on a locomotive, that means that it can be, that the manufacturers know that it's okay. And if you have a State rule that would have the effect of dictating the equipment that can be used on a locomotive, that would conflict with the single regulator objective of the LIA."
-  },
-  {
-    "speaker": "JUSTICE BREYER",
-    "speech": "So, what's the difference then? How do you do it? How do you -- how do you -- what is it you're thinking of that the manufacturer's going to have to do in respect to his locomotive in order to comply with the State law about warning that is not going to mean that he changes the locomotive when it runs on the railroad?"
-  },
-  {
-    "speaker": "HARRINGTON",
-    "speech": "Well, I think it depends on what the warning claim is."
-  },
-  {
-    "speaker": "JUSTICE BREYER",
-    "speech": "Well, give me an example."
-  },
-  {
-    "speaker": "HARRINGTON",
-    "speech": "Well, under the -- under the Respondents' -- under the Respondents' view of the field that's pre-empted, a State could not regulate the disposal of equipment that's removed from a locomotive during their repair process, even though --"
-  },
-  {
-    "speaker": "JUSTICE BREYER",
-    "speech": "Does that have anything to do with this case, the removal, never further -- no further use of a bit of a locomotive?"
-  },
-  {
-    "speaker": "HARRINGTON",
-    "speech": "No. But also --"
-  },
-  {
-    "speaker": "JUSTICE BREYER",
-    "speech": "No. Okay. Let's get to this case."
-  },
-  {
-    "speaker": "HARRINGTON",
-    "speech": "Also, in Respondents' view a State could not regulate workplace hazards, such as by requiring that workers wear goggles or masks."
-  },
-  {
-    "speaker": "JUSTICE BREYER",
-    "speech": "Oh, I didn't know anybody denied that, that the State could regulate the repair shop, indeed require what warnings they wish, indeed require what equipment workers have to have. I thought we're only talking about those rules of State law that would affect what the manufacturer has to put by way of design in his locomotive."
-  },
-  {
-    "speaker": "HARRINGTON",
-    "speech": "Yes, but when you're --"
-  },
-  {
-    "speaker": "JUSTICE BREYER",
-    "speech": "And that's what I'm having trouble thinking of one that would only affect repair shops and repairs, but -- maybe there's some kind of equipment that you could stick on the front of it, and it is a hook or something -- and it holds something, and before it goes back on the line, you take it off and put it in a locker. And -- but, you know, the more I thought along those lines, I thought I'm getting into outer space. This isn't reality. So --"
-  },
-  {
-    "speaker": "HARRINGTON",
-    "speech": "No. I think you could -- I'm sorry. I think you could imagine a world where a State says when a locomotive comes into a repair shop, the railroad or the repair shop has to attach a certain kind of clamp on the wheels, a certain kind of brake, that makes sure that the locomotive won't move while it's in the repair shop. And when you're done repairing the locomotive, you take them off, and the locomotive goes back --"
-  },
-  {
-    "speaker": "JUSTICE BREYER",
-    "speech": "All right. Now, does that have more than theoretical value in this case?"
-  },
-  {
-    "speaker": "HARRINGTON",
-    "speech": "Well, I think in this case the claims that we say would not be conflict pre-empted or within the field are claims -- are the failure-to-warn claims. Now, how a manufacturer actually issues the warning that would be required I think is a question that could be worked out as the case proceeds."
-  },
-  {
-    "speaker": "JUSTICE SOTOMAYOR",
-    "speech": "If the manufacturer is really not controlling the repair shop, of what value is this failure-to-warn claim?"
-  },
-  {
-    "speaker": "HARRINGTON",
-    "speech": "Well, again, I think it depends how the warning is issued. You could require that the manufacturer tell the purchaser of the products to pass the warning along, to post warnings in a repair shop. You know, there --"
-  },
-  {
-    "speaker": "JUSTICE SOTOMAYOR",
-    "speech": "How -- they can't control whether they do or don't."
-  },
-  {
-    "speaker": "HARRINGTON",
-    "speech": "They could require it contractually through the sale of the products. I think those sorts of detailed issues would be things that would be worked out on remand in this case. Again, in our view, the only question squarely presented in this case is the field pre-emption question. And --"
-  },
-  {
-    "speaker": "JUSTICE KAGAN",
-    "speech": "So, on that question, Ms. Harrington, I'm still confused about the scope of your regulatory authority and whether you think you have the capacity to issue rules that are meant to protect repair workers on railway equipment. So, can you issue a rule under the LIA that says no asbestos-containing brakes because we're afraid that these brakes injure the -- the guys in the roundhouse."
-  },
-  {
-    "speaker": "HARRINGTON",
-    "speech": "No. The LIA -- the standard of care under the LIA only goes to whether a locomotive is safe for use, and that is also the limit of the FRA's regulatory authority. This Court, in the United States v. B&O, addressed that issue. The ICC at the time had issued a regulation requiring a certain kind of reverse gear instead of a different kind of reverse gear."
-  },
-  {
-    "speaker": "JUSTICE SCALIA",
-    "speech": "Well, what -- what self-abnegation by the Federal Government, that \"safe for use\" does not include safe for use when it's being repaired."
-  },
-  {
-    "speaker": "HARRINGTON",
-    "speech": "Because the statute says safe for use on -- safe for use on the line. It's safe for use on lines of interstate commerce."
-  },
-  {
-    "speaker": "JUSTICE KAGAN",
-    "speech": "But this does seem a very limiting construction. Napier seems to have a broader construction, and if I read some of your history right, you've taken a broader understanding of your regulatory authority in the past. So, why this narrow view?"
-  },
-  {
-    "speaker": "SMITH",
-    "speech": "I'm not aware that we've taken a broader view of our regulatory authority under the LIA. In Napier, again, what's important to remember is that the State statutes at issue applied only to locomotives that were in use. And so, I think it's hard to take any -- any broad statements that were made in Napier and read them as applying outside that context."
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "Well, but if you're talking about -- I bet there are a lot of things on railroad cars that you can fix in the shop or you can fix while it's under way, right? We're not always talking about brakes. So, let's suppose there's one of those things. You get to the shop and the guy says: Boy, you got to fix this. And they said: Well, the train's leaving, and we're going to go in 10 hours. And he says: Okay, I can fix it during the -- while it's in use. Is that covered or not?"
-  },
-  {
-    "speaker": "HARRINGTON",
-    "speech": "Well, again the LIA only applies to the locomotives. So, if the thing that's broken that you could fix while it's in use would not make the locomotive unsafe to use, then it would not be a violation of the statute to use it while --"
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "So, the line you've been talking about between the repair shop and the locomotive on the tracks, that's not really the line at all."
-  },
-  {
-    "speaker": "HARRINGTON",
-    "speech": "The line is in use versus not in use. And that tends to match --"
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "Well, then -- well, then what's the answer to my question? This is something you can fix in either place. It's covered while it's -- if you fix it while the train is under way, but it's not covered if you wait until it's in the shop?"
-  },
-  {
-    "speaker": "HARRINGTON",
-    "speech": "Well, if it's -- if the fact that it's broken makes the locomotive unsafe to use, then the railroad cannot use it, cannot repair it while it's in use."
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "So, then it's not whether it's in use or in the shop. It's whether it is something that affects whether the locomotive can go, whether it's --"
-  },
-  {
-    "speaker": "HARRINGTON",
-    "speech": "That's right. But here the injuries occur when the locomotive is not in use because it's in the repair shop. And in those situations, the LIA's substantive heightened duty of care doesn't even apply. And so, it doesn't make sense to think of those claims as being within the field that's pre-empted by the LIA because they're not governed by the LIA. Now, those claims might bump up against the LIA in a different way by conflicting again with the --"
-  },
-  {
-    "speaker": "JUSTICE SCALIA",
-    "speech": "Do you have any --"
-  },
-  {
-    "speaker": "JUSTICE GINSBURG",
-    "speech": "Can you explain --"
-  },
-  {
-    "speaker": "JUSTICE SCALIA",
-    "speech": "I'm sorry. Go ahead."
-  },
-  {
-    "speaker": "JUSTICE GINSBURG",
-    "speech": "Can you explain the difference -- you make a distinction between field pre-emption and conflict pre-emption. Does that have any practical significance at all in this case, because I thought you agreed that the design defect claim would be barred?"
-  },
-  {
-    "speaker": "HARRINGTON",
-    "speech": "Well, we agree that they might be barred. I think, you know, this case comes to the Court without any real development of the plaintiffs' claim. All we have is what they stated in their complaint. Their complaint incorporates a master complaint which applies to all sorts of different kinds of plaintiffs. And so, I think it's really hard to understand exactly what their claims are, what the effect of their claims would be with respect to the design defect claims. And so, in our view, they would -- the design defect claims would be pre-empted if they would have the effect of dictating the character of equipment that could be on a locomotive while it was in use."
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "Thank you, counsel."
-  },
-  {
-    "speaker": "HARRINGTON",
-    "speech": "Thank you."
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "Mr. Hacker."
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "Mr. Chief Justice, and may it please the Court: The LIA as construed by this Court in Napier, in particular in the passage quoted by Justice Breyer, delegates to the DOT the exclusive authority to determine the design and the materials of locomotive equipment. Petitioners, however, argue that States in fact may dictate locomotive design and materials so long as they do so for some purpose other than safety of use on the line. But, again, in the passage Justice Breyer pointed out, Napier holds that LIA pre-emption is not about the purpose of locomotive equipment regulation and is not about the geographic location of the locomotive on or off the line when the regulation is enforced. As Justice Sotomayor pointed out in the earlier argument this morning, regulatory power is broader than purpose. As Napier says, under the LIA, pre-emption is about the locomotive equipment itself, what Napier referred to as the physical elements of the locomotive."
-  },
-  {
-    "speaker": "JUSTICE KAGAN",
-    "speech": "Well, Mr. Hacker, could you explain to me -- I wasn't sure reading your brief whether you agree or disagree with the Government's point that the agency cannot, under the LIA, issue the kind of rule that I suggested just, you know, saying no asbestos-containing brakes because of the danger that those brakes pose to the repairmen."
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "I -- frankly, I would have thought it possible. I would have to defer to the -- to the DOT's view. It seems to me it would have been within DOT's power under the LIA to say a locomotive is not safe to operate if it can't be safely repaired. Because there's no point in having a locomotive ready to go on the line if it -- as soon as it comes off the line with a problem it's going to injure those who work with it. But we don't need to assert that position to defend the proposition we have now --"
-  },
-  {
-    "speaker": "JUSTICE KAGAN",
-    "speech": "Well, how is that? If they are right as to the scope of their authority -- and maybe they're not right, but if they are right about the scope of their authority, why doesn't it follow that these claims would not be field pre-empted; might be conflict pre-empted but would not be field pre-empted because we're no longer in the field?"
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "Because the field is not -- it's not about the repair shop versus not the repair shop. The field is the physical elements of the locomotive itself. What States cannot do -- what DOT has exclusive authority over is the design, the materials, and the construction of the locomotive."
-  },
-  {
-    "speaker": "JUSTICE SCALIA",
-    "speech": "But only the design, materials, and constructions for use. If you make that concession, it's only those aspects of design, materials, and construction that pertain to use. And if you take the position that use includes only use on the line and not use when it's being repaired in the repair shop, I think you're in trouble."
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "I think we're not, Your Honor, because the design doesn't change between the line and the repair shop. And that's the key. If a State comes in and says --"
-  },
-  {
-    "speaker": "JUSTICE SCALIA",
-    "speech": "It's design for use."
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "I understand, but --"
-  },
-  {
-    "speaker": "JUSTICE SCALIA",
-    "speech": "I'm not talking about the word \"design\"; I'm talking about \"design for use.\""
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "But the statute -- the reason the statute gives power to the DOT is to ensure that locomotives are safe for use on the line. But in order to accomplish that objective, the power they have is plenary over the design itself. They -- only one entity gets to decide what the design is, and that's DOT. A State can't come in and say --"
-  },
-  {
-    "speaker": "JUSTICE KENNEDY",
-    "speech": "It's not -- it's not clear --"
-  },
-  {
-    "speaker": "JUSTICE SOTOMAYOR",
-    "speech": "So, you're okay --"
-  },
-  {
-    "speaker": "JUSTICE KENNEDY",
-    "speech": "It's not clear to me why a railroad executive couldn't say, now I need to use 10 locomotives in this division because I will be using two of them every week in the repair shop to repair them, right? I don't know why that isn't use, but you don't -- you don't seem to agree with that."
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "Well, I don't necessarily disagree. We would certainly accept that proposition. We're just saying you don't have to go there."
-  },
-  {
-    "speaker": "JUSTICE KENNEDY",
-    "speech": "Now, I know it's use on the line, but it seems to me that the repair shop is an obvious extension of the line. Everybody knows that it's going to have to spend, I don't know, 1 day a month in the repair shop, and that's just part of -- of the use."
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "We don't disagree with that."
-  },
-  {
-    "speaker": "JUSTICE BREYER",
-    "speech": "Why would their law be pre-empted, a State law that says since the railroad knows that asbestos is dangerous when revealed and since it would be revealed in a repair shop, the railroad has to provide the repair shops with appropriate worker safety equipment; or alternatively, and lesser, the railroad has to provide for the repair shop's documents to be given to the workers which explain the risks and how they can overcome them. Now, in respect to that, which I'll lump under various kinds of failure-to-warn claims, how does the Act pre-empt those? It doesn't affect design of the railroad, nor does it affect the use. Neither."
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "I would say two points, Your Honor. First of all, it does affect the design because a way to comply with that regulation is to use something other than asbestos, to change the design. It's the State saying, because you're using this design, you can only use it lawfully in this State if you do the following two or three things."
-  },
-  {
-    "speaker": "JUSTICE GINSBURG",
-    "speech": "I thought that that was not the nature of the notice claim. The design is whatever it is. But the manufacturer has to issue warnings so that the worker can protect himself against that hazard. So, I thought that the defective design -- yes, I understand your argument. You would have one standard for on the line and another when it's in the repair shop. But this is not telling them to change the design in any respect. It just says: Asbestos -- you could take these measures to protect yourself."
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "At common law, a design -- a failure-to-warn claim was a type of design defect claim. It was a way of saying you can't use that design lawfully unless you have the following type of warning. If you -- you can't assume away the design aspect of it because it still turns on -- it's a State conditioning the design. The LIA and the FRSA and SCAA and OSHA all together solved this problem by -- and FELA, solved this problem by saying it is the repair shop's responsibility to ensure the safety of workers. We are not, to be absolutely clear -- Ms. Harrington was incorrect when she said: We don't believe that repair shop -- States have the power to impose workplace conditions to protect employee safety in the repair shop. They do."
-  },
-  {
-    "speaker": "JUSTICE BREYER",
-    "speech": "But -- no, no, no. That argument would prevent States doing what they can do lawfully, which is to regulate the repair shop because with any given repair, with many of them, you could say, well, we wouldn't have to -- we can just change the locomotive design, for example. It carries beds with it so that the workers who are repairing it get adequate sleep. I mean, that isn't an answer to the argument that it doesn't affect design to say, well, they could comply with it by changing design, I don't think."
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "Well, what we would say is that generally applicable laws that govern the repair shop -- States have authority -- to the extent not pre-empted by OSHA, States have authority to require workplace conditions and to require employers to protect employees working. But what they can't do is tell manufacturers here's the conditions under which you can use this design, sell this design, distribute the design and these materials lawfully within the State --"
-  },
-  {
-    "speaker": "JUSTICE SCALIA",
-    "speech": "What would apply to the repair shop would also apply to the locomotive in use, I suppose, and it would be of little comfort to the manufacturer that although the engine he has manufactured has been certified as safe for use by the Secretary, he is liable unless he warns the engineer: Oh, it isn't safe for use in these circumstances; I have to give you warning. I mean, I cannot imagine that that's what -- that that's what the statute means as applied, at least to the use of the engine on the -- on the tracks."
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "Well, we agree with that, but we also think it applies with respect to manufacturers' liability in the repair shop for the reason I said earlier. The locomotive doesn't change. So, when it's certified as safe for use on line, it can't be -- and the locomotive manufacturer knows everything they know by looking at DOT regulations. It can't be that a State can come along and say: No, no, you can't use any of that design; you have to use this completely different one --"
-  },
-  {
-    "speaker": "JUSTICE BREYER",
-    "speech": "No, what they're saying is --"
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "-- because this will make it safe in the repair shop."
-  },
-  {
-    "speaker": "JUSTICE BREYER",
-    "speech": "What they're saying is because when you open up the box, something no one does on line, you will expose yourself to risk, and what we are saying is, therefore, you must post a notice that tells workers about those risks. And, indeed, if there is a conflict, conflict pre-emption will take care of it. But why should that kind of thing fall within the scope of field pre-emption even under Napier, which, of course, referred to equipment while this rule doesn't? It refers to a sign. You're not going to change the equipment."
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "Well, for the reason I said earlier, Your Honor, which is, you don't know in advance. If you say, in theory, a State can adopt a warning requirement specific to a design otherwise approved by the DOT, you don't know in advance whether the warning requirements -- the manufacturers will be able to easily comply with all 50 different types of warning requirements and whether or not the warning requirements -- some will be so stringent that it will be easier to simply adopt a different design. The point of the LIA is to take that kind of decisionmaking out of the State's hands and put it into a Federal authority which can make the relevant and appropriate decisions --"
-  },
-  {
-    "speaker": "JUSTICE KENNEDY",
-    "speech": "Suppose --"
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "-- as to what designs are unlawful."
-  },
-  {
-    "speaker": "JUSTICE KENNEDY",
-    "speech": "Suppose the allegation is there's a failure to warn workers to use a special kind of mask that's very important if you're working near asbestos. That's the claim they want. Now, are you saying that the manufacturer cannot be required to give that warning?"
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "That's correct."
-  },
-  {
-    "speaker": "JUSTICE KENNEDY",
-    "speech": "Are you also saying the railroad cannot be forced to give that warning in its repair shop?"
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "The railroad can be required to ensure the safe protection of employees that work there. A workplace safety claim isn't really a warning claim."
-  },
-  {
-    "speaker": "JUSTICE KENNEDY",
-    "speech": "No, no. That was my -- can the railroad be held liable for failing to tell the worker to use the mask?"
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "It can be under OSHA, be held liable for that."
-  },
-  {
-    "speaker": "JUSTICE SCALIA",
-    "speech": "Can the manufacturer be held liable for failing to tell the railroad?"
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "No. That would be a failure to --"
-  },
-  {
-    "speaker": "JUSTICE SCALIA",
-    "speech": "How is the railroad going to know whether it's unsafe or not?"
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "Because they have the --"
-  },
-  {
-    "speaker": "JUSTICE SCALIA",
-    "speech": "How is the railroad going to know whether there's asbestos in there unless the manufacturer at least tells the railroad, even it doesn't have to tell the worker?"
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "Railroads have a duty under FELA to ensure a safe workplace environment. That's clear. And so, they have adequate incentives to ensure that their employees have a safe work environment. If they're -- if a worker is exposed to asbestos --"
-  },
-  {
-    "speaker": "JUSTICE KENNEDY",
-    "speech": "But you could -- could State law say you need a special kind of mask?"
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "Well, not under the current regime because FELA would pre-empt any claim by a railroad worker. So, there wouldn't be -- there isn't room for State law already."
-  },
-  {
-    "speaker": "JUSTICE KENNEDY",
-    "speech": "What about an independent contractor who's not covered by FELA?"
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "Could be -- could not have a claim against the manufacturer. An independent contractor would not have claim against the manufacturer for failure to warn."
-  },
-  {
-    "speaker": "JUSTICE KENNEDY",
-    "speech": "Under State law which by hypothesis says you need this very special kind of mask. It's required only in Illinois."
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "Right. The manufacturer could not be held liable under that State law. That would be a condition on the design, an effort by the State to prescribe the condition, the type of design that could be --"
-  },
-  {
-    "speaker": "JUSTICE KENNEDY",
-    "speech": "Could the railroad be held liable for failure to give that kind of mask under State law if it's not a FELA worker?"
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "If it's a generally applicable law about asbestos use, yes. I would say at some point a law like that that's directed at a particular type of equipment becomes potentially conflict pre-empted because it puts a condition on the design of the particular equipment. States are free to enforce generally applicable laws about safe workplace environments, asbestos handling --"
-  },
-  {
-    "speaker": "JUSTICE KENNEDY",
-    "speech": "Let me ask this question: Is it your position that the -- that the engine is as much in use when it's in the shop as when it's running on the track? Is that your position?"
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "We don't have a problem with that position. We don't have -- we don't have a -- because we don't believe you have to establish that it's in use in the repair shop to establish that the pre-emption described by Justice Brandeis in Napier controls, because the pre-emption he was describing was -- the regulatory authority was over the equipment itself which is the same exact equipment. A railroad -- a locomotive designed a particular way doesn't change when it enters the repair shop; so, it's designed to be fit for service."
-  },
-  {
-    "speaker": "JUSTICE KENNEDY",
-    "speech": "Well, the reason it seems to me somewhat important is that I can't conceive of 50 different State regulations for the kind of gloves and things that the engineer has to wear on -- when he's running the train on the track. And if that's so, it seems to me it would help you to say that the shop was the same, but you seem to say the shop was different."
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "Well, I only mean to say that our position doesn't change whether or not the shop is different because it's not -- the LIA pre-emption -- LIA regulation isn't about repairing. The DOT may well have authority -- they seem to think not -- over repairs under the LIA, but what the LIA is about is the design and the materials themselves. And States can't say for themselves what a better or more preferable or -- a locomotive design is for any other reason. The Respondents' brief and reply brief on page 5 makes an interesting point. They think they've proved their case when they say the LIA doesn't for example permit the DOT to impose a U.S. steel requirement, a domestic content requirement, on locomotives. The implication would be, of course, that a State could because it's outside the field as Petitioners define it, that a State could say locomotives can only be used within our State if they're made of U.S. steel. I don't think that makes any sense at all. It can't possibly be right, and the reason it's not right is that it misunderstands pre-emption under the LIA as described by Napier. Of course, it's within the general authority of the DOT to determine that a locomotive should be made with U.S. steel, but that authority can be abused. It might be arbitrary and capricious; it's not permissible for them to do that. But the content of locomotives is exclusively within the jurisdiction of the DOT, and States can't decide for themselves that a locomotive otherwise compliant under Federal regulations is --"
-  },
-  {
-    "speaker": "JUSTICE SCALIA",
-    "speech": "Well, they're -- they're not saying here you have to manufacture it a certain way. They're just saying if you manufacture it in a manner that we consider unsafe, you have to warn people."
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "Well, that's part of their argument, but their main claim is the first one, which is that you are prohibited in this State from using asbestos. It can't happen, even though Federal regulations said you could. That's the main part of their claim. They have a secondary claim, which is failure to warn and which we submit is essentially a type of design defect claim that says if you're going to use asbestos, then you have to warn. And we don't even know -- as Ms. Harrington was describing, there's a lot -- there would be a lot to be determined if conflict pre-emption applies to failure to warn in a given case. That's the whole problem, Your Honors, is that the LIA was saying we don't want to expose manufacturers to the potential of future State court litigation."
-  },
-  {
-    "speaker": "JUSTICE KENNEDY",
-    "speech": "Well, do we have to reach this failure-to-warn problem in this case?"
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "I think it's presented here. I mean, we think it's completely caught up in the design defect issue, but the other side is -- is trying to defend by saying we have a design defect claim, but we also have a failure-to-warn claim. But we submit the two are bound up together."
-  },
-  {
-    "speaker": "JUSTICE SOTOMAYOR",
-    "speech": "I -- if I'm understanding your argument correctly, you're saying that if Napier controls the design of -- and a locomotive part, that includes any design defect that's encompassed by State law, whether it's design in its traditional sense or failure to warn."
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "That's correct."
-  },
-  {
-    "speaker": "JUSTICE SOTOMAYOR",
-    "speech": "That's basically what the court below said."
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "That's correct, and that's what Judge Kozinski said in the Law case, and Judge Winter said in Oglesby."
-  },
-  {
-    "speaker": "JUSTICE SOTOMAYOR",
-    "speech": "Just as a practical matter, I'm assuming that some railroad repair yards are owned by the railroad itself, so the railroad repair people are railroad employees, correct?"
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "I -- I think that's right, yes."
-  },
-  {
-    "speaker": "JUSTICE SOTOMAYOR",
-    "speech": "Are there some that are not?"
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "Well, they might --"
-  },
-  {
-    "speaker": "JUSTICE SOTOMAYOR",
-    "speech": "They are not considered railroad employees, but they're considered something else?"
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "I don't -- two things I would say. I don't know the answer for sure, but I think they probably are, but there are also repair shops that then -- that are owned by other railroads, and that's part of a problem that manufacturers have, is you don't know, when you sell the -- the locomotive to a railroad, who is going to be --"
-  },
-  {
-    "speaker": "JUSTICE SOTOMAYOR",
-    "speech": "Just to be --"
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "-- repairing under what conditions."
-  },
-  {
-    "speaker": "JUSTICE SOTOMAYOR",
-    "speech": "Just to be clear, under your view of the LIA, there could be other laws that pre-empt it or prohibit it? States can tell railroad yards put signs up, wear protective equipment, do whatever it is to protect the worker from this repair."
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "Yes."
-  },
-  {
-    "speaker": "JUSTICE SOTOMAYOR",
-    "speech": "They just can't tell them --"
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "Yes."
-  },
-  {
-    "speaker": "JUSTICE SOTOMAYOR",
-    "speech": "-- include a warning on the brake, or to --"
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "Specific to the equipment itself. What we would say is the State has to take the locomotive equipment as a given. It is what it is. And then if that locomotive equipment creates risks for workers, the employer may have to do things to account for those risks, but the equipment can't be regulated by the State. The equipment itself can't be regulated by the State in any respect."
-  },
-  {
-    "speaker": "JUSTICE KAGAN",
-    "speech": "Mr. Hacker, do you think we would decide Napier the same way if it came to us today?"
-  },
-  {
-    "speaker": "HACKER",
-    "speech": "I do think so, Your Honor. Of course, I don't think that matters because Napier is what it is and has been relied upon for 85 years. But I think there would be a very good argument that it would be decided the same way today under the Ray case that Justice Sotomayor mentioned. That was a very similar kind of delegation of regulatory authority, and the Court held that there was the same kind of field pre-emption. There are some differences one could discuss, but Napier is what it is, as I say. If The Court has no further questions, I'll cede the balance of my time."
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "Thank you, counsel. Mr. Frederick, you have 4 minutes."
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "Manufacturers clearly have the best information about the dangerous aspects of their products, and they issue warnings and instructions in manuals and provide all kinds of information so that persons working on their equipment are going to know the special hazards. It doesn't make sense to inoculate those manufacturers from liability where they have the best information to ensure that repair workers are not going to be exposed to risks. With respect to the point about being on the line, the whole idea behind the Locomotive Inspection Act was not just for use, Justice Kennedy, but also safe to operate on the railroad line. Under the regulations -- and this is well established -- yard limits are drawn outside the bowl where switching operations and repair operations occur, so that everybody knows where the Federal LIA standard applies and where it doesn't. And the reason why the LIA has had this kind of history with respect to repair work goes to the history of -- behind this Court's recognition of the commerce power. Up until the New Deal era, it was well settled that Congress could not legislate on intrastate activities, which are peculiar to repair yards. And so, this Court when it decided the Shanks case in the mid 1910s held that a railroad worker could not bring an FELA claim because his work was not in interstate commerce; it was only in intrastate commerce. And that is why the ICC throughout this entire period never devoted regulations to repair yards, because this Court's Commerce Clause jurisprudence precluded Federal regulatory activity for that. So, if you look at this case from an historical perspective, Justice Kagan, it's not clear that the full parameters of the way the Court would explain Napier would be the same, because its approach to field pre-emption is so different after the New Deal era than it was before the New Deal era. And that is also why when this Court looks at regulatory implications of common law claims, it has had no problem allowing State law to have design defect claims with respect to planes, cars, motorboats, and trucks, even though the implications of a State law claim might find liability for the insufficiency of the design imposing an unreasonable risk to the person who is exposed to that risk with respect to that interstate modality. There's no reason why you have to have a broad and expansive view of the field here because Congress subsequently has enacted in this very area to give the Federal agency pre-emptive authority when it deems that authority appropriate. And as the Federal Government says --"
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "And it knows -- it knows about Napier and what's been going on for 85 years, and if it wants to pull back on the pre-emptive effect of the provisions interpreted in Napier, it's free to do that, too."
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "It did so, though, Your Honor in 49 U.S.C. 20106, where it said that unless and until the Federal Government issues a regulation in a particular field, the States are allowed to have their rule be in effect."
-  },
-  {
-    "speaker": "JUSTICE GINSBURG",
-    "speech": "But that was -- that was the Safety Act, and they didn't amend the Locomotive Act. The Locomotive Act is what it was, and they didn't put that clause in it."
-  },
-  {
-    "speaker": "FREDERICK",
-    "speech": "But that's why, Justice Ginsburg, the point here is how broadly do you define the scope of the field, and Napier defined it in an historical context that we just don't live in anymore. And there's no reason to give manufacturers a complete pass from liability when they have the best information to advise railroad -- railroads and railroad workers how to work on their equipment in a safe way without exposing their workers to unnecessary risks. Thank you."
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "Thank you, counsel. The case is submitted. (Whereupon, 11:53 a.m., the case in the above-entitled matter was submitted.)                :4 22:7 26:8 35:1 context24:6 C.F.R13:15 depend7:14 8:5 :2 :3 35:1,4 23:1 26:22 exposing47:1 14:19,22 17:3 9:3,5,7 33:8 navigation5:1,2 operations39:23 potential40:21 9:4 near35:13 44:17,17 permit39:9 potentially 3:5 35:25 43:15 unreasonable42:15 45:24 24:10,14 28:22 6:5,14 42:16 tomorrow13:2 45:21 violation24:21 29:11 30:12 2:20 tort17:6 unsafe24:20 we've9:3 23:25 :19 42:4 turns32:5 27:12 29:5,7,8 31:18 36:1,14"
-  }
-]
+{
+  "success": true,
+  "completeLines": [
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "We'll hear argument next this morning in Case 10-879, Kurns v. Railroad Friction Products Corporation. Mr. Frederick."
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "Thank you, Mr. Chief Justice, and may it please the Court: Congress enacted the Locomotive Inspection Act to ensure the safety of locomotives in use on railroad lines, not to regulate hazards to mechanics conducting repairs of locomotives. The doctrine of implied - -"
+    },
+    {
+      "speaker": "JUSTICE SOTOMAYOR",
+      "speech": "So, what do you -- what do you make of the ICC in 1916, in the Tiller case, regulating the lights that railroads had to have, locomotives had to have in the yard, and that those lights had to differ when the railroad was in use?"
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "That was actually I think pursuant to the Safety Appliance Act, Justice Sotomayor, if I'm not -- if I'm not mistaken. And the principle behind the safety in use regulation that this Court construed in Napier was to ensure that locomotives were safe for fit use on the line. And that was the consistent construction both in the ICC's statement that it made in 1922 and in this Court's post-Napier - -"
+    },
+    {
+      "speaker": "JUSTICE SOTOMAYOR",
+      "speech": "I'm not sure I understand. It prescribed different lights when the - - when the locomotive was in the yard."
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "JUSTICE SOTOMAYOR",
+      "speech": "That had nothing to do with safety in use. It had to do with safety in repair."
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "Our position is that it was not pursuant to the Locomotive Inspection Act that the ICC promulgated that rule. As the Court has said in numerous cases, the ICC had rules in place with respect to different aspects of the train at different points in time, but the Locomotive Inspection Act was designed to address a very specific problem, which was boilers exploding on the line when the train was in operation. And that is the consistent way that the ICC, and subsequently the Federal Railroad Administration, has construed the Act."
+    },
+    {
+      "speaker": "JUSTICE SOTOMAYOR",
+      "speech": "Distinguish for me our reasoning in the Ray case."
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "I'm sorry."
+    },
+    {
+      "speaker": "JUSTICE SOTOMAYOR",
+      "speech": "Distinguish for me the difference in the Ray case, that had to do with navigation and where we held that the agency, in ensuring safety in navigation, controlled design completely, whether in repair or not. So, how do we - - why don't we apply the logic of Ray to this case?"
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "Well, of course in Ray you addressed the Port and Tanker Safety Act, as well as the Port and Waterway Safety Act. And in the United States v. Locke case, the Court subsequently looked at Ray in terms of design in a statute that also specifically included the word \"repair and maintenance,\" which is absent here. But what the Court was getting at in Ray was to ensure that States were not using their law to interfere with the design of equipment. Of course, that was for - -"
+    },
+    {
+      "speaker": "JUSTICE SOTOMAYOR",
+      "speech": "That's the argument here, which is - -"
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "No."
+    },
+    {
+      "speaker": "JUSTICE SOTOMAYOR",
+      "speech": "-- once you regulate what -- what the design or use of asbestos is, you're interfering with what available components there are for locomotives."
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "If I could make two points about that, Justice Sotomayor. That's not actually correct. The first is anything that the Court might think about design does not impair our failure-to - warrant claims, which entail no challenge to the design of a locomotive at all, only to the instructions for its safe use. But to the - -"
+    },
+    {
+      "speaker": "JUSTICE SOTOMAYOR",
+      "speech": "So, you're giving up all of your other claims?"
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "No. My second argument is that the design claim here involves repair work or problems uniquely; it does not include or intrude on the fitness for service standard that this Court announced in Napier or that has consistently been applied. The asbestos harms that the repair workers here faced are unique to the repair process, where they are scraping off the - -"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Well, but, counsel, looking at Napier, the power that Justice Brandeis said was conferred in that case was to specify the sort of equipment to be used on locomotives, right?"
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "Yes, but on - -"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "So, this is equipment that was used in locomotives."
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "Yes, but, Mr. Chief Justice, it also says on page 612 that the power delegated by Congress is to determine fitness for service. So, the words about the - -"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Yes, but that's the same -- that's the same thing, I'll give you that, fitness for service."
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "No, it's not - -"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "It doesn't say something that's going to cause harm while it's actually being used."
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "But, Mr. Chief Justice, the principle here is to ensure that the locomotives, when they are outside the repair yard and are on the locomotive -- on the railroad line, are -- are safe to operate. That standard in Napier had - -"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Why does it depend -- you want to know if this equipment is safe to operate, right? To be used, whether -- whether it's going to be used. If you have a - -"
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "Not to be broken down."
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "If you have a boiler that's going to be used, that's within the power that was confirmed. It's not merely to inspect as, again, Justice Brandeis said."
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "But the point here is that it is not to be broken down. And the locomotive repair workers here face unique hazards in repairing locomotives whose safety standards are to ensure that they work properly on the railroad line, not when they're being taken apart and repaired. That they - -"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Well, I guess your argument isn't limited to being taken apart. Your argument does depend on the fact that the asbestos doesn't come out during use; right?"
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "That's absolutely correct. That's why this is - -"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Well, how do we know that - -"
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "-- a unique hazard faced by the repair workers."
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Yes, but if there's an accident or something, does the asbestos come out during the use of the locomotive?"
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "If it did, it would be covered under the Locomotive Inspection Act safety standard, and that would be covered by Federal law."
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "You -- you would say once there's an accident and the locomotive is disabled, it's no longer in use. I suppose that's what you'd say."
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "That's correct, and - -"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "It's unrealistic, but that's what you'd say."
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "No. Well, it's governed by a different statute, which is found at 49 U.S.C. 303."
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Well, that's the old insurance cases we've had, that, you know, when the car, you know, slams into a pole or something, it's not being used as a car anymore; and, therefore, the insurance doesn't cover it."
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "Well, if I could finish my answer to your previous question, Mr. Chief Justice, there's a specific statute on that point, and it predated the Locomotive Inspection Act, and it provided that when there was a crippled locomotive, the railroad did not face liability, civil penalties, to bring the crippled locomotive back to the yard, but it specifically said if a worker was injured during that process, the railroad would face liability. Our point here is that the Locomotive Inspection Act's field should be construed narrowly because in 1970 Congress expressly and comprehensively legislated in the Federal Rail Safety Act and provided a conflict pre-emption regime in which if a State had a rule in place, that rule would be permitted to survive unless and until the Federal Rail Administration issued a regulation. And there has never been a regulation on asbestos."
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "What I'm concerned about I think is the same thing that the Chief Justice mentioned, the particular language in Napier. And whatever -- however this might come out today if Napier were decided again, it did come out the way it did. And Justice Brandeis did write it, and it's been the law a long time. And the argument is made in Napier that this particular State regulation is aimed at preventing sickness and disease, not at making locomotives safe, and, therefore, it's not pre-empted. And the answer to that was not sickness and disease are an object of the statute, too. The answer was the Federal and the State statutes are directed to the same subject, the equipment of locomotives; and, therefore, it is pre-empted. Now, how could we come out in your favor without overturning what seems to be that key sentence in Napier? That is the problem that's bothering me."
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "Well, first, I would urge you not to read Napier like a statute, although Justice Brandeis is obviously - -"
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "I see. Okay. That's a - - the problem with (a) is that it's been followed and followed and followed and followed, and really read for all its worth, and so forth. So -- so one question is, to what extent can I go back and revise that sentence? That's (a). Okay? What's (b)?"
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "(B) is that he was addressing himself to fitness for service standards on the line, the Wisconsin and Georgia statutes at issue there purporting to regulate what the locomotive could do while it was in operation on the line. That's not what the claims in this case entail."
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "Not -- now, is there any way that you could win your case -- reasonably, in a reasonable way, not some far-out way -- but you win your case on this, and it does not affect the manufacturers' way of dealing with their equipment?"
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "What is that?"
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "First is if you accept our proposition that warning claims are valid negligence claims. The warning claims are not -- do not affect the equipment, how it is made at all. It's simply how do you use the equipment safely. Secondly, the design claims here go to the unique hazards faced by repair workers. You could use asbestos, under our theory of the case, on the locomotive in exactly the same way that the locomotive equipment manufacturers have done, so long as there's a safer way to take the asbestos off the locomotive in the repair yard. That is a distinct kind of design claim that doesn't go to the safe operation of the locomotive; it goes to what hazards are created when a repair worker is doing maintenance work on it."
+    },
+    {
+      "speaker": "JUSTICE SOTOMAYOR",
+      "speech": "I'm not sure I understand this. Are you talking about wearing a particular hazard suit?"
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "That would be - -"
+    },
+    {
+      "speaker": "JUSTICE SOTOMAYOR",
+      "speech": "Are you talking about blowing out air? Are you talking about changing the design so the asbestos comes off without the dust cloud that's generally created?"
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "Both. The dust cloud is something that can be warned against and protected against with protective gear that has nothing to do with the design of a locomotive. There are, and there is evidence that there are, safer and were safer ways -- I remind you that asbestos isn't used on locomotives anymore, so this is part of an historical debate here - - but in ways that could be removed that would not create the cloud dust. That's the essence of the design defect claim. And the LIA and the FRA do not regulate in the repair shop. So, there's a complete gap here in terms - -"
+    },
+    {
+      "speaker": "JUSTICE KAGAN",
+      "speech": "Let me make sure I understand you. Is -- if the Secretary tomorrow decided to issue a regulation saying railroads should no longer use these asbestos-containing brakes because of the hazards in the repair shop, do you think the Secretary could not do that under the statute?"
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "No. Absolutely - - absolutely can do that under the Federal Rail Safety Act, which, again, empowers the Secretary."
+    },
+    {
+      "speaker": "JUSTICE KAGAN",
+      "speech": "But the Secretary cannot do that under LIA? Is that the idea?"
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "It -- it very well could because it's a fitness for service standard. But it always -- and if you look at its regulations, in parts 229 and part 230 of 49 C.F.R., it always issues these regulations under both authorities because the FRSA expanded it."
+    },
+    {
+      "speaker": "JUSTICE KAGAN",
+      "speech": "Okay, then I'm a little bit lost. If the Secretary can issue such a regulation under LIA, L-I-A, then isn't it in the scope of regulation, and then isn't it also in the scope of what's pre-empted?"
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "It would have to do so under the B&O Railroad case in the early 1930s -- there was another Justice Brandeis opinion -- in which it would have to make a finding that to make that regulation that you posit, Justice Kagan, was necessary to avoid unnecessary peril to life or limb. In that case, the Court struck down the ICC's attempt to issue a regulation on a particular type of equipment because the ICC could not make that demonstration. So, in the current world, the FRA would regulate under the FRSA; it would not regulate under the LIA because under this Court's jurisprudence it is a harder standard to meet to implement a regulatory standard. That's our point. The regulatory field here does not need to be read as expansively as the other side posits, because the FRA has all the authority it needs under the FRSA if it chooses to promulgate those rules, and it has not chosen to promulgate those rules. The FRA can use conflict pre-emption to displace any State rule, but what they are seeking to do is to take the doctrine of implied field pre-emption, gain immunity from State law liability, and not be subject to any Federal rules. And it's that proposition that is an extraordinary proposition of implied field pre-emption. We found no case from this Court that goes that far."
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "Mr. Frederick, could you -- could you clarify what is at stake for the worker here? The railroad worker ordinarily has the FELA claim, but the FELA claim in this case was dismissed. So, can you tell us what recourse -- if you lose, what recovery can this plaintiff get? And also explain to me why the FELA claim was dismissed."
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "If we lose this case, Justice Ginsburg, the decedent's family gets nothing, takes nothing, because the FELA claim was rendered summary judgment on the finding that there was no negligence by the railroad. The only claim that the decedent's family has here is a third-party claim against the manufacturer for failing to warn or design defect on the basis of State law."
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "You just -- you just said that, which I think you certainly have the right to bring a claim, don't you, to say the repair shop doesn't have adequate warnings. And if -- if that's -- if the railroad's at fault in that, or the manufacturers or the owner of the repair shop, everybody who ever puts the asbestos in there is negligent in not putting up adequate warnings. What's wrong with that?"
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "Well, here -- ordinarily, you'd bring a failure-to-warn claim directly against the manufacturer for not putting in the manual or stamping on the equipment - -"
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "What about -- what about not - -"
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "-- or providing instructions for safe use."
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "What about getting away from the equipment and saying the failure here is not to fail to put it on the equipment; it's to fail to put it in the repair shop?"
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "It's both."
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "There's something I'm not seeing."
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "No. It's -- it's both. Manufacturers routinely are held liable for failing to warn if in their manuals or in their other instruction materials they do not provide for instructions for the safe use of their equipment. If I could save the balance of my time."
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Thank you, Mr. Frederick. Ms. Harrington."
+    },
+    {
+      "speaker": "HARRINGTON",
+      "speech": "Mr. Chief Justice, and may it please the Court: I think it's helpful in this case to try to separate out the field pre-emption issues from the conflict pre-emption issues. In the Government's view, the only issue properly presented in this case is whether Petitioners' tort claims fall within the field pre-empted by the LIA, and our view is that they do not because they arise from injuries that occurred when the locomotive was not in use. Now, Respondent would have the Court expand the field that's pre-empted by the LIA to include any claim that has anything to do with locomotive equipment, regardless of whether the equipment or the locomotive was in use at the time injury occurred. But it doesn't make sense to - -"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "Don't you think that one of the purposes of the legislation, which everybody understood, was to enable engine manufacturers to be able to construct their engines without having to worry about a variety of different State requirements? Railroading is a national transportation industry, and whoever makes the engine has to know, if I do it this way, it's going to be okay."
+    },
+    {
+      "speaker": "HARRINGTON",
+      "speech": "Absolutely."
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "And you're saying it won't be okay because, although every State may have -- every State's requirements may be pre-empted when the -- when the locomotive is in use, all 50 States can have different requirements with respect to what the design has to be in order to make the engine safe when it's being repaired. I think that truly frustrates the purpose of the Act."
+    },
+    {
+      "speaker": "HARRINGTON",
+      "speech": "I completely agree with what you're saying. And -- and I'm sorry if you missed -- if we didn't state our position clearly in our brief. Our view is that those kinds of requirements - - requirements that go to the design, construction, or materials on a locomotive that will be used, if those requirements are directed at the repair shop, then they would be conflict pre-empted. But they wouldn't fall within the field that's governed by LIA because the LIA's substantive standard of care only applies to locomotives that are in use."
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "I'm not -- I'm not concerned about conflict pre-emption. I'm not concerned about State requirements that conflict with the Federal. I'm talking about 50 State requirements that conflict with each other, so that the manufacturer has to look to all 50 States instead of looking to the Secretary here, which says your engine is safe if you do this. And you're telling me the manufacturer can no longer assume that."
+    },
+    {
+      "speaker": "HARRINGTON",
+      "speech": "No, I'm sorry. And let me clarify. I appreciate the opportunity to clarify. In our view, what the conflict is, is not a conflict with a Federal rule saying you have to use this piece of equipment and you can't use that piece of equipment. The conflict is with one of the purposes of the LIA, which is that the Federal Government be the only regulator of equipment that will be used on a locomotive. And so, what that means is if -- if the Federal Government hasn't spoken as to whether piece of equipment A can be used on a locomotive, that means that it can be, that the manufacturers know that it's okay. And if you have a State rule that would have the effect of dictating the equipment that can be used on a locomotive, that would conflict with the single regulator objective of the LIA."
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "So, what's the difference then? How do you do it? How do you -- how do you - - what is it you're thinking of that the manufacturer's going to have to do in respect to his locomotive in order to comply with the State law about warning that is not going to mean that he changes the locomotive when it runs on the railroad?"
+    },
+    {
+      "speaker": "HARRINGTON",
+      "speech": "Well, I think it depends on what the warning claim is."
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "Well, give me an example."
+    },
+    {
+      "speaker": "HARRINGTON",
+      "speech": "Well, under the -- under the Respondents' -- under the Respondents' view of the field that's pre-empted, a State could not regulate the disposal of equipment that's removed from a locomotive during their repair process, even though - -"
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "Does that have anything to do with this case, the removal, never further -- no further use of a bit of a locomotive?"
+    },
+    {
+      "speaker": "HARRINGTON",
+      "speech": "No. But also - -"
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "No. Okay. Let's get to this case."
+    },
+    {
+      "speaker": "HARRINGTON",
+      "speech": "Also, in Respondents' view a State could not regulate workplace hazards, such as by requiring that workers wear goggles or masks."
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "Oh, I didn't know anybody denied that, that the State could regulate the repair shop, indeed require what warnings they wish, indeed require what equipment workers have to have. I thought we're only talking about those rules of State law that would affect what the manufacturer has to put by way of design in his locomotive."
+    },
+    {
+      "speaker": "HARRINGTON",
+      "speech": "Yes, but when you're - -"
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "And that's what I'm having trouble thinking of one that would only affect repair shops and repairs, but -- maybe there's some kind of equipment that you could stick on the front of it, and it is a hook or something -- and it holds something, and before it goes back on the line, you take it off and put it in a locker. And -- but, you know, the more I thought along those lines, I thought I'm getting into outer space. This isn't reality. So - -"
+    },
+    {
+      "speaker": "HARRINGTON",
+      "speech": "No. I think you could - - I'm sorry. I think you could imagine a world where a State says when a locomotive comes into a repair shop, the railroad or the repair shop has to attach a certain kind of clamp on the wheels, a certain kind of brake, that makes sure that the locomotive won't move while it's in the repair shop. And when you're done repairing the locomotive, you take them off, and the locomotive goes back - -"
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "All right. Now, does that have more than theoretical value in this case?"
+    },
+    {
+      "speaker": "HARRINGTON",
+      "speech": "Well, I think in this case the claims that we say would not be conflict pre-empted or within the field are claims -- are the failure-to-warn claims. Now, how a manufacturer actually issues the warning that would be required I think is a question that could be worked out as the case proceeds."
+    },
+    {
+      "speaker": "JUSTICE SOTOMAYOR",
+      "speech": "If the manufacturer is really not controlling the repair shop, of what value is this failure-to-warn claim?"
+    },
+    {
+      "speaker": "HARRINGTON",
+      "speech": "Well, again, I think it depends how the warning is issued. You could require that the manufacturer tell the purchaser of the products to pass the warning along, to post warnings in a repair shop. You know, there - -"
+    },
+    {
+      "speaker": "JUSTICE SOTOMAYOR",
+      "speech": "How -- they can't control whether they do or don't."
+    },
+    {
+      "speaker": "HARRINGTON",
+      "speech": "They could require it contractually through the sale of the products. I think those sorts of detailed issues would be things that would be worked out on remand in this case. Again, in our view, the only question squarely presented in this case is the field pre-emption question. And - -"
+    },
+    {
+      "speaker": "JUSTICE KAGAN",
+      "speech": "So, on that question, Ms. Harrington, I'm still confused about the scope of your regulatory authority and whether you think you have the capacity to issue rules that are meant to protect repair workers on railway equipment. So, can you issue a rule under the LIA that says no asbestos-containing brakes because we're afraid that these brakes injure the -- the guys in the roundhouse."
+    },
+    {
+      "speaker": "HARRINGTON",
+      "speech": "No. The LIA -- the standard of care under the LIA only goes to whether a locomotive is safe for use, and that is also the limit of the FRA's regulatory authority. This Court, in the United States v. B&O, addressed that issue. The ICC at the time had issued a regulation requiring a certain kind of reverse gear instead of a different kind of reverse gear."
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "Well, what -- what self-abnegation by the Federal Government, that \"safe for use\" does not include safe for use when it's being repaired."
+    },
+    {
+      "speaker": "HARRINGTON",
+      "speech": "Because the statute says safe for use on -- safe for use on the line. It's safe for use on lines of interstate commerce."
+    },
+    {
+      "speaker": "JUSTICE KAGAN",
+      "speech": "But this does seem a very limiting construction. Napier seems to have a broader construction, and if I read some of your history right, you've taken a broader understanding of your regulatory authority in the past. So, why this narrow view?"
+    },
+    {
+      "speaker": "SMITH",
+      "speech": "I'm not aware that we've taken a broader view of our regulatory authority under the LIA. In Napier, again, what's important to remember is that the State statutes at issue applied only to locomotives that were in use. And so, I think it's hard to take any -- any broad statements that were made in Napier and read them as applying outside that context."
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Well, but if you're talking about -- I bet there are a lot of things on railroad cars that you can fix in the shop or you can fix while it's under way, right? We're not always talking about brakes. So, let's suppose there's one of those things. You get to the shop and the guy says: Boy, you got to fix this. And they said: Well, the train's leaving, and we're going to go in 10 hours. And he says: Okay, I can fix it during the -- while it's in use. Is that covered or not?"
+    },
+    {
+      "speaker": "HARRINGTON",
+      "speech": "Well, again the LIA only applies to the locomotives. So, if the thing that's broken that you could fix while it's in use would not make the locomotive unsafe to use, then it would not be a violation of the statute to use it while - -"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "So, the line you've been talking about between the repair shop and the locomotive on the tracks, that's not really the line at all."
+    },
+    {
+      "speaker": "HARRINGTON",
+      "speech": "The line is in use versus not in use. And that tends to match - -"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Well, then -- well, then what's the answer to my question? This is something you can fix in either place. It's covered while it's -- if you fix it while the train is under way, but it's not covered if you wait until it's in the shop?"
+    },
+    {
+      "speaker": "HARRINGTON",
+      "speech": "Well, if it's -- if the fact that it's broken makes the locomotive unsafe to use, then the railroad cannot use it, cannot repair it while it's in use."
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "So, then it's not whether it's in use or in the shop. It's whether it is something that affects whether the locomotive can go, whether it's - -"
+    },
+    {
+      "speaker": "HARRINGTON",
+      "speech": "That's right. But here the injuries occur when the locomotive is not in use because it's in the repair shop. And in those situations, the LIA's substantive heightened duty of care doesn't even apply. And so, it doesn't make sense to think of those claims as being within the field that's pre-empted by the LIA because they're not governed by the LIA. Now, those claims might bump up against the LIA in a different way by conflicting again with the - -"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "Do you have any - -"
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "Can you explain - -"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "I'm sorry. Go ahead."
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "Can you explain the difference -- you make a distinction between field pre-emption and conflict pre-emption. Does that have any practical significance at all in this case, because I thought you agreed that the design defect claim would be barred?"
+    },
+    {
+      "speaker": "HARRINGTON",
+      "speech": "Well, we agree that they might be barred. I think, you know, this case comes to the Court without any real development of the plaintiffs' claim. All we have is what they stated in their complaint. Their complaint incorporates a master complaint which applies to all sorts of different kinds of plaintiffs. And so, I think it's really hard to understand exactly what their claims are, what the effect of their claims would be with respect to the design defect claims. And so, in our view, they would -- the design defect claims would be pre-empted if they would have the effect of dictating the character of equipment that could be on a locomotive while it was in use."
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Thank you, counsel."
+    },
+    {
+      "speaker": "HARRINGTON",
+      "speech": "Thank you."
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Mr. Hacker."
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "Mr. Chief Justice, and may it please the Court: The LIA as construed by this Court in Napier, in particular in the passage quoted by Justice Breyer, delegates to the DOT the exclusive authority to determine the design and the materials of locomotive equipment. Petitioners, however, argue that States in fact may dictate locomotive design and materials so long as they do so for some purpose other than safety of use on the line. But, again, in the passage Justice Breyer pointed out, Napier holds that LIA pre-emption is not about the purpose of locomotive equipment regulation and is not about the geographic location of the locomotive on or off the line when the regulation is enforced. As Justice Sotomayor pointed out in the earlier argument this morning, regulatory power is broader than purpose. As Napier says, under the LIA, pre-emption is about the locomotive equipment itself, what Napier referred to as the physical elements of the locomotive."
+    },
+    {
+      "speaker": "JUSTICE KAGAN",
+      "speech": "Well, Mr. Hacker, could you explain to me -- I wasn't sure reading your brief whether you agree or disagree with the Government's point that the agency cannot, under the LIA, issue the kind of rule that I suggested just, you know, saying no asbestos-containing brakes because of the danger that those brakes pose to the repairmen."
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "I -- frankly, I would have thought it possible. I would have to defer to the -- to the DOT's view. It seems to me it would have been within DOT's power under the LIA to say a locomotive is not safe to operate if it can't be safely repaired. Because there's no point in having a locomotive ready to go on the line if it -- as soon as it comes off the line with a problem it's going to injure those who work with it. But we don't need to assert that position to defend the proposition we have now - -"
+    },
+    {
+      "speaker": "JUSTICE KAGAN",
+      "speech": "Well, how is that? If they are right as to the scope of their authority -- and maybe they're not right, but if they are right about the scope of their authority, why doesn't it follow that these claims would not be field pre-empted; might be conflict pre-empted but would not be field pre-empted because we're no longer in the field?"
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "Because the field is not - - it's not about the repair shop versus not the repair shop. The field is the physical elements of the locomotive itself. What States cannot do -- what DOT has exclusive authority over is the design, the materials, and the construction of the locomotive."
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "But only the design, materials, and constructions for use. If you make that concession, it's only those aspects of design, materials, and construction that pertain to use. And if you take the position that use includes only use on the line and not use when it's being repaired in the repair shop, I think you're in trouble."
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "I think we're not, Your Honor, because the design doesn't change between the line and the repair shop. And that's the key. If a State comes in and says - -"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "It's design for use."
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "I understand, but - -"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "I'm not talking about the word \"design\"; I'm talking about \"design for use.\""
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "But the statute -- the reason the statute gives power to the DOT is to ensure that locomotives are safe for use on the line. But in order to accomplish that objective, the power they have is plenary over the design itself. They -- only one entity gets to decide what the design is, and that's DOT. A State can't come in and say - -"
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "It's not -- it's not clear - -"
+    },
+    {
+      "speaker": "JUSTICE SOTOMAYOR",
+      "speech": "So, you're okay - -"
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "It's not clear to me why a railroad executive couldn't say, now I need to use 10 locomotives in this division because I will be using two of them every week in the repair shop to repair them, right? I don't know why that isn't use, but you don't -- you don't seem to agree with that."
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "Well, I don't necessarily disagree. We would certainly accept that proposition. We're just saying you don't have to go there."
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "Now, I know it's use on the line, but it seems to me that the repair shop is an obvious extension of the line. Everybody knows that it's going to have to spend, I don't know, 1 day a month in the repair shop, and that's just part of -- of the use."
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "We don't disagree with that."
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "Why would their law be pre-empted, a State law that says since the railroad knows that asbestos is dangerous when revealed and since it would be revealed in a repair shop, the railroad has to provide the repair shops with appropriate worker safety equipment; or alternatively, and lesser, the railroad has to provide for the repair shop's documents to be given to the workers which explain the risks and how they can overcome them. Now, in respect to that, which I'll lump under various kinds of failure-to-warn claims, how does the Act pre-empt those? It doesn't affect design of the railroad, nor does it affect the use. Neither."
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "I would say two points, Your Honor. First of all, it does affect the design because a way to comply with that regulation is to use something other than asbestos, to change the design. It's the State saying, because you're using this design, you can only use it lawfully in this State if you do the following two or three things."
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "I thought that that was not the nature of the notice claim. The design is whatever it is. But the manufacturer has to issue warnings so that the worker can protect himself against that hazard. So, I thought that the defective design - - yes, I understand your argument. You would have one standard for on the line and another when it's in the repair shop. But this is not telling them to change the design in any respect. It just says: Asbestos -- you could take these measures to protect yourself."
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "At common law, a design -- a failure-to-warn claim was a type of design defect claim. It was a way of saying you can't use that design lawfully unless you have the following type of warning. If you -- you can't assume away the design aspect of it because it still turns on -- it's a State conditioning the design. The LIA and the FRSA and SCAA and OSHA all together solved this problem by -- and FELA, solved this problem by saying it is the repair shop's responsibility to ensure the safety of workers. We are not, to be absolutely clear -- Ms. Harrington was incorrect when she said: We don't believe that repair shop -- States have the power to impose workplace conditions to protect employee safety in the repair shop. They do."
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "But -- no, no, no. That argument would prevent States doing what they can do lawfully, which is to regulate the repair shop because with any given repair, with many of them, you could say, well, we wouldn't have to -- we can just change the locomotive design, for example. It carries beds with it so that the workers who are repairing it get adequate sleep. I mean, that isn't an answer to the argument that it doesn't affect design to say, well, they could comply with it by changing design, I don't think."
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "Well, what we would say is that generally applicable laws that govern the repair shop - - States have authority -- to the extent not pre-empted by OSHA, States have authority to require workplace conditions and to require employers to protect employees working. But what they can't do is tell manufacturers here's the conditions under which you can use this design, sell this design, distribute the design and these materials lawfully within the State - -"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "What would apply to the repair shop would also apply to the locomotive in use, I suppose, and it would be of little comfort to the manufacturer that although the engine he has manufactured has been certified as safe for use by the Secretary, he is liable unless he warns the engineer: Oh, it isn't safe for use in these circumstances; I have to give you warning. I mean, I cannot imagine that that's what - - that that's what the statute means as applied, at least to the use of the engine on the -- on the tracks."
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "Well, we agree with that, but we also think it applies with respect to manufacturers' liability in the repair shop for the reason I said earlier. The locomotive doesn't change. So, when it's certified as safe for use on line, it can't be -- and the locomotive manufacturer knows everything they know by looking at DOT regulations. It can't be that a State can come along and say: No, no, you can't use any of that design; you have to use this completely different one - -"
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "No, what they're saying is - -"
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "-- because this will make it safe in the repair shop."
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "What they're saying is because when you open up the box, something no one does on line, you will expose yourself to risk, and what we are saying is, therefore, you must post a notice that tells workers about those risks. And, indeed, if there is a conflict, conflict pre-emption will take care of it. But why should that kind of thing fall within the scope of field pre-emption even under Napier, which, of course, referred to equipment while this rule doesn't? It refers to a sign. You're not going to change the equipment."
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "Well, for the reason I said earlier, Your Honor, which is, you don't know in advance. If you say, in theory, a State can adopt a warning requirement specific to a design otherwise approved by the DOT, you don't know in advance whether the warning requirements -- the manufacturers will be able to easily comply with all 50 different types of warning requirements and whether or not the warning requirements -- some will be so stringent that it will be easier to simply adopt a different design. The point of the LIA is to take that kind of decisionmaking out of the State's hands and put it into a Federal authority which can make the relevant and appropriate decisions - -"
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "Suppose - -"
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "-- as to what designs are unlawful."
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "Suppose the allegation is there's a failure to warn workers to use a special kind of mask that's very important if you're working near asbestos. That's the claim they want. Now, are you saying that the manufacturer cannot be required to give that warning?"
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "That's correct."
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "Are you also saying the railroad cannot be forced to give that warning in its repair shop?"
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "The railroad can be required to ensure the safe protection of employees that work there. A workplace safety claim isn't really a warning claim."
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "No, no. That was my - - can the railroad be held liable for failing to tell the worker to use the mask?"
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "It can be under OSHA, be held liable for that."
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "Can the manufacturer be held liable for failing to tell the railroad?"
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "No. That would be a failure to - -"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "How is the railroad going to know whether it's unsafe or not?"
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "Because they have the - -"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "How is the railroad going to know whether there's asbestos in there unless the manufacturer at least tells the railroad, even it doesn't have to tell the worker?"
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "Railroads have a duty under FELA to ensure a safe workplace environment. That's clear. And so, they have adequate incentives to ensure that their employees have a safe work environment. If they're -- if a worker is exposed to asbestos - -"
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "But you could -- could State law say you need a special kind of mask?"
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "Well, not under the current regime because FELA would pre-empt any claim by a railroad worker. So, there wouldn't be -- there isn't room for State law already."
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "What about an independent contractor who's not covered by FELA?"
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "Could be -- could not have a claim against the manufacturer. An independent contractor would not have claim against the manufacturer for failure to warn."
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "Under State law which by hypothesis says you need this very special kind of mask. It's required only in Illinois."
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "Right. The manufacturer could not be held liable under that State law. That would be a condition on the design, an effort by the State to prescribe the condition, the type of design that could be - -"
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "Could the railroad be held liable for failure to give that kind of mask under State law if it's not a FELA worker?"
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "If it's a generally applicable law about asbestos use, yes. I would say at some point a law like that that's directed at a particular type of equipment becomes potentially conflict pre-empted because it puts a condition on the design of the particular equipment. States are free to enforce generally applicable laws about safe workplace environments, asbestos handling - -"
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "Let me ask this question: Is it your position that the -- that the engine is as much in use when it's in the shop as when it's running on the track? Is that your position?"
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "We don't have a problem with that position. We don't have -- we don't have a - - because we don't believe you have to establish that it's in use in the repair shop to establish that the pre-emption described by Justice Brandeis in Napier controls, because the pre-emption he was describing was -- the regulatory authority was over the equipment itself which is the same exact equipment. A railroad - - a locomotive designed a particular way doesn't change when it enters the repair shop; so, it's designed to be fit for service."
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "Well, the reason it seems to me somewhat important is that I can't conceive of 50 different State regulations for the kind of gloves and things that the engineer has to wear on -- when he's running the train on the track. And if that's so, it seems to me it would help you to say that the shop was the same, but you seem to say the shop was different."
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "Well, I only mean to say that our position doesn't change whether or not the shop is different because it's not -- the LIA pre-emption -- LIA regulation isn't about repairing. The DOT may well have authority -- they seem to think not -- over repairs under the LIA, but what the LIA is about is the design and the materials themselves. And States can't say for themselves what a better or more preferable or -- a locomotive design is for any other reason. The Respondents' brief and reply brief on page 5 makes an interesting point. They think they've proved their case when they say the LIA doesn't for example permit the DOT to impose a U.S. steel requirement, a domestic content requirement, on locomotives. The implication would be, of course, that a State could because it's outside the field as Petitioners define it, that a State could say locomotives can only be used within our State if they're made of U.S. steel. I don't think that makes any sense at all. It can't possibly be right, and the reason it's not right is that it misunderstands pre-emption under the LIA as described by Napier. Of course, it's within the general authority of the DOT to determine that a locomotive should be made with U.S. steel, but that authority can be abused. It might be arbitrary and capricious; it's not permissible for them to do that. But the content of locomotives is exclusively within the jurisdiction of the DOT, and States can't decide for themselves that a locomotive otherwise compliant under Federal regulations is - -"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "Well, they're -- they're not saying here you have to manufacture it a certain way. They're just saying if you manufacture it in a manner that we consider unsafe, you have to warn people."
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "Well, that's part of their argument, but their main claim is the first one, which is that you are prohibited in this State from using asbestos. It can't happen, even though Federal regulations said you could. That's the main part of their claim. They have a secondary claim, which is failure to warn and which we submit is essentially a type of design defect claim that says if you're going to use asbestos, then you have to warn. And we don't even know -- as Ms. Harrington was describing, there's a lot -- there would be a lot to be determined if conflict pre-emption applies to failure to warn in a given case. That's the whole problem, Your Honors, is that the LIA was saying we don't want to expose manufacturers to the potential of future State court litigation."
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "Well, do we have to reach this failure-to-warn problem in this case?"
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "I think it's presented here. I mean, we think it's completely caught up in the design defect issue, but the other side is -- is trying to defend by saying we have a design defect claim, but we also have a failure-to-warn claim. But we submit the two are bound up together."
+    },
+    {
+      "speaker": "JUSTICE SOTOMAYOR",
+      "speech": "I -- if I'm understanding your argument correctly, you're saying that if Napier controls the design of -- and a locomotive part, that includes any design defect that's encompassed by State law, whether it's design in its traditional sense or failure to warn."
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "That's correct."
+    },
+    {
+      "speaker": "JUSTICE SOTOMAYOR",
+      "speech": "That's basically what the court below said."
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "That's correct, and that's what Judge Kozinski said in the Law case, and Judge Winter said in Oglesby."
+    },
+    {
+      "speaker": "JUSTICE SOTOMAYOR",
+      "speech": "Just as a practical matter, I'm assuming that some railroad repair yards are owned by the railroad itself, so the railroad repair people are railroad employees, correct?"
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "I -- I think that's right, yes."
+    },
+    {
+      "speaker": "JUSTICE SOTOMAYOR",
+      "speech": "Are there some that are not?"
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "Well, they might - -"
+    },
+    {
+      "speaker": "JUSTICE SOTOMAYOR",
+      "speech": "They are not considered railroad employees, but they're considered something else?"
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "I don't -- two things I would say. I don't know the answer for sure, but I think they probably are, but there are also repair shops that then -- that are owned by other railroads, and that's part of a problem that manufacturers have, is you don't know, when you sell the -- the locomotive to a railroad, who is going to be - -"
+    },
+    {
+      "speaker": "JUSTICE SOTOMAYOR",
+      "speech": "Just to be - -"
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "-- repairing under what conditions."
+    },
+    {
+      "speaker": "JUSTICE SOTOMAYOR",
+      "speech": "Just to be clear, under your view of the LIA, there could be other laws that pre-empt it or prohibit it? States can tell railroad yards put signs up, wear protective equipment, do whatever it is to protect the worker from this repair."
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "JUSTICE SOTOMAYOR",
+      "speech": "They just can't tell them - -"
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "JUSTICE SOTOMAYOR",
+      "speech": "-- include a warning on the brake, or to - -"
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "Specific to the equipment itself. What we would say is the State has to take the locomotive equipment as a given. It is what it is. And then if that locomotive equipment creates risks for workers, the employer may have to do things to account for those risks, but the equipment can't be regulated by the State. The equipment itself can't be regulated by the State in any respect."
+    },
+    {
+      "speaker": "JUSTICE KAGAN",
+      "speech": "Mr. Hacker, do you think we would decide Napier the same way if it came to us today?"
+    },
+    {
+      "speaker": "HACKER",
+      "speech": "I do think so, Your Honor. Of course, I don't think that matters because Napier is what it is and has been relied upon for 85 years. But I think there would be a very good argument that it would be decided the same way today under the Ray case that Justice Sotomayor mentioned. That was a very similar kind of delegation of regulatory authority, and the Court held that there was the same kind of field pre-emption. There are some differences one could discuss, but Napier is what it is, as I say. If The Court has no further questions, I'll cede the balance of my time."
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Thank you, counsel. Mr. Frederick, you have 4 minutes."
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "Manufacturers clearly have the best information about the dangerous aspects of their products, and they issue warnings and instructions in manuals and provide all kinds of information so that persons working on their equipment are going to know the special hazards. It doesn't make sense to inoculate those manufacturers from liability where they have the best information to ensure that repair workers are not going to be exposed to risks. With respect to the point about being on the line, the whole idea behind the Locomotive Inspection Act was not just for use, Justice Kennedy, but also safe to operate on the railroad line. Under the regulations -- and this is well established -- yard limits are drawn outside the bowl where switching operations and repair operations occur, so that everybody knows where the Federal LIA standard applies and where it doesn't. And the reason why the LIA has had this kind of history with respect to repair work goes to the history of -- behind this Court's recognition of the commerce power. Up until the New Deal era, it was well settled that Congress could not legislate on intrastate activities, which are peculiar to repair yards. And so, this Court when it decided the Shanks case in the mid 1910s held that a railroad worker could not bring an FELA claim because his work was not in interstate commerce; it was only in intrastate commerce. And that is why the ICC throughout this entire period never devoted regulations to repair yards, because this Court's Commerce Clause jurisprudence precluded Federal regulatory activity for that. So, if you look at this case from an historical perspective, Justice Kagan, it's not clear that the full parameters of the way the Court would explain Napier would be the same, because its approach to field pre-emption is so different after the New Deal era than it was before the New Deal era. And that is also why when this Court looks at regulatory implications of common law claims, it has had no problem allowing State law to have design defect claims with respect to planes, cars, motorboats, and trucks, even though the implications of a State law claim might find liability for the insufficiency of the design imposing an unreasonable risk to the person who is exposed to that risk with respect to that interstate modality. There's no reason why you have to have a broad and expansive view of the field here because Congress subsequently has enacted in this very area to give the Federal agency pre-emptive authority when it deems that authority appropriate. And as the Federal Government says - -"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "And it knows -- it knows about Napier and what's been going on for 85 years, and if it wants to pull back on the pre-emptive effect of the provisions interpreted in Napier, it's free to do that, too."
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "It did so, though, Your Honor in 49 U.S.C. 20106, where it said that unless and until the Federal Government issues a regulation in a particular field, the States are allowed to have their rule be in effect."
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "But that was -- that was the Safety Act, and they didn't amend the Locomotive Act. The Locomotive Act is what it was, and they didn't put that clause in it."
+    },
+    {
+      "speaker": "FREDERICK",
+      "speech": "But that's why, Justice Ginsburg, the point here is how broadly do you define the scope of the field, and Napier defined it in an historical context that we just don't live in anymore. And there's no reason to give manufacturers a complete pass from liability when they have the best information to advise railroad -- railroads and railroad workers how to work on their equipment in a safe way without exposing their workers to unnecessary risks. Thank you."
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Thank you, counsel. The case is submitted. (Whereupon, 11:53 a.m., the case in the above-entitled matter was submitted.) :24 approach 45:12 avoid 14:2 21:3,21 27:8 certified 33:13 :8,10,11,16 comply 19:25 4:20 9:17 27:6 current 14:7 Department :4 23:11 effect 19:17 19:8,11,15,18 exposed 36:19 37:2,17 45:3 26:18,21 46:7 :16,25 18:20 manuals 16:15 26:15 31:5 40:20 42:15 19:19,24 20:1 44:5 :21 20:5,11 44:5 44:18,20 20:9,13 21:1 20:15,20 21:3 manufacture know 7:14 8:9 liability 9:12,15 21:14,17,19,19 :7,11,17,19 masks 20:19 47:3 28:12,12 29:9 27:11 9:3,5,7 33:8 navigation 5:1,2 operations 39:23 potential 40:21 9:4 near 35:13 44:17,17 permit 39:9 potentially 1:19 47:6 30:10 opportunity person 45:21 power 6:16,23 6:13 40:14 46:3 35:20 38:3,8 spend 30:16 stick 21:6 :14 soon 28:12 36:21,25 37:7 sure 4:4 12:6 safety 3:12,22 sell 33:7 42:9 sorry 4:23 18:9 37:11,12,16 13:1 21:17 :12 30:25 sentence 10:16 sorts 22:17 45:17,19 T :4,5,20 41:3 20:24 24:8,11 24:12,23 25:8 36:21 37:8 statute 5:9 9:1,9 41:7 24:23 29:17,18 3:5 35:25 43:15 unreasonable 42:15 45:24 24:10,14 28:22 6:5,14 42:16 tomorrow 13:2 45:21 violation 24:21 29:11 30:12 2:20 tort 17:6 unsafe 24:20 we've 9:3 23:25 :11 31:18 10:1 13:5 42:4 30:13,18 31:7 workers 6:12 :11,16 29:10 understand 4:5 wasn't 27:25 38:3,8 40:15 44:9 46:24 2:8 30s 13:24 1970 9:18"
+    }
+  ],
+  "path": "2011-11-09.10-879.Kurns_v._Railroad_Friction_Products_Corp..pdf"
+}

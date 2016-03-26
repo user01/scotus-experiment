@@ -1,438 +1,1990 @@
-[
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "We'll hear argument Mr. Long. petty officer."
-  },
-  {
-    "speaker": "JUSTICE GINSBURG",
-    "speech": "Mr. Long --"
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "Mr. Long --"
-  },
-  {
-    "speaker": "JUSTICE GINSBURG",
-    "speech": "-- with respect to liberty, as it -- it's not disputed, is it, that your client could have had his parole revoked even though the search was suspicionless? So, what we're talking about the difference between revocation of parole, on the one hand, and a separate criminal offense. Is that right?"
-  },
-  {
-    "speaker": "LONG",
-    "speech": "Well, a parolee has conditional liberty. But, at the time of this search, Mr. Samson was on parole, there was no suspicion of any wrongdoing --"
-  },
-  {
-    "speaker": "JUSTICE GINSBURG",
-    "speech": "But I thought that evidence seized could be introduced, could be a basis to revoke parole."
-  },
-  {
-    "speaker": "LONG",
-    "speech": "Oh, well, the Court held, in the Scott case, that the exclusionary rule does not apply at parole revocation hearings. So, if there is an unreasonable search of a parolee that violates the Fourth Amendment, the evidence could not be admitted at a criminal trial, but it could be admitted at a parole revocation --"
-  },
-  {
-    "speaker": "JUSTICE GINSBURG",
-    "speech": "So, the -- what the -- the consequence here is whether --"
-  },
-  {
-    "speaker": "JUSTICE GINSBURG",
-    "speech": "-- he will have his parole revoked --"
-  },
-  {
-    "speaker": "JUSTICE GINSBURG",
-    "speech": "-- or he will have a separate criminal offense."
-  },
-  {
-    "speaker": "LONG",
-    "speech": "All right. I think if a parole officer said, \"You must consent to this search\" --"
-  },
-  {
-    "speaker": "JUSTICE KENNEDY",
-    "speech": "When you see the --"
-  },
-  {
-    "speaker": "JUSTICE KENNEDY",
-    "speech": "-- person on the street, et cetera, et cetera. of privacy there, which is much, much greater than being subjected to -- I mean, he -- he cannot even go to the toilet in privacy. Or he can go out on parole,"
-  },
-  {
-    "speaker": "LONG",
-    "speech": "Well --"
-  },
-  {
-    "speaker": "JUSTICE SCALIA",
-    "speech": "-- that he -- privilege -- in Morrissey against Brewer. The Court -- in other cases, the Court rejected the rights privilege distinction anyway. a privilege, doesn't it?"
-  },
-  {
-    "speaker": "LONG",
-    "speech": "Yes, in section 3067. when they say, \"No, I want to stay in jail. I don't want to be\" --"
-  },
-  {
-    "speaker": "LONG",
-    "speech": "Well, it's -- rather stay in jail\"? And --"
-  },
-  {
-    "speaker": "LONG",
-    "speech": "Well -- the State can go too far. And if the State exceeds --"
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "Well, but --"
-  },
-  {
-    "speaker": "LONG",
-    "speech": "-- the permissible limits, it's a"
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "-- their condition is very different, in a broad range of areas. They -- you"
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "Do you --"
-  },
-  {
-    "speaker": "LONG",
-    "speech": "-- that would be --"
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "-- do you -- is that"
-  },
-  {
-    "speaker": "LONG",
-    "speech": "That would be different in several respects, Mr. Chief Justice. First of all, there would would have complete discretion. If it were like the California --"
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "Well, but it's -- I"
-  },
-  {
-    "speaker": "JUSTICE STEVENS",
-    "speech": "Do you think it would valid? That's what I was asking you. the randomness of it is often a critical element. I suppose it makes much more sense to say you're subject to a random drug test than that you have to come in at refrain from using drugs prior to the test. And, to some extent, it's the same, even if you're not talking"
-  },
-  {
-    "speaker": "JUSTICE GINSBURG",
-    "speech": "-- on the difference between -- you said \"officer in the field.\" Would this be okay if it had been his parole officer?"
-  },
-  {
-    "speaker": "JUSTICE GINSBURG",
-    "speech": "The parole officer was walking along the street, saw this guy, and said, \"I'm"
-  },
-  {
-    "speaker": "JUSTICE SCALIA",
-    "speech": "I mean, walking --"
-  },
-  {
-    "speaker": "LONG",
-    "speech": "-- holding --"
-  },
-  {
-    "speaker": "JUSTICE SCALIA",
-    "speech": "-- by his cell, which is what he's doing."
-  },
-  {
-    "speaker": "LONG",
-    "speech": "As I understand the Court's"
-  },
-  {
-    "speaker": "JUSTICE SCALIA",
-    "speech": "-- by me. No, please."
-  },
-  {
-    "speaker": "LONG",
-    "speech": "It's --"
-  },
-  {
-    "speaker": "JUSTICE SOUTER",
-    "speech": "What do you make of the objections? The pragmatic argument is both in favor of complete discretion and of suspicionless search, argument?"
-  },
-  {
-    "speaker": "LONG",
-    "speech": "The -- well, the empirical evidence is that all the other States don't seem to be"
-  },
-  {
-    "speaker": "JUSTICE SOUTER",
-    "speech": "No, I --"
-  },
-  {
-    "speaker": "LONG",
-    "speech": "-- with recidivism. mind, but --"
-  },
-  {
-    "speaker": "JUSTICE SOUTER",
-    "speech": "No, I --"
-  },
-  {
-    "speaker": "LONG",
-    "speech": "-- apparently it's not -- about three times, that I want to get beyond the peculiar position of California to any other empirical California, hundreds of thousands -- I don't know, maybe more than 100,000 -- and we'll tell the Legislature that they can cut the terms, save money, checks. And the management checks are, you might be searched at any time. And we catch a few. And that's searched at any time, any place, by any police officer for evidence of any crime, is a breathtakingly broad invasion of privacy. it happens when he's in prison."
-  },
-  {
-    "speaker": "LONG",
-    "speech": "Well, but he has come out of California -- end up being returned for technical violations, like not showing up to meetings with parole officers. Some of the offenses are not as serious as recognize that. But what the Court has said is that the gravity of the problem cannot justify any means. along the same lines as we said in Griffin. And the standard they applied was, it protected against arbitrary or harassing or capricious searches --"
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "-- which seems to go to your argument, which is centered around the harassment, and it's not --"
-  },
-  {
-    "speaker": "LONG",
-    "speech": "Well --"
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "-- for the special"
-  },
-  {
-    "speaker": "LONG",
-    "speech": "Well, and --"
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "-- need that"
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "-- capricious searches."
-  },
-  {
-    "speaker": "LONG",
-    "speech": "-- I mean, my argument is that California approach is not the core. It's the far periphery. There has never been a case -- and we were"
-  },
-  {
-    "speaker": "JUSTICE GINSBURG",
-    "speech": "Why?"
-  },
-  {
-    "speaker": "LONG",
-    "speech": "-- that's always --"
-  },
-  {
-    "speaker": "JUSTICE GINSBURG",
-    "speech": "Why? If it -- if it -- if the search, but it does say it has to be reasonable in time, place, or manner."
-  },
-  {
-    "speaker": "LONG",
-    "speech": "I mean, if you think about it, if the search is, say, at night, the argument is going to be -- well, if we said we'd not -- \"never going to search you at night,\" then you would commit crimes at night. We had a very extreme case in our brief about body-cavity searches. And they said, \"Well, that -- of course, that\" -- you know, the suggestion was, \"Of course, that would be too extreme.\" But you could see an argument if parolees and probationers knew that that was off limits, that -- you know, that would become a - -"
-  },
-  {
-    "speaker": "JUSTICE SCALIA",
-    "speech": "You say there was a case in which, without any special reason, they did --"
-  },
-  {
-    "speaker": "LONG",
-    "speech": "No. Let --"
-  },
-  {
-    "speaker": "JUSTICE SCALIA",
-    "speech": "-- a cavity search --"
-  },
-  {
-    "speaker": "LONG",
-    "speech": "No, let me be -- I am not aware of any actual case. We posited that. We said -- you know, because you don't need to know anything about the parolee, except he's on parole, and you can search for evidence of any crime. You don't need any suspicion that -- so, you could have somebody, a sort of white-collar criminal, or you'd check someone who's written a bad check. And if you say, \"Well, I think perhaps you're involved in drugs. Maybe you're one of these balloon-swallowers\" - -you don't need any actual reason to think that's happening, you can simply say, \"I want to investigate that.\" And the way -- you have to investigate that by x rays or something else quite intrusive. may -- might well hold that it's arbitrary to conduct such an extreme search as a body-cavity search, or to - couldn't possibly be justified by saying, \"Well, if it gets too extreme, if it gets into body-cavity searches, we won't allow it.\" We are talking about parolees, We recognize that. But saying that this sort of absolutely unguided discretion -- question is, what's unreasonable about that?"
-  },
-  {
-    "speaker": "LONG",
-    "speech": "Well, what's unreasonable about it is that it goes so far in the direction of eliminating prisoners -- they are -- they have conditional liberty -- that it is simply not consistent with the Fourth"
-  },
-  {
-    "speaker": "LONG",
-    "speech": "-- there's the possibility of --"
-  },
-  {
-    "speaker": "JUSTICE STEVENS",
-    "speech": "-- whether you think they could do that. individual determinations, based on the individual circumstances. If you went --"
-  },
-  {
-    "speaker": "LONG",
-    "speech": "-- suspicionless --"
-  },
-  {
-    "speaker": "JUSTICE STEVENS",
-    "speech": "-- terrorist, for example."
-  },
-  {
-    "speaker": "LONG",
-    "speech": "And -- terrorists, convicted terrorists."
-  },
-  {
-    "speaker": "LONG",
-    "speech": "Yes, perhaps convicted terrorists. out, but we're going to keep them on a very tight leash.\" Why shouldn't it be able to do that? To have tighter controls, but let out many more people on they're doing."
-  },
-  {
-    "speaker": "LONG",
-    "speech": "Well, and I -- I think they can that what the Court has found to be reasonable for one State is reasonable for all. And when a practice is not well established -- and here, it's far from well has taken that into account for --"
-  },
-  {
-    "speaker": "JUSTICE GINSBURG",
-    "speech": "Suppose you were in a"
-  },
-  {
-    "speaker": "LONG",
-    "speech": "-- police officers --"
-  },
-  {
-    "speaker": "JUSTICE GINSBURG",
-    "speech": "-- while the --"
-  },
-  {
-    "speaker": "LONG",
-    "speech": "-- at work? semi-custody state, he's going to work, and, while he's at his workplace, the police officer shows up and says, search of a parolee based solely on his status as a parolee. We submit that such a search is reasonable under the Fourth Amendment. versus Knights, to determine the validity of the search we balance the State's need to search against the"
-  },
-  {
-    "speaker": "NIVER",
-    "speech": "Well, this Court spoke to that in Knights and said, unanimously that the -- in Knights, it was a probation condition, but I think that it -- imposition or acceptance of a -- of a search condition by a parolee or a probationer results in the severely"
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "Why -- and why was his expectation of privacy severely diminished?"
-  },
-  {
-    "speaker": "NIVER",
-    "speech": "Because of the parole's -- excuse virtue of the --"
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "Because of the very can have them --"
-  },
-  {
-    "speaker": "NIVER",
-    "speech": "Yes, Your Honor."
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "You can."
-  },
-  {
-    "speaker": "JUSTICE SCALIA",
-    "speech": "Is --"
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "What about -- interview."
-  },
-  {
-    "speaker": "JUSTICE STEVENS",
-    "speech": "Would you say the same thing if the offense he had committed was tax evasion person on parole for any one of those offenses have -- be subject to the same risk of a suspicionless search?"
-  },
-  {
-    "speaker": "JUSTICE STEVENS",
-    "speech": "No, just the very fact that there's -- they're an ex-felon. And let the person know, at the time of his discharge from prison, that exact from you as a punishment for your crime."
-  },
-  {
-    "speaker": "NIVER",
-    "speech": "If the person is on parole, the"
-  },
-  {
-    "speaker": "JUSTICE STEVENS",
-    "speech": "But -- so you don't --"
-  },
-  {
-    "speaker": "JUSTICE SCALIA",
-    "speech": "Most --"
-  },
-  {
-    "speaker": "JUSTICE STEVENS",
-    "speech": "-- rely on --"
-  },
-  {
-    "speaker": "JUSTICE STEVENS",
-    "speech": "-- the fact that --"
-  },
-  {
-    "speaker": "JUSTICE SCALIA",
-    "speech": "-- don't let felons vote. I principal difference, Mr. Niver, is that when he's on parole, it's in lieu of being in jail. If that's not the difference, you don't persuade me. He has getting out of jail. And he'd be in worse condition if he were in jail. That's what, seems to me, makes the imagining, have 'em. They're not just going to tell you, \"Go and ask anybody to search anytime he wants.\" They'll have a system worked out. So, why not at least otherwise, it is unreasonable."
-  },
-  {
-    "speaker": "NIVER",
-    "speech": "Well, we have disputed that says, \"You can search any parolee\"?"
-  },
-  {
-    "speaker": "NIVER",
-    "speech": "No, they are not told that they may search any parolee, Your Honor. Rather, they are or have some other law enforcement purpose. And they - - searches him. The person gets to 2nd Street, another officer does the same thing. Three hours later, a third officer does the same thing. In each case, it of the arbitrary, capricious, or harassment standard. It's not coordinated. They have a -- both a parole reason, but it would -- it requires more than testimony by the officers. If the officers at -- each testified that they conducted the search, they're -- also searches were, in fact, for a valid law enforcement purpose. harassment limitation?"
-  },
-  {
-    "speaker": "NIVER",
-    "speech": "I -- well, that harassment limitation is sufficient to protect the residuum of an"
-  },
-  {
-    "speaker": "JUSTICE SOUTER",
-    "speech": "Well, maybe --"
-  },
-  {
-    "speaker": "NIVER",
-    "speech": "-- of --"
-  },
-  {
-    "speaker": "NIVER",
-    "speech": "That applies equally to a suspicionless search as it would to a search based on individual suspicion. To that extent, it's really not suspicionless."
-  },
-  {
-    "speaker": "JUSTICE GINSBURG",
-    "speech": "What would be arbitrary done in public view. If the officer didn't, then --"
-  },
-  {
-    "speaker": "JUSTICE SOUTER",
-    "speech": "Well, sure, but the officer says, \"All right. I'm taking you down to the station"
-  },
-  {
-    "speaker": "NIVER",
-    "speech": "Again, the office -- if the officer did it under those circumstances, it's for the without some special reason, even in prison. Wouldn't that be -- isn't there some remnant of a fourth- amendment right in prison that you cannot subject, you"
-  },
-  {
-    "speaker": "NIVER",
-    "speech": "That would depend, Your Honor, on the prison, the prison regs, the State. I can't answer valid law enforcement purpose, and it is reasonable in scope and manner, then it is a permissible parolee search, in California. mean, what if he's on parole for transporting drugs in balloons from bus stations? Does that make a reasonable to do it without any rule-based controls on the behavior of the police? That's the question."
-  },
-  {
-    "speaker": "NIVER",
-    "speech": "Okay. And the answer is, in expectations --"
-  },
-  {
-    "speaker": "JUSTICE BREYER",
-    "speech": "Okay. But what interest are on the street at any given time. Almost 90,000 of them will be revoked in any given period. They -- the California parolees require intense supervision. The intense supervision. And the protection afforded to the parolee, in terms of a requirement of a proper"
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "-- to decide --"
-  },
-  {
-    "speaker": "JUSTICE KENNEDY",
-    "speech": "-- not the consent approach, I take it. I didn't get an opportunity to me that he argued consent when he answered Justice Stevens's question about the tax-evader. But he argued Supreme Court has not had a chance to interpret 3067(a), you know, after the Reyes decision. They weren't interpreting it there. And so, they haven't of State law, it's not -- there's no consent when it comes to a parolee. And that's -- so, we thought maybe stronger than the other. And -- but -- and this Court -- but if the Court -- I mean, the Court certainly, at a minimum, can look at the statutes under California if a -- if some -- if an inmate doesn't sign the papers, he stays in prison until his sentence basically screaming."
-  },
-  {
-    "speaker": "MARCUS",
-    "speech": "Right. And then if you look at 3067(b), and then you also look at -- 3067(a) and (b), revocation if the -- if the inmate is -- or the parolee is unwilling to --"
-  },
-  {
-    "speaker": "JUSTICE ROBERTS",
-    "speech": "-- waive your -- could you waive --"
-  },
-  {
-    "speaker": "MARCUS",
-    "speech": "But -- Amendment rights? You know, if your parole's revoked, you're going to go back into a very cruel and unusual allow some searches that are -- that violate the Fourth Amendment, but that this particular search would not? How closely can we focus just on what happened here, or searches and the circumstances of searches that the California program might permit? oppressiveness of the search. So, police officers and parole officers are on notice that courts will review suspicionless searches very carefully. They're on they're --"
-  },
-  {
-    "speaker": "JUSTICE STEVENS",
-    "speech": "But following -- I mean, I --"
-  },
-  {
-    "speaker": "JUSTICE STEVENS",
-    "speech": "And it --"
-  },
-  {
-    "speaker": "MARCUS",
-    "speech": "-- I think you just -- California --"
-  },
-  {
-    "speaker": "MARCUS",
-    "speech": "Right."
-  },
-  {
-    "speaker": "MARCUS",
-    "speech": "That's correct. And it's to see whether it's objective -- whether the search in this case was objectively related to the purposes of rehabilitation. That, we think, is the test under the Fourth Amendment. And while Petitioner points out that to impose a suspicionless search condition. And some have. I think the important thing to keep in mind here is that this is a -- the Court has traditionally given felons in their criminal justice system, in making sentencing determinations, reasonable sentencing it's fair to say that it would be difficult to draw conclusions from those statistics, because, of course, this gives -- this provision gives the California searches; and so, there's -- to the extent it's increasing the detection of crime, and so more people program is going to be efficacious -- I mean, cases like Martinez-Fuerte and the Sitz decision involving checkpoints for drunk driving -- in a court. Even rates -- in, you know, a program that's showing very low efficacy rates, the Court said that these are Amendment. This is what the framers wrote the Fourth Amendment to stop, these general warrants and writs of assistance. One --"
-  },
-  {
-    "speaker": "LONG",
-    "speech": "-- consent --"
-  },
-  {
-    "speaker": "JUSTICE SCALIA",
-    "speech": "-- we normally don't look held that it's perfectly okay -- if the officer knows somebody in the house is on parole or probation, they can use that as a lever to go in and search to try to That is permissible under the California standard."
-  }
-]
+{
+  "success": true,
+  "completeLines": [
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "We'll hear argument first this morning in Samson versus California. Mr. Long."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Mr. Chief Justice, and may it please the Court: The search in this case was not based on individualized suspicion, and no other adequate safeguards limited the police officer's discretion to search Petitioner. For this reason, the search, which would not be permitted by virtually any other State or by the Federal Government, was unreasonable. The Court has reaffirmed many times that the Fourth Amendment does not permit the individual officer in the field to exercise unconstrained discretion to search. The Court has said that the Fourth Amendment is primarily directed at the evil -- it was primarily directed at the evil of general warrants and writs of assistance, and the evil of general warrants and writs of assistance was that they gave individual officers blanket authority to search where they pleased and placed the liberty of every man in the hands of every petty officer."
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "Mr. Long --"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Mr. Long --"
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "-- with respect to liberty, as it -- it's not disputed, is it, that your client could have had his parole revoked even though the search was suspicionless? So, what we're talking about the difference between revocation of parole, on the one hand, and a separate criminal offense. Is that right?"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well, a parolee has conditional liberty. But, at the time of this search, Mr. Samson was on parole, there was no suspicion of any wrongdoing --"
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "But I thought that evidence seized could be introduced, could be a basis to revoke parole."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Oh, well, the Court held, in the Scott case, that the exclusionary rule does not apply at parole revocation hearings. So, if there is an unreasonable search of a parolee that violates the Fourth Amendment, the evidence could not be admitted at a criminal trial, but it could be admitted at a parole revocation --"
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "So, the -- what the -- the consequence here is whether --"
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "-- he will have his parole revoked --"
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "-- or he will have a separate criminal offense."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "I understand your question. In California, Justice Ginsburg, a nonviolent drug offense, the possession of a small amount of an illegal substance, is not a basis for revocation of parole. It is not possible to revoke parole in California for this offense. So, parole revocation would not have been a possibility here."
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "Well, Justice Ginsburg, I suppose, can pursue her own line of questioning, but let me ask you this, because I -- her question suggests this, to me at least. Suppose the parole officer said, \"Now, look, I'm going to search you. If you don't consent, then I'm going to revoke your parole.\""
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well, this, of course, was a police officer, not a parole officer."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "But if --"
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "I -- my question was a parole officer, and I'll get to police officer next."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "All right. I think if a parole officer said, \"You must consent to this search\" --"
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "When you see the --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- \"this particular search\" --"
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "-- person on the street, et cetera, et cetera."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "\"And, if you don't, I'll revoke your\" -- I mean, the consent is not, in this case, first. I mean, California has said, the Supreme Court has said, parole, in the parole search condition, is imposed as a matter of law. Your hypothetical poses a question of, could there be knowing and voluntary consent to a search if the consequence of refusing is revocation of parole? I would argue, in that situation, that the consequences of refusal are so dire that, effectively, the parolee would have no real choice but to consent. So, it would be, in a sense, a coerced consent."
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "Why are they dire? I mean, he's just back in the situation he would have been in, did he not comply with the conditions of his parole. I don't see that that's dire. He has a choice. He can stay in prison and --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "-- and suffer the reduction of privacy there, which is much, much greater than being subjected to -- I mean, he -- he cannot even go to the toilet in privacy. Or he can go out on parole, subject to the condition that --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "-- that he --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "I mean --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "-- he can --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "-- be searched."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "I have two answers to that, Justice Scalia. I mean, first, in California, you finish your prison sentence, and then parole is a separate period that happens. The California Supreme Court said, in People v. Guzman and other cases, parole is not a part of the sentence --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "No, but it's --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- in California."
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "-- but it's also clear from the California statute that it is not a right, that it's a privilege, that you get the privilege of parole in exchange -- in exchange for agreeing to the conditions, one of which is that you can be searched."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well, it's -- in California, every inmate gets parole. It's a matter of law. It's not a privilege -- in Morrissey against Brewer. The Court -- in other cases, the Court rejected the rights privilege distinction anyway."
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "California statute says it's a privilege, doesn't it?"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Yes, in section 3067."
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "It does."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "But it is -- it is also a -- section 3000 of the California penal code says every prisoner gets parole. It is imposed on the prisoner as --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "Even if the --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- a matter of law."
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "-- prisoner -- oh, I thought that he can turn it down, and that some prisoners do, if --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "-- if they decide that they don't want to be subjected to searches."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "The California Supreme Court has held, in People v. Reyes, and in other cases cited in our brief, that, in California, parole is not a matter of choice, it is imposed as a matter of law."
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "Is -- and you mean people are put out on the street when -- kicking and screaming when they say, \"No, I want to stay in jail. I don't want to be\" --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well, it's --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "-- \"searched. I would rather stay in jail\"? And --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "-- they are dragged out --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "That --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "-- into the street. Is that what happens?"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "That is what the California Supreme Court has said."
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "Oh, I --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "And what the statutes say is --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "-- I don't think so."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "That -- the statutes say that parole is a -- is a transitional period, and that every inmate should undergo a period of parole. But coming back to your earlier question, the Court has said that the condition of a parolee is very different from the condition of a prisoner. The Court said that in Morrissey against Brewer. And the Court said, in Griffin, as to probationers, that while the Fourth Amendment rights of probationers -- and so, parolees, too, we concede -- are reduced, there are -- the State can go too far. And if the State exceeds --"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Well, but --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- the permissible limits, it's a violation."
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "-- their condition is very different, in a broad range of areas. They -- you give up First Amendment rights. For example, it's typical to have a condition of parole that you don't consort with known criminals or gang members. You -- often it says you must refrain from alcohol. Sometimes they say you can't go near particular places, if they think that's going to tempt you to return to a life of crime. Those are all First Amendment rights that are sacrificed while you're on parole. Why is this any different?"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well, there are many rights that are sacrificed. What the Court has said about the Fourth Amendment rights is, because parolees have conditional liberty, they will have a reduced, but not eliminated, Fourth Amendment protection --"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "What about a drug -- what if you're convicted of a drug offense, you're on parole, and one of the conditions is, every week you have to go in for a drug test?"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well, that --"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Do you --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- that would be --"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "-- do you -- is that acceptable?"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "That would be different in several respects, Mr. Chief Justice. First of all, there would not be discretion. You wouldn't have the individual officer deciding --"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "But it would be a Fourth Amendment right that you would be giving up --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Yes. And --"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "-- that you would otherwise have if you weren't on parole."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "And I want to be clear, we are not -- we're arguing there is a broad spectrum of searches that States can undertake of parolees, and I'm, by no means, arguing today that all of them, or even most of them, are unconstitutional. This is a --"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "What would you say about a condition that you must -- not a regular drug test -- you just have to submit yourself to a drug test whenever a police officer asks you to?"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well, you know, that would be much narrower, because it would simply be a drug test. I think it would have the problems of -- the officer would have complete discretion. If it were like the California --"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Well, but it's -- I mean, the point --"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "Do you think it would valid? That's what I was asking you."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "I think, because that's a much narrower test, that that could pass muster if -- but I would think there really ought to be some guidance to the officer. I think our ultimate submission today is --"
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "Well, so that a --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- this is so --"
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "-- so that a burglar could be searched for burglar tools --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well --"
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "-- but not for drugs? And the drug addict can be searched for drugs, and not burglar tools?"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "If it were -- if it were tied to the crime that the parolee has committed, you know, that would give it some limitation. This is a completely unlimited search, for anything, any crime."
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "But Justice Stevens's question highlights the point that you criticize about: the randomness of it is often a critical element. I suppose it makes much more sense to say you're subject to a random drug test than that you have to come in at a scheduled time, when you -- presumably, you could refrain from using drugs prior to the test. And, to some extent, it's the same, even if you're not talking about a drug test."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well, in all --"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "The search is only going to be effective if it's not announced or --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well, in --"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "-- scheduled."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- and in this Court's suspicionless search cases, you can have a random test where you draw names at random. There's some other process that doesn't leave it up to each individual officer to decide who gets the drug test or which car to stop to check the driver's license and registration. What the Court has consistently held is really at the core of the Fourth Amendment is this notion of: the individual officer in the field has complete discretion to decide, \"Do I search this person? Do I not? What's the scope of the search? What do\" --"
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "Are you relying --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- \"I search for?\""
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "-- on the difference between -- you said \"officer in the field.\" Would this be okay if it had been his parole officer?"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well, I think --"
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "The parole officer was walking along the street, saw this guy, and said, \"I'm going to search you.\""
+    },
+    {
+      "speaker": "LONG",
+      "speech": "I think it's a very different set of circumstances if we have a parole officer. This Court has said, at least twice, in Griffin and in Scott, that a parole officer has a different function. They are not in an adversarial, or a purely adversarial, relationship. They often think of the parolee or the probationer as a client. They're trying to see that the person succeeds. In some sense, the parole officer fails when the parolee goes back to prison. The parole -- the parole officer can act on their entire knowledge and experience with the client, or the parolee. So, all of that makes a difference. And the Court has noted that several times."
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "When he's in prison, is there any problem about the prison guards intruding upon his privacy, willy-nilly, whenever they choose?"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "The -- as I understand the Court's --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "I mean, walking --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- holding --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "-- by his cell, which is always opened, and checking in on him to see what's -- what he's doing."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "As I understand the Court's holding in Hudson against Palmer, the Fourth Amendment does not apply in a prison cell. And --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "So, he's better off on parole than -- well, at least no worse off on parole than he would be when he was in prison."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "But, Your Honor, that's not the way this Court has analyzed the Fourth Amendment issues. It's a different situation. It is conditional liberty. It's the -- that sort of active grace theory, or right, privilege, distinction, or greater power includes the lesser, all those arguments have been rejected, in --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "Are --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- Morrissey against Brewer, and Gagnon --"
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "What --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- against Scarpelli."
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "Not --"
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "-- what do you make of --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "-- by me. No, please."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "It's --"
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "What do you make of the pragmatic argument that seems to cut through all of your objections? The pragmatic argument is both in favor of complete discretion and of suspicionless search, that the in terrorem effect of knowing that these searches can occur at any moment, in fact, discourages recidivism."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well --"
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "What's your response to that?"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- I have a pragmatic argument, and then I have an argument just based on the Fourth Amendment. Pragmatically, no other State, as far as we can tell, and not the Federal Government, authorizes this kind of search; that is, blanket suspicionless discretionary searches by police officers."
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "Apart from --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "So --"
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "Apart from the lack of popularity of the State's view --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well --"
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "-- do we have -- do we have any empirical evidence that bears on the in terrorem argument?"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "The -- well, the empirical evidence is that all the other States don't seem to be having a harder time --"
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "No, I --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- with recidivism."
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "-- I realize that. But, beyond that, do we have any empirical evidence, one way or the other?"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well, the California -- I think that's a pretty powerful demonstration, but we do have, beyond that, empirically, California was with all the other States until the People against Reyes decision. Now they've moved to suspicionless searches. They seem to have about the same rate of recidivism --"
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "I take it --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- as they --"
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "-- the answer is --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- did before."
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "-- we don't have any empirical evidence, one way or the other, apart from the fact that California stands out in its system. Is that correct?"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well, I -- I'm -- think I'm offering you evidence that counts as empirical in my mind, but --"
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "No, I --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- apparently it's not --"
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "-- I know it, but I've said, about three times, that I want to get beyond the peculiar position of California to any other empirical evidence that cuts for you or against you. And I take it there really isn't --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well, there -- we have a footnote. There is a brief submitted by a Stanford law professor, and we have at least a footnote in our brief. There is some social science research that suggests that this more intensive supervision is really not effective, if you look at broad numbers. I mean, I think you will catch some additional people. I mean, it happened in this case. But if you step back and look at the overall effects, it's not -- it's not particularly helpful --"
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "Why --"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Well --"
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "Why, if we're going to catch some additional people, is that not sufficient? That is, why is it unreasonable, say, not for law professors, but business school professors, management consultants, to say, \"You have a lot of prisoners in California, hundreds of thousands -- I don't know, maybe more than 100,000 -- and we'll tell the Legislature that they can cut the terms, save money, release them early, but we want to have management checks. And the management checks are, you might be searched at any time. And we catch a few. And that's helpful.\" Now, if the --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well --"
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "-- State decides that, what's unreasonable about it? \"They're\" --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well --"
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "-- \"letting the people out earlier than they otherwise would\" --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Because --"
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "-- says the Legislature."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Because, Justice Breyer, it has to be a balancing analysis, and --"
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "And what's on the other side? The other side --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well --"
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "-- is, you'd rather not have policemen search you, but your alternative is going to be in jail."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well, I mean, the other side is a search condition that says you have -- you could be searched at any time, any place, by any police officer for evidence of any crime, is a breathtakingly broad invasion of privacy."
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "But, of course, that's how it happens when he's in prison."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well, but he has come out of prison. The State has seen fit to release him on parole into society. He has conditional liberty. And the Court --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "But there is a breathtakingly high probability that he is committing a crime. The statistics cited in the Government's brief say that in an April 2001 report prepared by the California Criminal Justice Statistics Center, 68 percent of adult parolees are returned to prison -- 68 percent; 55 percent, for a parole violation; and 13 percent for the commission of a new felony offense. I mean, it seems to me a breathtaking statistic like that may call for breathtaking --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "-- measures to try to police the matter closely."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "It is a very serious problem. We don't want to minimize it. I mean, it is a fact that many -- many parolees -- and this is true especially in California -- end up being returned for technical violations, like not showing up to meetings with parole officers. Some of the offenses are not as serious as others. But it is a very serious problem. We recognize that. But what the Court has said is that the gravity of the problem cannot justify any means. There has to be a balancing of the invasion of privacy against the State's need to undertake this. And coming back to my second answer to the question you asked several minutes ago, Justice Scalia, I mean, ultimately this search is a -- it's a general warrant. It's a writ of assistance. It's limited to parolees, but if the Court is going to stand by what it has said in Griffin and other cases, that their parolees and probationers have some modicum of Fourth Amendment rights -- reduced, we recognize that -- this is -- this is the core of what the --"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Well, the --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- framers of --"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "-- California --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- the Fourth Amendment prohibited."
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "The California Supreme Court said that the Fourth Amendment applied to these searches, but it only protected in a limited way, along the same lines as we said in Griffin. And the standard they applied was, it protected against arbitrary or harassing or capricious searches --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Yes, but --"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "-- which seems to go to your argument, which is centered around the unbridled discretion of the officer. And the California Supreme Court is saying it's not unbridled."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "That is their answer to my argument, and I want to be very clear about \"arbitrary, capricious, and harassing.\" That's the California Supreme Court's standard. So, of course, they get to define it. And they have not defined it the way this Court perhaps would define \"arbitrary.\" It's not arbitrary, capricious, or harassing if it has a permissible law enforcement purpose. So, as long as the officer says, \"Well, I don't have any reason to think there's evidence of any crime here, but that's what I'm looking for. Perhaps there's evidence of crime\" --"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Well, that's --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- that's enough."
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "-- fine. But it turns out he stops the guy every hour of the day, then he has a pretty strong case that this is for harassment, and it's not --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well --"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "-- for the special law enforcement --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well, and --"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "-- need that accompanies releasing parolees."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "And I take it the Fourth Amendment itself would prohibit that sort of thing. But it -- you couldn't -- you couldn't justify a general warrant by saying, \"Well, yes, the officer can search anybody, without any suspicion, and he can choose.\" But it -- you know, the search can't happen too often, or it can't last too long. That would not be -- and you -- and you -- similarly, it would not be an answer to say, \"Well, as long as he's looking for evidence of crime.\""
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "No, but your point was that this is the core of the Fourth Amendment, and they're taking away all of the protection and leaving it to the unbridled discretion. And that turns out to be not the case. Under the law that authorizes the procedure, the California Supreme Court interpretation is that the Fourth Amendment provides protection against harassment or arbitrary and --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well --"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "-- capricious searches."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- I mean, my argument is that what is left of the Fourth Amendment under the California approach is not the core. It's the far periphery. There has never been a case -- and we were able to find over a hundred, and perhaps over 200; it depends on how you count -- of cases where parolees or probationers have said, \"You know, this search was arbitrary or capricious or harassing.\" It is always rejected, for the same reason it was in this case. The Court says, \"Well\" --"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Then which way do you think that cuts? There's --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "It --"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "-- never been a case of a harassing search of a parolee."
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "I mean, that's what - - or 200 cases in the --"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "-- in --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- I think it cuts in the direction that it is an empty, vacuous standard. It's a standard --"
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "Why?"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- that's always --"
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "Why? If it -- if it -- if it -- it doesn't go to the suspicionless character of the search, but it does say it has to be reasonable in time, place, or manner."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "And maybe the --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "-- officers are reasonable in time, place --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "-- or manner."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "And -- but it's -- it had -- there has never been a case in which a court has rejected a parolee search as unreasonable in time, place, or manner. And you could --"
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "How many times has it been challenged --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "As --"
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "-- on the --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- we said -- we found over a hundred cases in which it's been challenged in the California courts. And it --"
+    },
+    {
+      "speaker": "JUSTICE ALITO",
+      "speech": "Well --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "I mean, if you think about it, if the search is, say, at night, the argument is going to be -- well, if we said we'd not -- \"never going to search you at night,\" then you would commit crimes at night. We had a very extreme case in our brief about body-cavity searches. And they said, \"Well, that -- of course, that\" -- you know, the suggestion was, \"Of course, that would be too extreme.\" But you could see an argument if parolees and probationers knew that that was off limits, that -- you know, that would become a - -"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "You say there was a case in which, without any special reason, they did --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "No. Let --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "-- a cavity search --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "No, let me be -- I am not aware of any actual case. We posited that. We said -- you know, because you don't need to know anything about the parolee, except he's on parole, and you can search for evidence of any crime. You don't need any suspicion that -- so, you could have somebody, a sort of white-collar criminal, or you'd check someone who's written a bad check. And if you say, \"Well, I think perhaps you're involved in drugs. Maybe you're one of these balloon-swallowers\" - - you don't need any actual reason to think that's happening, you can simply say, \"I want to investigate that.\" And the way -- you have to investigate that by x rays or something else quite intrusive."
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "The California Supreme Court may -- might well hold that it's arbitrary to conduct such an extreme search as a body-cavity search, or to - - I don't know --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "-- to decide to search the person when he's in the men's room or something. I mean, there are --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "But --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "-- there are a lot of limitations that the California court --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "They might, and --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "-- could put on it, within the context of harassment or --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "But our principal submission, Justice Scalia -- I mean, if California said, \"We have a terrible problem with crime in California; and, therefore, we're authorizing every police officer to search every person anytime, anywhere, for any crime,\" that would be, I would submit, the clearest sort of Fourth Amendment violation you could imagine. It would be a general warrant or a writ of assistance. It couldn't possibly be justified by saying, \"Well, if it gets too extreme, if it gets into body-cavity searches, we won't allow it.\" We are talking about parolees, yes. Their Fourth Amendment rights are reduced, yes. We recognize that. But saying that this sort of absolutely unguided discretion --"
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "But the reason ---"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- there's no sort of --"
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "-- the reason that people, I think, are saying that is because they have a lot of prisoners, they're trying to create a category of people who don't have to stay in prison, where they have no rights. And the real question is, can California, in trying to create this interim category, reduce the Fourth Amendment right in the way you describe?"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "They --"
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "Of course they can't do it, but the justification is not that there is something bad about this particular individual or he's in some kind of limbo. The reason is that there's a policy tending towards release, which California has decided they want to introduce this as a condition. Now --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "-- and so, what -- and the question is, what's unreasonable about that?"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well, what's unreasonable about it is that it goes so far in the direction of eliminating the Fourth Amendment rights of people who are not prisoners -- they are -- they have conditional liberty -- that it is simply not consistent with the Fourth Amendment. And on the empirical side, California is an outlier. All the other States --"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "May I -- may I ask you --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- and the Federal Government --"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "-- this question? Part of your appeal of your case is, you talk about the corporate offender or tax dodger, something like that. It seems quite unreasonable, I agree with you. But what if you defined the class much more narrowly and limit it to people who have been convicted of violent crimes of a very serious nature and so forth, and said, as to those, they can have a totally suspicionless search? Would that --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well --"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "-- be permissible?"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- I -- one of the things we wanted to make -- I think there are many things that States can do. They could certainly --"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "But I wonder whether --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- there's the possibility of --"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "-- whether you think they could do that."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "There's the possibility of individual determinations, based on the individual circumstances. If you went --"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "Well, what I'm --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- category by --"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "I wanted to see if there is a way that the class could be defined narrowly, because I want to ask the other side if they would allow the search for any ex-felon, for example. You could divide it in a way that seemed obviously too broad. But is --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Right."
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "-- there a narrower class - -"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well --"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "-- that you think would be acceptable?"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "I think this could be much narrower. And, in my view, it would become a much closer constitutional question if it were limited to certain crimes where the legislature or the State made a finding that there's a particular need to have --"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "Say you were a --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- suspicionless --"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "-- terrorist, for example."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "And --"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "It's just limited to terrorists, convicted terrorists."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Yes, perhaps convicted terrorists. You know, that -- and it -- that's very different from what we have here, because --"
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "What about drug offenders, given the high rate of recidivism?"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well, I -- you know, we -- I think you would have to see the facts of that case, but if they made a finding that, \"Because of the nature of drug offenses, we need suspicionless searches rather than simply reasonable suspicion, and we need police officers, not parole officers\" -- and there could be other regulations. The Federal regulations, we think, are a model, really. They have lots of limitations on --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "Mr. Long, is it -- is it fair to compare California to other States? The assumption would have to be that other States grant parole as liberally as California does. Maybe California has made the decision, \"We have too many people in prison. We're going to let a lot of them out, but we're going to keep them on a very tight leash.\" Why shouldn't it be able to do that? To have tighter controls, but let out many more people on parole, which is -- which is exactly what I think they're doing."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well, and I -- I think they can have tighter controls, Your Honor. They can -- they can have -- they could have -- they could make this a special condition of parole --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "But my only --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- rather than a general condition --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "-- point is --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- of parole."
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "-- the fact that other States aren't as tight doesn't prove anything, because other States --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "-- may not be --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "-- be trying to do the same thing --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "I mean --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "-- to empty their prisons --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "This Court has said, generally, that what the Court has found to be reasonable for one State is reasonable for all. And when a practice is not well established -- and here, it's far from well established; California's virtually unique -- the Court has taken that into account for --"
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "Suppose you were in a halfway house, and the State says, \"We're creating a status. One is, you're a prisoner. Another is, you're a halfway house. Another is, on your -- parole. But we want to subject you to suspicionless searches at -- in all three stages -- prison, halfway house, parole.\" Could they do it for the halfway house?"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well, they might -- halfway houses, as I understand it, Justice Ginsburg, are largely now a thing of the past. But if the idea is you would actually be in a custody situation at night, perhaps in lockdown, then perhaps Hudson against Palmer would come into play --"
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "This person goes --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- which --"
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "-- out to work, comes back at the end of the day, and is checked in."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "And so, your hypothetical is, could there be suspicionless searches by --"
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "Yes, while the --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- police officers --"
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "-- while the --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- at work?"
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "The person who is in this semi-custody state, he's going to work, and, while he's at his workplace, the police officer shows up and says, \"I'm going to pat you down, and then I'm going to\" --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "It's --"
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "-- \"see if you have drugs.\""
+    },
+    {
+      "speaker": "LONG",
+      "speech": "It's a -- it's a harder case. Again, our bottom line is, there would need to be some limitations on that individual officer's discretion. That's the core of the Fourth Amendment. If there are no further questions, I'd like to reserve the balance of my time."
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Thank you, Mr. Long. Mr. Niver, we'll hear now from you."
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "Mr. Chief Justice, and may it -- may it please the Court: Alarmed by the State rate of recidivism and revocation of the more than 100,000 parolees, California enacted a statute which authorized the search of a parolee based solely on his status as a parolee. We submit that such a search is reasonable under the Fourth Amendment. As this Court held recently in United States versus Knights, to determine the validity of the search we balance the State's need to search against the privacy interest affected. Here, the need is overwhelming, and the privacy interest is dramatically reduced. Turning first to Petitioner's expectation of privacy, it is greatly diminished. Even if it exists, it is far less than that enjoyed by the average law- abiding citizen. No one outside the confines of a prison has a lesser expectation of privacy than a parolee."
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Why is that? Doesn't that kind of beg the question? I mean, if we say he's got the normal Fourth Amendment rights, his -- I mean, the expectation-of-privacy analysis seems to me to be totally circular."
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "That's what the --"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "You say he doesn't have an expectation of privacy, so it's not protected. Well, if we say he does have a -- if we say it is protected, then he does have an expectation of privacy."
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "Well, this Court spoke to that in Knights and said, unanimously that the -- in Knights, it was a probation condition, but I think that it -- obviously, the same analysis applies here -- that the imposition or acceptance of a -- of a search condition by a parolee or a probationer results in the severely diminished expectation of privacy enjoyed by the parolee or probationer. And this Court said that unanimously in Knights."
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Well, Knights involved a situation where reasonable suspicion was required, so it addressed the problem that Mr. Long has of unbridled discretion. You still had to have an articulable reasonable suspicion with respect to the individual."
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "That is true, Your Honor, but the threshold question was whether he had an expectation of privacy at all, or to the -- the extent of that expectation of privacy. And the Court, in Knights, before it discussed the balance, had to identify the factors in the balance. In terms of the probationer's interest in that case, by virtue of the search condition, this Court said that his interest in -- his expectation of privacy was severely diminished, and left open specific --"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Why -- and why was his expectation of privacy severely diminished?"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "Because of the parole's -- excuse me -- the probation search that was imposed upon him by virtue of the --"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Because of the very practice that's being challenged here today, right?"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "Well, yes."
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Because he saw something -- you -- he signed something that said, \"You're subject to searches.\" Well, that's what is at issue. It seems to me that it's -- I guess I've said it before, he's -- it's begging the question to say, \"You can do this, because he has a diminished expectation of privacy.\" How far do you push this? Can you have parolees come in and take a lie-detector test every week? Do they have -- do they have diminished expectation with respect to their Fifth Amendment rights?"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "With regard to the Fifth Amendment rights, if they are not in custody, then -- or even if they are -- I don't think that that would necessarily -- the -- any expectation of privacy would preclude the imposition of a lie-detector test, no."
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Was that a yes, you can have them --"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "Yes, Your Honor."
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "You can."
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "Yes. But in this case, the --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "Is --"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "What about --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "Is --"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "What about --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "Is that right? I mean, even in prison, I -- what -- I'm not sure you could even do that if they were still in prison. Can you subject people in prison --"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "Well, of course, that would not be a Fourth Amendment claim."
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "No. No, I --"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "It would be a different --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "The Chief Justice was trying to get out of the Fourth Amendment into the Fifth."
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "That failing -- well, in terms of the lack of a precedent from this Court, you know, at this point we can only speculate, but it seems to me that if a person can be required to submit to a drug test by virtue of the status as a parolee or probationer, I don't think that it is an extravagant step to say that they could be required to submit to an interview."
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "Would you say the same thing if the offense he had committed was tax evasion or price-fixing or speeding? Would the -- would a person on parole for any one of those offenses have -- be subject to the same risk of a suspicionless search? And would it be justified?"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "Suspicionless search?"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "Well --"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "Where we're back to --"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "-- applying this statute to --"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "-- a price-fixer, tax- evader, speeder. Do you think it's justified?"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "If he's on parole, Your Honor, if he's -- look, this applies to parolees in California who have been convicted of felonies, served time in prison, and have been --"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "And if it's to be --"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "-- released on parole."
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "-- applied to the tax offender and so forth, how about just applying it to all ex-felons? Would that be permissible?"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "On parole, or not on --"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "No, just the very fact that there's -- they're an ex-felon. And let the person know, at the time of his discharge from prison, that this is one of the things that the State is going to exact from you as a punishment for your crime."
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "If the person is on parole, the answer --"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "No, I'm saying --"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "Oh --"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "-- he's not on parole."
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "-- he's no longer on parole? Than the entire balance changes. The reduction of the expectation of privacy --"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "But I'm hypothesizing a case in which the law will destroy the expectation of privacy, because it will provide that all ex-felons are subject to search. So, they would know, the same as a parolee now knows, he's subject to search. Would that be valid?"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "My answer to that is, it would not be valid, Your Honor, because a person, having served his time on parole, the State's overwhelming interest in supervision has ended. The State has determined that that person, having successfully completed his period of parole --"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "But -- so you don't --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "Most --"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "-- rely on --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "Most States --"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "-- the fact that --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "-- don't let felons vote. I mean, that's a punishment that they impose after they're out of prison."
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "Yes, but this is not -- yes, Your Honor, but this is really not about punishment, this is about supervision. And if a parolee has successfully completed this parole, has been discharged from parole, then the balance --"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "But then we're not relying on the elimination of the expectation of privacy, because, under my hypothetical statute, the ex-felon would know he's subject to it. So, it has to be something other than the absence of an expectation of privacy. Is that correct?"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "Not -- a person who is no longer on parole, there is no longer the overwhelming State interest in supervision. The balance changes. Our position would be that that would not be a permissible search."
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "It seems to me that the principal difference, Mr. Niver, is that when he's on parole, it's in lieu of being in jail. If that's not the difference, you don't persuade me. He has voluntarily accepted the parole in exchange for his getting out of jail. And he'd be in worse condition if he were in jail. That's what, seems to me, makes the difference."
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "Well, that's -- I think that's exactly right, Your Honor. The ex-parolee, no longer on parole, is no longer in custody of the -- of the California Department of Corrections. There is no longer an overwhelming need to supervise the person, who, having successfully completed parole, is presumptively not the threat to society that he was that he -- when he was a parolee. The balance changes, and such a condition -- that is to say a suspicionless search of an ex-parolee, I think would offend the Fourth Amendment."
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "Mr. Niver --"
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "But what do you achieve by this system that you have that you couldn't achieve by a system that more carefully worked out the rules and conditions of a random search? I mean, rules, so that you avoid the totally discretionary element. And if you want to have management consultants, as I was imagining, have 'em. They're not just going to tell you, \"Go and ask anybody to search anytime he wants.\" They'll have a system worked out. So, why not at least require you to think it through that much? And, otherwise, it is unreasonable."
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "Well, we have disputed Petitioner's position that this is a search, although suspicionless, that it is -- that discretion is not circumscribed is our position. And it is, because --"
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "Well, are there manuals -- are there any -- here is the cop on the beat."
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "Yes."
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "He sees someone that he knows is a parolee. Is there any instruction that he's been given so that his discretion can be guided instead of rudderless? In practice in California, are all --"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "In -- I'm sorry, Your Honor."
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "Yes. What is the practice?"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "In practice, the -- a search -- a parole search may not be arbitrary, capricious, or conducted solely for the purpose of harassing --"
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "I'm asking you about what instruction, what training, if you know, are officers given? Or are they given no training, just the law that says, \"You can search any parolee\"?"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "No, they are not told that they may search any parolee, Your Honor. Rather, they are told that the search must be to rehabilitate, reform, or have some other law enforcement purpose. And they - -"
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "Okay. The officer says, \"I'm searching to see whether the person has any evidence of crime on him.\" For example, whether he has any drugs on him. Law enforcement purpose: supervisory, I suppose. They want to know whether their -- whether their parolees are committing offenses. And yet, that reason would apply to everyone virtually all the time. So, it doesn't seem to be a limitation at all. What -- am I -- am I missing something?"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "It does apply -- it is a limitation. It is not a limitation that would protect the expectation of privacy of a nonparole --"
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "Well, how does the limitation work? The guy is on 1st Street, and an officer says, you know, \"I recognize this person is a parolee, and I have a law enforcement objective. Is the person committing a crime? Is the -- is the person a recidivist? Is the person violating parole?\" So, he searches him. The person gets to 2nd Street, another officer does the same thing. Three hours later, a third officer does the same thing. In each case, it seems to me, their justification would not fall afoul of the arbitrary, capricious, or harassment standard. It's not coordinated. They have a -- both a parole and a law enforcement objective. Why is there any limitation, then, on the right to search?"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "If these are, as I understand Your Honor's hypothetical, three independent searches - -"
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "Uh-huh."
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "-- to the extent that that could happen, and I suppose it could, the -- again, the limitation is it be, as Your Honor states, for a valid law enforcement purpose, and it would require --"
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "No. No, but let's get behind the rhetoric. Is there any reason my hypothetical could not, in fact, turn out to be true?"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "There is no --"
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "Apart from the unlikelihood of all those police officers out there. But, leaving that aside, is there -- is there any reason, in the standard, that my hypothetical could not be true?"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "Well, Your Honor, no, there is no reason, but it would -- it requires more than testimony by the officers. If the officers at -- each testified that they conducted the search, they're -- also requires a finding of fact by the trial court that the searches were, in fact, for a valid law enforcement purpose."
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "Okay. I mean, let's assume the police are telling the truth, and the judge says, \"Sure.\" So, there is no limitation. And it sounds to me, then, as though about the only limitation that would be enforceable would be the limitation against harassment. If one officer did it every 15 minutes to the same person, or if there were a departmental systematic policy saying, you know, \"Get so-and-so,\" that I can understand as being a limitation. But I don't see any other limit."
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "Well, the limitation is, as Your Honor states, if it's a -- for a valid law enforcement purpose or to promote rehabilitation or --"
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "No, I realize --"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "-- recommend --"
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "-- but do you --"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "But --"
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "-- do you agree that there is not any practical limitation, other than the harassment limitation?"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "I -- well, that harassment limitation is sufficient to protect the residuum of an expectation --"
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "Well, maybe --"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "-- of --"
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "-- maybe it is. But what's the answer to my question? Is that, in practical terms, the only limitation?"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "It is a -- but it -- yes, Your Honor, that is the protection."
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "Okay."
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "I thought you said that maybe cavity searches would not -- would not be allowed without some special reason for them. And that wouldn't necessarily be harassment."
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "I think it depends on the circumstances of the search."
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "Yes --"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "There's an --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "I mean --"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "-- overarching principle here, under the Fourth Amendment, that the search be reasonable, in terms of manner and scope."
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "Okay."
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "That applies equally to a suspicionless search as it would to a search based on individual suspicion. To that extent, it's really not an issue that arises from the fact that this is suspicionless."
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "What would be arbitrary and capricious? You told us harassing would be the repeated searches by the same officer."
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "Or an -- or a needlessly intrusive search, as has been just described, or --"
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "Well, let's assume -- let's assume that the cavity search is demanded at the bus station, and the officer says, \"We know that drugs get transported by people who ingest them in the balloons, and they get on buses and they travel back and forth from city A to city B.\" Any reason that that would run afoul of arbitrary and capricious?"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "Depends on the circumstances of the search. Again, Your Honor --"
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "All I'm telling you is, he's at a bus station. The facts are that a lot of people who travel on buses are drug couriers. This person is a parolee. Would that run afoul of the -- of any arbitrary and capricious limitation?"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "It would, for example, if it were done in public view. If the officer didn't, then --"
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "Well, sure, but the officer says, \"All right. I'm taking you down to the station for a cavity search.\""
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "Again, the office -- if the officer did it under those circumstances, it's for the finder of fact to decide whether it was done for a legitimate purpose or --"
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "Well, you're -- I'm asking you to be the finder of fact for me. This is the officer's explanation. This is the factual -- set of factual premises on which he acts. Has he violated the arbitrary and capricious limitation?"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "If, in fact, it was for the purpose that you state, a legitimate law enforcement purpose, and he has been removed from public view, and it's reasonable, in terms of manner and intensity, then it would be permissible."
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "I have one --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "Well, suppose you couldn't - -"
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "I have one --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "-- you couldn't --"
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "I have --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "-- conduct cavity searches without some special reason, even in prison. Wouldn't that be -- isn't there some remnant of a fourth- amendment right in prison that you cannot subject, you know, the whole cellblock to cavity searches?"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "That would depend, Your Honor, on the prison, the prison regs, the State. I can't answer that question --"
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "Well, I --"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "-- in --"
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "-- I thought the assumption of your answer to my question a moment ago was that there was no such limitation, so far as California is concerned."
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "No, there is a limitation, in terms of manner and scope."
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "Well, sure. But we -- the manner, in this case, is, they take him down to the station, so that they're not going through this in the middle of a crowded bus terminal. But the point of the question was, any parolee at a bus terminal could be subjected to this demand for search, and I thought your answer was, yes, he could be. And now, in response to Justice Scalia's question, you're saying, \"Well, there may be some limitation.\" So, which is it?"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "That if the search is a -- for a valid law enforcement purpose, and it is reasonable in scope and manner, then it is a permissible parolee search, in California."
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Does it depend -- I mean, what if he's on parole for transporting drugs in balloons from bus stations? Does that make a difference? -- as opposed to, he's on parole for tax fraud."
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "It certainly might, Your Honor. And, again, that would be -- that -- an additional bit of evidence to present -- to be presented to the suppression court to determine whether the scope of the search was reasonable."
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "But all this is on a case -- would be on a case-by-case basis. There are no going-in guides for the officer on the street."
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "It's necessarily determined on the -- any search has to be decided -- the reasonableness of any search has to be decided on a case-by-case basis."
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "Do we --"
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "But the reasonableness here would be unreasonable, unless there are some checks. We're talking about suspicionless searches. And you could have checks. But what about saying -- why is it reasonable to do it without any rule-based controls on the behavior of the police? That's the question."
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "Okay. And the answer is, in terms of the competing interests, the lowered expectations --"
+    },
+    {
+      "speaker": "JUSTICE BREYER",
+      "speech": "Okay. But what interest does it serve not to have some rules, manuals, regulations that help make sure it really is random, or help make sure it isn't harassing, or help make sure that it's serving the very ends that you hope to serve with the suspicionless searches?"
+    },
+    {
+      "speaker": "NIVER",
+      "speech": "If a State wishes to adopt such rules, those would -- may comply with the Fourth Amendment. The question is not, what could be done? The question is, What was done? The question is whether California's rule, which permits parolee searches that -- with the -- absolute prohibition of arbitrary, capricious, and harassing suits, and which must be conducted under the Fourth Amendment, in terms -- reasonable, in terms of time, place, manner, and scope -- the question is whether that system, the California scheme, is constitutional under the Fourth Amendment. And here, the system was designed to address an overwhelming problem that the Court, this Court, has well defined. The -- over 100,000 parolees are on the street at any given time. Almost 90,000 of them will be revoked in any given period. They -- the California parolees require intense supervision. The statute, 3067, was enacted to permit that kind of intense supervision. And the protection afforded to the parolee, in terms of a requirement of a proper purpose --"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Thank you, Mr. Niver. Mr. Marcus."
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "Thank you. Mr. Chief Justice, and may it please the Court: Concerned about the threat that parolees pose to public safety, the California Legislature, in 1996, authorized both police and parole officers to search them without individualized suspicion. Whether evaluated under the special-needs doctrine applied in Griffin, or the totality-of-the-circumstances approach applied in Knights, the search of Petitioner in this case, pursuant to his search condition, was reasonable under the Fourth Amendment."
+    },
+    {
+      "speaker": "JUSTICE ALITO",
+      "speech": "Do we have --"
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "But not the consent --"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "-- to decide --"
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "-- not the consent approach, I take it. I didn't get an opportunity to ask the counsel who argued just previously. Seemed to me that he argued consent when he answered Justice Stevens's question about the tax-evader. But he argued the overwhelming practical needs when he argued the rest of the case. And I thought I saw some tension in the argument there. And I take it the Government does not embrace the consent argument?"
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "No, we do embrace it. We -- but we briefed --"
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "But you --"
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "-- the --"
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "-- just --"
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "It --"
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "-- put it in number --"
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "We --"
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "-- you put it --"
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "We --"
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "-- in number three?"
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "Right. It --"
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "In --"
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "-- well, primarily -- for a couple of reasons. First, Your Honor, the California Supreme Court has not had a chance to interpret 3067(a), you know, after the Reyes decision. They weren't interpreting it there. And so, they haven't had a chance to revisit their ruling that, as a matter of State law, it's not -- there's no consent when it comes to a parolee. And that's -- so, we thought maybe that would be a reason this Court, prudentially, wouldn't want to reach that issue. And, secondly, the -- while the joint appendix contains a portion of the agreement that the Petitioner signed, it doesn't contain the whole content of the agreement. The appellate record doesn't contain the whole content of the agreement. So, we didn't --"
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "But in your view, if the consent was straightforward in the documents, would that be the strongest argument or the weakest argument?"
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "Well, I think --"
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "I mean, I take you'll win on any --"
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "We --"
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "-- argument --"
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "Right, we think all --"
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "-- you can take."
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "-- we think all three arguments are strong. I don't think -- one isn't necessarily stronger than the other. And -- but -- and this Court -- but if the Court -- I mean, the Court certainly, at a minimum, can look at the statutes under California law, and can certainly conclude from the statutes that if a -- if some -- if an inmate doesn't sign the papers, he stays in prison until his sentence basically terminates. And then -- and then, at that point, when he's released, this -- another provision, section 3060.5, kicks in, and his parole -- his parole is revoked. And he eventually will -- he ultimately will serve his whole term of parole in prison, so that the Court can see by the statutes that it is, effectively, a choice, statutorily, that he -- someone who does not want to be on parole does not have -- does not have to sign the condition, and will never go on parole."
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "Mr. Long seemed to have -- tell us something different about that. It's -- they had -- they must go out. He seemed to say they didn't have the choice of staying in."
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "Well, I think it's fairly clear, Your Honor, under -- if you look at the appendix to the Petitioner's brief, if you -- if you look at a combination of section 3067(b), and then -- which --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "I think he said he was unaware of anybody who was dragged out kicking and screaming."
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "Right. And then if you look at 3067(b), and then you also look at -- 3067(a) and (b), and then you look at section 3060.5, which provides for revocation if the -- if the inmate is -- or the parolee is unwilling to --"
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "But it really --"
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "-- sign the --"
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "-- it really isn't."
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "-- agreement."
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "It's -- this is not like you sign an agreement and you're -- you can do it or you can not do it. I mean, this is a real Hobson's choice, isn't it?"
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "Well, you know, again, if you think that --"
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "You can't --"
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "-- there --"
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "-- negotiate, \"I don't\" --"
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "There --"
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "-- \"want this part.\""
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "There undoubtedly are adverse consequences to not signing the agreement."
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Could you --"
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "But --"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "-- waive your -- could you waive --"
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "But --"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "-- your Eighth Amendment rights? You know, if your parole's revoked, you're going to go back into a very cruel and unusual prison, not the one you left."
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "Well, I mean, I think -- I think the test would be whether it's -- whether it's reasonably the consent -- what they're asking you to agree to is reasonably related to the purposes of punishment. And, in this case, the -- you know, the supervision of the parolee, rehabilitation, protection of public safety. And so, we think the consent argument works very well here. But, if I could, I'd like to also address our arguments under the totality of the circumstances and special needs. Faced with a serious recidivism problem, California has made the reasonable judgment that subjecting parolees to suspicionless searches is necessary to protect public safety and to promote rehabilitation."
+    },
+    {
+      "speaker": "JUSTICE ALITO",
+      "speech": "What if it's the case --"
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "But --"
+    },
+    {
+      "speaker": "JUSTICE ALITO",
+      "speech": "-- that this program would allow some searches that are -- that violate the Fourth Amendment, but that this particular search would not? How closely can we focus just on what happened here, or do we have to consider all the -- all the types of searches and the circumstances of searches that the California program might permit?"
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "Well, I -- no, I mean, I think typically this Court applies a very, sort of, narrowly tailored approach to Fourth Amendment questions, and focuses narrowly on the context in which the search was conducted. In this case, for example, you wouldn't -- you wouldn't have to reach the question of whether a search of a home was constitutional. This -- I mean, the question here is whether a search of the Petitioner on a public street was constitutional. And the Court does typically limit its Fourth Amendment cases to the facts presented. So -- but, at the same time, in analyzing that, I think you do have to consider what the Fourth Amendment standard is. And we believe the Fourth Amendment does impose -- the Fourth Amendment itself imposes restrictions on the discretion of police officers and parole officers that are meaningful, that -- as the Reyes Court said, there are restrictions on the timing, the frequency, the duration, and the oppressiveness of the search. So, police officers and parole officers are on notice that courts will review suspicionless searches very carefully. They're on notice that there are limits to what they can do. And they're --"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "But following --"
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "-- on notice that --"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "-- up on Justice --"
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "-- if a search is --"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "-- Alito's thought, supposing there were no restrictions whatsoever, but this particular search didn't seem very offensive. Would you still defend it?"
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "If there were no -- no, we -- no, we think there are -- the Fourth Amendment imposes restrictions -- time, place, and manner restrictions -- on the suspicionless searches."
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "No."
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "And so, that --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "He's asking you, I think, Justice Alito's question, \"Do we have to get into that?\" So long as this one's okay, why do -- why do we have to get into whether there might be some other ones that aren't okay?"
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "I -- that's correct. I don't -- I mean, I --"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "And it --"
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "-- I think you just --"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "-- it was assumed California --"
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "Right."
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "-- didn't say if they had protection against harassment and so forth. Suppose they just said, \"Cart blanche, you can search any parolee at any time, any place.\" And then you'd ask whether this search was reasonable."
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "Right. And I think, in determining that, you would -- in determining it and looking at the facts of this case, you would -- you would apply a Fourth Amendment standard to determine whether this search was objectively reasonable. And you would look at factors like the time, place, frequency, and manner to determine whether a search was, in fact, reasonable --"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "So, it would uphold this."
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "-- and objective --"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "There's --"
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "-- objective --"
+    },
+    {
+      "speaker": "JUSTICE STEVENS",
+      "speech": "-- no matter now unreasonable the California statute might be in other applications."
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "That's correct. And it's to see whether it's objective -- whether the search in this case was objectively related to the purposes of supervision, to protect public safety, and to promote rehabilitation. That, we think, is the test under the Fourth Amendment. And while Petitioner points out that there are a hundred cases out there where the standard, you know, hasn't been used to throw out a search, at the same time, he hasn't pointed to any cases where a prosecution has been based on an abusive search that this standard has been too toothless to throw out. And we think that's significant, given that this type of condition has been in place for over 20 years for probationers, since the Bravo decision in 1987. And the parole condition has been in place since 1996, when the Legislature authorized this and made a considered decision to switch from a reasonable-suspicion standard to a suspicionless standard for parolees."
+    },
+    {
+      "speaker": "JUSTICE KENNEDY",
+      "speech": "The Government -- is the Government of the United States somewhat behind the State of California? It's not efficient in -- as efficient as California in supervising its parolees? Because you don't have this rule."
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "We don't have this program. There are -- I mean, District Courts have the authority to impose a suspicionless search condition. And some have. I think the important thing to keep in mind here is that this is a -- the Court has traditionally given a lot of deference to States in dealing with convicted felons in their criminal justice system, in making sentencing determinations, reasonable sentencing determinations, as this Court emphasized in the Ewing decision. And so, California clearly has a big problem on their hands. The recidivism rates are demonstrated, they're in the record. The -- California was responding to those high recidivism rates. They were also responding to some high-profile crimes involving parolees. And the -- and, on top of that, we do have a brief that's submitted by 21 States who say that they do need this authority to effectively supervise parolees."
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "Has --"
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "But --"
+    },
+    {
+      "speaker": "JUSTICE GINSBURG",
+      "speech": "-- the recidivism rate gone down in the years since the Reyes decision, since this is suspicionless search, as opposed to reasonable suspicion?"
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "Well, I -- I mean, I'm not sure if the studies have been -- statistics have been, sort of, documented up to this -- to this date, but I think it's fair to say that it would be difficult to draw conclusions from those statistics, because, of course, this gives -- this provision gives the California parole and police officers more authority to conduct searches; and so, there's -- to the extent it's increasing the detection of crime, and so more people are actually being, you know, put back in prison on a parole violation or a criminal violation, it wouldn't necessarily mean that it's -- this isn't, you know, being successful in reducing recidivism, because there's --"
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "Do --"
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "-- I mean, there's that side to it, too."
+    },
+    {
+      "speaker": "JUSTICE SOUTER",
+      "speech": "Even apart from the -- what -- the lack of evidence for any change since the Reyes decision, do we have any empirical evidence, perhaps involving a control group, about the likelihood of the -- this liberal search policy in reducing recidivism?"
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "May I answer the question, Your Honor?"
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Go ahead."
+    },
+    {
+      "speaker": "MARCUS",
+      "speech": "I think, you know, traditionally this Court has been very deferential to State decisions on -- you know, on efficacy, on whether a particular program is going to be efficacious -- I mean, cases like Martinez-Fuerte and the Sitz decision involving checkpoints for drunk driving -- in a court. Even with, you know, very strong, you know, low efficacy rates -- in, you know, a program that's showing very low efficacy rates, the Court said that these are judgment that -- judgments that the States need to make, and they ought to be given a lot of deference, even if, you know, their -- the numbers, you know, of -- don't show, by clear and convincing proof, that the problem isn't being ameliorated."
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Thank you, Mr. Marcus. Mr. Long, you have 2 minutes remaining."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "In answer to Justice Alito's question, this search is unconstitutional, because the officer was completely at liberty -- he had complete discretion to decide whether to search. And it would not be acceptable if California said, \"You can search anybody on the street,\" if the answer was, \"Well, it wasn't a particularly invasive search.\" Granted, parolees have far less Fourth Amendment rights than others, but this is so much the core of the Fourth Amendment. This is what the framers wrote the Fourth Amendment to stop, these general warrants and writs of assistance. One --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "But we --"
+    },
+    {
+      "speaker": "LONG",
+      "speech": "-- consent --"
+    },
+    {
+      "speaker": "JUSTICE SCALIA",
+      "speech": "-- we normally don't look into the mind of the officer to decide whether his action was okay or not."
+    },
+    {
+      "speaker": "LONG",
+      "speech": "Well, and we're not asking you to look into the mind of the officer. It's -- California's system, it's quite clear -- they admitted it here -- leaves it up to -- the officer can have any reason for doing the search. It's arbitrary, in the sense this Court would use, but not California. On consent, very quickly, footnote 16 of our reply brief, the California Supreme Court has said repeatedly that -- including very recently, since this section 3067 -- that parole is not a matter of consent; it is imposed on you. This is a question of State law. Perhaps this Court would read the State law differently. But, as the Court said in Griffin, the State Supreme Court is the last word on the questions of State law. As to abuses, there are a number. One that I'll just mention, the California Supreme Court has held that it's perfectly okay -- if the officer knows somebody in the house is on parole or probation, they can use that as a lever to go in and search to try to find evidence about somebody else who's in the house. That is permissible under the California standard. But the bottom line here is that this type of search regime is at the core of the prohibition of the Fourth Amendment. It's what the framers wrote the Fourth Amendment to prohibit. So, if parolees have any Fourth Amendment rights, other than, you know, an essentially useless arbitrary-and-capricious standard that's never going to work, the Fourth Amendment has to prohibit this search. There are many other things the States can do. They have many options. This is at the endpoint on the spectrum. Thank you."
+    },
+    {
+      "speaker": "JUSTICE ROBERTS",
+      "speech": "Thank you, Mr. Long. The case is submitted. [Whereupon, at 11:18 a.m., the case in the"
+    }
+  ],
+  "path": "2006-02-22.04-9728.Samson_v._California.pdf"
+}
