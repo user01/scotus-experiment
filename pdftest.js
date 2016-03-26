@@ -35,6 +35,8 @@ const replaceStrs = [
   /\s*\.(?=\s+)/, /\s*CHIEF(?=\s+)/, /\s*GENERAL(?=\s+)/, /\s*MR(?=\s+)/, /\s*MRS(?=\s+)/, /\s*MS(?=\s+)/, /\s*GEN(?=\s+)/, /\s+I(?=\s+)/,
   [/[\s|\u00A0]+/, ' '],
 ];
+const joinSpeeches = R.pipe(R.join(' '), R.replace(/[\s|\u00A0]+/, ' '));
+
 
 const getTextFromPdf = (path) => {
   return new Promise((resolve, reject) => {
@@ -93,12 +95,10 @@ const getTextFromPdf = (path) => {
               // if it's missing the line is turned into a false
 
               const testLine = testLineIndex(line);
-
               const indexResults = R.map(testLine)(R.range(idx - 1, idx + 2));
 
               const fixedLine = R.find(R.pipe(R.type, R.equals('String')))(indexResults)
               return fixedLine ? fixedLine : false;
-
             }),
             R.filter(R.identity)
           )
@@ -161,7 +161,7 @@ const getTextFromPdf = (path) => {
 
           const lines = acc.current.speaker != '' ? R.append({
             speaker: acc.current.speaker,
-            speech: R.join(' ')(acc.current.speech)
+            speech: joinSpeeches(acc.current.speech)
           }, acc.lines) : acc.lines;
 
           return {
@@ -182,7 +182,7 @@ const getTextFromPdf = (path) => {
 
         const completeLines = R.append({
           speaker: speakers.current.speaker,
-          speech: R.join(' ')(speakers.current.speech)
+          speech: joinSpeeches(speakers.current.speech)
         }, speakers.lines);
 
         if (completeLines.length > 5) {
