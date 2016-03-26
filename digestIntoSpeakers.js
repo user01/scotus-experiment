@@ -24,23 +24,24 @@ const readJson = (filename) => {
 
 // const whitelistedSpeakers = ['THOMAS','SCALIA','ROBERTS',''];
 const validSpeakerSet = (set) => {
-  const longEnough = set.speeches > 50;
-  // const whitelisted = R.contains(set.speaker,whitelistedSpeakers);
-  const whitelisted = set.speaker.indexOf('JUSTICE') > -1;
-  return (whitelisted || longEnough);
+  if (set.speeches.length < 20) return false; // less than 20, no one cares
+
+  const isJustice = set.speaker.indexOf('JUSTICE') > -1;
+  return (isJustice || set.speeches.length > 350);
 }
 
 const transformArgumentFilesIntoSpeechFiles = (argFiles) => {
   //argFiles is an array of the files data
   const speeches = R.pipe(
+    R.map(R.prop('completeLines')),
     R.flatten, //ignore which cases
     R.groupBy(R.prop('speaker')), // group same speakers together
     R.map(R.map(R.prop('speech'))), //erase the redundant speaker fields
     R.toPairs,
     R.map((pair) => {
-      return { speaker: encodeURI(pair[0]), speeches: pair[1] };
-    })
-    // R.filter(validSpeakerSet)
+      return { speaker: pair[0], speeches: pair[1] };
+    }),
+    R.filter(validSpeakerSet)
   )(argFiles)
   return Promise.resolve(speeches);
 };
