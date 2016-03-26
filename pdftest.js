@@ -53,47 +53,38 @@ const getTextFromPdf = (path) => {
             R.flatten,
             R.map(R.prop('T')),
             R.map(decodeURIComponent),
-            R.join('')
+            R.join(' '),
+            R.replace(/\s+/g, ' ')
           )
         ))(pageLines);
-        // console.log(R.flatten(pageTexts));
 
-
-        // const pageBits = R.map(R.map(
-        //   R.pipe(
-        //     R.map(R.prop('R')),
-        //     R.flatten,
-        //     R.map(R.prop('T')),
-        //     R.join('')
-        //   )
-        // ))(pageLines);
-        // // console.log(pageBits);
+        const testLineIndex = R.curry((line, idx) => {
+          const targetCurrentStr = '' + idx;
+          const current = line.indexOf(targetCurrentStr);
+          if (current > -1) {
+            const currentRegExp = new RegExp('^\\s*' + targetCurrentStr);
+            if (currentRegExp.test(line)) {
+              return R.splitAt(current + targetCurrentStr.length)(line)[1];
+            }
+          }
+          return false;
+        });
 
         const pageTextsCleaned = R.map(
           R.pipe(
             R.addIndex(R.map)((line, idx) => {
               if (line.trim().length == 0) return false;
-              // lines need to have the string of the idx+1 leading.
+              // lines need to have the string of the idx+n leading.
               // this number gets stripped off
               // if it's missing the line is turned into a false
 
-              const targetCurrentStr = '' + idx;
-              const current = line.indexOf(targetCurrentStr);
-              if (current > -1) {
-                const currentRegExp = new RegExp('^\\s*' + targetCurrentStr);
-                if (currentRegExp.test(line)) {
-                  return R.splitAt(current + targetCurrentStr.length)(line)[1];
-                }
-              }
-              const targetNextStr = '' + (idx + 1);
-              const next = line.indexOf(targetNextStr);
-              if (next > -1) {
-                const nextRegExp = new RegExp('^\\s*' + targetNextStr);
-                if (nextRegExp.test(line)) {
-                  return R.splitAt(next + targetNextStr.length)(line)[1];
-                }
-              }
-              return false;
+              const testLine = testLineIndex(line);
+
+              const indexResults = R.map(testLine)(R.range(idx - 1, idx + 2));
+
+              const fixedLine = R.find(R.pipe(R.type, R.equals('String')))(indexResults)
+              return fixedLine ? fixedLine : false;
+
             }),
             R.filter(R.identity)
           )
