@@ -7,7 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "pdf": "node pdftest.js",
     "pdf-debug": "node --debug-brk pdftest.js",
-    "digest": "node digestIntoSpeakers.js"
+    "digest": "node digestIntoSpeakers.js",
+    "ts-markov":"./node_modules/.bin/tsc -t ES5 markov.ts",
+    "ts-markov-watch":"./node_modules/.bin/tsc -t ES5 -w markov.ts"
   },
   "author": "",
   "license": "ISC",
@@ -21,5 +23,8 @@
     "ramda": "^0.19.1",
     "request": "^2.69.0",
     "syllable": "^0.1.4"
+  },
+  "devDependencies": {
+    "typescript": "^1.8.9"
   }
 }
