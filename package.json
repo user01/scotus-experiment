@@ -8,13 +8,14 @@
     "pdf": "node pdftest.js",
     "pdf-debug": "node --debug-brk pdftest.js",
     "digest": "node digestIntoSpeakers.js",
-    "ts-markov":"./node_modules/.bin/tsc -t ES5 markov.ts",
-    "ts-markov-watch":"./node_modules/.bin/tsc -t ES5 -w markov.ts"
+    "ts-markov": "./node_modules/.bin/tsc -t ES5 markov.ts",
+    "ts-markov-watch": "./node_modules/.bin/tsc -t ES5 -w markov.ts"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "bluebird": "^3.3.4",
+    "chance": "^1.0.1",
     "jsdom": "^8.1.0",
     "moment": "^2.12.0",
     "object-assign": "^4.0.1",
