@@ -46,11 +46,33 @@ const transformArgumentFilesIntoSpeechFiles = (argFiles) => {
   return Promise.resolve(speeches);
 };
 
+const writeResults = (result) => {
+  return fs.writeFileAsync(
+    path.join(__dirname, 'speeches', result.path + '.json'),
+    JSON.stringify(result.data, null, 2)
+  )
+    .then(() => {
+      return Promise.resolve(result);
+    });
+}
+
+// const writeAll = (data) => writeResults({ path: '__all.json', data });
+const writeAll = (data) => {
+  return writeResults({ path: '__all.json', data });
+}
+const writeEach = (data) => {
+  return Promise.all(R.map((datum) => {
+    return writeResults({ path: datum.speaker.replace(/\s+/g, '_'), data: datum.speeches });
+  }, data)).then(() => Promise.resolve(data));
+}
+
 
 fs.readdirAsync(dataRoot)
   .then(filterToJsonFiles)
   .map(readJson, { concurrency: 6 })
   .then(transformArgumentFilesIntoSpeechFiles)
+  // .then(writeAll)
+  .then(writeEach)
   // .map(writeResults, { concurrency: 3 })
   .then((list) => {
     debugger;
