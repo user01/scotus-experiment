@@ -305,6 +305,10 @@ const jsonPayloadIntoMarkovMap = (jsonData: { filename: string, data: Array<stri
   return makeMarkovMap(name, jsonData.data);
 }
 
+const renStrTmp = (str)=>{
+  console.log(str.length,str);
+}
+
 const testMap = (map) => {
 
   console.log('');
@@ -312,33 +316,24 @@ const testMap = (map) => {
   console.log('==========================================');
   console.log('Name: ', map.speaker);
 
-  console.log(generateFromMap(map, 1));
-  console.log(generateFromMap(map, 2));
-  console.log(generateFromMap(map, 3));
-  console.log(generateFromMap(map, 4));
-  console.log(generateFromMap(map, 5));
-  console.log(generateFromMap(map, 6));
-  console.log(generateFromMap(map, 1));
+  renStrTmp(generateFromMap(map, 1));
+  renStrTmp(generateFromMap(map, 2));
+  renStrTmp(generateFromMap(map, 3));
+  renStrTmp(generateFromMap(map, 4));
+  renStrTmp(generateFromMap(map, 5));
+  renStrTmp(generateFromMap(map, 6));
+  renStrTmp(generateFromMap(map, 1));
 
   return map;
 }
 
 
-// fs.readdirAsync(dataRoot)
-//   .then(filterToJsonFiles)
-//   .map(readJson, { concurrency: 6 })
-//   .map(jsonPayloadIntoMarkovMap)
-//   .map(testMap)
-//   .then((datas) => {
-//     console.log(datas.length);
-//   });
+fs.readdirAsync(dataRoot)
+  .then(filterToJsonFiles)
+  .map(readJson, { concurrency: 6 })
+  .map(jsonPayloadIntoMarkovMap)
+  .map(testMap)
+  .then((datas) => {
+    console.log(datas.length);
+  });
 
-
-console.log(generateJunk(new Chance(10)));
-console.log(generateJunk(new Chance(110)));
-console.log(generateJunk(new Chance(210)));
-console.log(generateJunk(new Chance(510)));
-console.log(generateJunk(new Chance(5310)));
-console.log(generateJunk(new Chance(1510)));
-console.log(generateJunk(new Chance(55510)));
-console.log(generateJunk(new Chance(517670)));
