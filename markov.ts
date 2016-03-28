@@ -4,6 +4,7 @@
 const Promise = require('bluebird');
 const path = require('path');
 const dataRoot = path.join(__dirname, 'speeches');
+const outRoot = path.join(__dirname, 'tweets');
 const R = require('ramda');
 const fs = Promise.promisifyAll(require("fs"), { suffix: "Async" });
 const Chance = require('chance');
@@ -38,6 +39,17 @@ const readJson = (filename) => {
     return Promise.resolve({ filename, data: JSON.parse(buffer.toString()) });
   })
 };
+
+const writeResults = (result) => {
+  return fs.writeFileAsync(
+    path.join(outRoot, result.filename + '.json'),
+    JSON.stringify(result, null, 2)
+  )
+    .then(() => {
+      return Promise.resolve(result);
+    });
+}
+
 
 const isEnding = /[\.!?]$/;
 const fakeEndings = ['Mr.', 'Ms.', 'Mrs.', 'Miss.', 'St.'];
@@ -285,10 +297,6 @@ const generateFromMap = (map, seed: number = 100) => {
   return generateStringFromTokens(tokenChain, chance);
 }
 
-const generateTweetFromMap = (map, seed: number = 100) => {
-  const name = map.speaker + ': ';
-  const charsLeft = 140 - name.length;
-}
 
 
 const jsonPayloadIntoMarkovMap = (jsonData: { filename: string, data: Array<string> }) => {
@@ -310,20 +318,24 @@ const renStrTmp = (str) => {
   console.log(str.length, str);
 }
 
-const testMap = (map) => {
+const genTweetsFromMap = (map) => {
 
-  console.log('');
-  console.log('==========================================');
-  console.log('==========================================');
-  console.log('Name: ', map.speaker);
+  // console.log('');
+  // console.log('==========================================');
+  // console.log('==========================================');
+  // console.log('Name: ', map.speaker);
 
-  R.pipe(
+  const name = map.speaker + ': ';
+
+  const validTweets = R.pipe(
     R.range(0),
     R.map(R.curry(generateFromMap)(map)),
-    R.map(renStrTmp)
-  )(40)
+    R.filter(R.pipe(R.length, R.lte(R.__, 140 - name.length))),
+    R.filter(R.pipe(R.length, R.gte(R.__, 40 - name.length)))
+    // R.map(renStrTmp)
+  )(200);
 
-  return map;
+  return { name: map.speaker, filename: map.speaker.replace(/\s+/, '_').toLowerCase(), validTweets };
 }
 
 
@@ -331,8 +343,10 @@ fs.readdirAsync(dataRoot)
   .then(filterToJsonFiles)
   .map(readJson, { concurrency: 6 })
   .map(jsonPayloadIntoMarkovMap)
-  .map(testMap)
+  .map(genTweetsFromMap)
+  .map(writeResults)
   .then((datas) => {
+    console.log(datas);
     console.log(datas.length);
   });
 
