@@ -9,6 +9,8 @@ const R = require('ramda');
 const fs = Promise.promisifyAll(require("fs"), { suffix: "Async" });
 const Chance = require('chance');
 
+const generationSize = 200;
+
 enum TokenType {
   Word, //think
   WordEnd, //standards.
@@ -24,8 +26,8 @@ interface Token {
 }
 
 const filterToJsonFiles = (list) => {
-  const match = /JUSTICE_KAGAN\.json$/;
-  // const match = /JUSTICE.*\.json$/;
+  // const match = /JUSTICE_KAGAN\.json$/;
+  const match = /JUSTICE.*\.json$/;
   // const match = /PERRY\.json$/;
   // const match = /.*\.json$/;
   return new Promise((resolve, reject) => {
@@ -52,7 +54,7 @@ const writeResults = (result) => {
 
 
 const isEnding = /[\.!?]$/;
-const fakeEndings = ['Mr.', 'Ms.', 'Mrs.', 'Miss.', 'St.'];
+const fakeEndings = ['Mr.', 'Ms.', 'Mrs.', 'Miss.', 'St.', 'v.', 'vs.'];
 const isMoney = /^\$[\d,]+$/;
 const isNumber = /^[\d,]+$/;
 const isJunkParan = /\(.+\)/;
@@ -266,7 +268,7 @@ const renderToken = (token: Token, chanceEngine): string => {
     case TokenType.WordEnd:
       return token.w;
     case TokenType.Number:
-      const num = chanceEngine.natural({ min: 5, max: 6440 });
+      const num = chanceEngine.natural({ min: 2, max: 99 }) * Math.pow(10, chanceEngine.natural({ min: 1, max: 3 }));
       return commaNumber(num);
     case TokenType.Money:
       const numm = (chanceEngine.natural({ min: 2, max: 70 }) * Math.pow(10, chanceEngine.natural({ min: 1, max: 4 })));
@@ -319,12 +321,6 @@ const renStrTmp = (str) => {
 }
 
 const genTweetsFromMap = (map) => {
-
-  // console.log('');
-  // console.log('==========================================');
-  // console.log('==========================================');
-  // console.log('Name: ', map.speaker);
-
   const name = map.speaker + ': ';
 
   const validTweets = R.pipe(
@@ -332,8 +328,7 @@ const genTweetsFromMap = (map) => {
     R.map(R.curry(generateFromMap)(map)),
     R.filter(R.pipe(R.length, R.lte(R.__, 140 - name.length))),
     R.filter(R.pipe(R.length, R.gte(R.__, 40 - name.length)))
-    // R.map(renStrTmp)
-  )(200);
+  )(generationSize);
 
   return { name: map.speaker, filename: map.speaker.replace(/\s+/, '_').toLowerCase(), validTweets };
 }
@@ -346,7 +341,12 @@ fs.readdirAsync(dataRoot)
   .map(genTweetsFromMap)
   .map(writeResults)
   .then((datas) => {
-    console.log(datas);
+    // console.log(datas);
+    console.log('Generated ' + R.pipe(
+      R.map(R.prop('validTweets')),
+      R.map(R.length),
+      R.sum
+    )(datas) + ' tweets');
     console.log(datas.length);
   });
 
