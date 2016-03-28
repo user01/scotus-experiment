@@ -6,6 +6,7 @@ const path = require('path');
 const dataRoot = path.join(__dirname, 'speeches');
 const R = require('ramda');
 const fs = Promise.promisifyAll(require("fs"), { suffix: "Async" });
+const Chance = require('chance');
 
 interface Tri {
   tokens: Array<string>
@@ -43,9 +44,9 @@ const readJson = (filename) => {
 const isEnding = /[\.!?]$/;
 const isMoney = /^\$[\d,]+$/;
 const isNumber = /^\d+$/;
-const makeMarkovMap = (filename: string, data: Array<string>) => {
+const makeMarkovMap = (filename: string, data: Array<string>, depth: number = 3) => {
   const allTries = R.pipe(
-    R.map(R.curry(makeMarkovSetsFromLine)(3)),
+    R.map(R.curry(makeMarkovSetsFromLine)(depth)),
     R.unnest
   )(data);
 
@@ -100,7 +101,6 @@ const chunkToToken = (chunk: string, index: number, array: Array<string>): Token
   }
 }
 const makeMarkovSetsFromLine = (depth: number, line: string): Array<Token> => {
-  debugger;
   const s = R.pipe(breakIntoSentences,
     R.map(R.curry(sentenceToTries)(depth)),
     R.unnest
@@ -126,7 +126,6 @@ const sentenceToTries = (depth: number, sentenceTokens: Array<Token>) => {
   // filter invalid tries (1st word is an ender)
   const filteredTries = R.filter((tri: Array<Token>) => {
     //fails if any elem but the last is an ending
-    debugger;
     return !R.pipe(
       R.dropLast(1),
       R.any(R.prop('e'))
@@ -160,6 +159,55 @@ const breakIntoSentences = (line: string): Array<Array<Token>> => {
 }
 
 
+const generateOpenerKey = (depth: number) => {
+  return R.pipe(
+    R.range(0),
+    R.map(() => {
+      return {
+        t: TokenType.Empty,
+        w: '',
+        e: false
+      };
+    })
+  )(depth)
+}
+const pickFromKey = (map, key, chanceEngine): Token => {
+  const options = map[key];
+  // console.log(options);
+  const total = options['__total'];
+  const pick = chanceEngine.natural({ min: 1, max: total });
+  const pickedToken =
+    R.pipe(
+      R.keys,
+      R.reduce((accum, val) => {
+        if (accum + options[val] >= pick) {
+          return R.reduced(JSON.parse(val))
+        }
+        return accum + options[val];
+      }, 0)
+    )(options)
+
+  return pickedToken;
+}
+const grabTokenFromKey = (tokenKeySet: Array<Token>, map, chanceEngine) => {
+  const currenTokenKey = JSON.stringify(tokenKeySet);
+  const currentToken = pickFromKey(map, currenTokenKey, chanceEngine);
+  const newTokenSet = R.concat(R.tail(tokenKeySet), currentToken);
+  return currentToken.e ? [currentToken] : R.prepend(currentToken, grabTokenFromKey(newTokenSet, map, chanceEngine));
+}
+const generateFromMap = (depth: number, map, seed: number = 100) => {
+  const openerKey = generateOpenerKey(depth - 1);
+  const chance = new Chance(seed);
+  // console.log(openerKey);
+  // console.log(map);
+
+  // const pick = pickFromKey(map, openerKey, chance);
+  // console.log('picked ', pick);
+  const tokenChain = grabTokenFromKey(openerKey, map, chance);
+  console.log(tokenChain);
+}
+
+
 // fs.readdirAsync(dataRoot)
 //   .then(filterToJsonFiles)
 //   .map(readJson, { concurrency: 6 })
@@ -180,8 +228,15 @@ const testData = [test,
 // console.log(makeMarkovMap('', testData));
 
 const test2 = [
+  'Barry writes on the wall.',
   'Iris writes on the page.',
   'Iris has a night on the city.'
 ];
 
-console.log(makeMarkovMap('', test2));
+const map = makeMarkovMap('', test2, 2);
+// console.log();
+
+debugger;
+console.log(
+  generateFromMap(2, map, (new Chance()).natural())
+);
