@@ -27,6 +27,7 @@ interface Token {
 }
 
 const filterToJsonFiles = (list) => {
+  // const match = /JUSTICE.*\.json$/;
   const match = /PERRY\.json$/;
   // const match = /.*\.json$/;
   return new Promise((resolve, reject) => {
@@ -44,7 +45,7 @@ const readJson = (filename) => {
 const isEnding = /[\.!?]$/;
 const isMoney = /^\$[\d,]+$/;
 const isNumber = /^\d+$/;
-const makeMarkovMap = (filename: string, data: Array<string>, depth: number = 3) => {
+const makeMarkovMap = (speaker: string, data: Array<string>, depth: number = 3) => {
   const allTries = R.pipe(
     R.map(R.curry(makeMarkovSetsFromLine)(depth)),
     R.unnest
@@ -72,7 +73,7 @@ const makeMarkovMap = (filename: string, data: Array<string>, depth: number = 3)
     })
   )(map);
 
-  return { map, depth, speaker: filename };
+  return { map, depth, speaker };
 }
 // a chunk canNOT be an empty
 const chunkToToken = (chunk: string, index: number, array: Array<string>): Token => {
@@ -238,37 +239,53 @@ const generateFromMap = (map, seed: number = 100) => {
 }
 
 
-// fs.readdirAsync(dataRoot)
-//   .then(filterToJsonFiles)
-//   .map(readJson, { concurrency: 6 })
-//   .then((datas) => {
-//     console.log(datas.length);
-//   });
+const jsonPayloadIntoMarkovMap = (jsonData: { filename: string, data: Array<string> }) => {
+  const name = R.pipe(
+    R.split('.'),
+    R.head,
+    R.split('_'),
+    R.map(R.pipe(
+      R.toLower,
+      (str) => (new Chance()).capitalize(str)
+    )
+    ),
+    R.join(' ')
+  )(jsonData.filename);
+  return makeMarkovMap(name, jsonData.data);
+}
 
 
+// const test = 'Justice Kagan loves spiderman. I know that\'s a myth.';
+// // console.log(makeMarkovSetsFromLine(3, test));
+// // breakIntoSentences(test);
+// const testData = [test,
+//   'Iris pours her heart out. While the city is under attack.',
+//   'Iris writes on the page.',
+//   'Iris has a night on the city.'];
 
-const test = 'Justice Kagan loves spiderman. I know that\'s a myth.';
-// console.log(makeMarkovSetsFromLine(3, test));
-// breakIntoSentences(test);
-const testData = [test,
-  'Iris pours her heart out. While the city is under attack.',
-  'Iris writes on the page.',
-  'Iris has a night on the city.'];
+// // console.log(makeMarkovMap('', testData));
 
-// console.log(makeMarkovMap('', testData));
+// const test2 = [
+//   'Barry writes on the 576 wall.',
+//   'Iris writes on the $590 page.',
+//   'Iris has a night on the city.'
+// ];
 
-const test2 = [
-  'Barry writes on the 576 wall.',
-  'Iris writes on the $590 page.',
-  'Iris has a night on the city.'
-];
+// const map = makeMarkovMap('', test2, 2);
+// // console.log();
 
-const map = makeMarkovMap('', test2, 2);
-// console.log();
+// // debugger;
+// // console.log(generateFromMap(map, (new Chance()).natural()));
+// console.log(generateFromMap(map, 1));
+// console.log(generateFromMap(map, 2));
+// console.log(generateFromMap(map, 3));
+// console.log(generateFromMap(map, 1));
 
-// debugger;
-// console.log(generateFromMap(map, (new Chance()).natural()));
-console.log(generateFromMap(map, 1));
-console.log(generateFromMap(map, 2));
-console.log(generateFromMap(map, 3));
-console.log(generateFromMap(map, 1));
+
+fs.readdirAsync(dataRoot)
+  .then(filterToJsonFiles)
+  .map(readJson, { concurrency: 6 })
+  .map(jsonPayloadIntoMarkovMap, { concurrency: 6 })
+  .then((datas) => {
+    console.log(datas);
+  });
