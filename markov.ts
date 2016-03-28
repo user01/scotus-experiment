@@ -42,7 +42,7 @@ const readJson = (filename) => {
 const isEnding = /[\.!?]$/;
 const fakeEndings = ['Mr.', 'Ms.', 'Mrs.', 'Miss.', 'St.'];
 const isMoney = /^\$[\d,]+$/;
-const isNumber = /^\d+$/;
+const isNumber = /^[\d,]+$/;
 const isJunkParan = /\(.+\)/;
 const isAlpha = /[a-zA-Z]/;
 const isNumeric = /[0-9]/;
@@ -61,7 +61,6 @@ const isJunk = (str): boolean => {
 }
 const generateJunk = (chanceEngine = new Chance(150)) => {
   const chunkCount = chanceEngine.natural({ min: 1, max: 3 });
-  console.log('count: ', chunkCount);
   const junk = R.pipe(
     R.range(0),
     R.map(() => generateJunkChunk(chanceEngine, chunkCount)),
@@ -258,7 +257,7 @@ const renderToken = (token: Token, chanceEngine): string => {
       const num = chanceEngine.natural({ min: 5, max: 6440 });
       return commaNumber(num);
     case TokenType.Money:
-      const numm = (chanceEngine.natural({ min: 2, max: 70 }) * 100);
+      const numm = (chanceEngine.natural({ min: 2, max: 70 }) * Math.pow(10, chanceEngine.natural({ min: 1, max: 4 })));
       return '$' + commaNumber(numm);
     case TokenType.Junk:
       return generateJunk(chanceEngine);
