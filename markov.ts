@@ -27,8 +27,9 @@ interface Token {
 }
 
 const filterToJsonFiles = (list) => {
+  const match = /JUSTICE_KAGAN\.json$/;
   // const match = /JUSTICE.*\.json$/;
-  const match = /PERRY\.json$/;
+  // const match = /PERRY\.json$/;
   // const match = /.*\.json$/;
   return new Promise((resolve, reject) => {
     resolve(R.filter((item) => {
@@ -43,6 +44,7 @@ const readJson = (filename) => {
 };
 
 const isEnding = /[\.!?]$/;
+const fakeEndings = ['Mr.', 'Ms.', 'Mrs.', 'Miss.'];
 const isMoney = /^\$[\d,]+$/;
 const isNumber = /^\d+$/;
 const makeMarkovMap = (speaker: string, data: Array<string>, depth: number = 3) => {
@@ -144,7 +146,10 @@ const buildSentences = (shardsLeft: Array<string>): Array<Array<Token>> => {
   if (shardsLeft.length < 1) return [];
 
   const indexOfNextBreak = R.findIndex((str: string) => {
-    return isEnding.test(str);
+    if (!isEnding.test(str)) {
+      return false;
+    }
+    return !R.contains(str, fakeEndings);
   })(shardsLeft);
 
   var newSentenceOfTokens: Array<Token>;
@@ -255,6 +260,12 @@ const jsonPayloadIntoMarkovMap = (jsonData: { filename: string, data: Array<stri
 }
 
 const testMap = (map) => {
+
+  console.log('');
+  console.log('==========================================');
+  console.log('==========================================');
+  console.log('Name: ', map.speaker);
+
   console.log(generateFromMap(map, 1));
   console.log(generateFromMap(map, 2));
   console.log(generateFromMap(map, 3));
