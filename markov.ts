@@ -108,6 +108,10 @@ const makeMarkovSetsFromLine = (depth: number, line: string): Array<Token> => {
   return s;
 }
 
+const commaNumber = (n: number) => {
+  return String(Math.floor(n)).replace(/(.)(?=(\d{3})+$)/g, '$1,');
+}
+
 const sentenceToTries = (depth: number, sentenceTokens: Array<Token>) => {
 
   const tokens = R.insertAll(0,
@@ -202,9 +206,11 @@ const renderToken = (token: Token, chanceEngine): string => {
     case TokenType.WordEnd:
       return token.w;
     case TokenType.Number:
-      return chanceEngine.natural({ min: 5, max: 6440 });
+      const num = chanceEngine.natural({ min: 5, max: 6440 });
+      return commaNumber(num);
     case TokenType.Money:
-      return '$' + (chanceEngine.natural({ min: 2, max: 40 }) * 100);
+      const numm = (chanceEngine.natural({ min: 2, max: 70 }) * 100);
+      return '$' + commaNumber(numm);
     case TokenType.Junk:
       return 'FIX THE JUNK ISSUE';
     default:
@@ -227,7 +233,7 @@ const generateFromMap = (map, seed: number = 100) => {
   // const pick = pickFromKey(map, openerKey, chance);
   // console.log('picked ', pick);
   const tokenChain = grabTokenFromKey(openerKey, map.map, chance);
-  console.log(tokenChain);
+
   return generateStringFromTokens(tokenChain, chance);
 }
 
@@ -252,15 +258,17 @@ const testData = [test,
 // console.log(makeMarkovMap('', testData));
 
 const test2 = [
-  'Barry writes on the wall.',
-  'Iris writes on the page.',
+  'Barry writes on the 576 wall.',
+  'Iris writes on the $590 page.',
   'Iris has a night on the city.'
 ];
 
 const map = makeMarkovMap('', test2, 2);
 // console.log();
 
-debugger;
-console.log(
-  generateFromMap(map, (new Chance()).natural())
-);
+// debugger;
+// console.log(generateFromMap(map, (new Chance()).natural()));
+console.log(generateFromMap(map, 1));
+console.log(generateFromMap(map, 2));
+console.log(generateFromMap(map, 3));
+console.log(generateFromMap(map, 1));
