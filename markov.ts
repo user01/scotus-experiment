@@ -8,10 +8,6 @@ const R = require('ramda');
 const fs = Promise.promisifyAll(require("fs"), { suffix: "Async" });
 const Chance = require('chance');
 
-interface Tri {
-  tokens: Array<string>
-}
-
 enum TokenType {
   Word, //think
   WordEnd, //standards.
@@ -44,13 +40,19 @@ const readJson = (filename) => {
 };
 
 const isEnding = /[\.!?]$/;
-const fakeEndings = ['Mr.', 'Ms.', 'Mrs.', 'Miss.'];
+const fakeEndings = ['Mr.', 'Ms.', 'Mrs.', 'Miss.', 'St.'];
 const isMoney = /^\$[\d,]+$/;
 const isNumber = /^\d+$/;
 const isJunkParan = /\(.+\)/;
 const isAlpha = /[a-zA-Z]/;
 const isNumeric = /[0-9]/;
 
+const isEndingTest = (str: string) => {
+  if (!isEnding.test(str)) {
+    return false;
+  }
+  return !R.contains(str, fakeEndings);
+}
 const isJunk = (str): boolean => {
   //(d)(4) or 10b-5 or 77p(d)(4)
   if (isAlpha.test(str) && isNumeric.test(str)) return true;
@@ -142,7 +144,7 @@ const chunkToToken = (chunk: string, index: number, array: Array<string>): Token
     };
   }
 
-  const end = isEnding.test(chunk);
+  const end = isEndingTest(chunk);
   return {
     t: end ? TokenType.WordEnd : TokenType.Word,
     w: chunk,
@@ -191,12 +193,7 @@ const sentenceToTries = (depth: number, sentenceTokens: Array<Token>) => {
 const buildSentences = (shardsLeft: Array<string>): Array<Array<Token>> => {
   if (shardsLeft.length < 1) return [];
 
-  const indexOfNextBreak = R.findIndex((str: string) => {
-    if (!isEnding.test(str)) {
-      return false;
-    }
-    return !R.contains(str, fakeEndings);
-  })(shardsLeft);
+  const indexOfNextBreak = R.findIndex(isEndingTest)(shardsLeft);
 
   var newSentenceOfTokens: Array<Token>;
   if (indexOfNextBreak > -1) {
@@ -289,6 +286,11 @@ const generateFromMap = (map, seed: number = 100) => {
   return generateStringFromTokens(tokenChain, chance);
 }
 
+const generateTweetFromMap = (map, seed: number = 100) => {
+  const name = map.speaker + ': ';
+  const charsLeft = 140 - name.length;
+}
+
 
 const jsonPayloadIntoMarkovMap = (jsonData: { filename: string, data: Array<string> }) => {
   const name = R.pipe(
@@ -305,8 +307,8 @@ const jsonPayloadIntoMarkovMap = (jsonData: { filename: string, data: Array<stri
   return makeMarkovMap(name, jsonData.data);
 }
 
-const renStrTmp = (str)=>{
-  console.log(str.length,str);
+const renStrTmp = (str) => {
+  console.log(str.length, str);
 }
 
 const testMap = (map) => {
@@ -316,13 +318,11 @@ const testMap = (map) => {
   console.log('==========================================');
   console.log('Name: ', map.speaker);
 
-  renStrTmp(generateFromMap(map, 1));
-  renStrTmp(generateFromMap(map, 2));
-  renStrTmp(generateFromMap(map, 3));
-  renStrTmp(generateFromMap(map, 4));
-  renStrTmp(generateFromMap(map, 5));
-  renStrTmp(generateFromMap(map, 6));
-  renStrTmp(generateFromMap(map, 1));
+  R.pipe(
+    R.range(0),
+    R.map(R.curry(generateFromMap)(map)),
+    R.map(renStrTmp)
+  )(40)
 
   return map;
 }
