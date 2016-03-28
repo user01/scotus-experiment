@@ -27,9 +27,9 @@ interface Token {
 
 const filterToJsonFiles = (list) => {
   // const match = /JUSTICE_KAGAN\.json$/;
-  const match = /JUSTICE.*\.json$/;
+  // const match = /JUSTICE.*\.json$/;
   // const match = /PERRY\.json$/;
-  // const match = /.*\.json$/;
+  const match = /.*\.json$/;
   return new Promise((resolve, reject) => {
     resolve(R.filter((item) => {
       return match.test(item);
@@ -327,7 +327,8 @@ const genTweetsFromMap = (map) => {
     R.range(0),
     R.map(R.curry(generateFromMap)(map)),
     R.filter(R.pipe(R.length, R.lte(R.__, 140 - name.length))),
-    R.filter(R.pipe(R.length, R.gte(R.__, 40 - name.length)))
+    R.filter(R.pipe(R.length, R.gte(R.__, 40 - name.length))),
+    R.uniq
   )(generationSize);
 
   return { name: map.speaker, filename: map.speaker.replace(/\s+/, '_').toLowerCase(), validTweets };
