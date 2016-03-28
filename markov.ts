@@ -72,7 +72,7 @@ const makeMarkovMap = (filename: string, data: Array<string>, depth: number = 3)
     })
   )(map);
 
-  return map;
+  return { map, depth, speaker: filename };
 }
 // a chunk canNOT be an empty
 const chunkToToken = (chunk: string, index: number, array: Array<string>): Token => {
@@ -195,16 +195,40 @@ const grabTokenFromKey = (tokenKeySet: Array<Token>, map, chanceEngine) => {
   const newTokenSet = R.concat(R.tail(tokenKeySet), currentToken);
   return currentToken.e ? [currentToken] : R.prepend(currentToken, grabTokenFromKey(newTokenSet, map, chanceEngine));
 }
-const generateFromMap = (depth: number, map, seed: number = 100) => {
-  const openerKey = generateOpenerKey(depth - 1);
+const renderToken = (token: Token, chanceEngine): string => {
+  switch (token.t) {
+    case TokenType.Word:
+      return token.w;
+    case TokenType.WordEnd:
+      return token.w;
+    case TokenType.Number:
+      return chanceEngine.natural({ min: 5, max: 6440 });
+    case TokenType.Money:
+      return '$' + (chanceEngine.natural({ min: 2, max: 40 }) * 100);
+    case TokenType.Junk:
+      return 'FIX THE JUNK ISSUE';
+    default:
+      break;
+  }
+  return token.w;
+}
+const generateStringFromTokens = (tokenSet: Array<Token>, chanceEngine) => {
+  return R.pipe(
+    R.map(R.curry(renderToken)(R.__, chanceEngine)),
+    R.join(' ')
+  )(tokenSet);
+}
+const generateFromMap = (map, seed: number = 100) => {
+  const openerKey = generateOpenerKey(map.depth - 1);
   const chance = new Chance(seed);
   // console.log(openerKey);
   // console.log(map);
 
   // const pick = pickFromKey(map, openerKey, chance);
   // console.log('picked ', pick);
-  const tokenChain = grabTokenFromKey(openerKey, map, chance);
+  const tokenChain = grabTokenFromKey(openerKey, map.map, chance);
   console.log(tokenChain);
+  return generateStringFromTokens(tokenChain, chance);
 }
 
 
@@ -238,5 +262,5 @@ const map = makeMarkovMap('', test2, 2);
 
 debugger;
 console.log(
-  generateFromMap(2, map, (new Chance()).natural())
+  generateFromMap(map, (new Chance()).natural())
 );
