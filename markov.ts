@@ -254,6 +254,17 @@ const jsonPayloadIntoMarkovMap = (jsonData: { filename: string, data: Array<stri
   return makeMarkovMap(name, jsonData.data);
 }
 
+const testMap = (map) => {
+  console.log(generateFromMap(map, 1));
+  console.log(generateFromMap(map, 2));
+  console.log(generateFromMap(map, 3));
+  console.log(generateFromMap(map, 4));
+  console.log(generateFromMap(map, 5));
+  console.log(generateFromMap(map, 6));
+  console.log(generateFromMap(map, 1));
+
+  return map;
+}
 
 // const test = 'Justice Kagan loves spiderman. I know that\'s a myth.';
 // // console.log(makeMarkovSetsFromLine(3, test));
@@ -285,7 +296,8 @@ const jsonPayloadIntoMarkovMap = (jsonData: { filename: string, data: Array<stri
 fs.readdirAsync(dataRoot)
   .then(filterToJsonFiles)
   .map(readJson, { concurrency: 6 })
-  .map(jsonPayloadIntoMarkovMap, { concurrency: 6 })
+  .map(jsonPayloadIntoMarkovMap)
+  .map(testMap)
   .then((datas) => {
-    console.log(datas);
+    console.log(datas.length);
   });
