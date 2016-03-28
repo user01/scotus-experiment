@@ -44,7 +44,34 @@ const isEnding = /[\.!?]$/;
 const isMoney = /^\$[\d,]+$/;
 const isNumber = /^\d+$/;
 const makeMarkovMap = (filename: string, data: Array<string>) => {
+  const allTries = R.pipe(
+    R.map(R.curry(makeMarkovSetsFromLine)(3)),
+    R.unnest
+  )(data);
 
+  const map = R.reduce((map, tri) => {
+    const target = R.last(tri);
+    // console.log(target);
+    const targetKey = JSON.stringify(target);
+    const previous = R.take(tri.length - 1, tri);
+    const previousKey = JSON.stringify(previous);
+    map[previousKey] = map[previousKey] ? map[previousKey] : {};
+    map[previousKey][targetKey] = map[previousKey][targetKey] ? map[previousKey][targetKey] + 1 : 1;
+    return map;
+  }, {})(allTries);
+
+  R.pipe(
+    R.keys,
+    R.forEach((key: string) => {
+      const total = R.pipe(
+        R.values,
+        R.sum
+      )(map[key]);
+      map[key]['__total'] = total;
+    })
+  )(map);
+
+  return map;
 }
 // a chunk canNOT be an empty
 const chunkToToken = (chunk: string, index: number, array: Array<string>): Token => {
@@ -143,5 +170,18 @@ const breakIntoSentences = (line: string): Array<Array<Token>> => {
 
 
 const test = 'Justice Kagan loves spiderman. I know that\'s a myth.';
-console.log(makeMarkovSetsFromLine(3, test));
+// console.log(makeMarkovSetsFromLine(3, test));
 // breakIntoSentences(test);
+const testData = [test,
+  'Iris pours her heart out. While the city is under attack.',
+  'Iris writes on the page.',
+  'Iris has a night on the city.'];
+
+// console.log(makeMarkovMap('', testData));
+
+const test2 = [
+  'Iris writes on the page.',
+  'Iris has a night on the city.'
+];
+
+console.log(makeMarkovMap('', test2));
