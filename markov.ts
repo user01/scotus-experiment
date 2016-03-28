@@ -47,6 +47,45 @@ const isEnding = /[\.!?]$/;
 const fakeEndings = ['Mr.', 'Ms.', 'Mrs.', 'Miss.'];
 const isMoney = /^\$[\d,]+$/;
 const isNumber = /^\d+$/;
+const isJunkParan = /\(.+\)/;
+const isAlpha = /[a-zA-Z]/;
+const isNumeric = /[0-9]/;
+
+const isJunk = (str): boolean => {
+  //(d)(4) or 10b-5 or 77p(d)(4)
+  if (isAlpha.test(str) && isNumeric.test(str)) return true;
+  if (isJunkParan.test(str)) return true;
+  return false;
+}
+const generateJunk = (chanceEngine = new Chance(150)) => {
+  const chunkCount = chanceEngine.natural({ min: 1, max: 3 });
+  console.log('count: ', chunkCount);
+  const junk = R.pipe(
+    R.range(0),
+    R.map(() => generateJunkChunk(chanceEngine, chunkCount)),
+    R.addIndex(R.reduce)((accum, chunk, index) => {
+      const joiner = chanceEngine.pickone(index == chunkCount || index == 0 ? [''] : ['', '-'])
+      return accum + joiner + chunk;
+    }, '')
+  )(chunkCount);
+  return junk;
+}
+const generateJunkChunk = (chanceEngine = new Chance(10), sizeModifier: number = 2) => {
+  const chunkType = chanceEngine.natural({ min: 1, max: (sizeModifier < 2 ? 2 : 4) });
+  switch (chunkType) {
+    case 1:
+      return '(' + chanceEngine.natural({ min: 3, max: 19 }) + ')';
+    case 2:
+      return '(' + chanceEngine.character({ alpha: true, casing: 'lower' }) + ')';
+    case 3:
+      return '' + chanceEngine.natural({ min: 10, max: 161 });
+    case 4:
+    default:
+      break;
+  }
+  return '' + chanceEngine.character({ alpha: true, casing: 'lower' });
+}
+
 const makeMarkovMap = (speaker: string, data: Array<string>, depth: number = 3) => {
   const allTries = R.pipe(
     R.map(R.curry(makeMarkovSetsFromLine)(depth)),
@@ -93,7 +132,14 @@ const chunkToToken = (chunk: string, index: number, array: Array<string>): Token
       t: TokenType.Number,
       w: '',
       e: forcedEnd
-    }
+    };
+  }
+  if (isJunk(chunk)) {
+    return {
+      t: TokenType.Junk,
+      w: '',
+      e: forcedEnd
+    };
   }
 
   const end = isEnding.test(chunk);
@@ -218,7 +264,7 @@ const renderToken = (token: Token, chanceEngine): string => {
       const numm = (chanceEngine.natural({ min: 2, max: 70 }) * 100);
       return '$' + commaNumber(numm);
     case TokenType.Junk:
-      return 'FIX THE JUNK ISSUE';
+      return generateJunk(chanceEngine);
     default:
       break;
   }
@@ -277,38 +323,22 @@ const testMap = (map) => {
   return map;
 }
 
-// const test = 'Justice Kagan loves spiderman. I know that\'s a myth.';
-// // console.log(makeMarkovSetsFromLine(3, test));
-// // breakIntoSentences(test);
-// const testData = [test,
-//   'Iris pours her heart out. While the city is under attack.',
-//   'Iris writes on the page.',
-//   'Iris has a night on the city.'];
 
-// // console.log(makeMarkovMap('', testData));
-
-// const test2 = [
-//   'Barry writes on the 576 wall.',
-//   'Iris writes on the $590 page.',
-//   'Iris has a night on the city.'
-// ];
-
-// const map = makeMarkovMap('', test2, 2);
-// // console.log();
-
-// // debugger;
-// // console.log(generateFromMap(map, (new Chance()).natural()));
-// console.log(generateFromMap(map, 1));
-// console.log(generateFromMap(map, 2));
-// console.log(generateFromMap(map, 3));
-// console.log(generateFromMap(map, 1));
+// fs.readdirAsync(dataRoot)
+//   .then(filterToJsonFiles)
+//   .map(readJson, { concurrency: 6 })
+//   .map(jsonPayloadIntoMarkovMap)
+//   .map(testMap)
+//   .then((datas) => {
+//     console.log(datas.length);
+//   });
 
 
-fs.readdirAsync(dataRoot)
-  .then(filterToJsonFiles)
-  .map(readJson, { concurrency: 6 })
-  .map(jsonPayloadIntoMarkovMap)
-  .map(testMap)
-  .then((datas) => {
-    console.log(datas.length);
-  });
+console.log(generateJunk(new Chance(10)));
+console.log(generateJunk(new Chance(110)));
+console.log(generateJunk(new Chance(210)));
+console.log(generateJunk(new Chance(510)));
+console.log(generateJunk(new Chance(5310)));
+console.log(generateJunk(new Chance(1510)));
+console.log(generateJunk(new Chance(55510)));
+console.log(generateJunk(new Chance(517670)));
