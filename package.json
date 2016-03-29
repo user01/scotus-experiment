@@ -8,6 +8,7 @@
     "pdf": "node pdftest.js",
     "pdf-debug": "node --debug-brk pdftest.js",
     "digest": "node digestIntoSpeakers.js",
+    "markov": "node --max_old_space_size=4096 markov.j", //memory limit
     "markov-debug": "node --debug-brk markov.js",
     "ts-markov": "./node_modules/.bin/tsc",
     "ts-markov-watch": "./node_modules/.bin/tsc -w"
