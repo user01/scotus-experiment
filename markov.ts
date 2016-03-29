@@ -12,15 +12,15 @@ const Chance = require('chance');
 
 import {Token, TokenType} from './markov.types';
 import {jsonPayloadIntoMarkovMap} from './markov.generator';
-import {generateStringAndProbablityFromMap, teal} from './markov.tools';
+import {generateStringAndProbablityFromMap} from './markov.tools';
 
 const generationSize = 200;
 
 const filterToJsonFiles = (list) => {
-  const match = /JUSTICE_KAGAN\.json$/;
+  // const match = /JUSTICE_KAGAN\.json$/;
   // const match = /JUSTICE.*\.json$/;
   // const match = /PERRY\.json$/;
-  // const match = /.*\.json$/;
+  const match = /.*\.json$/;
   return new Promise((resolve, reject) => {
     resolve(R.filter((item) => {
       return match.test(item);
@@ -45,10 +45,10 @@ const writeResults = (result) => {
 const genTweetsFromMap = (map) => {
   const name = map.speaker + ': ';
   // console.log(map.map);
-  console.log(name);
-  console.log(generateStringAndProbablityFromMap);
-  debugger;
-  console.log(generateStringAndProbablityFromMap(map, 2));
+  // console.log(name);
+  // console.log(generateStringAndProbablityFromMap);
+  // debugger;
+  // console.log(generateStringAndProbablityFromMap(map, 2));
 
   const validTweets = R.pipe(
     R.range(0),
@@ -63,22 +63,21 @@ const genTweetsFromMap = (map) => {
   return { name: map.speaker, filename: map.speaker.replace(/\s+/, '_').toLowerCase(), validTweets };
 }
 
-console.log(teal);
 
 fs.readdirAsync(dataRoot)
   .then(filterToJsonFiles)
-  .map(readJson, { concurrency: 6 })
-  .map(jsonPayloadIntoMarkovMap)
-  .map(genTweetsFromMap)
-  .map(writeResults)
+  .map(readJson, { concurrency: 2 })
+  .map(jsonPayloadIntoMarkovMap, { concurrency: 2 })
+  .map(genTweetsFromMap, { concurrency: 2 })
+  .map(writeResults, { concurrency: 2 })
   .then((datas) => {
-    // const tweetCount = R.pipe(
-    //   R.map(R.prop('validTweets')),
-    //   R.map(R.length),
-    //   R.sum
-    // )(datas);
-    // console.log('Generated ' + tweetCount + ' tweets');
-    console.log(datas);
+    const tweetCount = R.pipe(
+      R.map(R.prop('validTweets')),
+      R.map(R.length),
+      R.sum
+    )(datas);
+    console.log('Generated ' + tweetCount + ' tweets');
+    // console.log(datas);
     console.log(datas.length);
   });
 

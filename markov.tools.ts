@@ -53,14 +53,7 @@ const generateOpenerKey = (depth: number) => {
 }
 const pickFromKey = (map, key, chanceEngine): [Token, number] => {
   const options = map[key];
-  // console.log('options: ',options);
-  debugger;
   const total = options['__total'];
-  // console.log('total', total);
-  if (!total) {
-    console.log('key', key)
-    debugger;
-  }
   const pick = chanceEngine.natural({ min: 1, max: total });
   const pickedToken: [Token, number] =
     R.pipe(
@@ -108,7 +101,6 @@ const generateStringFromTokens = (tokenSet: Array<[Token, number]>, chanceEngine
   const prob = R.reduce((accum: number, set: [Token, number]) => {
     return accum * set[1];
   }, 1)(tokenSet);
-  console.log(tokenSet);
   const str: string = R.pipe(
     R.map(
       R.pipe(

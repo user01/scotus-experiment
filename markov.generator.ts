@@ -163,5 +163,4 @@ export const jsonPayloadIntoMarkovMap = (jsonData: { filename: string, data: Arr
 }
 
 
-export const xBoom = () => 'teal';
-export default xBoom;
+export default jsonPayloadIntoMarkovMap;
