@@ -51,29 +51,38 @@ const generateOpenerKey = (depth: number) => {
     })
   )(depth)
 }
-const pickFromKey = (map, key, chanceEngine): Token => {
+const pickFromKey = (map, key, chanceEngine): [Token, number] => {
   const options = map[key];
-  // console.log(options);
+  // console.log('options: ',options);
+  debugger;
   const total = options['__total'];
+  // console.log('total', total);
+  if (!total) {
+    console.log('key', key)
+    debugger;
+  }
   const pick = chanceEngine.natural({ min: 1, max: total });
-  const pickedToken =
+  const pickedToken: [Token, number] =
     R.pipe(
       R.keys,
       R.reduce((accum, val) => {
         if (accum + options[val] >= pick) {
-          return R.reduced(JSON.parse(val))
+          const token = JSON.parse(val);
+          return R.reduced([token, options[val] / total])
         }
         return accum + options[val];
       }, 0)
-    )(options)
+    )(options);
+  // console.log('picked token: ', pickedToken);
 
   return pickedToken;
 }
 const grabTokenFromKey = (tokenKeySet: Array<Token>, map, chanceEngine) => {
-  const currenTokenKey = JSON.stringify(tokenKeySet);
-  const currentToken = pickFromKey(map, currenTokenKey, chanceEngine);
-  const newTokenSet = R.concat(R.tail(tokenKeySet), currentToken);
-  return currentToken.e ? [currentToken] : R.prepend(currentToken, grabTokenFromKey(newTokenSet, map, chanceEngine));
+  const currentTokenKey = JSON.stringify(tokenKeySet);
+  // console.log('grabbing with key ', currentTokenKey);
+  const currentTokenSet = pickFromKey(map, currentTokenKey, chanceEngine);
+  const newTokenSet: Array<Token> = R.concat(R.tail(tokenKeySet), currentTokenSet[0]);
+  return currentTokenSet[0].e ? [currentTokenSet] : R.prepend(currentTokenSet, grabTokenFromKey(newTokenSet, map, chanceEngine));
 }
 const renderToken = (token: Token, chanceEngine): string => {
   switch (token.t) {
@@ -95,15 +104,25 @@ const renderToken = (token: Token, chanceEngine): string => {
   return token.w;
 }
 
-const generateStringFromTokens = (tokenSet: Array<Token>, chanceEngine) => {
-  return R.pipe(
-    R.map(R.curry(renderToken)(R.__, chanceEngine)),
+const generateStringFromTokens = (tokenSet: Array<[Token, number]>, chanceEngine): [string, number] => {
+  const prob = R.reduce((accum: number, set: [Token, number]) => {
+    return accum * set[1];
+  }, 1)(tokenSet);
+  console.log(tokenSet);
+  const str: string = R.pipe(
+    R.map(
+      R.pipe(
+        R.head,
+        R.curry(renderToken)(R.__, chanceEngine)
+      )
+    ),
     R.join(' ')
   )(tokenSet);
+  return [str, prob];
 }
 
 
-export const generateFromMap = (map, seed: number = 100) => {
+export const generateStringAndProbablityFromMap = (map, seed: number = 100) => {
   const openerKey = generateOpenerKey(map.depth - 1);
   const chance = new Chance(seed);
   // console.log(openerKey);
@@ -116,4 +135,6 @@ export const generateFromMap = (map, seed: number = 100) => {
   return generateStringFromTokens(tokenChain, chance);
 }
 
-export default generateFromMap;
+export const teal = 90;
+
+export default generateStringAndProbablityFromMap;

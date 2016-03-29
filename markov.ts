@@ -12,7 +12,7 @@ const Chance = require('chance');
 
 import {Token, TokenType} from './markov.types';
 import {jsonPayloadIntoMarkovMap} from './markov.generator';
-import {generateFromMap} from './markov.tools';
+import {generateStringAndProbablityFromMap, teal} from './markov.tools';
 
 const generationSize = 200;
 
@@ -37,34 +37,31 @@ const writeResults = (result) => {
   return fs.writeFileAsync(
     path.join(outRoot, result.filename + '.json'),
     JSON.stringify(result, null, 2)
-  )
-    .then(() => {
-      return Promise.resolve(result);
-    });
+  ).then(() => Promise.resolve(result));
 }
 
 
-
-
-
-const renStrTmp = (str) => {
-  console.log(str.length, str);
-}
 
 const genTweetsFromMap = (map) => {
   const name = map.speaker + ': ';
+  // console.log(map.map);
+  console.log(name);
+  console.log(generateStringAndProbablityFromMap);
+  debugger;
+  console.log(generateStringAndProbablityFromMap(map, 2));
 
   const validTweets = R.pipe(
     R.range(0),
-    R.map(R.curry(generateFromMap)(map)),
-    R.filter(R.pipe(R.length, R.lte(R.__, 140 - name.length))),
-    R.filter(R.pipe(R.length, R.gte(R.__, 40 - name.length))),
+    R.map(R.curry(generateStringAndProbablityFromMap)(map)),
+    R.filter(R.pipe(R.head, R.length, R.lte(R.__, 140 - name.length))),
+    R.filter(R.pipe(R.head, R.length, R.gte(R.__, 40 - name.length))),
     R.uniq
   )(generationSize);
 
   return { name: map.speaker, filename: map.speaker.replace(/\s+/, '_').toLowerCase(), validTweets };
 }
 
+console.log(teal);
 
 fs.readdirAsync(dataRoot)
   .then(filterToJsonFiles)
@@ -73,12 +70,13 @@ fs.readdirAsync(dataRoot)
   .map(genTweetsFromMap)
   .map(writeResults)
   .then((datas) => {
-    // console.log(datas);
-    console.log('Generated ' + R.pipe(
-      R.map(R.prop('validTweets')),
-      R.map(R.length),
-      R.sum
-    )(datas) + ' tweets');
+    // const tweetCount = R.pipe(
+    //   R.map(R.prop('validTweets')),
+    //   R.map(R.length),
+    //   R.sum
+    // )(datas);
+    // console.log('Generated ' + tweetCount + ' tweets');
+    console.log(datas);
     console.log(datas.length);
   });
 

@@ -9,8 +9,8 @@
     "pdf-debug": "node --debug-brk pdftest.js",
     "digest": "node digestIntoSpeakers.js",
     "markov-debug": "node --debug-brk markov.js",
-    "ts-markov": "./node_modules/.bin/tsc -t ES5 markov.ts",
-    "ts-markov-watch": "./node_modules/.bin/tsc -t ES5 -w markov.ts"
+    "ts-markov": "./node_modules/.bin/tsc",
+    "ts-markov-watch": "./node_modules/.bin/tsc -w"
   },
   "author": "",
   "license": "ISC",
