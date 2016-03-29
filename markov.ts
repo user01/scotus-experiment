@@ -53,8 +53,10 @@ const genTweetsFromMap = (map) => {
   const validTweets = R.pipe(
     R.range(0),
     R.map(R.curry(generateStringAndProbablityFromMap)(map)),
-    R.filter(R.pipe(R.head, R.length, R.lte(R.__, 140 - name.length))),
-    R.filter(R.pipe(R.head, R.length, R.gte(R.__, 40 - name.length))),
+    R.filter(R.pipe(R.last, R.gte(0.5))),
+    R.map(R.head),
+    R.filter(R.pipe(R.length, R.lte(R.__, 140 - name.length))),
+    R.filter(R.pipe(R.length, R.gte(R.__, 40 - name.length))),
     R.uniq
   )(generationSize);
 
