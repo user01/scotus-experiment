@@ -7,7 +7,7 @@ const Chance = require('chance');
 const fs = Promise.promisifyAll(require("fs"), { suffix: "Async" });
 const db = new Datastore({ filename: path.join(__dirname, 'tweets.db'), autoload: true });
 
-
+const NO_TWEETS_REMAIN = "NO_TWEETS_REMAIN";
 const tweetRoot = path.join(__dirname, 'tweets');
 
 const filterToJsonFiles = (list) => {
@@ -68,16 +68,17 @@ const pickNextTweet = (state) => {
     })
   )(state.tweeters);
   if (validTweeters < 1) {
-    return 000;
+    throw NO_TWEETS_REMAIN;
   }
 
   const pickedIndex = chance.natural({ min: 0, max: validTweeters.length });
   const filename = validTweeters[pickedIndex].filename;
+  const tweetIndex = validTweeters[pickedIndex].currentTweet + 1;
 
   return {
     filename,
-    tweet,
-    newState
+    tweetIndex,
+    newState //undefined!!!!
   }
 }
 
