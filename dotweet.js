@@ -59,22 +59,26 @@ const handleMissingName = (filename) => {
     .then(writeDocToDb);
 }
 
-db.find({ filename: { $exists: true } }).exec((err, data) => {
+db.find({ filename: { $exists: true } }).exec((err, dbKnownFiles) => {
 
   fs.readdirAsync(tweetRoot)
     .then(filterToJsonFiles)
     .then((fsFiles) => {
       console.log('fs seen files', fsFiles.length)
-      const dbKnownFiles = R.map(R.prop('filename'))(data);
-      console.log('Known ', dbKnownFiles.length);
+      const dbKnownFilesnames = R.map(R.prop('filename'))(dbKnownFiles);
+      console.log('Known ', dbKnownFilesnames.length);
       const missingFiles = R.filter(R.pipe(
-        R.flip(R.contains)(dbKnownFiles),
+        R.flip(R.contains)(dbKnownFilesnames),
         R.not
       ))(fsFiles);
       console.log('Missing:', missingFiles.length);
       Promise.map(missingFiles, handleMissingName)
-        .then((data) => {
-          console.log("All done with ", data);
+        .then((addedFiles) => {
+          console.log("All done with ", addedFiles);
+          const knownFiles = R.concat(addedFiles, dbKnownFiles);
+
+          db.find({ index: { $exists: true } }).exec((err, dbKnownFiles) => {
+          });
         })
     });
 
