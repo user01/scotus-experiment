@@ -2,13 +2,13 @@
   "name": "scotus-puller",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "scrape.arguments.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "pdf": "node pdftest.js",
-    "pdf-debug": "node --debug-brk pdftest.js",
-    "digest": "node digestIntoSpeakers.js",
-    "markov": "node --max_old_space_size=4096 markov.j",
+    "pdf": "node process.pdfs.js",
+    "pdf-debug": "node --debug-brk process.pdfs.js",
+    "digest": "node digest.into.speakers.js",
+    "markov": "node --max_old_space_size=4096 markov.js",
     "markov-debug": "node --debug-brk markov.js",
     "ts-markov": "./node_modules/.bin/tsc",
     "ts-markov-watch": "./node_modules/.bin/tsc -w"
