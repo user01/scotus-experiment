@@ -12,7 +12,6 @@ const tweetRoot = path.join(__dirname, 'tweets');
 
 const filterToJsonFiles = (list) => {
   const match = /.*\.json$/;
-  // const match = /justice_kagan\.json$/;
   const filtered = R.filter((item) => {
     return match.test(item);
   }, list);
@@ -25,16 +24,13 @@ const readJson = (filename) => {
 };
 const isJustice = /^Justice\s+/;
 const transformJsonTweetIntoZeroedDoc = (json) => {
-  // console.log(json);
-  const newDoc = {
+  return {
     name: json.data.name,
     filename: json.filename,
     currentTweet: 0,
     totalTweets: json.data.validTweets.length,
     isJustice: isJustice.test(json.data.name)
   };
-  // console.log(newDoc);
-  return Promise.resolve(newDoc);
 };
 
 //*********************************************************
@@ -83,10 +79,7 @@ const handleMissingName = (filename) => {
   return readJson(filename)
     .then(transformJsonTweetIntoZeroedDoc);
 }
-// const pickTweetFromTweeter = (count,)=>{}
 const pickNextTweet = (state) => {
-  // debugger;
-  // console.log('pick next tweet', state);
   const justiceSpeaking = state.count % 2 == 0;
   const validTweeters = R.pipe(R.filter(
     R.pipe(
@@ -140,25 +133,17 @@ const getPickedTweet = (payload) => {
     })
 }
 
-// {
-//   count: 0,
-//   tweeters: [{name,filename,currentTweet,totalTweets,isJustice}]
-// }
 
 const generateMissingFiles = (state, fsFiles) => {
-  console.log('fs seen files', fsFiles.length)
   const dbKnownFilesnames = R.map(R.prop('filename'), state.tweeters);
-  console.log('Known ', dbKnownFilesnames.length);
   const missingFiles = R.filter(R.pipe(
     R.flip(R.contains)(dbKnownFilesnames),
     R.not
   ))(fsFiles);
-  console.log('Missing:', missingFiles.length);
   return missingFiles;
 };
 
 const ensureStateMatchesFiles = (state) => {
-
   return fs.readdirAsync(tweetRoot)
     .then(filterToJsonFiles)
     .then(R.curry(generateMissingFiles)(state))
@@ -172,7 +157,11 @@ const ensureStateMatchesFiles = (state) => {
     });
 };
 
-
+const joinTweetingAndStateWriting = (payload) => {
+  const tweetingPromise = Promise.resolve(payload.tweet);
+  const writingStatePromise = setDocInDb(payload.newState);
+  return Promise.join(tweetingPromise, writingStatePromise);
+}
 
 
 
@@ -181,12 +170,7 @@ findOnInDb({ count: { $exists: true } })
   .then(ensureStateMatchesFiles)
   .then(pickNextTweet)
   .then(getPickedTweet)
-  .then((dat) => {
-    // console.log(dat);
-    const tweetingPromise = Promise.resolve(dat.tweet);
-    const writingStatePromise = setDocInDb(dat.newState);
-    return Promise.join(tweetingPromise, writingStatePromise);
-  })
+  .then(joinTweetingAndStateWriting)
   .then((res) => {
     //all done with tweet pass
     console.log('All done!', res[0]);
