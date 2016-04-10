@@ -13,11 +13,9 @@ const tweetRoot = path.join(__dirname, 'tweets');
 const filterToJsonFiles = (list) => {
   const match = /.*\.json$/;
   // const match = /justice_kagan\.json$/;
-  // console.log(list);
   const filtered = R.filter((item) => {
     return match.test(item);
   }, list);
-  // console.log(filtered);
   return Promise.resolve(filtered);
 };
 const readJson = (filename) => {
@@ -39,6 +37,8 @@ const transformJsonTweetIntoZeroedDoc = (json) => {
   return Promise.resolve(newDoc);
 };
 
+//*********************************************************
+// DB Tools
 // Simple tool that blindly writes to the db
 const setDocInDb = (doc) => {
   return new Promise((resolve, reject) => {
@@ -61,6 +61,24 @@ const setDocInDb = (doc) => {
     }
   });
 };
+const findOnInDb = (query) => {
+  return new Promise((resolve, reject) => {
+    db.findOne(query).exec((err, result) => {
+      if (err) {
+        reject(err);
+      } else {
+        resolve(result);
+      }
+    });
+  });
+}
+
+const handleEmptyState = (pulledState) => {
+  return pulledState ? pulledState : { count: 0, tweeters: [] };
+}
+
+
+
 const handleMissingName = (filename) => {
   return readJson(filename)
     .then(transformJsonTweetIntoZeroedDoc);
@@ -127,45 +145,49 @@ const getPickedTweet = (payload) => {
 //   tweeters: [{name,filename,currentTweet,totalTweets,isJustice}]
 // }
 
+const generateMissingFiles = (state, fsFiles) => {
+  console.log('fs seen files', fsFiles.length)
+  const dbKnownFilesnames = R.map(R.prop('filename'), state.tweeters);
+  console.log('Known ', dbKnownFilesnames.length);
+  const missingFiles = R.filter(R.pipe(
+    R.flip(R.contains)(dbKnownFilesnames),
+    R.not
+  ))(fsFiles);
+  console.log('Missing:', missingFiles.length);
+  return missingFiles;
+};
 
+const ensureStateMatchesFiles = (state) => {
 
-db.find({ count: { $exists: true } }).exec((err, states) => {
-  debugger;
-  const state = states.length > 0 ? R.head(states) : { count: 0, tweeters: [] };
-  // console.log(state);
-
-  fs.readdirAsync(tweetRoot)
+  return fs.readdirAsync(tweetRoot)
     .then(filterToJsonFiles)
-    .then((fsFiles) => {
-      console.log('fs seen files', fsFiles.length)
-      const dbKnownFilesnames = R.map(R.prop('filename'), state.tweeters);
-      console.log('Known ', dbKnownFilesnames.length);
-      const missingFiles = R.filter(R.pipe(
-        R.flip(R.contains)(dbKnownFilesnames),
-        R.not
-      ))(fsFiles);
-      console.log('Missing:', missingFiles.length);
-
-      Promise.map(missingFiles, handleMissingName)
-        .then((addedFiles) => {
-          // console.log("All done with ", addedFiles);
-          const tweeters = R.concat(addedFiles, state.tweeters);
-          // console.log('Tweeters', tweeters);
-          const newState = R.merge(state, { tweeters });
-          return newState;
-        })
-        .then(pickNextTweet)
-        .then(getPickedTweet)
-        .then((dat) => {
-          // console.log(dat);
-          const tweetingPromise = Promise.resolve(dat.tweet);
-          const writingStatePromise = setDocInDb(dat.newState);
-          return Promise.join(tweetingPromise, writingStatePromise);
-        })
-        .then((res) => {
-          //all done with tweet pass
-          console.log('All done!', res[0]);
-        });
+    .then(R.curry(generateMissingFiles)(state))
+    .map(handleMissingName)
+    .then((addedFiles) => {
+      // console.log("All done with ", addedFiles);
+      const tweeters = R.concat(addedFiles, state.tweeters);
+      // console.log('Tweeters', tweeters);
+      const newState = R.merge(state, { tweeters });
+      return newState;
     });
+};
 
-});
+
+
+
+
+findOnInDb({ count: { $exists: true } })
+  .then(handleEmptyState)
+  .then(ensureStateMatchesFiles)
+  .then(pickNextTweet)
+  .then(getPickedTweet)
+  .then((dat) => {
+    // console.log(dat);
+    const tweetingPromise = Promise.resolve(dat.tweet);
+    const writingStatePromise = setDocInDb(dat.newState);
+    return Promise.join(tweetingPromise, writingStatePromise);
+  })
+  .then((res) => {
+    //all done with tweet pass
+    console.log('All done!', res[0]);
+  });
