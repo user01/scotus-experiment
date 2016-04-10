@@ -1,3 +1,4 @@
 data/bad.*.json
 *.map
 *.db
+markov*.js

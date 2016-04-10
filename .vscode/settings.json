@@ -5,7 +5,9 @@
     "**/.git": true,
     "**/.DS_Store": true,
     "**/data":true,
-    ".vscode":true
+    ".vscode":true,
+    "**.js.map":true,
+    "markov*.js":true
   },
   // The default end of line character.
   "files.eol": "\n",
