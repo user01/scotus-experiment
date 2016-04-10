@@ -11,8 +11,8 @@ const NO_TWEETS_REMAIN = "NO_TWEETS_REMAIN";
 const tweetRoot = path.join(__dirname, 'tweets');
 
 const filterToJsonFiles = (list) => {
-  // const match = /.*\.json$/;
-  const match = /justice_kagan\.json$/;
+  const match = /.*\.json$/;
+  // const match = /justice_kagan\.json$/;
   // console.log(list);
   const filtered = R.filter((item) => {
     return match.test(item);
@@ -35,28 +35,40 @@ const transformJsonTweetIntoZeroedDoc = (json) => {
     totalTweets: json.data.validTweets.length,
     isJustice: isJustice.test(json.data.name)
   };
-  console.log(newDoc);
+  // console.log(newDoc);
   return Promise.resolve(newDoc);
 };
 
-const writeDocToDb = (doc) => {
-  console.log('new doc', doc);
+// Simple tool that blindly writes to the db
+const setDocInDb = (doc) => {
   return new Promise((resolve, reject) => {
-    db.insert(doc, (err, newDoc) => {
-      if (err) {
-        reject(err);
-      } else {
-        resolve(newDoc);
-      }
-    });
+    if (R.has('_id', doc)) {
+      db.update({ _id: doc._id }, doc, {}, (err, numChanged) => {
+        if (err || numChanged != 1) {
+          reject(err);
+        } else {
+          resolve(doc);
+        }
+      });
+    } else {
+      db.insert(doc, (err, newDoc) => {
+        if (err) {
+          reject(err);
+        } else {
+          resolve(newDoc);
+        }
+      });
+    }
   });
 };
 const handleMissingName = (filename) => {
   return readJson(filename)
     .then(transformJsonTweetIntoZeroedDoc);
 }
+// const pickTweetFromTweeter = (count,)=>{}
 const pickNextTweet = (state) => {
-  const chance = new Chance(state.count);
+  // debugger;
+  // console.log('pick next tweet', state);
   const justiceSpeaking = state.count % 2 == 0;
   const validTweeters = R.pipe(R.filter(
     R.pipe(
@@ -67,19 +79,47 @@ const pickNextTweet = (state) => {
       return item.currentTweet < item.totalTweets
     })
   )(state.tweeters);
-  if (validTweeters < 1) {
+  if (validTweeters.length < 1) {
     throw NO_TWEETS_REMAIN;
   }
 
-  const pickedIndex = chance.natural({ min: 0, max: validTweeters.length });
+  const chance = new Chance(state.count);
+  const pickedIndex = chance.natural({ min: 0, max: validTweeters.length - 1 });
+  // console.log('pickedIndex', pickedIndex);
   const filename = validTweeters[pickedIndex].filename;
-  const tweetIndex = validTweeters[pickedIndex].currentTweet + 1;
+  const tweetIndex = validTweeters[pickedIndex].currentTweet;
+
+  const oldTweeters = R.addIndex(R.filter)((item, idx) => idx != pickedIndex)(state.tweeters);
+  const newTweeter = R.pipe(
+    R.nth(pickedIndex),
+    R.mapObjIndexed((val, key, obj) => {
+      return (key == 'currentTweet') ? val + 1 : val;
+    })
+  )(state.tweeters);
+
+  const newState = R.merge(state, {
+    count: state.count + 1,
+    tweeters: R.concat(oldTweeters, [newTweeter])
+  });
 
   return {
     filename,
     tweetIndex,
-    newState //undefined!!!!
-  }
+    newState
+  };
+};
+const grabTweet = (index, filejson) => {
+  return `${filejson.data.name}: ${R.nth(index, filejson.data.validTweets)}`;
+}
+const getPickedTweet = (payload) => {
+  return readJson(payload.filename)
+    .then(R.curry(grabTweet)(payload.tweetIndex))
+    .then((tweet) => {
+      return {
+        tweet,
+        newState: payload.newState,
+      };
+    })
 }
 
 // {
@@ -87,9 +127,12 @@ const pickNextTweet = (state) => {
 //   tweeters: [{name,filename,currentTweet,totalTweets,isJustice}]
 // }
 
+
+
 db.find({ count: { $exists: true } }).exec((err, states) => {
-  const state = states.length > 0 ? states[0] : { count: 0, tweeters: [] };
-  console.log(state);
+  debugger;
+  const state = states.length > 0 ? R.head(states) : { count: 0, tweeters: [] };
+  // console.log(state);
 
   fs.readdirAsync(tweetRoot)
     .then(filterToJsonFiles)
@@ -105,18 +148,24 @@ db.find({ count: { $exists: true } }).exec((err, states) => {
 
       Promise.map(missingFiles, handleMissingName)
         .then((addedFiles) => {
-          console.log("All done with ", addedFiles);
+          // console.log("All done with ", addedFiles);
           const tweeters = R.concat(addedFiles, state.tweeters);
-          console.log(tweeters);
-          const newState = {
-            count: state.count,
-            tweeters
-          };
+          // console.log('Tweeters', tweeters);
+          const newState = R.merge(state, { tweeters });
           return newState;
-
-          // db.find({ index: { $exists: true } }).exec((err, dbKnownFiles) => {
         })
-        .then()
+        .then(pickNextTweet)
+        .then(getPickedTweet)
+        .then((dat) => {
+          // console.log(dat);
+          const tweetingPromise = Promise.resolve(dat.tweet);
+          const writingStatePromise = setDocInDb(dat.newState);
+          return Promise.join(tweetingPromise, writingStatePromise);
+        })
+        .then((res) => {
+          //all done with tweet pass
+          console.log('All done!', res[0]);
+        });
     });
 
 });
