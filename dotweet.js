@@ -36,7 +36,7 @@ const transformJsonTweetIntoZeroedDoc = (json) => {
   };
 };
 
-//*********************************************************
+// *********************************************************
 // DB Tools
 // Simple tool that blindly writes to the db
 const setDocInDb = (doc) => {
@@ -72,16 +72,16 @@ const findOnInDb = (query) => {
   });
 }
 
+// *********************************************************
+// Cleanup items
 const handleEmptyState = (pulledState) => {
   return pulledState ? pulledState : { count: 0, tweeters: [] };
 }
-
-
-
 const handleMissingName = (filename) => {
   return readJson(filename)
     .then(transformJsonTweetIntoZeroedDoc);
 }
+
 const pickNextTweetIndex = (state) => {
   const justiceSpeaking = state.count % 2 == 0;
   const validTweeters = R.pipe(R.filter(
@@ -180,17 +180,8 @@ const doTweet = () => {
     .then(pickNextTweetIndex)
     .then(getPickedTweet)
     .then(joinTweetingAndStateWriting)
-  // .then((res) => {
-  //   //all done with tweet pass
-  //   // if (res[1].count % 100 == 0)
-  //   //   console.log(res[1].count, res[0]);
-  //   // doTweet();
-  // })
 }
 
-// doTweet();
-
-// const currentTime = Moment("2016-04-10T22:30:30.015Z");
 const cleanMoment = (targetMoment) => {
   return MomentTz(targetMoment, "America/New_York").set({ 'second': 0, 'millisecond': 0 });
 }
@@ -254,41 +245,10 @@ const go = (moment) => {
 }
 
 
-// const test = (m) => {
-//   const mm = Moment(m);
-//   console.log(`For ${mm.format("dddd, MMMM Do YYYY, h:mm:ss a")} ${shouldDoTweet(mm) ? 'will' : "won't"} do tweet ${shouldBeClerkOpeningTweet(mm) ? "And Is Clerk Opener" : ""} ${shouldBeClerkClosingTweet(mm) ? "And Is Clerk Closer" : ""}`);
-//   // go(mm).then((res) => console.log(`result ${res}`));
-// }
-// Promise.resolve(false).then(res => console.warn(res));
-// test("2016-04-12T13:50:30.015Z");
-// test("2016-04-12T14:00:30.015Z");
-// test("2016-04-12T14:10:30.015Z");
-// test("2016-04-12T14:20:30.015Z");
-// test("2016-04-12T14:30:30.015Z");
-// test("2016-04-12T14:40:30.015Z");
-// test("2016-04-12T14:50:30.015Z");
-// test("2016-04-12T15:00:30.015Z");
-// test("2016-04-12T15:10:30.015Z");
-// test("2016-04-12T15:20:30.015Z");
-// test("2016-04-12T15:30:30.015Z");
-// test("2016-04-12T15:40:30.015Z");
-// test("2016-04-12T15:50:30.015Z");
-// test("2016-04-12T16:00:30.015Z");
-// test("2016-04-12T16:10:30.015Z");
-// test("2016-04-12T16:20:30.015Z");
-
-
-// test("2016-04-10T22:30:30.015Z");
-// test("2016-04-12T22:30:30.015Z");
-// test("2016-04-12T10:30:30.015Z");
-// test("2016-04-14T22:30:30.015Z");
-// test("2016-04-16T22:30:30.015Z");
-// test("2016-04-18T22:30:30.015Z");
-
 const currentTime = Moment();
 go(currentTime)
   .then(() => console.log(`Completed run ${currentTime.format("dddd, MMMM Do YYYY, h:mm:ss a")}`))
   .catch((err) => {
     console.warn(`ERROR at ${currentTime.format("dddd, MMMM Do YYYY, h:mm:ss a")}`);
     console.warn(err);
-  })
+  });
