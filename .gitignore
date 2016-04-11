@@ -2,3 +2,4 @@ data/bad.*.json
 *.map
 *.db
 markov*.js
+twitter.credentials.js
