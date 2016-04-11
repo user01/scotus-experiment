@@ -5,9 +5,14 @@ const R = require('ramda');
 const Chance = require('chance');
 const Moment = require('moment');
 const MomentTz = require('moment-timezone');
+const Twitter = require('twitter');
 
 const fs = Promise.promisifyAll(require("fs"), { suffix: "Async" });
 const db = new Datastore({ filename: path.join(__dirname, 'tweets.db'), autoload: true });
+const twitterCreds = require('./twitter.credentials.js');
+
+
+const twitterClient = new Twitter(twitterCreds);
 
 const NO_TWEETS_REMAIN = "NO_TWEETS_REMAIN";
 const tweetRoot = path.join(__dirname, 'tweets');
@@ -137,8 +142,22 @@ const getPickedTweet = (payload) => {
 }
 
 const tweet = (content) => {
-  console.log('Trying to tweet: ', content);
-  return Promise.resolve(content);
+  return new Promise((resolve, reject) => {
+    twitterClient.post('statuses/update',
+      {
+        status: content,
+        lat: 38.890656,
+        long: -77.004440,
+
+      },
+      (error, tweet, response) => {
+        if (error) {
+          reject(error);
+        } else {
+          resolve(tweet);
+        }
+      });
+  });
 }
 
 
